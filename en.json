@@ -248,7 +248,6 @@
     "catchable-nfts": "Catchable NFTs: {catchableNfts}"
   },
   "battle": {
-    "title": "Battle",
-    "test": "test"
+    "title": "Battle"
   }
 }
