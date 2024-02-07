@@ -113,7 +113,8 @@
     "collab": "콜라보",
     "evo2": "Evo 2",
     "evo1": "Evo 1",
-    "base": "기본"
+    "base": "기본",
+    "omni": "옴니"
   },
   "store": {
     "title": "스토어",
@@ -249,5 +250,8 @@
   },
   "battle": {
     "title": "배틀"
+  },
+  "test": {
+    "test": ""
   }
 }

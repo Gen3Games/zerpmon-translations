@@ -113,7 +113,8 @@
     "collab": "Colaboración",
     "evo2": "Evo 2",
     "evo1": "Evo 1",
-    "base": "Base"
+    "base": "Base",
+    "omni": "Omni"
   },
   "store": {
     "title": "Tienda",
@@ -249,5 +250,8 @@
   },
   "battle": {
     "title": "Batalla"
+  },
+  "test": {
+    "test": ""
   }
 }
