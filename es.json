@@ -117,7 +117,9 @@
     "omni": "Omni",
     "all-categories": "Todas las Categorías",
     "all-types": "Todos los Tipos",
-    "all-rarities": "Todas las Rarezas"
+    "all-rarities": "Todas las Rarezas",
+    "add-battle-deck": "Añadir Mazo de Batalla",
+    "add-gym-deck": "Añadir Mazo de Gimnasio"
   },
   "store": {
     "title": "Tienda",

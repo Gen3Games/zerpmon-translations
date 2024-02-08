@@ -117,7 +117,9 @@
     "omni": "オムニ",
     "all-categories": "全カテゴリ",
     "all-types": "全タイプ",
-    "all-rarities": "全レアリティ"
+    "all-rarities": "全レアリティ",
+    "add-battle-deck": "バトルデッキを追加",
+    "add-gym-deck": "ジムデッキを追加"
   },
   "store": {
     "title": "ストア",

@@ -117,7 +117,9 @@
     "omni": "Omni",
     "all-categories": "Alle Kategorien",
     "all-types": "Alle Typen",
-    "all-rarities": "Alle Raritäten"
+    "all-rarities": "Alle Raritäten",
+    "add-battle-deck": "Kampfdeck hinzufügen",
+    "add-gym-deck": "Fitnessdeck hinzufügen"
   },
   "store": {
     "title": "Store",

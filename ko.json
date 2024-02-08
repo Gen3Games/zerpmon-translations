@@ -117,7 +117,9 @@
     "omni": "옴니",
     "all-categories": "모든 카테고리",
     "all-types": "모든 유형",
-    "all-rarities": "모든 희귀도"
+    "all-rarities": "모든 희귀도",
+    "add-battle-deck": "배틀 덱 추가",
+    "add-gym-deck": "짐 덱 추가"
   },
   "store": {
     "title": "스토어",

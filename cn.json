@@ -117,7 +117,9 @@
     "omni": "全能",
     "all-categories": "所有类别",
     "all-types": "所有类型",
-    "all-rarities": "所有稀有度"
+    "all-rarities": "所有稀有度",
+    "add-battle-deck": "添加战斗套牌",
+    "add-gym-deck": "添加健身房套牌"
   },
   "store": {
     "title": "商店",
