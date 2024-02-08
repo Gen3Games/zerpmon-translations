@@ -114,7 +114,10 @@
     "evo2": "进化2",
     "evo1": "进化1",
     "base": "基础",
-    "omni": "全能"
+    "omni": "全能",
+    "all-categories": "所有类别",
+    "all-types": "所有类型",
+    "all-rarities": "所有稀有度"
   },
   "store": {
     "title": "商店",
@@ -204,7 +207,8 @@
     "loan-zrp-burnt-count": "贷款ZRP已销毁",
     "jackpot-count": "在累积奖中赢得的ZRP",
     "zrp-price": "ZRP价格",
-    "floor-price": "Zerpmon底价"
+    "floor-price": "Zerpmon底价",
+    "zrp-balance": ""
   },
   "inventory": {
     "title": "库存",

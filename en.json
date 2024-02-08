@@ -114,7 +114,10 @@
     "evo2": "Evo 2",
     "evo1": "Evo 1",
     "base": "Base",
-    "omni": "Omni"
+    "omni": "Omni",
+    "all-categories": "All Categories",
+    "all-types": "All Types",
+    "all-rarities": "All Rarities"
   },
   "store": {
     "title": "Store",
@@ -204,7 +207,8 @@
     "loan-zrp-burnt-count": "Loan ZRP Burned",
     "jackpot-count": "ZRP Won in Jackpot",
     "zrp-price": "ZRP Price",
-    "floor-price": "Zerpmon Floor Price"
+    "floor-price": "Zerpmon Floor Price",
+    "zrp-balance": ""
   },
   "inventory": {
     "title": "Inventory",

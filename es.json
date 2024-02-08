@@ -114,7 +114,10 @@
     "evo2": "Evo 2",
     "evo1": "Evo 1",
     "base": "Base",
-    "omni": "Omni"
+    "omni": "Omni",
+    "all-categories": "Todas las Categorías",
+    "all-types": "Todos los Tipos",
+    "all-rarities": "Todas las Rarezas"
   },
   "store": {
     "title": "Tienda",
@@ -204,7 +207,8 @@
     "loan-zrp-burnt-count": "ZRP de Préstamo Quemados",
     "jackpot-count": "ZRP Ganados en el Jackpot",
     "zrp-price": "Precio de ZRP",
-    "floor-price": "Precio Mínimo de Zerpmon"
+    "floor-price": "Precio Mínimo de Zerpmon",
+    "zrp-balance": ""
   },
   "inventory": {
     "title": "Inventario",

@@ -114,7 +114,10 @@
     "evo2": "Evo 2",
     "evo1": "Evo 1",
     "base": "Basis",
-    "omni": "Omni"
+    "omni": "Omni",
+    "all-categories": "Alle Kategorien",
+    "all-types": "Alle Typen",
+    "all-rarities": "Alle Raritäten"
   },
   "store": {
     "title": "Store",
@@ -204,7 +207,8 @@
     "loan-zrp-burnt-count": "Verbrannte ZRP aus Darlehen",
     "jackpot-count": "Im Jackpot gewonnene ZRP",
     "zrp-price": "ZRP-Preis",
-    "floor-price": "Bodenpreis von Zerpmon"
+    "floor-price": "Bodenpreis von Zerpmon",
+    "zrp-balance": ""
   },
   "inventory": {
     "title": "Inventar",

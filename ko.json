@@ -114,7 +114,10 @@
     "evo2": "Evo 2",
     "evo1": "Evo 1",
     "base": "기본",
-    "omni": "옴니"
+    "omni": "옴니",
+    "all-categories": "모든 카테고리",
+    "all-types": "모든 유형",
+    "all-rarities": "모든 희귀도"
   },
   "store": {
     "title": "스토어",
@@ -204,7 +207,8 @@
     "loan-zrp-burnt-count": "대출된 ZRP 소각 수",
     "jackpot-count": "잭팟 금액",
     "zrp-price": "ZRP 가격",
-    "floor-price": "Zerpmon 최저 가격"
+    "floor-price": "Zerpmon 최저 가격",
+    "distro-zrp-balance": ""
   },
   "inventory": {
     "title": "인벤토리",

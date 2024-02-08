@@ -114,7 +114,10 @@
     "evo2": "エボ2",
     "evo1": "エボ1",
     "base": "ベース",
-    "omni": "オムニ"
+    "omni": "オムニ",
+    "all-categories": "全カテゴリ",
+    "all-types": "全タイプ",
+    "all-rarities": "全レアリティ"
   },
   "store": {
     "title": "ストア",
@@ -204,7 +207,8 @@
     "loan-zrp-burnt-count": "ローンZRPのバーン数",
     "jackpot-count": "ジャックポット額",
     "zrp-price": "ZRP価格",
-    "floor-price": "Zerpmon最低価格"
+    "floor-price": "Zerpmon最低価格",
+    "distro-zrp-balance": ""
   },
   "inventory": {
     "title": "インベントリ",
