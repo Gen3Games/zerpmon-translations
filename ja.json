@@ -119,7 +119,11 @@
     "all-types": "全タイプ",
     "all-rarities": "全レアリティ",
     "add-battle-deck": "バトルデッキを追加",
-    "add-gym-deck": "ジムデッキを追加"
+    "add-gym-deck": "ジムデッキを追加",
+    "not-signed-in": "デッキを編集するにはサインインしてください",
+    "max-battle-decks": "バトルデッキの最大数",
+    "max-gym-decks": "ジムデッキの最大数",
+    "new-deck-added": "新しいデッキが追加されました"
   },
   "store": {
     "title": "ストア",

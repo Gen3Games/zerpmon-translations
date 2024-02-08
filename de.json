@@ -119,7 +119,11 @@
     "all-types": "Alle Typen",
     "all-rarities": "Alle Raritäten",
     "add-battle-deck": "Kampfdeck hinzufügen",
-    "add-gym-deck": "Fitnessdeck hinzufügen"
+    "add-gym-deck": "Fitnessdeck hinzufügen",
+    "not-signed-in": "Du musst angemeldet sein, um Decks zu erstellen",
+    "max-battle-decks": "Du hast die maximale Anzahl von Kampfdecks erreicht",
+    "max-gym-decks": "Du hast die maximale Anzahl von Fitnessdecks erreicht",
+    "new-deck-added": "Neues Deck hinzugefügt"
   },
   "store": {
     "title": "Store",

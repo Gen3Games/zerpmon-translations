@@ -119,7 +119,11 @@
     "all-types": "所有类型",
     "all-rarities": "所有稀有度",
     "add-battle-deck": "添加战斗套牌",
-    "add-gym-deck": "添加健身房套牌"
+    "add-gym-deck": "添加健身房套牌",
+    "not-signed-in": "你尚未登录。请登录后再试。",
+    "max-battle-decks": "你已达到最大战斗套牌数量。",
+    "max-gym-decks": "你已达到最大健身房套牌数量。",
+    "new-deck-added": "新套牌已添加。"
   },
   "store": {
     "title": "商店",

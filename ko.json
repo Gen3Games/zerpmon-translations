@@ -119,7 +119,11 @@
     "all-types": "모든 유형",
     "all-rarities": "모든 희귀도",
     "add-battle-deck": "배틀 덱 추가",
-    "add-gym-deck": "짐 덱 추가"
+    "add-gym-deck": "짐 덱 추가",
+    "not-signed-in": "로그인하지 않았습니다. 덱을 편집하려면 로그인하세요.",
+    "max-battle-decks": "최대 배틀 덱 수",
+    "max-gym-decks": "최대 짐 덱 수",
+    "new-deck-added": "새로운 덱이 성공적으로 추가되었습니다"
   },
   "store": {
     "title": "스토어",

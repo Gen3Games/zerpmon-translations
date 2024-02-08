@@ -119,7 +119,11 @@
     "all-types": "Todos los Tipos",
     "all-rarities": "Todas las Rarezas",
     "add-battle-deck": "Añadir Mazo de Batalla",
-    "add-gym-deck": "Añadir Mazo de Gimnasio"
+    "add-gym-deck": "Añadir Mazo de Gimnasio",
+    "not-signed-in": "Por favor, inicia sesión para ver tus mazos",
+    "max-battle-decks": "Has alcanzado el límite de mazos de batalla",
+    "max-gym-decks": "Has alcanzado el límite de mazos de gimnasio",
+    "new-deck-added": "Nuevo mazo añadido con éxito"
   },
   "store": {
     "title": "Tienda",

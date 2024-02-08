@@ -119,7 +119,11 @@
     "all-types": "All Types",
     "all-rarities": "All Rarities",
     "add-battle-deck": "Add Battle Deck",
-    "add-gym-deck": "Add Gym Deck"
+    "add-gym-deck": "Add Gym Deck",
+    "not-signed-in": "You are not signed in",
+    "max-battle-decks": "You already have the maximum number of battle decks",
+    "max-gym-decks": "You already have the maximum number of gym decks",
+    "new-deck-added": "New deck added!"
   },
   "store": {
     "title": "Store",
