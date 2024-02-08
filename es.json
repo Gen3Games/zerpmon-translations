@@ -123,7 +123,21 @@
     "not-signed-in": "Por favor, inicia sesión para ver tus mazos",
     "max-battle-decks": "Has alcanzado el límite de mazos de batalla",
     "max-gym-decks": "Has alcanzado el límite de mazos de gimnasio",
-    "new-deck-added": "Nuevo mazo añadido con éxito"
+    "new-deck-added": "Nuevo mazo añadido con éxito",
+    "no-trainer-cards-found": "",
+    "invalid-deck-number": "",
+    "do-not-own-trainer": "",
+    "no-zerpmon-cards-found": "",
+    "do-not-own-zerpmon": "",
+    "zerpmon-already-in-deck": "",
+    "cannot-swap-zerpmon-itself": "",
+    "no-equipment-cards-found": "",
+    "do-not-own-equipment": "",
+    "no-zerpmon-in-slot": "",
+    "no-zerpmon-found": "",
+    "equipment-not-match-zerpmon": "",
+    "equipment-types-not-match": "",
+    "cannot-swap-equipment-itself": ""
   },
   "store": {
     "title": "Tienda",

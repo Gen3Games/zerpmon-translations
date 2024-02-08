@@ -123,7 +123,21 @@
     "not-signed-in": "You are not signed in",
     "max-battle-decks": "You already have the maximum number of battle decks",
     "max-gym-decks": "You already have the maximum number of gym decks",
-    "new-deck-added": "New deck added!"
+    "new-deck-added": "New deck added!",
+    "no-trainer-cards-found": "No trainer cards found",
+    "invalid-deck-number": "Invalid deck number",
+    "do-not-own-trainer": "You do not own this trainer card",
+    "no-zerpmon-cards-found": "No zerpmon cards found",
+    "do-not-own-zerpmon": "You do not own this zerpmon card",
+    "zerpmon-already-in-deck": "Zerpmon is already in deck",
+    "cannot-swap-zerpmon-itself": "Cannot swap zerpmon with itself",
+    "no-equipment-cards-found": "No equipment cards found",
+    "do-not-own-equipment": "You do not own this equipment card",
+    "no-zerpmon-in-slot": "No zerpmon in slot",
+    "no-zerpmon-found": "No zerpmon in found",
+    "equipment-not-match-zerpmon": "Equipment type does not match zerpmon move type",
+    "equipment-types-not-match": "Equipment types do not match",
+    "cannot-swap-equipment-itself": "Cannot swap equipment with itself"
   },
   "store": {
     "title": "Store",

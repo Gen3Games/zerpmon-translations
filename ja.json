@@ -123,7 +123,21 @@
     "not-signed-in": "デッキを編集するにはサインインしてください",
     "max-battle-decks": "バトルデッキの最大数",
     "max-gym-decks": "ジムデッキの最大数",
-    "new-deck-added": "新しいデッキが追加されました"
+    "new-deck-added": "新しいデッキが追加されました",
+    "no-trainer-cards-found": "",
+    "invalid-deck-number": "",
+    "do-not-own-trainer": "",
+    "no-zerpmon-cards-found": "",
+    "do-not-own-zerpmon": "",
+    "zerpmon-already-in-deck": "",
+    "cannot-swap-zerpmon-itself": "",
+    "no-equipment-cards-found": "",
+    "do-not-own-equipment": "",
+    "no-zerpmon-in-slot": "",
+    "no-zerpmon-found": "",
+    "equipment-not-match-zerpmon": "",
+    "equipment-types-not-match": "",
+    "cannot-swap-equipment-itself": ""
   },
   "store": {
     "title": "ストア",

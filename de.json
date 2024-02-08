@@ -123,7 +123,21 @@
     "not-signed-in": "Du musst angemeldet sein, um Decks zu erstellen",
     "max-battle-decks": "Du hast die maximale Anzahl von Kampfdecks erreicht",
     "max-gym-decks": "Du hast die maximale Anzahl von Fitnessdecks erreicht",
-    "new-deck-added": "Neues Deck hinzugefügt"
+    "new-deck-added": "Neues Deck hinzugefügt",
+    "no-trainer-cards-found": "",
+    "invalid-deck-number": "",
+    "do-not-own-trainer": "",
+    "no-zerpmon-cards-found": "",
+    "do-not-own-zerpmon": "",
+    "zerpmon-already-in-deck": "",
+    "cannot-swap-zerpmon-itself": "",
+    "no-equipment-cards-found": "",
+    "do-not-own-equipment": "",
+    "no-zerpmon-in-slot": "",
+    "no-zerpmon-found": "",
+    "equipment-not-match-zerpmon": "",
+    "equipment-types-not-match": "",
+    "cannot-swap-equipment-itself": ""
   },
   "store": {
     "title": "Store",

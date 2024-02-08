@@ -123,7 +123,21 @@
     "not-signed-in": "로그인하지 않았습니다. 덱을 편집하려면 로그인하세요.",
     "max-battle-decks": "최대 배틀 덱 수",
     "max-gym-decks": "최대 짐 덱 수",
-    "new-deck-added": "새로운 덱이 성공적으로 추가되었습니다"
+    "new-deck-added": "새로운 덱이 성공적으로 추가되었습니다",
+    "no-trainer-cards-found": "",
+    "invalid-deck-number": "",
+    "do-not-own-trainer": "",
+    "no-zerpmon-cards-found": "",
+    "do-not-own-zerpmon": "",
+    "zerpmon-already-in-deck": "",
+    "cannot-swap-zerpmon-itself": "",
+    "no-equipment-cards-found": "",
+    "do-not-own-equipment": "",
+    "no-zerpmon-in-slot": "",
+    "no-zerpmon-found": "",
+    "equipment-not-match-zerpmon": "",
+    "equipment-types-not-match": "",
+    "cannot-swap-equipment-itself": ""
   },
   "store": {
     "title": "스토어",
