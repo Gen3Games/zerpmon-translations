@@ -137,7 +137,9 @@
     "no-zerpmon-found": "无法寻获Zerpmon",
     "equipment-not-match-zerpmon": "装备类型不相配Zerpmon属性",
     "equipment-types-not-match": "装备类型不相配",
-    "cannot-swap-equipment-itself": "没法交换同一个装备"
+    "cannot-swap-equipment-itself": "没法交换同一个装备",
+    "clear-battle-deck": "",
+    "clear-gym-deck": ""
   },
   "store": {
     "title": "商店",

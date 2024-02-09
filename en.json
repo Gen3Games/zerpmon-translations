@@ -137,7 +137,9 @@
     "no-zerpmon-found": "No zerpmon in found",
     "equipment-not-match-zerpmon": "Equipment type does not match zerpmon move type",
     "equipment-types-not-match": "Equipment types do not match",
-    "cannot-swap-equipment-itself": "Cannot swap equipment with itself"
+    "cannot-swap-equipment-itself": "Cannot swap equipment with itself",
+    "clear-battle-deck": "Clear Battle Deck",
+    "clear-gym-deck": "Clear Gym Deck"
   },
   "store": {
     "title": "Store",

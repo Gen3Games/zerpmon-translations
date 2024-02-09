@@ -137,7 +137,9 @@
     "no-zerpmon-found": "",
     "equipment-not-match-zerpmon": "",
     "equipment-types-not-match": "",
-    "cannot-swap-equipment-itself": ""
+    "cannot-swap-equipment-itself": "",
+    "clear-battle-deck": "",
+    "clear-gym-deck": ""
   },
   "store": {
     "title": "ストア",
