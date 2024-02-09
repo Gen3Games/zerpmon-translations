@@ -246,7 +246,9 @@
     "error-mission-potion": "An error occured while using Mission Potion. Please try again later",
     "error-revive-potion": "An error occured while using Revive Potion. Please try again later",
     "error-candy": "An error occured while using the Candy. Please try again later",
-    "confirm-use-candy": "Are you sure you want to use {inventoryItem} on {nft} ?"
+    "confirm-use-candy": "Are you sure you want to use {inventoryItem} on {nft} ?",
+    "used-gym-refill-potion": "You have successfully used Gym Refill Potion",
+    "error-gym-refill-potion": "An error occured while using Gym Refill Potion. Please try again later"
   },
   "safari": {
     "title": "Safari",

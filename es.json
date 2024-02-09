@@ -246,7 +246,9 @@
     "error-mission-potion": "Ocurrió un error al usar la Poción de Misión. Por favor, inténtalo de nuevo más tarde",
     "error-revive-potion": "Ocurrió un error al usar la Poción de Revivir. Por favor, inténtalo de nuevo más tarde",
     "error-candy": "Ocurrió un error al usar el Caramelo. Por favor, inténtalo de nuevo más tarde",
-    "confirm-use-candy": "¿Estás seguro de que quieres usar {inventoryItem} en {nft}?"
+    "confirm-use-candy": "¿Estás seguro de que quieres usar {inventoryItem} en {nft}?",
+    "used-gym-refill-potion": "",
+    "error-gym-refill-potion": ""
   },
   "safari": {
     "title": "Safari",

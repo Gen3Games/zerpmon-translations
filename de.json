@@ -246,7 +246,9 @@
     "error-mission-potion": "Ein Fehler ist beim Verwenden des Missionstranks aufgetreten. Bitte versuche es später noch einmal",
     "error-revive-potion": "Ein Fehler ist beim Verwenden des Belebungstranks aufgetreten. Bitte versuche es später noch einmal",
     "error-candy": "Ein Fehler ist beim Verwenden des Bonbons aufgetreten. Bitte versuche es später noch einmal",
-    "confirm-use-candy": "Bist du sicher, dass du {inventoryItem} auf {nft} verwenden möchtest?"
+    "confirm-use-candy": "Bist du sicher, dass du {inventoryItem} auf {nft} verwenden möchtest?",
+    "used-gym-refill-potion": "",
+    "error-gym-refill-potion": ""
   },
   "safari": {
     "title": "Safari",

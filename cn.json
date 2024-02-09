@@ -246,7 +246,9 @@
     "error-mission-potion": "使用任务药水时发生错误，请稍后再试",
     "error-revive-potion": "使用复活药水时发生错误，请稍后再试",
     "error-candy": "使用糖果时发生错误，请稍后再试",
-    "confirm-use-candy": "你确定要将{inventoryItem}使用于{nft}上吗？"
+    "confirm-use-candy": "你确定要将{inventoryItem}使用于{nft}上吗？",
+    "used-gym-refill-potion": "",
+    "error-gym-refill-potion": ""
   },
   "safari": {
     "title": "Safari探险",

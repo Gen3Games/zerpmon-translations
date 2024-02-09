@@ -246,7 +246,9 @@
     "error-mission-potion": "미션 포션 사용 중 오류가 발생했습니다. 나중에 다시 시도해 주세요",
     "error-revive-potion": "리바이브 포션 사용 중 오류가 발생했습니다. 나중에 다시 시도해 주세요",
     "error-candy": "캔디 사용 중 오류가 발생했습니다. 나중에 다시 시도해 주세요",
-    "confirm-use-candy": "Are you sure you want to use {inventoryItem} on {nft} ?"
+    "confirm-use-candy": "Are you sure you want to use {inventoryItem} on {nft} ?",
+    "used-gym-refill-potion": "",
+    "error-gym-refill-potion": ""
   },
   "safari": {
     "title": "사파리",
