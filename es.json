@@ -14,7 +14,7 @@
     "confirm": "Confirmar",
     "yes": "Sí",
     "no": "No",
-    "rename-deck-popup-title": ""
+    "rename-deck-popup-title": "Renombrar el mazo {deckType} no. {deckNumber}"
   },
   "sidebar": {
     "home": "Inicio",
@@ -125,30 +125,30 @@
     "max-battle-decks": "Has alcanzado el límite de mazos de batalla",
     "max-gym-decks": "Has alcanzado el límite de mazos de gimnasio",
     "new-deck-added": "Nuevo mazo añadido con éxito",
-    "no-trainer-cards-found": "",
-    "invalid-deck-number": "",
-    "do-not-own-trainer": "",
-    "no-zerpmon-cards-found": "",
-    "do-not-own-zerpmon": "",
-    "zerpmon-already-in-deck": "",
-    "cannot-swap-zerpmon-itself": "",
-    "no-equipment-cards-found": "",
-    "do-not-own-equipment": "",
-    "no-zerpmon-in-slot": "",
-    "no-zerpmon-found": "",
-    "equipment-not-match-zerpmon": "",
-    "equipment-types-not-match": "",
-    "cannot-swap-equipment-itself": "",
-    "clear-battle-deck": "",
-    "clear-gym-deck": "",
-    "rename-deck-popup-title": "",
-    "cancel": "",
-    "rename-deck": "",
-    "unnamed-deck": "",
-    "rename-deck-failed": "",
-    "rename-deck-success": "",
-    "no-new-name-error": "",
-    "name-too-long-error": ""
+    "no-trainer-cards-found": "Cartas de entrenador no encontradas",
+    "invalid-deck-number": "Número de mazo inválido",
+    "do-not-own-trainer": "No tienes esta carta entrenador",
+    "no-zerpmon-cards-found": "No se han encontrado cartas zerpmon",
+    "do-not-own-zerpmon": "No tienes esta carta zerpmon",
+    "zerpmon-already-in-deck": "Este Zerpmon está actualmente en tu mazo",
+    "cannot-swap-zerpmon-itself": "No puedes intercambiar el zerpmon consigo mismo",
+    "no-equipment-cards-found": "No se han encontrado cartas de equipamiento",
+    "do-not-own-equipment": "No tienes esta carta de equipamiento",
+    "no-zerpmon-in-slot": "No tienes un zepmon en el hueco",
+    "no-zerpmon-found": "No se ha encontrado el zerpmon",
+    "equipment-not-match-zerpmon": "El tipo de equipamiento no concuerda con el tipo de movimiento del zerpmon",
+    "equipment-types-not-match": "Los tipos de equipamiento no concuerdan",
+    "cannot-swap-equipment-itself": "No puedes intercambiar el equipamiento consigo mismo",
+    "clear-battle-deck": "Limpiar el mazo de batalla",
+    "clear-gym-deck": "Limpiar el mazo de gimnasio",
+    "rename-deck-popup-title": "Renombrar el mazo {deckType} número {deckNumber}",
+    "cancel": "Cancelar",
+    "rename-deck": "Renombrar mazo",
+    "unnamed-deck": "(mazo sin nombre)",
+    "rename-deck-failed": "Renombre de mazo fallido",
+    "rename-deck-success": "Mazo renombrado satisfactoriamente",
+    "no-new-name-error": "No has facilitado un nuevo nombre para tu mazo",
+    "name-too-long-error": "El nombre facilitado es demasiado largo"
   },
   "store": {
     "title": "Tienda",
@@ -258,8 +258,8 @@
     "error-revive-potion": "Ocurrió un error al usar la Poción de Revivir. Por favor, inténtalo de nuevo más tarde",
     "error-candy": "Ocurrió un error al usar el Caramelo. Por favor, inténtalo de nuevo más tarde",
     "confirm-use-candy": "¿Estás seguro de que quieres usar {inventoryItem} en {nft}?",
-    "used-gym-refill-potion": "",
-    "error-gym-refill-potion": ""
+    "used-gym-refill-potion": "Has utilizado Poción de Recarga de Gimnasio satisfactoriamente",
+    "error-gym-refill-potion": "Un error ha ocurrido mientras usabas la Poción de Recarga de Gimnasio. Por favor, inténtalo más tarde"
   },
   "safari": {
     "title": "Safari",
@@ -289,6 +289,6 @@
     "title": "Batalla"
   },
   "test": {
-    "test": ""
+    "test": "esto es un test"
   }
 }
