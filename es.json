@@ -124,20 +124,20 @@
     "max-battle-decks": "Has alcanzado el límite de mazos de batalla",
     "max-gym-decks": "Has alcanzado el límite de mazos de gimnasio",
     "new-deck-added": "Nuevo mazo añadido con éxito",
-    "no-trainer-cards-found": "",
-    "invalid-deck-number": "",
-    "do-not-own-trainer": "",
-    "no-zerpmon-cards-found": "",
-    "do-not-own-zerpmon": "",
-    "zerpmon-already-in-deck": "",
-    "cannot-swap-zerpmon-itself": "",
-    "no-equipment-cards-found": "",
-    "do-not-own-equipment": "",
-    "no-zerpmon-in-slot": "",
-    "no-zerpmon-found": "",
-    "equipment-not-match-zerpmon": "",
-    "equipment-types-not-match": "",
-    "cannot-swap-equipment-itself": ""
+    "no-trainer-cards-found": "Cartas de entrenador no encontradas",
+    "invalid-deck-number": "Número de mazo inválido",
+    "do-not-own-trainer": "No tienes esta carta entrenador",
+    "no-zerpmon-cards-found": "No se han encontrado cartas zerpmon",
+    "do-not-own-zerpmon": "No tienes esta carta zerpmon",
+    "zerpmon-already-in-deck": "Este Zerpmon está actualmente en tu mazo",
+    "cannot-swap-zerpmon-itself": "No puedes intercambiar el zerpmon consigo mismo",
+    "no-equipment-cards-found": "No se han encontrado cartas de equipamiento",
+    "do-not-own-equipment": "No tienes esta carta de equipamiento",
+    "no-zerpmon-in-slot": "No tienes un zepmon en el hueco",
+    "no-zerpmon-found": "No se ha encontrado el zerpmon",
+    "equipment-not-match-zerpmon": "El tipo de equipamiento no concuerda con el tipo de movimiento del zerpmon",
+    "equipment-types-not-match": "Los tipos de equipamiento no concuerdan",
+    "cannot-swap-equipment-itself": "No puedes intercambiar el equipamiento consigo mismo"
   },
   "store": {
     "title": "Tienda",
@@ -276,6 +276,6 @@
     "title": "Batalla"
   },
   "test": {
-    "test": ""
+    "test": "esto es un test"
   }
 }
