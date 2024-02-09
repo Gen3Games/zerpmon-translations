@@ -13,7 +13,8 @@
     "report-a-bug": "举报BUG",
     "confirm": "确认",
     "yes": "是",
-    "no": "否"
+    "no": "否",
+    "rename-deck-popup-title": ""
   },
   "sidebar": {
     "home": "首页",
@@ -139,7 +140,15 @@
     "equipment-types-not-match": "装备类型不相配",
     "cannot-swap-equipment-itself": "没法交换同一个装备",
     "clear-battle-deck": "",
-    "clear-gym-deck": ""
+    "clear-gym-deck": "",
+    "rename-deck-popup-title": "",
+    "cancel": "",
+    "rename-deck": "",
+    "unnamed-deck": "",
+    "rename-deck-failed": "",
+    "rename-deck-success": "",
+    "no-new-name-error": "",
+    "name-too-long-error": ""
   },
   "store": {
     "title": "商店",

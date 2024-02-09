@@ -13,7 +13,8 @@
     "report-a-bug": "Informar de un error",
     "confirm": "Confirmar",
     "yes": "Sí",
-    "no": "No"
+    "no": "No",
+    "rename-deck-popup-title": ""
   },
   "sidebar": {
     "home": "Inicio",
@@ -139,7 +140,15 @@
     "equipment-types-not-match": "",
     "cannot-swap-equipment-itself": "",
     "clear-battle-deck": "",
-    "clear-gym-deck": ""
+    "clear-gym-deck": "",
+    "rename-deck-popup-title": "",
+    "cancel": "",
+    "rename-deck": "",
+    "unnamed-deck": "",
+    "rename-deck-failed": "",
+    "rename-deck-success": "",
+    "no-new-name-error": "",
+    "name-too-long-error": ""
   },
   "store": {
     "title": "Tienda",

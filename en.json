@@ -13,7 +13,8 @@
     "report-a-bug": "Report a Bug",
     "confirm": "Confirm",
     "yes": "Yes",
-    "no": "No"
+    "no": "No",
+    "rename-deck-popup-title": "Rename {deckType} deck no. {deckNumber}"
   },
   "sidebar": {
     "home": "Home",
@@ -139,7 +140,15 @@
     "equipment-types-not-match": "Equipment types do not match",
     "cannot-swap-equipment-itself": "Cannot swap equipment with itself",
     "clear-battle-deck": "Clear Battle Deck",
-    "clear-gym-deck": "Clear Gym Deck"
+    "clear-gym-deck": "Clear Gym Deck",
+    "rename-deck-popup-title": "Rename {deckType} deck number {deckNumber}",
+    "cancel": "Cancel",
+    "rename-deck": "Rename Deck",
+    "unnamed-deck": "(unnamed deck)",
+    "rename-deck-failed": "Rename deck failed",
+    "rename-deck-success": "Deck renamed successfully",
+    "no-new-name-error": "You did not provide a new name for your deck",
+    "name-too-long-error": "The deck name you provided is too long"
   },
   "store": {
     "title": "Store",
