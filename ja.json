@@ -47,7 +47,10 @@
     "open-in-xumm-mobile-app": "Xummモバイルアプリで開く",
     "wallets-coming-soon": "Crossmark、Metamask、GemWalletのウォレットサポートが近日中に提供予定",
     "metamask": "Metamask",
-    "gemwallet": "GemWallet"
+    "gemwallet": "GemWallet",
+    "google": "",
+    "discord": "",
+    "social-logins-kaiju": ""
   },
   "user-profile": {
     "trainers": "トレーナー",

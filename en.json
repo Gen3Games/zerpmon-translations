@@ -47,7 +47,10 @@
     "open-in-xumm-mobile-app": "Open in Xumm Mobile App",
     "wallets-coming-soon": "Crossmark, Metamask and GemWallet wallet support coming soon",
     "metamask": "Metamask",
-    "gemwallet": "GemWallet"
+    "gemwallet": "GemWallet",
+    "google": "Login with Google",
+    "discord": "Login with Discord",
+    "social-logins-kaiju": "Social Logins with Kaiju Wallet"
   },
   "user-profile": {
     "trainers": "Trainers",
