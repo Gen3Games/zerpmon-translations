@@ -48,9 +48,9 @@
     "wallets-coming-soon": "Soporte para las carteras Crossmark, Metamask y GemWallet próximamente",
     "metamask": "Metamask",
     "gemwallet": "GemWallet",
-    "google": "",
-    "discord": "",
-    "social-logins-kaiju": ""
+    "google": "Iniciar con Google",
+    "discord": "Iniciar con Discord",
+    "social-logins-kaiju": "Inicio con Kaiju Wallet"
   },
   "user-profile": {
     "trainers": "Entrenadores",
@@ -199,7 +199,7 @@
     "dropdown-pvp": "PVP de Todos los Tiempos",
     "dropdown-ranked-battle": "Batalla Clasificatoria",
     "search": "Buscar",
-    "dropdown-tower-rush": ""
+    "dropdown-tower-rush": "Fiebre de la torre"
   },
   "leaderboard-table": {
     "player": "Jugador",
@@ -226,10 +226,10 @@
     "current-deck": "Mazo Actual",
     "trainer-not-set": "Entrenador no establecido",
     "zerpmon-not-set": "Zerpmon #{index} no establecido",
-    "tower-points": "",
-    "total-zrp-earned": "",
-    "tower-points-short": "",
-    "total-zrp-earned-short": ""
+    "tower-points": "Puntos Torre",
+    "total-zrp-earned": "Total ZRP",
+    "tower-points-short": "PT",
+    "total-zrp-earned-short": "ZRP"
   },
   "analytics": {
     "analytics": "Análisis",
@@ -300,12 +300,12 @@
     "test": "esto es un test"
   },
   "link-discord-crossmark": {
-    "title": "",
-    "redirected-text": "",
-    "non-crossmark-wallet": "",
-    "signin-with-crossmark": "",
-    "invalid-signature-error": "",
-    "verify-button-label": "",
-    "signin-request-missing": ""
+    "title": "Enlaza Crossmark con Discord",
+    "redirected-text": "Has sido redirigido aquí desde Discord para verificar y enlazar tu dirección Crossmark",
+    "non-crossmark-wallet": "Ya te has identificado con una dirección de cartera no Crossmark. Por favor, identifícate con una cartera Crossmark primero.",
+    "signin-with-crossmark": "Por favor, identifícate con tu cartera Crossmark",
+    "invalid-signature-error": "Has enviado una firma inválida, por favor, asegúrate de firmar con tu cartera Crossmark",
+    "verify-button-label": "Verifica tu dirección Crossmark",
+    "signin-request-missing": "El enlace de la petición no existe o ha caducado"
   }
 }
