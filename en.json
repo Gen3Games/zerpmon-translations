@@ -45,7 +45,7 @@
     "xumm-sign-in-failed": "Could not sign in with Xumm wallet. Please check Xumm app.",
     "xumm-sign-in-success": "You have successfully signed in with Xumm",
     "open-in-xumm-mobile-app": "Open in Xumm Mobile App",
-    "wallets-coming-soon": "Crossmark, Metamask and GemWallet wallet support coming soon",
+    "wallets-coming-soon": "Metamask, GemWallet and Social Logins support coming soon",
     "metamask": "Metamask",
     "gemwallet": "GemWallet",
     "google": "Login with Google",
