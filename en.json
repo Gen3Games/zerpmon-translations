@@ -297,6 +297,10 @@
   "link-discord-crossmark": {
     "title": "Link Crossmark to Discord",
     "redirected-text": "You have been redirected here from Discord to verify and link your Crossmark address",
-    "non-crossmark-wallet": "You are already signed in with a non Crossmark wallet address. Please sign in with a Crossmark wallet first."
+    "non-crossmark-wallet": "You are already signed in with a non Crossmark wallet address. Please sign in with a Crossmark wallet first.",
+    "signin-with-crossmark": "Please sign in with your Crossmark wallet",
+    "invalid-signature-error": "You sent an invalid signature, please make sure you do this with your Crossmark wallet",
+    "verify-button-label": "Verify Your Crossmark Address",
+    "signin-request-missing": "Request link does not exist or has expired"
   }
 }

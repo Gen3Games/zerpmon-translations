@@ -297,6 +297,10 @@
   "link-discord-crossmark": {
     "title": "",
     "redirected-text": "",
-    "non-crossmark-wallet": ""
+    "non-crossmark-wallet": "",
+    "signin-with-crossmark": "",
+    "invalid-signature-error": "",
+    "verify-button-label": "",
+    "signin-request-missing": ""
   }
 }
