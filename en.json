@@ -290,5 +290,10 @@
   },
   "test": {
     "test": "this is a test"
+  },
+  "link-discord-crossmark": {
+    "title": "Link Crossmark to Discord",
+    "redirected-text": "You have been redirected here from Discord to verify and link your Crossmark address",
+    "non-crossmark-wallet": "You are already signed in with a non Crossmark wallet address. Please sign in with a Crossmark wallet first."
   }
 }
