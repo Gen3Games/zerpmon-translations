@@ -47,7 +47,10 @@
     "open-in-xumm-mobile-app": "在Xumm移动应用中打开",
     "wallets-coming-soon": "Crossmark、Metamask和GemWallet钱包支持即将推出",
     "metamask": "Metamask",
-    "gemwallet": "GemWallet"
+    "gemwallet": "GemWallet",
+    "google": "",
+    "discord": "",
+    "social-logins-kaiju": ""
   },
   "user-profile": {
     "trainers": "训练师",

@@ -47,7 +47,10 @@
     "open-in-xumm-mobile-app": "Abrir en la aplicación móvil Xumm",
     "wallets-coming-soon": "Soporte para las carteras Crossmark, Metamask y GemWallet próximamente",
     "metamask": "Metamask",
-    "gemwallet": "GemWallet"
+    "gemwallet": "GemWallet",
+    "google": "",
+    "discord": "",
+    "social-logins-kaiju": ""
   },
   "user-profile": {
     "trainers": "Entrenadores",
