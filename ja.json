@@ -198,7 +198,8 @@
     "dropdown-mission": "全期間ミッション",
     "dropdown-pvp": "全期間PVP",
     "dropdown-ranked-battle": "ランク別バトル",
-    "search": "検索"
+    "search": "検索",
+    "dropdown-tower-rush": ""
   },
   "leaderboard-table": {
     "player": "プレイヤー",
@@ -224,7 +225,11 @@
     "close": "閉じる",
     "current-deck": "現在のデッキ",
     "trainer-not-set": "トレーナーが設定されていません",
-    "zerpmon-not-set": "ザープモン #{index} が設定されていません"
+    "zerpmon-not-set": "ザープモン #{index} が設定されていません",
+    "tower-points": "",
+    "total-zrp-earned": "",
+    "tower-points-short": "",
+    "total-zrp-earned-short": ""
   },
   "analytics": {
     "analytics": "分析",
