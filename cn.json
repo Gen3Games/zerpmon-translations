@@ -198,7 +198,8 @@
     "dropdown-mission": "忠排行榜 - 任务",
     "dropdown-pvp": "忠排行榜 - PVP",
     "dropdown-ranked-battle": "排名战斗",
-    "search": "搜索"
+    "search": "搜索",
+    "dropdown-tower-rush": ""
   },
   "leaderboard-table": {
     "player": "玩家",
@@ -224,7 +225,11 @@
     "close": "关闭",
     "current-deck": "当前牌組",
     "trainer-not-set": "训练师未设置",
-    "zerpmon-not-set": "Zerpmon #{index} 未设置"
+    "zerpmon-not-set": "Zerpmon #{index} 未设置",
+    "tower-points": "",
+    "total-zrp-earned": "",
+    "tower-points-short": "",
+    "total-zrp-earned-short": ""
   },
   "analytics": {
     "analytics": "分析",

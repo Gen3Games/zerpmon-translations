@@ -198,7 +198,8 @@
     "dropdown-mission": "All-Time Mission",
     "dropdown-pvp": "All-Time PVP",
     "dropdown-ranked-battle": "Ranked Battle",
-    "search": "Search"
+    "search": "Search",
+    "dropdown-tower-rush": "Tower Rush"
   },
   "leaderboard-table": {
     "player": "Player",
@@ -224,7 +225,11 @@
     "close": "Close",
     "current-deck": "Current Deck",
     "trainer-not-set": "Trainer not set",
-    "zerpmon-not-set": "Zerpmon #{index} not set"
+    "zerpmon-not-set": "Zerpmon #{index} not set",
+    "tower-points": "Tower Points",
+    "total-zrp-earned": "Total ZRP",
+    "tower-points-short": "TP",
+    "total-zrp-earned-short": "ZRP"
   },
   "analytics": {
     "analytics": "Analytics",

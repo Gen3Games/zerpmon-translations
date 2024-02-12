@@ -198,7 +198,8 @@
     "dropdown-mission": "전체 시간 미션",
     "dropdown-pvp": "전체 시간 PVP",
     "dropdown-ranked-battle": "랭크 배틀",
-    "search": "검색"
+    "search": "검색",
+    "dropdown-tower-rush": ""
   },
   "leaderboard-table": {
     "player": "플레이어",
@@ -224,7 +225,11 @@
     "close": "닫기",
     "current-deck": "현재 덱",
     "trainer-not-set": "트레이너가 설정되지 않음",
-    "zerpmon-not-set": "저프몬 #{index} 설정되지 않음"
+    "zerpmon-not-set": "저프몬 #{index} 설정되지 않음",
+    "tower-points": "",
+    "total-zrp-earned": "",
+    "tower-points-short": "",
+    "total-zrp-earned-short": ""
   },
   "analytics": {
     "analytics": "분석",

@@ -198,7 +198,8 @@
     "dropdown-mission": "Mission Aller Zeiten",
     "dropdown-pvp": "PVP Aller Zeiten",
     "dropdown-ranked-battle": "Ranglistenspiel",
-    "search": "Suchen"
+    "search": "Suchen",
+    "dropdown-tower-rush": ""
   },
   "leaderboard-table": {
     "player": "Spieler",
@@ -224,7 +225,11 @@
     "close": "Schließen",
     "current-deck": "Aktuelles Deck",
     "trainer-not-set": "Trainer nicht festgelegt",
-    "zerpmon-not-set": "Zerpmon #{index} nicht festgelegt"
+    "zerpmon-not-set": "Zerpmon #{index} nicht festgelegt",
+    "tower-points": "",
+    "total-zrp-earned": "",
+    "tower-points-short": "",
+    "total-zrp-earned-short": ""
   },
   "analytics": {
     "analytics": "Analytik",
