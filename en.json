@@ -191,7 +191,8 @@
     "stats": "Stats",
     "missions-played": "Missions Played",
     "gyms-battled": "Gyms Battled",
-    "zrp-earned-today": "ZRP Earned Today"
+    "zrp-earned-today": "ZRP Earned Today",
+    "global-reset-in": "Global Reset in"
   },
   "leaderboard": {
     "title": "Leaderboard",

@@ -191,7 +191,8 @@
     "stats": "統計",
     "missions-played": "プレイしたミッション",
     "gyms-battled": "バトルしたジム",
-    "zrp-earned-today": "今日獲得したZRP"
+    "zrp-earned-today": "今日獲得したZRP",
+    "global-reset-in": ""
   },
   "leaderboard": {
     "title": "リーダーボード",

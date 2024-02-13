@@ -191,7 +191,8 @@
     "stats": "Estadísticas",
     "missions-played": "Misiones Jugadas",
     "gyms-battled": "Gimnasios Combatidos",
-    "zrp-earned-today": "ZRP Ganados Hoy"
+    "zrp-earned-today": "ZRP Ganados Hoy",
+    "global-reset-in": ""
   },
   "leaderboard": {
     "title": "Clasificación",

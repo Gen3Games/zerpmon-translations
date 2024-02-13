@@ -191,7 +191,8 @@
     "stats": "Statistiken",
     "missions-played": "Missionen gespielt",
     "gyms-battled": "Kämpfe in Gyms",
-    "zrp-earned-today": "Heute verdiente ZRP"
+    "zrp-earned-today": "Heute verdiente ZRP",
+    "global-reset-in": ""
   },
   "leaderboard": {
     "title": "Bestenliste",
