@@ -192,7 +192,8 @@
     "stats": "统计",
     "missions-played": "完成任务数量",
     "gyms-battled": "已战道館数量",
-    "zrp-earned-today": "今日赚取的ZRP"
+    "zrp-earned-today": "今日赚取的ZRP",
+    "global-reset-in": ""
   },
   "leaderboard": {
     "title": "排行榜",
