@@ -152,7 +152,8 @@
     "rename-deck-success": "",
     "no-new-name-error": "",
     "name-too-long-error": "",
-    "tower-rush-title": ""
+    "tower-rush-title": "",
+    "current-tower-rush-deck": ""
   },
   "store": {
     "title": "ストア",

@@ -152,7 +152,8 @@
     "rename-deck-success": "Mazo renombrado satisfactoriamente",
     "no-new-name-error": "No has facilitado un nuevo nombre para tu mazo",
     "name-too-long-error": "El nombre facilitado es demasiado largo",
-    "tower-rush-title": ""
+    "tower-rush-title": "",
+    "current-tower-rush-deck": ""
   },
   "store": {
     "title": "Tienda",

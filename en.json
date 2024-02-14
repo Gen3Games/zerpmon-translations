@@ -152,7 +152,8 @@
     "rename-deck-success": "Deck renamed successfully",
     "no-new-name-error": "You did not provide a new name for your deck",
     "name-too-long-error": "The deck name you provided is too long",
-    "tower-rush-title": "Tower Rush Deck"
+    "tower-rush-title": "Tower Rush Deck",
+    "current-tower-rush-deck": "Current Tower Rush Deck"
   },
   "store": {
     "title": "Store",
