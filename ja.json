@@ -294,7 +294,14 @@
     "current-jackpot": "現在のジャックポット: {jackpotAmount} ZRP",
     "loading-jackpot": "現在のジャックポットを読み込み中...",
     "error-loading-jackpot": "現在のジャックポットを読み込めませんでした",
-    "catchable-nfts": "捕まえられるNFT: {catchableNfts}"
+    "catchable-nfts": "捕まえられるNFT: {catchableNfts}",
+    "open-all": "",
+    "click-to-open": "",
+    "roll-reward": "",
+    "roll-name": "",
+    "roll-amount": "",
+    "roll-nft": "",
+    "roll-variant": ""
   },
   "battle": {
     "title": "バトル"

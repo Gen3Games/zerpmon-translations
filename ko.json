@@ -294,7 +294,14 @@
     "current-jackpot": "현재 잭팟: {jackpotAmount} ZRP",
     "loading-jackpot": "현재 잭팟 로딩 중...",
     "error-loading-jackpot": "현재 잭팟을 불러오지 못했습니다",
-    "catchable-nfts": "잡을 수 있는 NFT: {catchableNfts}"
+    "catchable-nfts": "잡을 수 있는 NFT: {catchableNfts}",
+    "open-all": "",
+    "click-to-open": "",
+    "roll-reward": "",
+    "roll-name": "",
+    "roll-amount": "",
+    "roll-nft": "",
+    "roll-variant": ""
   },
   "battle": {
     "title": "배틀"

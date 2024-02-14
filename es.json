@@ -294,7 +294,14 @@
     "current-jackpot": "Jackpot Actual: {jackpotAmount} ZRP",
     "loading-jackpot": "Cargando Jackpot Actual...",
     "error-loading-jackpot": "No se pudo cargar el jackpot actual",
-    "catchable-nfts": "NFTs Capturables: {catchableNfts}"
+    "catchable-nfts": "NFTs Capturables: {catchableNfts}",
+    "open-all": "",
+    "click-to-open": "",
+    "roll-reward": "",
+    "roll-name": "",
+    "roll-amount": "",
+    "roll-nft": "",
+    "roll-variant": ""
   },
   "battle": {
     "title": "Batalla"

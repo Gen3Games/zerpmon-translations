@@ -294,7 +294,14 @@
     "current-jackpot": "当前奖池: {jackpotAmount} ZRP",
     "loading-jackpot": "正在加载当前奖池...",
     "error-loading-jackpot": "无法加载当前奖池",
-    "catchable-nfts": "可捕获的NFTs: {catchableNfts}"
+    "catchable-nfts": "可捕获的NFTs: {catchableNfts}",
+    "open-all": "",
+    "click-to-open": "",
+    "roll-reward": "",
+    "roll-name": "",
+    "roll-amount": "",
+    "roll-nft": "",
+    "roll-variant": ""
   },
   "battle": {
     "title": "战斗"

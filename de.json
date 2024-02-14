@@ -294,7 +294,14 @@
     "current-jackpot": "Aktueller Jackpot: {jackpotAmount} ZRP",
     "loading-jackpot": "Lade aktuellen Jackpot...",
     "error-loading-jackpot": "Aktueller Jackpot konnte nicht geladen werden",
-    "catchable-nfts": "Fangbare NFTs: {catchableNfts}"
+    "catchable-nfts": "Fangbare NFTs: {catchableNfts}",
+    "open-all": "",
+    "click-to-open": "",
+    "roll-reward": "",
+    "roll-name": "",
+    "roll-amount": "",
+    "roll-nft": "",
+    "roll-variant": ""
   },
   "battle": {
     "title": "Kampf"
