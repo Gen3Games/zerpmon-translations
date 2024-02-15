@@ -303,7 +303,8 @@
     "roll-name": "",
     "roll-amount": "",
     "roll-nft": "",
-    "roll-variant": ""
+    "roll-variant": "",
+    "you-have-won": ""
   },
   "battle": {
     "title": "バトル"
