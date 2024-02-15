@@ -195,7 +195,8 @@
     "missions-played": "플레이한 미션",
     "gyms-battled": "배틀한 체육관",
     "zrp-earned-today": "오늘 벌어들인 ZRP",
-    "global-reset-in": ""
+    "global-reset-in": "",
+    "global-restore-countdown": ""
   },
   "leaderboard": {
     "title": "리더보드",

@@ -195,7 +195,8 @@
     "missions-played": "Missions Played",
     "gyms-battled": "Gyms Battled",
     "zrp-earned-today": "ZRP Earned Today",
-    "global-reset-in": "Global Reset in"
+    "global-reset-in": "Global Reset in",
+    "global-restore-countdown": "Global Restore Countdown"
   },
   "leaderboard": {
     "title": "Leaderboard",

@@ -195,7 +195,8 @@
     "missions-played": "Missionen gespielt",
     "gyms-battled": "Kämpfe in Gyms",
     "zrp-earned-today": "Heute verdiente ZRP",
-    "global-reset-in": ""
+    "global-reset-in": "",
+    "global-restore-countdown": ""
   },
   "leaderboard": {
     "title": "Bestenliste",
