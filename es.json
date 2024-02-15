@@ -153,7 +153,8 @@
     "no-new-name-error": "No has facilitado un nuevo nombre para tu mazo",
     "name-too-long-error": "El nombre facilitado es demasiado largo",
     "tower-rush-title": "",
-    "current-tower-rush-deck": ""
+    "current-tower-rush-deck": "",
+    "tower-rush": ""
   },
   "store": {
     "title": "Tienda",

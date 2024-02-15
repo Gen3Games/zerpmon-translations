@@ -153,7 +153,8 @@
     "no-new-name-error": "",
     "name-too-long-error": "",
     "tower-rush-title": "",
-    "current-tower-rush-deck": ""
+    "current-tower-rush-deck": "",
+    "tower-rush": ""
   },
   "store": {
     "title": "商店",

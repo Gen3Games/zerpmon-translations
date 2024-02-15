@@ -153,7 +153,8 @@
     "no-new-name-error": "Dies ist kein neuer Name",
     "name-too-long-error": "Dieser Name ist zu lang",
     "tower-rush-title": "",
-    "current-tower-rush-deck": ""
+    "current-tower-rush-deck": "",
+    "tower-rush": ""
   },
   "store": {
     "title": "Store",
