@@ -307,7 +307,10 @@
     "roll-amount": "",
     "roll-nft": "",
     "roll-variant": "",
-    "you-have-won": ""
+    "you-have-won": "",
+    "you-have-won-zerpmon": "",
+    "you-have-won-equipment": "",
+    "you-have-won-jackpot": ""
   },
   "battle": {
     "title": "Kampf"

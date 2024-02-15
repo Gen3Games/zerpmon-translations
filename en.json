@@ -307,7 +307,10 @@
     "roll-amount": "Amount",
     "roll-nft": "NFT",
     "roll-variant": "Variant",
-    "you-have-won": "You have won {rewardAmount} {rewardName}"
+    "you-have-won": "You have won {rewardAmount} {rewardName}",
+    "you-have-won-zerpmon": "You have won a random Zerpmon",
+    "you-have-won-equipment": "You have won a random Equipment",
+    "you-have-won-jackpot": "You have won the jackpot of {amount} ZRP"
   },
   "battle": {
     "title": "Battle"
