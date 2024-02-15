@@ -154,7 +154,10 @@
     "name-too-long-error": "",
     "tower-rush-title": "",
     "current-tower-rush-deck": "",
-    "tower-rush": ""
+    "tower-rush": "",
+    "last-colon": "",
+    "next-colon": "",
+    "level-abbr": ""
   },
   "store": {
     "title": "스토어",

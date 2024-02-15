@@ -154,7 +154,10 @@
     "name-too-long-error": "The deck name you provided is too long",
     "tower-rush-title": "Tower Rush Deck",
     "current-tower-rush-deck": "Current Tower Rush Deck",
-    "tower-rush": "Tower Rush"
+    "tower-rush": "Tower Rush",
+    "last-colon": "Last:",
+    "next-colon": "Next:",
+    "level-abbr": "Lv."
   },
   "store": {
     "title": "Store",

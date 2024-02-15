@@ -154,7 +154,10 @@
     "name-too-long-error": "Dieser Name ist zu lang",
     "tower-rush-title": "",
     "current-tower-rush-deck": "",
-    "tower-rush": ""
+    "tower-rush": "",
+    "last-colon": "",
+    "next-colon": "",
+    "level-abbr": ""
   },
   "store": {
     "title": "Store",
