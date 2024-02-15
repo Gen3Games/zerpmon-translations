@@ -306,7 +306,8 @@
     "roll-name": "Name",
     "roll-amount": "Amount",
     "roll-nft": "NFT",
-    "roll-variant": "Variant"
+    "roll-variant": "Variant",
+    "you-have-won": "You have won {rewardAmount} {rewardName}"
   },
   "battle": {
     "title": "Battle"
