@@ -138,7 +138,7 @@
     "no-equipment-cards-found": "No equipment cards found",
     "do-not-own-equipment": "You do not own this equipment card",
     "no-zerpmon-in-slot": "No zerpmon in slot",
-    "no-zerpmon-found": "No zerpmon in found",
+    "no-zerpmon-found": "No zerpmon found",
     "equipment-not-match-zerpmon": "Equipment type does not match zerpmon move type",
     "equipment-types-not-match": "Equipment types do not match",
     "cannot-swap-equipment-itself": "Cannot swap equipment with itself",
