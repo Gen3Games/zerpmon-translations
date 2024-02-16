@@ -13,7 +13,7 @@
     "report-a-bug": "버그 신고",
     "confirm": "확인",
     "yes": "예",
-    "no": "아니",
+    "no": "아니오",
     "rename-deck-popup-title": "{deckType} 덱 번호 {deckNumber}의 이름을 변경하세요."
   },
   "sidebar": {
@@ -35,7 +35,7 @@
     "cancel-sign-in": "로그인하지 않겠습니다.",
     "choose-wallet": "로그인할 지갑을 선택해주세요.",
     "crossmark": "Crossmark",
-    "crossmark-sign-in-success": "Crossmark로 성공적으로 로그인했습니다",
+    "crossmark-sign-in-success": "Crossmark로 성공적으로 로그인했습니다.",
     "crossmark-cannot-connect": "Crossmark 지갑에 연결할 수 없습니다. Crossmark가 설치되어 있고 활성화되어 있는지 확인해주세요.",
     "crossmark-sign-in-failed": "Crossmark 지갑으로 로그인할 수 없습니다. Crossmark 확장 프로그램을 확인해주세요.",
     "crossmark-rejected": "Crossmark 지갑의 로그인 요청을 거절했습니다.",
