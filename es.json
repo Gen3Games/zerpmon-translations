@@ -207,7 +207,8 @@
     "dropdown-pvp": "PVP de Todos los Tiempos",
     "dropdown-ranked-battle": "Batalla Clasificatoria",
     "search": "Buscar",
-    "dropdown-tower-rush": "Fiebre de la torre"
+    "dropdown-tower-rush": "Fiebre de la torre",
+    "tower-rush-non-holders": ""
   },
   "leaderboard-table": {
     "player": "Jugador",

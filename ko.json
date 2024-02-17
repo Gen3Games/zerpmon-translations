@@ -207,7 +207,8 @@
     "dropdown-pvp": "올 타임 PvP",
     "dropdown-ranked-battle": "랭크전",
     "search": "검색",
-    "dropdown-tower-rush": "타워 돌진"
+    "dropdown-tower-rush": "타워 돌진",
+    "tower-rush-non-holders": ""
   },
   "leaderboard-table": {
     "player": "플레이어",

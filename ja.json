@@ -207,7 +207,8 @@
     "dropdown-pvp": "全期間PVP",
     "dropdown-ranked-battle": "ランク別バトル",
     "search": "検索",
-    "dropdown-tower-rush": ""
+    "dropdown-tower-rush": "",
+    "tower-rush-non-holders": ""
   },
   "leaderboard-table": {
     "player": "プレイヤー",

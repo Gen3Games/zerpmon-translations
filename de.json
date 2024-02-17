@@ -207,7 +207,8 @@
     "dropdown-pvp": "Beste Duelle",
     "dropdown-ranked-battle": "Beste Ranglistenspiele",
     "search": "Suchen",
-    "dropdown-tower-rush": "Beste Festungsstürme"
+    "dropdown-tower-rush": "Beste Festungsstürme",
+    "tower-rush-non-holders": ""
   },
   "leaderboard-table": {
     "player": "Spieler",

@@ -207,7 +207,8 @@
     "dropdown-pvp": "忠排行榜 - PVP",
     "dropdown-ranked-battle": "排名战斗",
     "search": "搜索",
-    "dropdown-tower-rush": ""
+    "dropdown-tower-rush": "",
+    "tower-rush-non-holders": ""
   },
   "leaderboard-table": {
     "player": "玩家",

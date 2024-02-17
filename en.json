@@ -207,7 +207,8 @@
     "dropdown-pvp": "All-Time PVP",
     "dropdown-ranked-battle": "Ranked Battle",
     "search": "Search",
-    "dropdown-tower-rush": "Tower Rush"
+    "dropdown-tower-rush": "Tower Rush",
+    "tower-rush-non-holders": "Tower Rush (Non-Holders)"
   },
   "leaderboard-table": {
     "player": "Player",
