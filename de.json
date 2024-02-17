@@ -144,7 +144,7 @@
     "cannot-swap-equipment-itself": "Du kannst diese Ausrüstungskarte nicht gegen sich selbst tauschen",
     "clear-battle-deck": "Wettkampfdeck löschen",
     "clear-gym-deck": "Trainingsdeck löschen",
-    "rename-deck-popup-title": "Benenne {deckType} Deck Nummer {deckNumber} um"
+    "rename-deck-popup-title": "Benenne {deckType} Deck Nummer {deckNumber} um",
     "cancel": "Rückgängig machen",
     "rename-deck": "Deck umbenennen",
     "unnamed-deck": "(Unbenanntes Deck)",
