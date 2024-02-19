@@ -314,7 +314,14 @@
     "you-have-won-jackpot": "{amount} ZRP의 잭팟을 획득하였습니다."
   },
   "battle": {
-    "title": "배틀"
+    "title": "배틀",
+    "knockout-message": "",
+    "blue-trigger-message": "",
+    "miss-trigger-message": "",
+    "purple-trigger-message": "",
+    "damage-trigger-message": "",
+    "wait-for-result": "",
+    "normal-winner-message": ""
   },
   "test": {
     "test": "테스트입니다."

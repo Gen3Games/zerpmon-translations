@@ -314,7 +314,14 @@
     "you-have-won-jackpot": ""
   },
   "battle": {
-    "title": "バトル"
+    "title": "バトル",
+    "knockout-message": "",
+    "blue-trigger-message": "",
+    "miss-trigger-message": "",
+    "purple-trigger-message": "",
+    "damage-trigger-message": "",
+    "wait-for-result": "",
+    "normal-winner-message": ""
   },
   "test": {
     "test": ""

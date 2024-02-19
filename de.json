@@ -314,7 +314,14 @@
     "you-have-won-jackpot": "Du hast den Jackpot in Höhe von {amount} ZRP gewonnen"
   },
   "battle": {
-    "title": "Wettkampf"
+    "title": "Wettkampf",
+    "knockout-message": "",
+    "blue-trigger-message": "",
+    "miss-trigger-message": "",
+    "purple-trigger-message": "",
+    "damage-trigger-message": "",
+    "wait-for-result": "",
+    "normal-winner-message": ""
   },
   "test": {
     "test": "Dies ist ein Test"

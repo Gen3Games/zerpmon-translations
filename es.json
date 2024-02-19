@@ -314,7 +314,14 @@
     "you-have-won-jackpot": ""
   },
   "battle": {
-    "title": "Batalla"
+    "title": "Batalla",
+    "knockout-message": "",
+    "blue-trigger-message": "",
+    "miss-trigger-message": "",
+    "purple-trigger-message": "",
+    "damage-trigger-message": "",
+    "wait-for-result": "",
+    "normal-winner-message": ""
   },
   "test": {
     "test": "esto es un test"
