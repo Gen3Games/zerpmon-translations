@@ -327,5 +327,11 @@
     "invalid-signature-error": "Has enviado una firma inválida, por favor, asegúrate de firmar con tu cartera Crossmark",
     "verify-button-label": "Verifica tu dirección Crossmark",
     "signin-request-missing": "El enlace de la petición no existe o ha caducado"
+  },
+  "zerpmon-types-damage-table": {
+    "strong": "",
+    "weak": "",
+    "useless": "",
+    "no-change": ""
   }
 }

@@ -327,5 +327,11 @@
     "invalid-signature-error": "올바르지 않은 서명입니다. crossmark 지갑을 사용하여 작업을 수행해주세요.",
     "verify-button-label": "crossmark 지갑 주소 인증",
     "signin-request-missing": "요청 링크가 존재하지 않거나 만료되었습니다."
+  },
+  "zerpmon-types-damage-table": {
+    "strong": "",
+    "weak": "",
+    "useless": "",
+    "no-change": ""
   }
 }

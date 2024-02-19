@@ -327,5 +327,11 @@
     "invalid-signature-error": "",
     "verify-button-label": "",
     "signin-request-missing": ""
+  },
+  "zerpmon-types-damage-table": {
+    "strong": "",
+    "weak": "",
+    "useless": "",
+    "no-change": ""
   }
 }

@@ -327,5 +327,11 @@
     "invalid-signature-error": "Du hast dich mit ungültigen Daten angemeldet. Bitte stelle sicher, dass du ein Crossmark-Wallet verwendest",
     "verify-button-label": "Verifiziere dein Crossmark-Wallet Adresse",
     "signin-request-missing": "Der angeforderte Link ist ungültig oder existiert nicht"
+  },
+  "zerpmon-types-damage-table": {
+    "strong": "",
+    "weak": "",
+    "useless": "",
+    "no-change": ""
   }
 }

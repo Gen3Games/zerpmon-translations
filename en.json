@@ -327,5 +327,11 @@
     "invalid-signature-error": "You sent an invalid signature, please make sure you do this with your Crossmark wallet",
     "verify-button-label": "Verify Your Crossmark Address",
     "signin-request-missing": "Request link does not exist or has expired"
+  },
+  "zerpmon-types-damage-table": {
+    "strong": "Strong",
+    "weak": "Weak",
+    "useless": "Useless",
+    "no-change": "No Change"
   }
 }
