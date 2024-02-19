@@ -331,7 +331,7 @@
   "zerpmon-types-damage-table": {
     "strong": "Strong",
     "weak": "Weak",
-    "useless": "Useless",
+    "useless": "Risky",
     "no-change": "No Change",
     "simple-view": "Simple view"
   }
