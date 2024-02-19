@@ -332,6 +332,7 @@
     "strong": "Strong",
     "weak": "Weak",
     "useless": "Useless",
-    "no-change": "No Change"
+    "no-change": "No Change",
+    "simple-view": "Simple view"
   }
 }
