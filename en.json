@@ -157,7 +157,8 @@
     "tower-rush": "Tower Rush",
     "last-colon": "Last:",
     "next-colon": "Next:",
-    "level-abbr": "Lv."
+    "level-abbr": "Lv.",
+    "no-tower-rush-error-1": "You do not have an active Tower Rush run at the moment."
   },
   "store": {
     "title": "Store",

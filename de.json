@@ -157,7 +157,8 @@
     "tower-rush": "Festungssturm",
     "last-colon": "Letzte:",
     "next-colon": "Nächste:",
-    "level-abbr": "Level"
+    "level-abbr": "Level",
+    "no-tower-rush-error-1": ""
   },
   "store": {
     "title": "Shop",
