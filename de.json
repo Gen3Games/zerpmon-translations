@@ -158,11 +158,11 @@
     "last-colon": "Letzte:",
     "next-colon": "Nächste:",
     "level-abbr": "Level",
-    "no-tower-rush-error-1": "",
-    "no-tower-rush-error-2": "",
-    "store-link-label": "",
-    "all-zerpmons": "",
-    "ascended-zerpmons": ""
+    "no-tower-rush-error-1": "Momentan hast du kein Festungssturm aktiviert.",
+    "no-tower-rush-error-2": "Bitte kaufe ein Festungssturm-Ticket im Shop oder auf dem Discord Server.",
+    "store-link-label": "Hier klicken, um zum Shop zu kommen.",
+    "all-zerpmons": "Alle Zerpmon-Karten",
+    "ascended-zerpmons": "Aufgestiegene Zerpmon-Karten"
   },
   "store": {
     "title": "Shop",
