@@ -345,6 +345,10 @@
     "weak": "",
     "useless": "",
     "no-change": "",
-    "simple-view": ""
+    "simple-view": "",
+    "attacking-tooltip": "",
+    "attacking": "",
+    "defending-tooltip": "",
+    "defending": ""
   }
 }

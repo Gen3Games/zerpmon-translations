@@ -345,6 +345,10 @@
     "weak": "Weak",
     "useless": "Terrible",
     "no-change": "No Change",
-    "simple-view": "Simple view"
+    "simple-view": "Simple view",
+    "attacking-tooltip": "Damage you deal",
+    "attacking": "Attacking",
+    "defending-tooltip": "Damage you take",
+    "defending": "Defending"
   }
 }
