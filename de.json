@@ -320,13 +320,13 @@
   },
   "battle": {
     "title": "Wettkampf",
-    "knockout-message": "",
-    "blue-trigger-message": "",
-    "miss-trigger-message": "",
-    "purple-trigger-message": "",
-    "damage-trigger-message": "",
-    "wait-for-result": "",
-    "normal-winner-message": ""
+    "knockout-message": "{winner} Hat 💀 {loser} 💀 ausgeknockt!",
+    "blue-trigger-message": "{zerpmonName}  benutzt 🟦 {moveName}!",
+    "miss-trigger-message": "{zerpmonName}  (typesString) hat verfehlt  🟥   ({movePercent}%)",
+    "purple-trigger-message": "{zerpmonName}  ({typesString})   hat 🟪 {movename} {stars} benutzt ({movePercent}%)",
+    "damage-trigger-message": "{zerpmonName}  ({typesString})  hat {moveEmj}  {moveName} benutzt ({dmgMul}) {dmg}({movePercent}%)",
+    "wait-for-result": "Ermittle Wettkampfergebnisse...",
+    "normal-winner-message": "SIEGER  👑{winner}👑"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -341,14 +341,14 @@
     "signin-request-missing": "Der angeforderte Link ist ungültig oder existiert nicht"
   },
   "zerpmon-types-damage-table": {
-    "strong": "",
-    "weak": "",
-    "useless": "",
-    "no-change": "",
-    "simple-view": "",
-    "attacking-tooltip": "",
-    "attacking": "",
-    "defending-tooltip": "",
-    "defending": ""
+    "strong": "Stark",
+    "weak": "Schwach",
+    "useless": "Nutzlos",
+    "no-change": "Keine Veränderung",
+    "simple-view": "Einfache Ansicht",
+    "attacking-tooltip": "Ausgeteilter Schaden",
+    "attacking": "Im Angriff",
+    "defending-tooltip": "Erhaltener Schaden",
+    "defending": "In der Abwehr"
   }
 }
