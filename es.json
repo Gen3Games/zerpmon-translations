@@ -158,7 +158,9 @@
     "last-colon": "",
     "next-colon": "",
     "level-abbr": "",
-    "no-tower-rush-error-1": ""
+    "no-tower-rush-error-1": "",
+    "no-tower-rush-error-2": "",
+    "store-link-label": ""
   },
   "store": {
     "title": "Tienda",

@@ -158,7 +158,9 @@
     "last-colon": "Last:",
     "next-colon": "Next:",
     "level-abbr": "Lv.",
-    "no-tower-rush-error-1": "You do not have an active Tower Rush run at the moment."
+    "no-tower-rush-error-1": "You do not have an active Tower Rush run at the moment.",
+    "no-tower-rush-error-2": "Please purchase a Tower Rush ticket in the Store or in the Zerpmon Discord server.",
+    "store-link-label": "Click here to go to the Store"
   },
   "store": {
     "title": "Store",
