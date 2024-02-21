@@ -160,7 +160,9 @@
     "level-abbr": "Level",
     "no-tower-rush-error-1": "",
     "no-tower-rush-error-2": "",
-    "store-link-label": ""
+    "store-link-label": "",
+    "all-zerpmons": "",
+    "ascended-zerpmons": ""
   },
   "store": {
     "title": "Shop",
