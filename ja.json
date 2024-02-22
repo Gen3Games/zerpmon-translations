@@ -281,7 +281,9 @@
     "error-candy": "キャンディの使用中にエラーが発生しました。後でもう一度お試しください",
     "confirm-use-candy": "Are you sure you want to use {inventoryItem} on {nft} ?",
     "used-gym-refill-potion": "",
-    "error-gym-refill-potion": ""
+    "error-gym-refill-potion": "",
+    "used-double-xp-potion": "",
+    "error-double-xp-potion": ""
   },
   "safari": {
     "title": "サファリ",

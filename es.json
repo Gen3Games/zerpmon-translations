@@ -281,7 +281,9 @@
     "error-candy": "Ocurrió un error al usar el Caramelo. Por favor, inténtalo de nuevo más tarde",
     "confirm-use-candy": "¿Estás seguro de que quieres usar {inventoryItem} en {nft}?",
     "used-gym-refill-potion": "Has utilizado Poción de Recarga de Gimnasio satisfactoriamente",
-    "error-gym-refill-potion": "Un error ha ocurrido mientras usabas la Poción de Recarga de Gimnasio. Por favor, inténtalo más tarde"
+    "error-gym-refill-potion": "Un error ha ocurrido mientras usabas la Poción de Recarga de Gimnasio. Por favor, inténtalo más tarde",
+    "used-double-xp-potion": "",
+    "error-double-xp-potion": ""
   },
   "safari": {
     "title": "Safari",

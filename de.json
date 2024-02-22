@@ -281,7 +281,9 @@
     "error-candy": "Ein Fehler ist beim Verwenden des Bonbons aufgetreten. Bitte versuche es später noch einmal",
     "confirm-use-candy": "Bist du sicher, dass du {inventoryItem} auf {nft} verwenden möchtest?",
     "used-gym-refill-potion": "Du hast erfolgreich den Trainings-Nachfülltrank verwendet",
-    "error-gym-refill-potion": "Ein Fehler ist beim Verwenden des Trainings-Nachfülltranks aufgetreten. Bitte versuche es später noch einmal"
+    "error-gym-refill-potion": "Ein Fehler ist beim Verwenden des Trainings-Nachfülltranks aufgetreten. Bitte versuche es später noch einmal",
+    "used-double-xp-potion": "",
+    "error-double-xp-potion": ""
   },
   "safari": {
     "title": "Safari",

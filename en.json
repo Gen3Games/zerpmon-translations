@@ -281,7 +281,9 @@
     "error-candy": "An error occured while using the Candy. Please try again later",
     "confirm-use-candy": "Are you sure you want to use {inventoryItem} on {nft} ?",
     "used-gym-refill-potion": "You have successfully used Gym Refill Potion",
-    "error-gym-refill-potion": "An error occured while using Gym Refill Potion. Please try again later"
+    "error-gym-refill-potion": "An error occured while using Gym Refill Potion. Please try again later",
+    "used-double-xp-potion": "You have double experience points for an additional 24 hours",
+    "error-double-xp-potion": "An error occurred on using a Double XP Potion"
   },
   "safari": {
     "title": "Safari",
