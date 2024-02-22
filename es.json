@@ -243,7 +243,9 @@
     "tower-points": "Puntos Torre",
     "total-zrp-earned": "Total ZRP",
     "tower-points-short": "PT",
-    "total-zrp-earned-short": "ZRP"
+    "total-zrp-earned-short": "ZRP",
+    "highest-level": "",
+    "highest-level-short": ""
   },
   "analytics": {
     "analytics": "Análisis",

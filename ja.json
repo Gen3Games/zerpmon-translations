@@ -243,7 +243,9 @@
     "tower-points": "",
     "total-zrp-earned": "",
     "tower-points-short": "",
-    "total-zrp-earned-short": ""
+    "total-zrp-earned-short": "",
+    "highest-level": "",
+    "highest-level-short": ""
   },
   "analytics": {
     "analytics": "分析",

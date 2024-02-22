@@ -243,7 +243,9 @@
     "tower-points": "Festungs-Punkte",
     "total-zrp-earned": "Insgesamt verdiente ZRP",
     "tower-points-short": "FP",
-    "total-zrp-earned-short": "ZRP"
+    "total-zrp-earned-short": "ZRP",
+    "highest-level": "",
+    "highest-level-short": ""
   },
   "analytics": {
     "analytics": "Auswertung",

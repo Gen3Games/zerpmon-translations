@@ -243,7 +243,9 @@
     "tower-points": "Tower Points",
     "total-zrp-earned": "Total ZRP",
     "tower-points-short": "TP",
-    "total-zrp-earned-short": "ZRP"
+    "total-zrp-earned-short": "ZRP",
+    "highest-level": "Highest Level",
+    "highest-level-short": "Hi Lv"
   },
   "analytics": {
     "analytics": "Analytics",

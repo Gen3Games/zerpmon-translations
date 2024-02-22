@@ -243,7 +243,9 @@
     "tower-points": "타워 포인트",
     "total-zrp-earned": "ZRP 총합",
     "tower-points-short": "TP",
-    "total-zrp-earned-short": "ZRP"
+    "total-zrp-earned-short": "ZRP",
+    "highest-level": "",
+    "highest-level-short": ""
   },
   "analytics": {
     "analytics": "분석",
