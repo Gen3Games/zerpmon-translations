@@ -244,8 +244,8 @@
     "total-zrp-earned": "Insgesamt verdiente ZRP",
     "tower-points-short": "FP",
     "total-zrp-earned-short": "ZRP",
-    "highest-level": "",
-    "highest-level-short": ""
+    "highest-level": "Höchstes Level",
+    "highest-level-short": "Hö. Lvl."
   },
   "analytics": {
     "analytics": "Auswertung",
@@ -284,8 +284,8 @@
     "confirm-use-candy": "Bist du sicher, dass du {inventoryItem} auf {nft} verwenden möchtest?",
     "used-gym-refill-potion": "Du hast erfolgreich den Trainings-Nachfülltrank verwendet",
     "error-gym-refill-potion": "Ein Fehler ist beim Verwenden des Trainings-Nachfülltranks aufgetreten. Bitte versuche es später noch einmal",
-    "used-double-xp-potion": "",
-    "error-double-xp-potion": ""
+    "used-double-xp-potion": "XP-Verdopplungstarnk verwendet",
+    "error-double-xp-potion": "Ein Fehler ist beim Verwenden des XP-Verdopplungstranks aufgetreten. Bitte versuche es später noch einmal"
   },
   "safari": {
     "title": "Safari",
