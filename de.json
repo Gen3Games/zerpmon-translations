@@ -284,8 +284,8 @@
     "confirm-use-candy": "Bist du sicher, dass du {inventoryItem} auf {nft} verwenden möchtest?",
     "used-gym-refill-potion": "Du hast erfolgreich den Trainings-Nachfülltrank verwendet",
     "error-gym-refill-potion": "Ein Fehler ist beim Verwenden des Trainings-Nachfülltranks aufgetreten. Bitte versuche es später noch einmal",
-    "used-double-xp-potion": "XP-Verdopplungstarnk verwendet",
-    "error-double-xp-potion": "Ein Fehler ist beim Verwenden des XP-Verdopplungstranks aufgetreten. Bitte versuche es später noch einmal"
+    "used-double-xp-potion": "EP-Verdopplungstarnk verwendet",
+    "error-double-xp-potion": "Ein Fehler ist beim Verwenden des EP-Verdopplungstranks aufgetreten. Bitte versuche es später noch einmal"
   },
   "safari": {
     "title": "Safari",
