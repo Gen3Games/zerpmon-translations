@@ -28,7 +28,8 @@
     "store": "스토어",
     "settings": "설정",
     "logout": "로그아웃",
-    "sign-out-success": "성공적으로 로그아웃되었습니다."
+    "sign-out-success": "성공적으로 로그아웃되었습니다.",
+    "marketplace": ""
   },
   "sign-in": {
     "button-label": "로그인",

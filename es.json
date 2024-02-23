@@ -28,7 +28,8 @@
     "store": "Tienda",
     "settings": "Configuración",
     "logout": "Cerrar Sesión",
-    "sign-out-success": "Has cerrado sesión exitosamente."
+    "sign-out-success": "Has cerrado sesión exitosamente.",
+    "marketplace": ""
   },
   "sign-in": {
     "button-label": "Iniciar Sesión",

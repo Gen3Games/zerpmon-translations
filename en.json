@@ -28,7 +28,8 @@
     "store": "Store",
     "settings": "Settings",
     "logout": "Sign Out",
-    "sign-out-success": "You have successfully signed out."
+    "sign-out-success": "You have successfully signed out.",
+    "marketplace": "Marketplace"
   },
   "sign-in": {
     "button-label": "Sign In",

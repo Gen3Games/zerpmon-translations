@@ -28,7 +28,8 @@
     "store": "Shop",
     "settings": "Einstellungen",
     "logout": "Abmelden",
-    "sign-out-success": "Du hast dich erfolgreich abgemeldet."
+    "sign-out-success": "Du hast dich erfolgreich abgemeldet.",
+    "marketplace": ""
   },
   "sign-in": {
     "button-label": "Anmelden",

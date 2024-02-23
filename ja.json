@@ -28,7 +28,8 @@
     "store": "ストア",
     "settings": "設定",
     "logout": "サインアウト",
-    "sign-out-success": "正常にサインアウトしました。"
+    "sign-out-success": "正常にサインアウトしました。",
+    "marketplace": ""
   },
   "sign-in": {
     "button-label": "サインイン",

@@ -28,7 +28,8 @@
     "store": "商店",
     "settings": "设置",
     "logout": "登出",
-    "sign-out-success": "你已成功登出。"
+    "sign-out-success": "你已成功登出。",
+    "marketplace": ""
   },
   "sign-in": {
     "button-label": "登录",
