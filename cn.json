@@ -354,5 +354,11 @@
     "attacking": "",
     "defending-tooltip": "",
     "defending": ""
+  },
+  "marketplace": {
+    "loan": "",
+    "trading": "",
+    "auction": "",
+    "title": ""
   }
 }

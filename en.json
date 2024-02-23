@@ -354,5 +354,11 @@
     "attacking": "Attacking",
     "defending-tooltip": "Damage you take",
     "defending": "Defending"
+  },
+  "marketplace": {
+    "loan": "Loan",
+    "trading": "Trading",
+    "auction": "Auction",
+    "title": "Marketplace"
   }
 }

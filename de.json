@@ -354,5 +354,11 @@
     "attacking": "Im Angriff",
     "defending-tooltip": "Erhaltener Schaden",
     "defending": "In der Abwehr"
+  },
+  "marketplace": {
+    "loan": "",
+    "trading": "",
+    "auction": "",
+    "title": ""
   }
 }
