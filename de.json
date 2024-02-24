@@ -331,7 +331,8 @@
     "purple-trigger-message": "{zerpmonName}  ({typesString})   hat 🟪 {movename} {stars} benutzt ({movePercent}%)",
     "damage-trigger-message": "{zerpmonName}  ({typesString})  hat {moveEmj}  {moveName} benutzt ({dmgMul}) {dmg}({movePercent}%)",
     "wait-for-result": "Ermittle Wettkampfergebnisse...",
-    "normal-winner-message": "SIEGER  👑{winner}👑"
+    "normal-winner-message": "SIEGER  👑{winner}👑",
+    "equipment-trigger-message": ""
   },
   "test": {
     "test": "Dies ist ein Test"

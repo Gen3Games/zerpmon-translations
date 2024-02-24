@@ -331,7 +331,8 @@
     "purple-trigger-message": "",
     "damage-trigger-message": "",
     "wait-for-result": "",
-    "normal-winner-message": ""
+    "normal-winner-message": "",
+    "equipment-trigger-message": ""
   },
   "test": {
     "test": "테스트입니다."

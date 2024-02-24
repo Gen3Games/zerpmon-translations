@@ -331,7 +331,8 @@
     "purple-trigger-message": "{zerpmonName}  ({typesString})   used 🟪 {movename} {stars} ({movePercent}%)",
     "damage-trigger-message": "{zerpmonName}  ({typesString})   used {moveEmj}  {moveName} ({dmgMul}) {dmg}({movePercent}%)",
     "wait-for-result": "Calculating Battle results...",
-    "normal-winner-message": "WINNER  👑{winner}👑"
+    "normal-winner-message": "WINNER  👑{winner}👑",
+    "equipment-trigger-message": "✨{equipmentName}✨ ({zerpmonName})"
   },
   "test": {
     "test": "this is a test"
