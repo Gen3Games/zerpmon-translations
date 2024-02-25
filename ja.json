@@ -332,7 +332,13 @@
     "damage-trigger-message": "",
     "wait-for-result": "",
     "normal-winner-message": "",
-    "equipment-trigger-message": ""
+    "equipment-trigger-message": "",
+    "crit-ko-message-1": "",
+    "draw-message": "",
+    "crit-ko-message-2": "",
+    "pierce-trigger-message-1": "",
+    "pierce-trigger-message-2": "",
+    "pierce-failed-message": ""
   },
   "test": {
     "test": ""

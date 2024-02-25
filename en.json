@@ -332,7 +332,13 @@
     "damage-trigger-message": "{zerpmonName}  ({typesString})   used {moveEmj}  {moveName} ({dmgMul}) {dmg}({movePercent}%)",
     "wait-for-result": "Calculating Battle results...",
     "normal-winner-message": "WINNER  👑{winner}👑",
-    "equipment-trigger-message": "✨{equipmentName}✨ ({zerpmonName})"
+    "equipment-trigger-message": "✨{equipmentName}✨ ({zerpmonName})",
+    "crit-ko-message-1": "{loser} gets absolutely destroyed with this attack! Double damage!",
+    "draw-message": "DRAW",
+    "crit-ko-message-2": "{loser}'s jaw was cracked with a perfect shot! Double damage!",
+    "pierce-trigger-message-1": "{winner}'s {winnerMove} has miraculously pierced through {loser}'s {loserMove}!",
+    "pierce-trigger-message-2": "{winner}'s {winnerMove} has successfully nullified {loser}'s {loserMove}!",
+    "pierce-failed-message": "{zerpA}'s {moveA} couldn't break through {zerpB}'s {moveB}!"
   },
   "test": {
     "test": "this is a test"
