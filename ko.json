@@ -58,7 +58,8 @@
     "zerpmons": "Zerpmon",
     "equipments": "장비",
     "bio": "소개",
-    "edit-profile": "프로필 편집"
+    "edit-profile": "프로필 편집",
+    "refresh-nfts": ""
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",
