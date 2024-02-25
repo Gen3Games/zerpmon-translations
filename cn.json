@@ -58,7 +58,8 @@
     "zerpmons": "Zerpmon",
     "equipments": "装备",
     "bio": "传记",
-    "edit-profile": "编辑资料"
+    "edit-profile": "编辑资料",
+    "refresh-nfts": ""
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",

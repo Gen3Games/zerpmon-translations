@@ -58,7 +58,8 @@
     "zerpmons": "ザープモン",
     "equipments": "装備",
     "bio": "自己紹介",
-    "edit-profile": "プロフィールを編集"
+    "edit-profile": "プロフィールを編集",
+    "refresh-nfts": ""
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",

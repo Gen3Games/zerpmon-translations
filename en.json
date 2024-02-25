@@ -58,7 +58,8 @@
     "zerpmons": "Zerpmon",
     "equipments": "Equipment",
     "bio": "Bio",
-    "edit-profile": "Edit Profile"
+    "edit-profile": "Edit Profile",
+    "refresh-nfts": "Refresh NFTs"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",
@@ -264,7 +265,7 @@
     "jackpot-count": "ZRP Won in Jackpot",
     "zrp-price": "ZRP Price",
     "floor-price": "Zerpmon Floor Price",
-    "zrp-balance": ""
+    "zrp-balance": "ZRP Balance"
   },
   "inventory": {
     "title": "Inventory",

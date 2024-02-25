@@ -58,7 +58,8 @@
     "zerpmons": "Zerpmons",
     "equipments": "Ausrüstung",
     "bio": "Bio",
-    "edit-profile": "Profil bearbeiten"
+    "edit-profile": "Profil bearbeiten",
+    "refresh-nfts": ""
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",
