@@ -29,7 +29,7 @@
     "settings": "Configuración",
     "logout": "Cerrar Sesión",
     "sign-out-success": "Has cerrado sesión exitosamente.",
-    "marketplace": ""
+    "marketplace": "Mercado"
   },
   "sign-in": {
     "button-label": "Iniciar Sesión",
@@ -59,7 +59,7 @@
     "equipments": "Equipamiento",
     "bio": "Biografía",
     "edit-profile": "Editar Perfil",
-    "refresh-nfts": ""
+    "refresh-nfts": "Actualizar NFTs"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",
@@ -154,17 +154,17 @@
     "rename-deck-success": "Mazo renombrado satisfactoriamente",
     "no-new-name-error": "No has facilitado un nuevo nombre para tu mazo",
     "name-too-long-error": "El nombre facilitado es demasiado largo",
-    "tower-rush-title": "",
-    "current-tower-rush-deck": "",
-    "tower-rush": "",
-    "last-colon": "",
-    "next-colon": "",
-    "level-abbr": "",
-    "no-tower-rush-error-1": "",
-    "no-tower-rush-error-2": "",
-    "store-link-label": "",
-    "all-zerpmons": "",
-    "ascended-zerpmons": ""
+    "tower-rush-title": "Mazo de Fiebre de la Torre",
+    "current-tower-rush-deck": "Mazo actual de la Fiebre de la Torre",
+    "tower-rush": "Fiebre de la Torre",
+    "last-colon": "Último:",
+    "next-colon": "Siguiente:",
+    "level-abbr": "Nvl.",
+    "no-tower-rush-error-1": "No tienes una Fiebre de la Torre activa corriendo en este momento.",
+    "no-tower-rush-error-2": "Por favor, compra un ticket de la Fiebre de la Torre en la Tienda o en el servidor de Discord de Zerpmon.",
+    "store-link-label": "Haz click aquí para ir a la Tienda",
+    "all-zerpmons": "Todas las cartas Zerpmon",
+    "ascended-zerpmons": "Cartas Zerpmon Ascendidas"
   },
   "store": {
     "title": "Tienda",
@@ -205,8 +205,8 @@
     "missions-played": "Misiones Jugadas",
     "gyms-battled": "Gimnasios Combatidos",
     "zrp-earned-today": "ZRP Ganados Hoy",
-    "global-reset-in": "",
-    "global-restore-countdown": ""
+    "global-reset-in": "Restablecimiento global en",
+    "global-restore-countdown": "Cuenta atrás de restablecimiento global"
   },
   "leaderboard": {
     "title": "Clasificación",
@@ -215,7 +215,7 @@
     "dropdown-ranked-battle": "Batalla Clasificatoria",
     "search": "Buscar",
     "dropdown-tower-rush": "Fiebre de la torre",
-    "tower-rush-non-holders": ""
+    "tower-rush-non-holders": "Fiebre de la torre (No-Holders)"
   },
   "leaderboard-table": {
     "player": "Jugador",
@@ -246,8 +246,8 @@
     "total-zrp-earned": "Total ZRP",
     "tower-points-short": "PT",
     "total-zrp-earned-short": "ZRP",
-    "highest-level": "",
-    "highest-level-short": ""
+    "highest-level": "Nivel más alto",
+    "highest-level-short": "Nvl Al"
   },
   "analytics": {
     "analytics": "Análisis",
@@ -265,7 +265,7 @@
     "jackpot-count": "ZRP Ganados en el Jackpot",
     "zrp-price": "Precio de ZRP",
     "floor-price": "Precio Mínimo de Zerpmon",
-    "zrp-balance": ""
+    "zrp-balance": "Balance ZRP"
   },
   "inventory": {
     "title": "Inventario",
@@ -286,8 +286,8 @@
     "confirm-use-candy": "¿Estás seguro de que quieres usar {inventoryItem} en {nft}?",
     "used-gym-refill-potion": "Has utilizado Poción de Recarga de Gimnasio satisfactoriamente",
     "error-gym-refill-potion": "Un error ha ocurrido mientras usabas la Poción de Recarga de Gimnasio. Por favor, inténtalo más tarde",
-    "used-double-xp-potion": "",
-    "error-double-xp-potion": ""
+    "used-double-xp-potion": "Has dobldo los puntos de experiencia por 24 horas adicionales",
+    "error-double-xp-potion": "Un error ha ocurrido usando la poción de Doble XP"
   },
   "safari": {
     "title": "Safari",
@@ -312,34 +312,34 @@
     "loading-jackpot": "Cargando Jackpot Actual...",
     "error-loading-jackpot": "No se pudo cargar el jackpot actual",
     "catchable-nfts": "NFTs Capturables: {catchableNfts}",
-    "open-all": "",
-    "click-to-open": "",
-    "roll-reward": "",
-    "roll-name": "",
-    "roll-amount": "",
-    "roll-nft": "",
-    "roll-variant": "",
-    "you-have-won": "",
-    "you-have-won-zerpmon": "",
-    "you-have-won-equipment": "",
-    "you-have-won-jackpot": ""
+    "open-all": "Abrir todo",
+    "click-to-open": "Click para abrir",
+    "roll-reward": "Premio",
+    "roll-name": "Nombre",
+    "roll-amount": "Cantidad",
+    "roll-nft": "NFT",
+    "roll-variant": "Variante",
+    "you-have-won": "Has ganado {rewardAmount} {rewardName}",
+    "you-have-won-zerpmon": "Has ganado un Zerpmon aleatorio",
+    "you-have-won-equipment": "Has ganado un Equipamiento aleatorio",
+    "you-have-won-jackpot": "Has ganado un bote de {amount} ZRP"
   },
   "battle": {
     "title": "Batalla",
-    "knockout-message": "",
-    "blue-trigger-message": "",
-    "miss-trigger-message": "",
-    "purple-trigger-message": "",
-    "damage-trigger-message": "",
-    "wait-for-result": "",
-    "normal-winner-message": "",
-    "equipment-trigger-message": "",
-    "crit-ko-message-1": "",
-    "draw-message": "",
-    "crit-ko-message-2": "",
-    "pierce-trigger-message-1": "",
-    "pierce-trigger-message-2": "",
-    "pierce-failed-message": ""
+    "knockout-message": "¡{winner} noqueó a 💀 {loser} 💀!",
+    "blue-trigger-message": "¡{zerpmonName} utiliza 🟦 {moveName}!",
+    "miss-trigger-message": "{zerpmonName}  (typesString)   🟥  Falló ({movePercent}%)",
+    "purple-trigger-message": "{zerpmonName}  ({typesString})   utilizó 🟪 {movename} {stars} ({movePercent}%)",
+    "damage-trigger-message": "{zerpmonName}  ({typesString})   utilizó {moveEmj}  {moveName} ({dmgMul}) {dmg}({movePercent}%)",
+    "wait-for-result": "Calculando resultados de Batalla...",
+    "normal-winner-message": "GANADOR  👑{winner}👑",
+    "equipment-trigger-message": "✨{equipmentName}✨ ({zerpmonName})",
+    "crit-ko-message-1": "¡{loser} es absolutamente destruido por este ataque! ¡Doble daño!",
+    "draw-message": "EMPATE",
+    "crit-ko-message-2": "¡La mandíbula de {loser} se partió por un golpe perfecto! ¡Doble daño!",
+    "pierce-trigger-message-1": "¡{winnerMove} de {winner} ha atravesado milagrosamente el {loserMove} de {loser}!",
+    "pierce-trigger-message-2": "¡{winnerMove} de {winner} ha anulado satisfactoriamente {loserMove} de {loser}!",
+    "pierce-failed-message": "¡{moveA} de {zerpA} no pudo atravesar {moveB} de{zerpB}!"
   },
   "test": {
     "test": "esto es un test"
@@ -354,20 +354,20 @@
     "signin-request-missing": "El enlace de la petición no existe o ha caducado"
   },
   "zerpmon-types-damage-table": {
-    "strong": "",
-    "weak": "",
-    "useless": "",
-    "no-change": "",
-    "simple-view": "",
-    "attacking-tooltip": "",
-    "attacking": "",
-    "defending-tooltip": "",
-    "defending": ""
+    "strong": "Fuerte",
+    "weak": "Débil",
+    "useless": "Inutil",
+    "no-change": "Sin cambio",
+    "simple-view": "Vista simple",
+    "attacking-tooltip": "Daño que haces",
+    "attacking": "Ataque",
+    "defending-tooltip": "Daño que recibes",
+    "defending": "Defensa"
   },
   "marketplace": {
-    "loan": "",
-    "trading": "",
-    "auction": "",
-    "title": ""
+    "loan": "Préstamo",
+    "trading": "Cambio",
+    "auction": "Subasta",
+    "title": "Mercado"
   }
 }
