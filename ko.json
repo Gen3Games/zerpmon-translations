@@ -339,7 +339,10 @@
     "crit-ko-message-2": "",
     "pierce-trigger-message-1": "",
     "pierce-trigger-message-2": "",
-    "pierce-failed-message": ""
+    "pierce-failed-message": "",
+    "purple-0-stars-lose-message": "",
+    "purple-0-stars-draw-message": "",
+    "survive-trigger-message": ""
   },
   "test": {
     "test": "테스트입니다."

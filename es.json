@@ -339,7 +339,10 @@
     "crit-ko-message-2": "¡La mandíbula de {loser} se partió por un golpe perfecto! ¡Doble daño!",
     "pierce-trigger-message-1": "¡{winnerMove} de {winner} ha atravesado milagrosamente el {loserMove} de {loser}!",
     "pierce-trigger-message-2": "¡{winnerMove} de {winner} ha anulado satisfactoriamente {loserMove} de {loser}!",
-    "pierce-failed-message": "¡{moveA} de {zerpA} no pudo atravesar {moveB} de{zerpB}!"
+    "pierce-failed-message": "¡{moveA} de {zerpA} no pudo atravesar {moveB} de{zerpB}!",
+    "purple-0-stars-lose-message": "",
+    "purple-0-stars-draw-message": "",
+    "survive-trigger-message": ""
   },
   "test": {
     "test": "esto es un test"
