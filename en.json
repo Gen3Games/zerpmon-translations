@@ -340,7 +340,7 @@
     "pierce-trigger-message-1": "{winner}'s {winnerMove} has miraculously pierced through {loser}'s {loserMove}!",
     "pierce-trigger-message-2": "{winner}'s {winnerMove} has successfully nullified {loser}'s {loserMove}!",
     "pierce-failed-message": "{zerpA}'s {moveA} couldn't break through {zerpB}'s {moveB}!",
-    "purple-0-stars-lose-message": "{loser}'s {loserMove} was ineffective because it has 0 stars! {winnerName}'s {winnerMove} breaks through with ease!",
+    "purple-0-stars-lose-message": "{loserName}'s {loserMove} was ineffective because it has 0 stars! {winnerName}'s {winnerMove} breaks through with ease!",
     "purple-0-stars-draw-message": "{zerpmonName}'s {moveName} was ineffective because it has 0 stars!",
     "survive-trigger-message": "Woah! {zerpmonName} seemingly comes back to life with its {equipmentName}!"
   },
