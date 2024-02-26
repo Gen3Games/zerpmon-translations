@@ -371,6 +371,12 @@
     "loan": "Loan",
     "trading": "Trading",
     "auction": "Auction",
-    "title": "Marketplace"
+    "title": "Marketplace",
+    "loan-title": "Zerpmon NFTs",
+    "loan-description": "Discover unique Zerpmon NFTs available for rent or loan.",
+    "loan-add-listing": "Add listing",
+    "loan-rarity": "Rarity",
+    "loan-type": "Type",
+    "loan-search": "Search"
   }
 }

@@ -371,6 +371,12 @@
     "loan": "Préstamo",
     "trading": "Cambio",
     "auction": "Subasta",
-    "title": "Mercado"
+    "title": "Mercado",
+    "loan-title": "",
+    "loan-description": "",
+    "loan-add-listing": "",
+    "loan-rarity": "",
+    "loan-type": "",
+    "loan-search": ""
   }
 }
