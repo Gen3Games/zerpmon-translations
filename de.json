@@ -29,7 +29,7 @@
     "settings": "Einstellungen",
     "logout": "Abmelden",
     "sign-out-success": "Du hast dich erfolgreich abgemeldet.",
-    "marketplace": ""
+    "marketplace": "Marktplatz"
   },
   "sign-in": {
     "button-label": "Anmelden",
@@ -59,7 +59,7 @@
     "equipments": "Ausrüstung",
     "bio": "Bio",
     "edit-profile": "Profil bearbeiten",
-    "refresh-nfts": ""
+    "refresh-nfts": "NFT's erneut laden"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",
@@ -333,16 +333,16 @@
     "damage-trigger-message": "{zerpmonName}  ({typesString})  hat {moveEmj}  {moveName} benutzt ({dmgMul}) {dmg}({movePercent}%)",
     "wait-for-result": "Ermittle Wettkampfergebnisse...",
     "normal-winner-message": "SIEGER  👑{winner}👑",
-    "equipment-trigger-message": "",
-    "crit-ko-message-1": "",
-    "draw-message": "",
-    "crit-ko-message-2": "",
-    "pierce-trigger-message-1": "",
-    "pierce-trigger-message-2": "",
-    "pierce-failed-message": "",
-    "purple-0-stars-lose-message": "",
-    "purple-0-stars-draw-message": "",
-    "survive-trigger-message": ""
+    "equipment-trigger-message": "✨{equipmentName}✨ ({zerpmonName})",
+    "crit-ko-message-1": "{loser} wurde durch diesen Angriff völlig zerstört! Doppelter Schaden!",
+    "draw-message": "Unentschieden!",
+    "crit-ko-message-2": "{loser}'s Kiefer wurde mit einem perfekten Schlag geknackt! Doppelter Schaden!",
+    "pierce-trigger-message-1": "{winner}'s {winnerMove} hat auf wundersame Weise {loser}'s {loserMove} durchdrungen!",
+    "pierce-trigger-message-2": "{winner}'s {winnerMove} hat erfolgreich {loser}'s {loserMove} gelöscht!",
+    "pierce-failed-message": "{zerpA}'s {moveA} konnte {zerpB}'s {moveB} nicht überwinden!",
+    "purple-0-stars-lose-message": "{loserName}'s {loserMove} war unwirksam, da der Angriff 0 Sterne hat! {winnerName}'s {winnerMove} ist mit Leichtigkeit durchgebrochen!",
+    "purple-0-stars-draw-message": "{zerpmonName}'s {moveName} war wirkungslos, da der Angriff 0 Sterne hat!",
+    "survive-trigger-message": "Wow! {zerpmonName} erwacht scheinbar wieder zum Leben durch {equipmentName}!"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -368,15 +368,15 @@
     "defending": "In der Abwehr"
   },
   "marketplace": {
-    "loan": "",
-    "trading": "",
-    "auction": "",
-    "title": "",
-    "loan-title": "",
-    "loan-description": "",
-    "loan-add-listing": "",
-    "loan-rarity": "",
-    "loan-type": "",
-    "loan-search": ""
+    "loan": "Verleih",
+    "trading": "Handel",
+    "auction": "Auktion",
+    "title": "Marktplatz",
+    "loan-title": "Zerpmon NFT's",
+    "loan-description": "Entdecke einzigartige Zerpmon NFT's zur Miete oder als Leihgabe",
+    "loan-add-listing": "Leihgabe hinzufügen",
+    "loan-rarity": "Rarität",
+    "loan-type": "Typ",
+    "loan-search": "Suche"
   }
 }
