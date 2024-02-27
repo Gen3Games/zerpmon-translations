@@ -382,6 +382,16 @@
     "loan-type": "Typ",
     "loan-search": "Suche",
     "not-logged-in": "",
-    "max-duration-error": ""
+    "max-duration-error": "",
+    "listing-title": "",
+    "listing-description": "",
+    "listing-select-nft": "",
+    "listing-currency-selection": "",
+    "listing-per-day-cost": "",
+    "listing-duration": "",
+    "listing-min-rental-duration": "",
+    "listing-max-rental-duration": "",
+    "listing-submit": "",
+    "listing-select-slot": ""
   }
 }
