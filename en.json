@@ -384,6 +384,16 @@
     "loan-type": "Type",
     "loan-search": "Search",
     "not-logged-in": "Not logged in",
-    "max-duration-error": "Max duration must be greater that min duration"
+    "max-duration-error": "Max duration must be greater that min duration",
+    "listing-title": "List your Zerpmon NFT for Loan",
+    "listing-description": "Select the Zerpmon NFT you want to list for loan and enter the details         below.",
+    "listing-select-nft": "Zerpmon NFT Selection",
+    "listing-currency-selection": "Currency Selection",
+    "listing-per-day-cost": "Per Day Cost",
+    "listing-duration": "Listing Duration (in days)",
+    "listing-min-rental-duration": "Minimum Rental Duration (in days)",
+    "listing-max-rental-duration": "Maximum Rental Duration (in days)",
+    "listing-submit": "Submit",
+    "listing-select-slot": "Select NFT"
   }
 }
