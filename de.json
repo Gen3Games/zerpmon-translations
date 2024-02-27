@@ -350,7 +350,8 @@
     "survive-trigger-message": "Wow! {zerpmonName} erwacht scheinbar wieder zum Leben durch {equipmentName}!",
     "stars-reduce-trigger-message": "",
     "damage-increased-trigger-message": "",
-    "damage-decreased-trigger-message": ""
+    "damage-decreased-trigger-message": "",
+    "meteor-trigger-message": ""
   },
   "test": {
     "test": "Dies ist ein Test"

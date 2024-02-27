@@ -350,7 +350,8 @@
     "survive-trigger-message": "",
     "stars-reduce-trigger-message": "",
     "damage-increased-trigger-message": "",
-    "damage-decreased-trigger-message": ""
+    "damage-decreased-trigger-message": "",
+    "meteor-trigger-message": ""
   },
   "test": {
     "test": ""

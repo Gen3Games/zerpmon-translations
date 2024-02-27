@@ -350,7 +350,8 @@
     "survive-trigger-message": "Woah! {zerpmonName} seemingly comes back to life with its {equipmentName}!",
     "stars-reduce-trigger-message": "Reduced {zerpmonName}'s Purple stars to {newStars} for the rest of the combat!",
     "damage-increased-trigger-message": "{zerpmonName}'s damage is increased by {value} for the next {activeRounds}!",
-    "damage-decreased-trigger-message": "{zerpmonName}'s damage is decreased by {value} for the next {activeRounds}!"
+    "damage-decreased-trigger-message": "{zerpmonName}'s damage is decreased by {value} for the next {activeRounds}!",
+    "meteor-trigger-message": "Out of nowhere, a giant meteor lands right on top of 💀 {loserName} 💀!"
   },
   "test": {
     "test": "this is a test"
