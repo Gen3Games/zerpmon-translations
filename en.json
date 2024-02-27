@@ -209,7 +209,9 @@
     "global-restore-countdown": "Global Restore Countdown",
     "double-xp": "Double XP",
     "inactive": "Inactive",
-    "use-double-xp-potion": "Use a Double XP potion to activate"
+    "use-double-xp-potion": "Use a Double XP potion to activate",
+    "zrp-balance": "ZRP Balance",
+    "xrp-balance": "XRP Balance"
   },
   "leaderboard": {
     "title": "Leaderboard",

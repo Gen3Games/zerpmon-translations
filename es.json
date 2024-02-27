@@ -209,7 +209,9 @@
     "global-restore-countdown": "Cuenta atrás de restablecimiento global",
     "double-xp": "",
     "inactive": "",
-    "use-double-xp-potion": ""
+    "use-double-xp-potion": "",
+    "zrp-balance": "",
+    "xrp-balance": ""
   },
   "leaderboard": {
     "title": "Clasificación",
