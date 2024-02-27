@@ -394,6 +394,22 @@
     "listing-min-rental-duration": "Minimum Rental Duration (in days)",
     "listing-max-rental-duration": "Maximum Rental Duration (in days)",
     "listing-submit": "Submit",
-    "listing-select-slot": "Select NFT"
+    "listing-select-slot": "Select NFT",
+    "loan-my-listings": "My listings"
+  },
+  "manage-listing": {
+    "title": "My NFTs",
+    "description": "Manage your listed NFTs for loaning",
+    "table-image": "Image",
+    "table-title": "Title",
+    "table-description": "Description",
+    "table-loan-duration": "Loan Duration",
+    "table-status": "Status",
+    "table-actions": "Actions",
+    "search-placeholder": "Search by title...",
+    "edit": "Edit",
+    "unlist": "Unlist",
+    "collect-fees": "Collect fees",
+    "search": "Search"
   }
 }
