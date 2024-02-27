@@ -342,7 +342,10 @@
     "pierce-failed-message": "{zerpA}'s {moveA} couldn't break through {zerpB}'s {moveB}!",
     "purple-0-stars-lose-message": "{loserName}'s {loserMove} was ineffective because it has 0 stars! {winnerName}'s {winnerMove} breaks through with ease!",
     "purple-0-stars-draw-message": "{zerpmonName}'s {moveName} was ineffective because it has 0 stars!",
-    "survive-trigger-message": "Woah! {zerpmonName} seemingly comes back to life with its {equipmentName}!"
+    "survive-trigger-message": "Woah! {zerpmonName} seemingly comes back to life with its {equipmentName}!",
+    "stars-reduce-trigger-message": "Reduced {zerpmonName}'s Purple stars to {newStars} for the rest of the combat!",
+    "damage-increased-trigger-message": "{zerpmonName}'s damage is increased by {value} for the next {activeRounds}!",
+    "damage-decreased-trigger-message": "{zerpmonName}'s damage is decreased by {value} for the next {activeRounds}!"
   },
   "test": {
     "test": "this is a test"
