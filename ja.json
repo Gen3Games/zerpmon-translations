@@ -206,7 +206,12 @@
     "gyms-battled": "バトルしたジム",
     "zrp-earned-today": "今日獲得したZRP",
     "global-reset-in": "",
-    "global-restore-countdown": ""
+    "global-restore-countdown": "",
+    "double-xp": "",
+    "inactive": "",
+    "use-double-xp-potion": "",
+    "zrp-balance": "",
+    "xrp-balance": ""
   },
   "leaderboard": {
     "title": "リーダーボード",
@@ -380,6 +385,34 @@
     "loan-add-listing": "",
     "loan-rarity": "",
     "loan-type": "",
-    "loan-search": ""
+    "loan-search": "",
+    "not-logged-in": "",
+    "max-duration-error": "",
+    "listing-title": "",
+    "listing-description": "",
+    "listing-select-nft": "",
+    "listing-currency-selection": "",
+    "listing-per-day-cost": "",
+    "listing-duration": "",
+    "listing-min-rental-duration": "",
+    "listing-max-rental-duration": "",
+    "listing-submit": "",
+    "listing-select-slot": "",
+    "loan-my-listings": ""
+  },
+  "manage-listing": {
+    "title": "",
+    "description": "",
+    "table-image": "",
+    "table-title": "",
+    "table-description": "",
+    "table-loan-duration": "",
+    "table-status": "",
+    "table-actions": "",
+    "search-placeholder": "",
+    "edit": "",
+    "unlist": "",
+    "collect-fees": "",
+    "search": ""
   }
 }

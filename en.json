@@ -206,7 +206,12 @@
     "gyms-battled": "Gyms Battled",
     "zrp-earned-today": "ZRP Earned Today",
     "global-reset-in": "Global Reset in",
-    "global-restore-countdown": "Global Restore Countdown"
+    "global-restore-countdown": "Global Restore Countdown",
+    "double-xp": "Double XP",
+    "inactive": "Inactive",
+    "use-double-xp-potion": "Use a Double XP potion to activate",
+    "zrp-balance": "ZRP Balance",
+    "xrp-balance": "XRP Balance"
   },
   "leaderboard": {
     "title": "Leaderboard",
@@ -380,6 +385,34 @@
     "loan-add-listing": "Add listing",
     "loan-rarity": "Rarity",
     "loan-type": "Type",
-    "loan-search": "Search"
+    "loan-search": "Search",
+    "not-logged-in": "Not logged in",
+    "max-duration-error": "Max duration must be greater that min duration",
+    "listing-title": "List your Zerpmon NFT for Loan",
+    "listing-description": "Select the Zerpmon NFT you want to list for loan and enter the details         below.",
+    "listing-select-nft": "Zerpmon NFT Selection",
+    "listing-currency-selection": "Currency Selection",
+    "listing-per-day-cost": "Per Day Cost",
+    "listing-duration": "Listing Duration (in days)",
+    "listing-min-rental-duration": "Minimum Rental Duration (in days)",
+    "listing-max-rental-duration": "Maximum Rental Duration (in days)",
+    "listing-submit": "Submit",
+    "listing-select-slot": "Select NFT",
+    "loan-my-listings": "My listings"
+  },
+  "manage-listing": {
+    "title": "My NFTs",
+    "description": "Manage your listed NFTs for loaning",
+    "table-image": "Image",
+    "table-title": "Title",
+    "table-description": "Description",
+    "table-loan-duration": "Loan Duration",
+    "table-status": "Status",
+    "table-actions": "Actions",
+    "search-placeholder": "Search by title...",
+    "edit": "Edit",
+    "unlist": "Unlist",
+    "collect-fees": "Collect fees",
+    "search": "Search"
   }
 }
