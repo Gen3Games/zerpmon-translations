@@ -377,6 +377,8 @@
     "loan-add-listing": "",
     "loan-rarity": "",
     "loan-type": "",
-    "loan-search": ""
+    "loan-search": "",
+    "not-logged-in": "",
+    "max-duration-error": ""
   }
 }

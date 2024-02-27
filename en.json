@@ -377,6 +377,8 @@
     "loan-add-listing": "Add listing",
     "loan-rarity": "Rarity",
     "loan-type": "Type",
-    "loan-search": "Search"
+    "loan-search": "Search",
+    "not-logged-in": "Not logged in",
+    "max-duration-error": "Max duration must be greater that min duration"
   }
 }

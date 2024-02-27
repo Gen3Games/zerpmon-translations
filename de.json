@@ -377,6 +377,8 @@
     "loan-add-listing": "Leihgabe hinzufügen",
     "loan-rarity": "Rarität",
     "loan-type": "Typ",
-    "loan-search": "Suche"
+    "loan-search": "Suche",
+    "not-logged-in": "",
+    "max-duration-error": ""
   }
 }
