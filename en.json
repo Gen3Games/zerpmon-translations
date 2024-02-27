@@ -206,7 +206,10 @@
     "gyms-battled": "Gyms Battled",
     "zrp-earned-today": "ZRP Earned Today",
     "global-reset-in": "Global Reset in",
-    "global-restore-countdown": "Global Restore Countdown"
+    "global-restore-countdown": "Global Restore Countdown",
+    "double-xp": "Double XP",
+    "inactive": "Inactive",
+    "use-double-xp-potion": "Use a Double XP potion to activate"
   },
   "leaderboard": {
     "title": "Leaderboard",

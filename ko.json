@@ -206,7 +206,10 @@
     "gyms-battled": "배틀한 체육관",
     "zrp-earned-today": "오늘 획득한 ZRP",
     "global-reset-in": "글로벌 재설정",
-    "global-restore-countdown": "글로벌 복원 카운트다운"
+    "global-restore-countdown": "글로벌 복원 카운트다운",
+    "double-xp": "",
+    "inactive": "",
+    "use-double-xp-potion": ""
   },
   "leaderboard": {
     "title": "리더보드",

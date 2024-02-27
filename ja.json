@@ -206,7 +206,10 @@
     "gyms-battled": "バトルしたジム",
     "zrp-earned-today": "今日獲得したZRP",
     "global-reset-in": "",
-    "global-restore-countdown": ""
+    "global-restore-countdown": "",
+    "double-xp": "",
+    "inactive": "",
+    "use-double-xp-potion": ""
   },
   "leaderboard": {
     "title": "リーダーボード",

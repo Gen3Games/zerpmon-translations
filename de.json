@@ -206,7 +206,10 @@
     "gyms-battled": "Trainingskämpfe",
     "zrp-earned-today": "Heute verdiente ZRP",
     "global-reset-in": "Weltweiter Neustart in",
-    "global-restore-countdown": "Weltweiter Neustart-Timer"
+    "global-restore-countdown": "Weltweiter Neustart-Timer",
+    "double-xp": "",
+    "inactive": "",
+    "use-double-xp-potion": ""
   },
   "leaderboard": {
     "title": "Bestenliste",

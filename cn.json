@@ -206,7 +206,10 @@
     "gyms-battled": "已战道館数量",
     "zrp-earned-today": "今日赚取的ZRP",
     "global-reset-in": "",
-    "global-restore-countdown": ""
+    "global-restore-countdown": "",
+    "double-xp": "",
+    "inactive": "",
+    "use-double-xp-potion": ""
   },
   "leaderboard": {
     "title": "排行榜",
