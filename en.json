@@ -359,7 +359,9 @@
     "crit-ko-message-7": "Oooof, even Elite 4 Reiko can't stand to watch that! {loser} felt that in their pride! Double damage!",
     "crit-ko-message-8": "{loser} failed to put up their defences properly and took a major blow to their ego! Double damage!",
     "crit-ko-message-9": "That attack just demolished {loser}'s subscription to \"How to be a Fierce Warrior\" magazine! Double damage!",
-    "crit-ko-message-10": "Ouchhhh! I don't think {loser} can breed anymore after that attack! Double damage!"
+    "crit-ko-message-10": "Ouchhhh! I don't think {loser} can breed anymore after that attack! Double damage!",
+    "increased-percent-trigger-message": "{zerpmonName}'s {moveName}  ⬆️ {change}% ({newDmgOrPercent}%)",
+    "decreased-percent-trigger-message": "{zerpmonName}'s {moveName}  ⬇️ {change}% ({newDmgOrPercent}%)"
   },
   "test": {
     "test": "this is a test"

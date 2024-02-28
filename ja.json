@@ -359,7 +359,9 @@
     "crit-ko-message-7": "",
     "crit-ko-message-8": "",
     "crit-ko-message-9": "",
-    "crit-ko-message-10": ""
+    "crit-ko-message-10": "",
+    "increased-percent-trigger-message": "",
+    "decreased-percent-trigger-message": ""
   },
   "test": {
     "test": ""
