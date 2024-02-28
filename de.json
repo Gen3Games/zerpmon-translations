@@ -360,8 +360,8 @@
     "crit-ko-message-8": "{loser} hat seine Verteidigung erbärmlich aufgestellt und mächtig einen aufs Ego bekommen! Doppelter Schaden!",
     "crit-ko-message-9": "Dieser Angriff hat {loser}'s Abo vom \"Wie werde ich ein großer Krieger\"-Magazin vernichtet! Doppelter Schaden!",
     "crit-ko-message-10": "Wow!! {loser} wackelt wie Captain Jack Sparrow nach einem gewaltigen Hieb durch die Lande! Doppelter Schaden!",
-    "increased-percent-trigger-message": "",
-    "decreased-percent-trigger-message": ""
+    "increased-percent-trigger-message": "{zerpmonName}'s {moveName}  ⬆️ {change}% ({newDmgOrPercent}%)",
+    "decreased-percent-trigger-message": "{zerpmonName}'s {moveName}  ⬇️ {change}% ({newDmgOrPercent}%)"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -410,8 +410,8 @@
     "listing-submit": "Senden",
     "listing-select-slot": "Wähle ein NFT",
     "loan-my-listings": "Mein Angebot",
-    "loan-listing-owner": "",
-    "loan-no-nfts": ""
+    "loan-listing-owner": "Besitzer: {username}",
+    "loan-no-nfts": "Keine NFT's"
   },
   "manage-listing": {
     "title": "Meine NFT's",
