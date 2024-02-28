@@ -351,7 +351,15 @@
     "stars-reduce-trigger-message": "",
     "damage-increased-trigger-message": "",
     "damage-decreased-trigger-message": "",
-    "meteor-trigger-message": ""
+    "meteor-trigger-message": "",
+    "crit-ko-message-3": "",
+    "crit-ko-message-4": "",
+    "crit-ko-message-5": "",
+    "crit-ko-message-6": "",
+    "crit-ko-message-7": "",
+    "crit-ko-message-8": "",
+    "crit-ko-message-9": "",
+    "crit-ko-message-10": ""
   },
   "test": {
     "test": "esto es un test"
