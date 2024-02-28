@@ -408,7 +408,8 @@
     "listing-submit": "Submit",
     "listing-select-slot": "Select NFT",
     "loan-my-listings": "My listings",
-    "loan-listing-owner": "Owner: {username}"
+    "loan-listing-owner": "Owner: {username}",
+    "loan-no-nfts": "No NFTs"
   },
   "manage-listing": {
     "title": "My NFTs",
