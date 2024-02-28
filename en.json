@@ -407,7 +407,8 @@
     "listing-max-rental-duration": "Maximum Rental Duration (in days)",
     "listing-submit": "Submit",
     "listing-select-slot": "Select NFT",
-    "loan-my-listings": "My listings"
+    "loan-my-listings": "My listings",
+    "loan-listing-owner": "Owner: {username}"
   },
   "manage-listing": {
     "title": "My NFTs",

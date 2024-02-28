@@ -407,7 +407,8 @@
     "listing-max-rental-duration": "",
     "listing-submit": "",
     "listing-select-slot": "",
-    "loan-my-listings": ""
+    "loan-my-listings": "",
+    "loan-listing-owner": ""
   },
   "manage-listing": {
     "title": "",
