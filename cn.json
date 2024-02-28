@@ -409,7 +409,9 @@
     "listing-max-rental-duration": "",
     "listing-submit": "",
     "listing-select-slot": "",
-    "loan-my-listings": ""
+    "loan-my-listings": "",
+    "loan-listing-owner": "",
+    "loan-no-nfts": ""
   },
   "manage-listing": {
     "title": "",
