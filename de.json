@@ -412,9 +412,9 @@
     "loan-my-listings": "Mein Angebot",
     "loan-listing-owner": "Besitzer: {username}",
     "loan-no-nfts": "Keine NFT's",
-    "edit-listing-title": "",
-    "edit-listing-description": "",
-    "edit-listing-update": ""
+    "edit-listing-title": "NFT Angebot bearbeiten",
+    "edit-listing-description": "Bearbeite die Einzelheiten deines NFT Angebots unten",
+    "edit-listing-update": "Angebot aktualisieren"
   },
   "manage-listing": {
     "title": "Meine NFT's",
