@@ -411,7 +411,10 @@
     "listing-select-slot": "Select NFT",
     "loan-my-listings": "My listings",
     "loan-listing-owner": "Owner: {username}",
-    "loan-no-nfts": "No NFTs"
+    "loan-no-nfts": "No NFTs",
+    "edit-listing-title": "Edit NFT Listing",
+    "edit-listing-description": "Update the details of your Zerpmon NFT listing below.",
+    "edit-listing-update": "Update Listing"
   },
   "manage-listing": {
     "title": "My NFTs",

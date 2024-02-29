@@ -411,7 +411,10 @@
     "listing-select-slot": "Wähle ein NFT",
     "loan-my-listings": "Mein Angebot",
     "loan-listing-owner": "Besitzer: {username}",
-    "loan-no-nfts": "Keine NFT's"
+    "loan-no-nfts": "Keine NFT's",
+    "edit-listing-title": "",
+    "edit-listing-description": "",
+    "edit-listing-update": ""
   },
   "manage-listing": {
     "title": "Meine NFT's",
