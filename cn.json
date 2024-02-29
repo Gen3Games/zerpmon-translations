@@ -14,7 +14,7 @@
     "confirm": "确认",
     "yes": "是",
     "no": "否",
-    "rename-deck-popup-title": ""
+    "rename-deck-popup-title": "改名 {deckType} 牌組号 {deckNumber}"
   },
   "sidebar": {
     "home": "首页",
@@ -29,7 +29,7 @@
     "settings": "设置",
     "logout": "登出",
     "sign-out-success": "你已成功登出。",
-    "marketplace": ""
+    "marketplace": "交易市场"
   },
   "sign-in": {
     "button-label": "登录",
@@ -49,9 +49,9 @@
     "wallets-coming-soon": "Crossmark、Metamask和GemWallet钱包支持即将推出",
     "metamask": "Metamask",
     "gemwallet": "GemWallet",
-    "google": "",
-    "discord": "",
-    "social-logins-kaiju": ""
+    "google": "使用谷歌登录",
+    "discord": "使用Discord登录",
+    "social-logins-kaiju": "使用Kaiju Wallet登录"
   },
   "user-profile": {
     "trainers": "训练师",
@@ -59,7 +59,7 @@
     "equipments": "装备",
     "bio": "传记",
     "edit-profile": "编辑资料",
-    "refresh-nfts": ""
+    "refresh-nfts": "刷新NFTs"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",
@@ -138,33 +138,33 @@
     "zerpmon-already-in-deck": "Zerpmon卡牌已经加入牌組了",
     "cannot-swap-zerpmon-itself": "没法交换同一个Zerpmon",
     "no-equipment-cards-found": "没能寻获装备开牌",
-    "do-not-own-equipment": "你没拥有这装备卡牌",
-    "no-zerpmon-in-slot": "",
+    "do-not-own-equipment": "没拥有这装备卡牌",
+    "no-zerpmon-in-slot": "还没安排Zerpmon",
     "no-zerpmon-found": "无法寻获Zerpmon",
     "equipment-not-match-zerpmon": "装备类型不相配Zerpmon属性",
     "equipment-types-not-match": "装备类型不相配",
     "cannot-swap-equipment-itself": "没法交换同一个装备",
-    "clear-battle-deck": "",
-    "clear-gym-deck": "",
+    "clear-battle-deck": "清除战斗牌組",
+    "clear-gym-deck": "清除道館牌組",
     "rename-deck-popup-title": "",
-    "cancel": "",
-    "rename-deck": "",
-    "unnamed-deck": "",
-    "rename-deck-failed": "",
-    "rename-deck-success": "",
-    "no-new-name-error": "",
-    "name-too-long-error": "",
-    "tower-rush-title": "",
-    "current-tower-rush-deck": "",
-    "tower-rush": "",
-    "last-colon": "",
-    "next-colon": "",
-    "level-abbr": "",
-    "no-tower-rush-error-1": "",
-    "no-tower-rush-error-2": "",
-    "store-link-label": "",
-    "all-zerpmons": "",
-    "ascended-zerpmons": ""
+    "cancel": "取消",
+    "rename-deck": "改牌組名称",
+    "unnamed-deck": "取消牌組名称",
+    "rename-deck-failed": "无法改牌組名称",
+    "rename-deck-success": "成功改牌組名称",
+    "no-new-name-error": "牌組名称一样",
+    "name-too-long-error": "牌組名称太长",
+    "tower-rush-title": "冲塔牌組",
+    "current-tower-rush-deck": "现任冲塔牌組",
+    "tower-rush": "冲塔模式",
+    "last-colon": "最后:",
+    "next-colon": "下一个:",
+    "level-abbr": "Lv.",
+    "no-tower-rush-error-1": "你没有启动冲塔模式",
+    "no-tower-rush-error-2": "请你在商店或者Discord购买票玩冲塔模式",
+    "store-link-label": "点击此处前往商店",
+    "all-zerpmons": "全部Zerpmons牌",
+    "ascended-zerpmons": "觉醒的Zerpmons"
   },
   "store": {
     "title": "商店",
@@ -205,13 +205,13 @@
     "missions-played": "完成任务数量",
     "gyms-battled": "已战道館数量",
     "zrp-earned-today": "今日赚取的ZRP",
-    "global-reset-in": "",
-    "global-restore-countdown": "",
-    "double-xp": "",
-    "inactive": "",
-    "use-double-xp-potion": "",
-    "zrp-balance": "",
-    "xrp-balance": ""
+    "global-reset-in": "全局重置",
+    "global-restore-countdown": "全局重置倒计时",
+    "double-xp": "双倍经验",
+    "inactive": "待用",
+    "use-double-xp-potion": "使用双倍经验药水",
+    "zrp-balance": "结余ZRP",
+    "xrp-balance": "结余XRP"
   },
   "leaderboard": {
     "title": "排行榜",
@@ -219,8 +219,8 @@
     "dropdown-pvp": "忠排行榜 - PVP",
     "dropdown-ranked-battle": "排名战斗",
     "search": "搜索",
-    "dropdown-tower-rush": "",
-    "tower-rush-non-holders": ""
+    "dropdown-tower-rush": "冲塔模式",
+    "tower-rush-non-holders": "冲塔模式(非持有人)"
   },
   "leaderboard-table": {
     "player": "玩家",
@@ -247,12 +247,12 @@
     "current-deck": "当前牌組",
     "trainer-not-set": "训练师未设置",
     "zerpmon-not-set": "Zerpmon #{index} 未设置",
-    "tower-points": "",
-    "total-zrp-earned": "",
-    "tower-points-short": "",
-    "total-zrp-earned-short": "",
-    "highest-level": "",
-    "highest-level-short": ""
+    "tower-points": "冲塔积分",
+    "total-zrp-earned": "总ZRP",
+    "tower-points-short": "TP",
+    "total-zrp-earned-short": "ZRP",
+    "highest-level": "最高等级",
+    "highest-level-short": "Hi Lv"
   },
   "analytics": {
     "analytics": "分析",
@@ -270,7 +270,7 @@
     "jackpot-count": "在累积奖中赢得的ZRP",
     "zrp-price": "ZRP价格",
     "floor-price": "Zerpmon底价",
-    "zrp-balance": ""
+    "zrp-balance": "结余ZRP"
   },
   "inventory": {
     "title": "库存",
@@ -289,10 +289,10 @@
     "error-revive-potion": "使用复活药水时发生错误，请稍后再试",
     "error-candy": "使用糖果时发生错误，请稍后再试",
     "confirm-use-candy": "你确定要将{inventoryItem}使用于{nft}上吗？",
-    "used-gym-refill-potion": "",
-    "error-gym-refill-potion": "",
-    "used-double-xp-potion": "",
-    "error-double-xp-potion": ""
+    "used-gym-refill-potion": "你成功使用道館补充药水",
+    "error-gym-refill-potion": "你使用道館补充药水是有误差",
+    "used-double-xp-potion": "你成功使用双倍经验药水",
+    "error-double-xp-potion": "你使用双倍经验药水是有误差"
   },
   "safari": {
     "title": "Safari探险",
@@ -317,17 +317,17 @@
     "loading-jackpot": "正在加载当前奖池...",
     "error-loading-jackpot": "无法加载当前奖池",
     "catchable-nfts": "可捕获的NFTs: {catchableNfts}",
-    "open-all": "",
-    "click-to-open": "",
-    "roll-reward": "",
-    "roll-name": "",
-    "roll-amount": "",
-    "roll-nft": "",
-    "roll-variant": "",
-    "you-have-won": "",
-    "you-have-won-zerpmon": "",
-    "you-have-won-equipment": "",
-    "you-have-won-jackpot": ""
+    "open-all": "全部打开",
+    "click-to-open": "打开",
+    "roll-reward": "奖励",
+    "roll-name": "名",
+    "roll-amount": "合计",
+    "roll-nft": "NFT",
+    "roll-variant": "变体",
+    "you-have-won": "你赢得了{rewardAmount} {rewardName}",
+    "you-have-won-zerpmon": "你赢得了一只Zerpmon",
+    "you-have-won-equipment": "你赢得了一个装备",
+    "you-have-won-jackpot": "你赢得了大奖"
   },
   "battle": {
     "title": "战斗",
