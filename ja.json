@@ -444,6 +444,8 @@
     "transaction-failed": "",
     "successful-listing": "",
     "pay-listing-transaction": "",
-    "pay-listing-fee": ""
+    "pay-listing-fee": "",
+    "rejected-crossmark-msg": "",
+    "tx-error-crossmark-msg": ""
   }
 }

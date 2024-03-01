@@ -444,6 +444,8 @@
     "transaction-failed": "Your NFT sell offer transaction has failed. Please try again later.",
     "successful-listing": "You have successfully listed {nftName} for loaning",
     "pay-listing-transaction": "Pay for NFT listing transaction with XUMM",
-    "pay-listing-fee": "Pay NFT listing fee with XUMM"
+    "pay-listing-fee": "Pay NFT listing fee with XUMM",
+    "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
+    "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later."
   }
 }
