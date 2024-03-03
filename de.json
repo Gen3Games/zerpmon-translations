@@ -436,7 +436,7 @@
     "no-zerpmons": "Du besitzt keine Zerpmons",
     "not-zerpmon-owner": "Du besitzt dieses Zerpmon nicht",
     "nft-has-sell-offers": "Dieses Zerpmon ist bereits zum Verleih gelistet",
-    "sell-offer-transaction-not-found": "Keine NFT-Verleihstransaktion gefunden",
+    "sell-offer-transaction-not-found": "Keine NFT-Verleihtransaktion gefunden",
     "sell-offer-transaction-not-validated": "Diese NFT-Verleihtransaktion ist ungültig",
     "lisitng-payment-transaction-not-found": "Keine Bezahlung der Verleihgebühr gefunden",
     "lisitng-payment-transaction-not-validted": "Die Bezahlung der Verleihgebühr ist ungültig",
