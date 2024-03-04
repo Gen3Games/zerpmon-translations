@@ -366,7 +366,7 @@
   "test": {
     "test": "这是个测试"
   },
- "link-discord-crossmark": {
+  "link-discord-crossmark": {
     "title": "链接 Crossmark 至 Discord",
     "redirected-text": "您已从 Discord 重定向至此处，以验证并链接您的 Crossmark 地址",
     "non-crossmark-wallet": "您已登录非 Crossmark 钱包地址。请先使用 Crossmark 钱包登录",
@@ -375,7 +375,7 @@
     "verify-button-label": "验证您的 Crossmark 钱包地址",
     "signin-request-missing": "请求链接不存在或已过期 Request link does not exist or has expired"
   },
-   "zerpmon-types-damage-table": {
+  "zerpmon-types-damage-table": {
     "strong": "强",
     "weak": "弱",
     "useless": "无效",
@@ -417,7 +417,23 @@
     "edit": "编辑",
     "unlist": "取消列表",
     "collect-fees": "收费",
-    "search": "搜索"
+    "search": "搜索",
+    "no-sell-offers": "",
+    "no-user-data": "",
+    "no-zerpmons": "",
+    "not-zerpmon-owner": "",
+    "cancellation-transaction-not-found": "",
+    "cancellation-transaction-not-validated": "",
+    "transaction-failed": "",
+    "successful-cancellation": "",
+    "rejected-crossmark-msg": "",
+    "tx-error-crossmark-msg": "",
+    "no-loan-listing": "",
+    "no-listings": "",
+    "pay-listing-cancellation-fee": "",
+    "table-listed-days": "",
+    "table-listed": "",
+    "table-expired": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",
