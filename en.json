@@ -472,6 +472,9 @@
     "min-rental-min-error": "Minimum rental duration should be at least {minDays} days",
     "min-rental-max-error": "Minimum rental duration cannot exceed {maxDays} days",
     "max-rental-min-error": "Maximum rental duration should be at least {minDays} days",
-    "max-rental-max-error": "Maximum rental duration cannot exceed {maxDays} days"
+    "max-rental-max-error": "Maximum rental duration cannot exceed {maxDays} days",
+    "edit-listing-title": "Edit NFT Listing",
+    "edit-listing-description": "Update the details of your Zerpmon NFT listing below.",
+    "edit-listing-update": "Update Listing"
   }
 }

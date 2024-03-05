@@ -472,6 +472,9 @@
     "min-rental-min-error": "",
     "min-rental-max-error": "",
     "max-rental-min-error": "",
-    "max-rental-max-error": ""
+    "max-rental-max-error": "",
+    "edit-listing-title": "",
+    "edit-listing-description": "",
+    "edit-listing-update": ""
   }
 }
