@@ -463,6 +463,15 @@
     "rejected-crossmark-msg": "Du hast die Transaktion mit dem Crossmark-Wallet abgelehnt",
     "tx-error-crossmark-msg": "Die Transaktion konnte im Crossmark-Wallet nicht durchgeführt werden. Bitte versuche es später noch einmal",
     "pay-listing-transaction": "",
-    "listing-submit": ""
+    "listing-submit": "",
+    "per-day-cost-min-error": "",
+    "per-day-cost-max-error": "",
+    "required-error": "",
+    "listing-duration-min-error": "",
+    "listing-duration-max-error": "",
+    "min-rental-min-error": "",
+    "min-rental-max-error": "",
+    "max-rental-min-error": "",
+    "max-rental-max-error": ""
   }
 }

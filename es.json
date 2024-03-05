@@ -463,6 +463,15 @@
     "pay-listing-transaction": "",
     "pay-listing-fee": "",
     "rejected-crossmark-msg": "",
-    "tx-error-crossmark-msg": ""
+    "tx-error-crossmark-msg": "",
+    "per-day-cost-min-error": "",
+    "per-day-cost-max-error": "",
+    "required-error": "",
+    "listing-duration-min-error": "",
+    "listing-duration-max-error": "",
+    "min-rental-min-error": "",
+    "min-rental-max-error": "",
+    "max-rental-min-error": "",
+    "max-rental-max-error": ""
   }
 }

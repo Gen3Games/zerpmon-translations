@@ -463,6 +463,15 @@
     "rejected-crossmark-msg": "您已拒绝 Crossmark 钱包中的交易.",
     "tx-error-crossmark-msg": "无法在 Crossmark 钱包中创建交易。请稍后再试。",
     "pay-listing-transaction": "",
-    "listing-submit": ""
+    "listing-submit": "",
+    "per-day-cost-min-error": "",
+    "per-day-cost-max-error": "",
+    "required-error": "",
+    "listing-duration-min-error": "",
+    "listing-duration-max-error": "",
+    "min-rental-min-error": "",
+    "min-rental-max-error": "",
+    "max-rental-min-error": "",
+    "max-rental-max-error": ""
   }
 }

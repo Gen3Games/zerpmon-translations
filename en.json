@@ -463,6 +463,15 @@
     "pay-listing-transaction": "Sign NFT offer",
     "pay-listing-fee": "Pay NFT listing fee with XUMM",
     "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
-    "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later."
+    "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later.",
+    "per-day-cost-min-error": "Per day cost should be at leaset {perDayCost}",
+    "per-day-cost-max-error": "Per day cost cannot exceed {perDayCostMax}",
+    "required-error": "Required",
+    "listing-duration-min-error": "Listing duration should be at least {minDays} days",
+    "listing-duration-max-error": "Listing duration cannot exceed {maxDays} days",
+    "min-rental-min-error": "Minimum rental duration should be at least {minDays} days",
+    "min-rental-max-error": "Minimum rental duration cannot exceed {maxDays} days",
+    "max-rental-min-error": "Maximum rental duration should be at least {minDays} days",
+    "max-rental-max-error": "Maximum rental duration cannot exceed {maxDays} days"
   }
 }
