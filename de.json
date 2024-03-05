@@ -433,7 +433,8 @@
     "pay-listing-cancellation-fee": "Bezahle die Gebühr zum Widerruf deines Verkaufsangebotes",
     "table-listed-days": "{numberOfDays} Tage",
     "table-listed": "Gelistet",
-    "table-expired": "Abgelaufen"
+    "table-expired": "Abgelaufen",
+    "confirm-unlist": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",
@@ -446,7 +447,6 @@
     "listing-duration": "Angebotsdauer (in Tagen)",
     "listing-min-rental-duration": "Minimale Mietdauer (in Tagen)",
     "listing-max-rental-duration": "Maximale Mietdauer (in Tagen)",
-    "listing-submit": "Angebot senden",
     "listing-select-slot": "Wähle ein NFT",
     "no-user-data": "Keine Nutzerdaten",
     "no-zerpmons": "Du besitzt keine Zerpmons",
@@ -459,9 +459,10 @@
     "no-listing-found": "Kein Verleihangebot gefunden",
     "transaction-failed": "Das Verleihangebot für dein NFT war nicht erfolgreich. Bitte versuche es später noch einmal",
     "successful-listing": "Das Verleihangebot für {nftName} war efolgreich",
-    "pay-listing-transaction": "Bezahle für das NFT-Verleihangebot mit Xaman",
     "pay-listing-fee": "Bezahle deine NFT-Verleihgebühr mit Xaman",
     "rejected-crossmark-msg": "Du hast die Transaktion mit dem Crossmark-Wallet abgelehnt",
-    "tx-error-crossmark-msg": "Die Transaktion konnte im Crossmark-Wallet nicht durchgeführt werden. Bitte versuche es später noch einmal"
+    "tx-error-crossmark-msg": "Die Transaktion konnte im Crossmark-Wallet nicht durchgeführt werden. Bitte versuche es später noch einmal",
+    "pay-listing-transaction": "",
+    "listing-submit": ""
   }
 }

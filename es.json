@@ -433,7 +433,8 @@
     "pay-listing-cancellation-fee": "",
     "table-listed-days": "",
     "table-listed": "",
-    "table-expired": ""
+    "table-expired": "",
+    "confirm-unlist": ""
   },
   "create-listing": {
     "not-signed-in": "",

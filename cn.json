@@ -433,7 +433,8 @@
     "pay-listing-cancellation-fee": "",
     "table-listed-days": "",
     "table-listed": "",
-    "table-expired": ""
+    "table-expired": "",
+    "confirm-unlist": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",
@@ -446,7 +447,6 @@
     "listing-duration": "上市持续时间（以天为单位）",
     "listing-min-rental-duration": "最短租赁期限（以天为单位）",
     "listing-max-rental-duration": "最长租赁期限（以天为单位）",
-    "listing-submit": "提交",
     "listing-select-slot": "选择 NFT",
     "no-user-data": "没有用户数据",
     "no-zerpmons": "您没有拥有任何 Zerpmons",
@@ -459,9 +459,10 @@
     "no-listing-found": "找不到临时列表",
     "transaction-failed": "您的 NFT 卖出报价交易失败。请稍后再试。",
     "successful-listing": "您已成功上榜 {nftName} 用于贷款",
-    "pay-listing-transaction": "使用 XUMM 支付NFT上币交易",
     "pay-listing-fee": "使用 XUMM 支付NFT上币费",
     "rejected-crossmark-msg": "您已拒绝 Crossmark 钱包中的交易.",
-    "tx-error-crossmark-msg": "无法在 Crossmark 钱包中创建交易。请稍后再试。"
+    "tx-error-crossmark-msg": "无法在 Crossmark 钱包中创建交易。请稍后再试。",
+    "pay-listing-transaction": "",
+    "listing-submit": ""
   }
 }

@@ -430,10 +430,11 @@
     "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later.",
     "no-loan-listing": "Could not find the loan listing",
     "no-listings": "You dont have any listings",
-    "pay-listing-cancellation-fee": "Pay for NFT listing cancellation fee",
+    "pay-listing-cancellation-fee": "Cancel NFT Offer",
     "table-listed-days": "{numberOfDays} days",
     "table-listed": "Listed",
-    "table-expired": "Expired"
+    "table-expired": "Expired",
+    "confirm-unlist": "Are you sure want to unlist {zerpmonName} from loaning ?"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",
@@ -446,7 +447,7 @@
     "listing-duration": "Listing Duration (in days)",
     "listing-min-rental-duration": "Minimum Rental Duration (in days)",
     "listing-max-rental-duration": "Maximum Rental Duration (in days)",
-    "listing-submit": "Submit",
+    "listing-submit": "Create listing",
     "listing-select-slot": "Select NFT",
     "no-user-data": "No user data",
     "no-zerpmons": "You don't own any zerpmons",
@@ -459,7 +460,7 @@
     "no-listing-found": "Could not find temporary listing",
     "transaction-failed": "Your NFT sell offer transaction has failed. Please try again later.",
     "successful-listing": "You have successfully listed {nftName} for loaning",
-    "pay-listing-transaction": "Pay for NFT listing transaction with XUMM",
+    "pay-listing-transaction": "Sign NFT offer",
     "pay-listing-fee": "Pay NFT listing fee with XUMM",
     "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
     "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later."
