@@ -476,5 +476,12 @@
     "edit-listing-title": "",
     "edit-listing-description": "",
     "edit-listing-update": ""
+  },
+  "accept-loan": {
+    "not-signed-in": "",
+    "loan-object-null": "",
+    "loan-already-taken": "",
+    "loan-period-invalid": "",
+    "no-sell-offer": ""
   }
 }

@@ -476,5 +476,12 @@
     "edit-listing-title": "NFT Angebot bearbeiten",
     "edit-listing-description": "Bearbeite deine angebotenen NFT's unten",
     "edit-listing-update": "Aktualisiere dein Angebot"
+  },
+  "accept-loan": {
+    "not-signed-in": "",
+    "loan-object-null": "",
+    "loan-already-taken": "",
+    "loan-period-invalid": "",
+    "no-sell-offer": ""
   }
 }
