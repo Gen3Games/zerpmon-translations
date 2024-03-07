@@ -475,7 +475,8 @@
     "max-rental-max-error": "Maximum rental duration cannot exceed {maxDays} days",
     "edit-listing-title": "Edit NFT Listing",
     "edit-listing-description": "Update the details of your Zerpmon NFT listing below.",
-    "edit-listing-update": "Update Listing"
+    "edit-listing-update": "Update Listing",
+    "sell-offer-not-found": "Could not find any sell offer for this NFT"
   },
   "accept-loan": {
     "not-signed-in": "Not logged in",

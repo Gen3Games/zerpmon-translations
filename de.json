@@ -475,7 +475,8 @@
     "max-rental-max-error": "Die maximale Mietdauer kann {maxDays} Tage nicht übersteigen",
     "edit-listing-title": "NFT Angebot bearbeiten",
     "edit-listing-description": "Bearbeite deine angebotenen NFT's unten",
-    "edit-listing-update": "Aktualisiere dein Angebot"
+    "edit-listing-update": "Aktualisiere dein Angebot",
+    "sell-offer-not-found": ""
   },
   "accept-loan": {
     "not-signed-in": "",
