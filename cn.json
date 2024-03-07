@@ -418,7 +418,7 @@
     "unlist": "取消列表",
     "collect-fees": "收费",
     "search": "搜索",
-     "no-sell-offers": "该 NFT 没有卖价",
+    "no-sell-offers": "该 NFT 没有卖价",
     "no-user-data": "没有用户数据",
     "no-zerpmons": "您不拥有任何 Zerpmon",
     "not-zerpmon-owner": "你不拥有这只 Zerpmon",
@@ -460,9 +460,7 @@
     "transaction-failed": "您的 NFT 卖出报价交易失败。请稍后再试。",
     "successful-listing": "您已成功上榜 {nftName} 用于贷款",
     "pay-listing-fee": "使用 XUMM 支付NFT上币费",
-    "rejected-crossmark-msg": "您已拒绝 Crossmark 钱包中的交易.",
-    "tx-error-crossmark-msg": "无法在 Crossmark 钱包中创建交易。请稍后再试。",
-     "rejected-crossmark-msg": "您已拒绝 Crossmark 钱包中的交易。",
+    "rejected-crossmark-msg": "您已拒绝 Crossmark 钱包中的交易。",
     "tx-error-crossmark-msg": "无法在 Crossmark 钱包中创建交易。请稍后再试。",
     "per-day-cost-min-error": "每天的费用至少为 {perDayCost}",
     "per-day-cost-max-error": "每天的费用不能超过 {perDayCostMax}",
@@ -475,6 +473,7 @@
     "max-rental-max-error": "最长租赁期限不能超过 {maxDays} 天",
     "edit-listing-title": "编辑 NFT 列表",
     "edit-listing-description": "更新下面您的 Zerpmon NFT 列表的详细信息。",
-    "edit-listing-update": "更新清单"
+    "edit-listing-update": "更新清单",
+    "sell-offer-not-found": ""
   }
 }
