@@ -406,7 +406,11 @@
     "loan-no-nfts": "No NFTs",
     "edit-listing-title": "Edit NFT Listing",
     "edit-listing-description": "Update the details of your Zerpmon NFT listing below.",
-    "edit-listing-update": "Update Listing"
+    "edit-listing-update": "Update Listing",
+    "loan-loanability": "",
+    "loan-loanable": "",
+    "loan-loaned": "",
+    "loan-all": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",

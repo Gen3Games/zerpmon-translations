@@ -406,7 +406,11 @@
     "loan-no-nfts": "Keine NFT's",
     "edit-listing-title": "NFT Angebot bearbeiten",
     "edit-listing-description": "Bearbeite die Einzelheiten deines NFT Angebots unten",
-    "edit-listing-update": "Angebot aktualisieren"
+    "edit-listing-update": "Angebot aktualisieren",
+    "loan-loanability": "",
+    "loan-loanable": "",
+    "loan-loaned": "",
+    "loan-all": ""
   },
   "manage-listing": {
     "title": "Meine NFT's",
