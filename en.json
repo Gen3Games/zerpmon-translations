@@ -484,13 +484,14 @@
     "edit-listing-title": "Edit NFT Listing",
     "edit-listing-description": "Update the details of your Zerpmon NFT listing below.",
     "edit-listing-update": "Update Listing",
-    "sell-offer-not-found": "Could not find any sell offer for this NFT"
-  },
-  "accept-loan": {
-    "not-signed-in": "Not logged in",
+    "sell-offer-not-found": "Could not find any sell offer for this NFT",
     "loan-object-null": "Loan listing not found",
     "loan-already-taken": "Someone already took this loan",
     "loan-period-invalid": "Loan period entered not within bounds of Min and Max days for this listing",
-    "no-sell-offer": "There is no sell offer for this NFT"
+    "loan-payment-object-missing": "Unable to find initiated loan's details",
+    "fee-transaction-not-found": "Could not find loan fee transaction",
+    "fee-transaction-not-validated": "Loan fee transaction is not valid",
+    "loan-payment-transaction-not-found": "Could not find loan payment transaction",
+    "loan-payment-transaction-not-validated": "Loan payment transaction is not valid"
   }
 }

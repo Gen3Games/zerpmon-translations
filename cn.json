@@ -482,13 +482,14 @@
     "edit-listing-title": "编辑 NFT 列表",
     "edit-listing-description": "更新下面您的 Zerpmon NFT 列表的详细信息。",
     "edit-listing-update": "更新清单",
-    "sell-offer-not-found": ""
-  },
-  "accept-loan": {
-    "not-signed-in": "",
+    "sell-offer-not-found": "",
     "loan-object-null": "",
     "loan-already-taken": "",
     "loan-period-invalid": "",
-    "no-sell-offer": ""
+    "loan-payment-object-missing": "",
+    "fee-transaction-not-found": "",
+    "fee-transaction-not-validated": "",
+    "loan-payment-transaction-not-found": "",
+    "loan-payment-transaction-not-validated": ""
   }
 }
