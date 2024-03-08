@@ -220,7 +220,8 @@
     "dropdown-ranked-battle": "Beste Ranglistenspiele",
     "search": "Suchen",
     "dropdown-tower-rush": "Beste Festungsstürme",
-    "tower-rush-non-holders": "Festungssturm für Spieler ohne Zerpmon"
+    "tower-rush-non-holders": "Festungssturm für Spieler ohne Zerpmon",
+    "gym": ""
   },
   "leaderboard-table": {
     "player": "Spieler",
@@ -252,7 +253,10 @@
     "tower-points-short": "FP",
     "total-zrp-earned-short": "ZRP",
     "highest-level": "Höchstes Level",
-    "highest-level-short": "Hö. Lvl."
+    "highest-level-short": "Hö. Lvl.",
+    "gym-points": "",
+    "gym-points-short": "",
+    "gym-tier": ""
   },
   "analytics": {
     "analytics": "Auswertung",

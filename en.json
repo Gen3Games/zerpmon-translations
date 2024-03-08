@@ -220,7 +220,8 @@
     "dropdown-ranked-battle": "Ranked Battle",
     "search": "Search",
     "dropdown-tower-rush": "Tower Rush",
-    "tower-rush-non-holders": "Tower Rush (Non-Holders)"
+    "tower-rush-non-holders": "Tower Rush (Non-Holders)",
+    "gym": "Gym"
   },
   "leaderboard-table": {
     "player": "Player",
@@ -252,7 +253,10 @@
     "tower-points-short": "TP",
     "total-zrp-earned-short": "ZRP",
     "highest-level": "Highest Level",
-    "highest-level-short": "Hi Lv"
+    "highest-level-short": "Hi Lv",
+    "gym-points": "Gym Points",
+    "gym-points-short": "GP",
+    "gym-tier": "Tier"
   },
   "analytics": {
     "analytics": "Analytics",

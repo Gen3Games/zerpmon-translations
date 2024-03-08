@@ -220,7 +220,8 @@
     "dropdown-ranked-battle": "排名战斗",
     "search": "搜索",
     "dropdown-tower-rush": "冲塔模式",
-    "tower-rush-non-holders": "冲塔模式(非持有人)"
+    "tower-rush-non-holders": "冲塔模式(非持有人)",
+    "gym": ""
   },
   "leaderboard-table": {
     "player": "玩家",
@@ -252,7 +253,10 @@
     "tower-points-short": "TP",
     "total-zrp-earned-short": "ZRP",
     "highest-level": "最高等级",
-    "highest-level-short": "Hi Lv"
+    "highest-level-short": "Hi Lv",
+    "gym-points": "",
+    "gym-points-short": "",
+    "gym-tier": ""
   },
   "analytics": {
     "analytics": "分析",
