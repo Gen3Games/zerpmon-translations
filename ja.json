@@ -220,7 +220,8 @@
     "dropdown-ranked-battle": "ランク別バトル",
     "search": "検索",
     "dropdown-tower-rush": "",
-    "tower-rush-non-holders": ""
+    "tower-rush-non-holders": "",
+    "gym": ""
   },
   "leaderboard-table": {
     "player": "プレイヤー",
@@ -252,7 +253,10 @@
     "tower-points-short": "",
     "total-zrp-earned-short": "",
     "highest-level": "",
-    "highest-level-short": ""
+    "highest-level-short": "",
+    "gym-points": "",
+    "gym-points-short": "",
+    "gym-tier": ""
   },
   "analytics": {
     "analytics": "分析",
@@ -402,7 +406,11 @@
     "loan-no-nfts": "",
     "edit-listing-title": "",
     "edit-listing-description": "",
-    "edit-listing-update": ""
+    "edit-listing-update": "",
+    "loan-loanability": "",
+    "loan-loanable": "",
+    "loan-loaned": "",
+    "loan-all": ""
   },
   "manage-listing": {
     "title": "",

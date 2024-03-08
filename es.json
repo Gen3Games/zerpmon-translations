@@ -220,7 +220,8 @@
     "dropdown-ranked-battle": "Batalla Clasificatoria",
     "search": "Buscar",
     "dropdown-tower-rush": "Fiebre de la torre",
-    "tower-rush-non-holders": "Fiebre de la torre (No-Holders)"
+    "tower-rush-non-holders": "Fiebre de la torre (No-Holders)",
+    "gym": ""
   },
   "leaderboard-table": {
     "player": "Jugador",
@@ -252,7 +253,10 @@
     "tower-points-short": "PT",
     "total-zrp-earned-short": "ZRP",
     "highest-level": "Nivel más alto",
-    "highest-level-short": "Nvl Al"
+    "highest-level-short": "Nvl Al",
+    "gym-points": "",
+    "gym-points-short": "",
+    "gym-tier": ""
   },
   "analytics": {
     "analytics": "Análisis",
@@ -402,7 +406,11 @@
     "loan-no-nfts": "",
     "edit-listing-title": "",
     "edit-listing-description": "",
-    "edit-listing-update": ""
+    "edit-listing-update": "",
+    "loan-loanability": "",
+    "loan-loanable": "",
+    "loan-loaned": "",
+    "loan-all": ""
   },
   "manage-listing": {
     "title": "",

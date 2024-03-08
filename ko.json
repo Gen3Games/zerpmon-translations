@@ -220,7 +220,8 @@
     "dropdown-ranked-battle": "랭크전",
     "search": "검색",
     "dropdown-tower-rush": "타워 돌진",
-    "tower-rush-non-holders": ""
+    "tower-rush-non-holders": "",
+    "gym": ""
   },
   "leaderboard-table": {
     "player": "플레이어",
@@ -252,7 +253,10 @@
     "tower-points-short": "TP",
     "total-zrp-earned-short": "ZRP",
     "highest-level": "",
-    "highest-level-short": ""
+    "highest-level-short": "",
+    "gym-points": "",
+    "gym-points-short": "",
+    "gym-tier": ""
   },
   "analytics": {
     "analytics": "분석",
@@ -402,7 +406,11 @@
     "loan-no-nfts": "",
     "edit-listing-title": "",
     "edit-listing-description": "",
-    "edit-listing-update": ""
+    "edit-listing-update": "",
+    "loan-loanability": "",
+    "loan-loanable": "",
+    "loan-loaned": "",
+    "loan-all": ""
   },
   "manage-listing": {
     "title": "",
