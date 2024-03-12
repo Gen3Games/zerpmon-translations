@@ -254,9 +254,9 @@
     "total-zrp-earned-short": "ZRP",
     "highest-level": "Höchstes Level",
     "highest-level-short": "Hö. Lvl.",
-    "gym-points": "",
-    "gym-points-short": "",
-    "gym-tier": ""
+    "gym-points": "Trainingspunkte",
+    "gym-points-short": "TP",
+    "gym-tier": "Stufe"
   },
   "analytics": {
     "analytics": "Auswertung",
@@ -407,10 +407,10 @@
     "edit-listing-title": "NFT Angebot bearbeiten",
     "edit-listing-description": "Bearbeite die Einzelheiten deines NFT Angebots unten",
     "edit-listing-update": "Angebot aktualisieren",
-    "loan-loanability": "",
-    "loan-loanable": "",
-    "loan-loaned": "",
-    "loan-all": ""
+    "loan-loanability": "Leihbarkeit",
+    "loan-loanable": "Leihbar",
+    "loan-loaned": "Geliehen",
+    "loan-all": "Alle"
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -442,7 +442,7 @@
     "table-listed-days": "{numberOfDays} Tage",
     "table-listed": "Gelistet",
     "table-expired": "Abgelaufen",
-    "confirm-unlist": ""
+    "confirm-unlist": "Bist du sicher, dass du {zerpmonName} nicht mehr verleihen möchtest?"
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",
@@ -484,14 +484,14 @@
     "edit-listing-title": "NFT Angebot bearbeiten",
     "edit-listing-description": "Bearbeite deine angebotenen NFT's unten",
     "edit-listing-update": "Aktualisiere dein Angebot",
-    "sell-offer-not-found": "",
-    "loan-object-null": "",
-    "loan-already-taken": "",
-    "loan-period-invalid": "",
-    "loan-payment-object-missing": "",
-    "fee-transaction-not-found": "",
-    "fee-transaction-not-validated": "",
-    "loan-payment-transaction-not-found": "",
-    "loan-payment-transaction-not-validated": ""
+    "sell-offer-not-found": "Konnte kein Verleihangebot für dein Zerpmon NFT finden",
+    "loan-object-null": "Verleihangebot nicht gefunden",
+    "loan-already-taken": "Jamand hat dieses Leihangebot schon in Anspruch genommen",
+    "loan-period-invalid": "Leihangebot liegt nicht in den Grenzen der zulässigen Dauer an Tagen",
+    "loan-payment-object-missing": "Keine Details des Leihangebotes auffindbar",
+    "fee-transaction-not-found": "Die Transaktion der Leihgebüren ist nicht auffindbar",
+    "fee-transaction-not-validated": "Die Transaktion der Leihgebühren ist ungültig",
+    "loan-payment-transaction-not-found": "Die Bezahlung des Leihangebotes ist nicht zu finden",
+    "loan-payment-transaction-not-validated": "Die Bezahlung des Leihangebotes ist ungültig"
   }
 }
