@@ -410,7 +410,24 @@
     "loan-loanability": "Loanability",
     "loan-loanable": "Loanable",
     "loan-loaned": "Loaned",
-    "loan-all": "All"
+    "loan-all": "All",
+    "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
+    "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later.",
+    "loan-payment-transaction-failed": "Payment transaction for accept loan failed. Please try again.",
+    "enter-num-of-days": "Enter the amount of days you want to loan {zerpmonName}",
+    "num-of-days-placeholder": "Number of days",
+    "amount-paying": "You will be paying {amount}",
+    "accept-loan": "Loan",
+    "successful-loan": "You have successfully loaned {zerpmonName}",
+    "pay-loan-xumm": "Pay for NFT loan with Xumm",
+    "loan-object-null": "Loan listing not found",
+    "loan-already-taken": "Someone already took this loan",
+    "loan-period-invalid": "Loan period entered not within bounds of Min and Max days for this listing",
+    "loan-payment-object-missing": "Unable to find initiated loan's details",
+    "fee-transaction-not-found": "Could not find loan fee transaction",
+    "fee-transaction-not-validated": "Loan fee transaction is not valid",
+    "loan-payment-transaction-not-found": "Could not find loan payment transaction",
+    "loan-payment-transaction-not-validated": "Loan payment transaction is not valid"
   },
   "manage-listing": {
     "title": "My NFTs",
@@ -484,14 +501,6 @@
     "edit-listing-title": "Edit NFT Listing",
     "edit-listing-description": "Update the details of your Zerpmon NFT listing below.",
     "edit-listing-update": "Update Listing",
-    "sell-offer-not-found": "Could not find any sell offer for this NFT",
-    "loan-object-null": "Loan listing not found",
-    "loan-already-taken": "Someone already took this loan",
-    "loan-period-invalid": "Loan period entered not within bounds of Min and Max days for this listing",
-    "loan-payment-object-missing": "Unable to find initiated loan's details",
-    "fee-transaction-not-found": "Could not find loan fee transaction",
-    "fee-transaction-not-validated": "Loan fee transaction is not valid",
-    "loan-payment-transaction-not-found": "Could not find loan payment transaction",
-    "loan-payment-transaction-not-validated": "Loan payment transaction is not valid"
+    "sell-offer-not-found": "Could not find any sell offer for this NFT"
   }
 }

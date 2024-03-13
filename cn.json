@@ -410,7 +410,24 @@
     "loan-loanability": "",
     "loan-loanable": "",
     "loan-loaned": "",
-    "loan-all": ""
+    "loan-all": "",
+    "rejected-crossmark-msg": "",
+    "tx-error-crossmark-msg": "",
+    "loan-payment-transaction-failed": "",
+    "enter-num-of-days": "",
+    "num-of-days-placeholder": "",
+    "amount-paying": "",
+    "accept-loan": "",
+    "successful-loan": "",
+    "pay-loan-xumm": "",
+    "loan-object-null": "",
+    "loan-already-taken": "",
+    "loan-period-invalid": "",
+    "loan-payment-object-missing": "",
+    "fee-transaction-not-found": "",
+    "fee-transaction-not-validated": "",
+    "loan-payment-transaction-not-found": "",
+    "loan-payment-transaction-not-validated": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",
@@ -482,14 +499,6 @@
     "edit-listing-title": "编辑 NFT 列表",
     "edit-listing-description": "更新下面您的 Zerpmon NFT 列表的详细信息。",
     "edit-listing-update": "更新清单",
-    "sell-offer-not-found": "",
-    "loan-object-null": "",
-    "loan-already-taken": "",
-    "loan-period-invalid": "",
-    "loan-payment-object-missing": "",
-    "fee-transaction-not-found": "",
-    "fee-transaction-not-validated": "",
-    "loan-payment-transaction-not-found": "",
-    "loan-payment-transaction-not-validated": ""
+    "sell-offer-not-found": ""
   }
 }

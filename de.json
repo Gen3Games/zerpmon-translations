@@ -410,7 +410,24 @@
     "loan-loanability": "Leihbarkeit",
     "loan-loanable": "Leihbar",
     "loan-loaned": "Geliehen",
-    "loan-all": "Alle"
+    "loan-all": "Alle",
+    "rejected-crossmark-msg": "",
+    "tx-error-crossmark-msg": "",
+    "loan-payment-transaction-failed": "",
+    "enter-num-of-days": "",
+    "num-of-days-placeholder": "",
+    "amount-paying": "",
+    "accept-loan": "",
+    "successful-loan": "",
+    "pay-loan-xumm": "",
+    "loan-object-null": "Verleihangebot nicht gefunden",
+    "loan-already-taken": "Jamand hat dieses Leihangebot schon in Anspruch genommen",
+    "loan-period-invalid": "Leihangebot liegt nicht in den Grenzen der zulässigen Dauer an Tagen",
+    "loan-payment-object-missing": "Keine Details des Leihangebotes auffindbar",
+    "fee-transaction-not-found": "Die Transaktion der Leihgebüren ist nicht auffindbar",
+    "fee-transaction-not-validated": "Die Transaktion der Leihgebühren ist ungültig",
+    "loan-payment-transaction-not-found": "Die Bezahlung des Leihangebotes ist nicht zu finden",
+    "loan-payment-transaction-not-validated": "Die Bezahlung des Leihangebotes ist ungültig"
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -484,14 +501,6 @@
     "edit-listing-title": "NFT Angebot bearbeiten",
     "edit-listing-description": "Bearbeite deine angebotenen NFT's unten",
     "edit-listing-update": "Aktualisiere dein Angebot",
-    "sell-offer-not-found": "Konnte kein Verleihangebot für dein Zerpmon NFT finden",
-    "loan-object-null": "Verleihangebot nicht gefunden",
-    "loan-already-taken": "Jamand hat dieses Leihangebot schon in Anspruch genommen",
-    "loan-period-invalid": "Leihangebot liegt nicht in den Grenzen der zulässigen Dauer an Tagen",
-    "loan-payment-object-missing": "Keine Details des Leihangebotes auffindbar",
-    "fee-transaction-not-found": "Die Transaktion der Leihgebüren ist nicht auffindbar",
-    "fee-transaction-not-validated": "Die Transaktion der Leihgebühren ist ungültig",
-    "loan-payment-transaction-not-found": "Die Bezahlung des Leihangebotes ist nicht zu finden",
-    "loan-payment-transaction-not-validated": "Die Bezahlung des Leihangebotes ist ungültig"
+    "sell-offer-not-found": "Konnte kein Verleihangebot für dein Zerpmon NFT finden"
   }
 }

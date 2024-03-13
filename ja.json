@@ -410,7 +410,24 @@
     "loan-loanability": "",
     "loan-loanable": "",
     "loan-loaned": "",
-    "loan-all": ""
+    "loan-all": "",
+    "rejected-crossmark-msg": "",
+    "tx-error-crossmark-msg": "",
+    "loan-payment-transaction-failed": "",
+    "enter-num-of-days": "",
+    "num-of-days-placeholder": "",
+    "amount-paying": "",
+    "accept-loan": "",
+    "successful-loan": "",
+    "pay-loan-xumm": "",
+    "loan-object-null": "",
+    "loan-already-taken": "",
+    "loan-period-invalid": "",
+    "loan-payment-object-missing": "",
+    "fee-transaction-not-found": "",
+    "fee-transaction-not-validated": "",
+    "loan-payment-transaction-not-found": "",
+    "loan-payment-transaction-not-validated": ""
   },
   "manage-listing": {
     "title": "",
@@ -484,14 +501,6 @@
     "edit-listing-title": "",
     "edit-listing-description": "",
     "edit-listing-update": "",
-    "sell-offer-not-found": "",
-    "loan-object-null": "",
-    "loan-already-taken": "",
-    "loan-period-invalid": "",
-    "loan-payment-object-missing": "",
-    "fee-transaction-not-found": "",
-    "fee-transaction-not-validated": "",
-    "loan-payment-transaction-not-found": "",
-    "loan-payment-transaction-not-validated": ""
+    "sell-offer-not-found": ""
   }
 }
