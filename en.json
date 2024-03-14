@@ -365,7 +365,18 @@
     "crit-ko-message-9": "That attack just demolished {loser}'s subscription to \"How to be a Fierce Warrior\" magazine! Double damage!",
     "crit-ko-message-10": "Ouchhhh! I don't think {loser} can breed anymore after that attack! Double damage!",
     "increased-percent-trigger-message": "{zerpmonName}'s {moveName}  ⬆️ {change}% ({newDmgOrPercent}%)",
-    "decreased-percent-trigger-message": "{zerpmonName}'s {moveName}  ⬇️ {change}% ({newDmgOrPercent}%)"
+    "decreased-percent-trigger-message": "{zerpmonName}'s {moveName}  ⬇️ {change}% ({newDmgOrPercent}%)",
+    "no-zerpmon-found": "No Zerpmon found under holdings",
+    "no-gym-deck": "No Gym deck found",
+    "invalid-gym": "Please enter a valid Gym",
+    "no-trainer": "No Trainer found in your default deck",
+    "no-zerpmon-in-deck": "No Zerpmon found in default deck",
+    "gym-zerps-not-found": "Failed to find Gym zerpmons",
+    "gym-buffs-not-found": "Failed to determine this stage's buffs",
+    "battle-failed": "Battle failed",
+    "gym-reset-time-not-found": "Failed to get gym reset time",
+    "txn-queue-failed": "Failed to add transaction to queue",
+    "gym-stage-update-failed": "Failed to update gym to next stage"
   },
   "test": {
     "test": "this is a test"

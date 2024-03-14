@@ -365,7 +365,18 @@
     "crit-ko-message-9": "",
     "crit-ko-message-10": "",
     "increased-percent-trigger-message": "",
-    "decreased-percent-trigger-message": ""
+    "decreased-percent-trigger-message": "",
+    "no-zerpmon-found": "",
+    "no-gym-deck": "",
+    "invalid-gym": "",
+    "no-trainer": "",
+    "no-zerpmon-in-deck": "",
+    "gym-zerps-not-found": "",
+    "gym-buffs-not-found": "",
+    "battle-failed": "",
+    "gym-reset-time-not-found": "",
+    "txn-queue-failed": "",
+    "gym-stage-update-failed": ""
   },
   "test": {
     "test": "테스트입니다."

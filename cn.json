@@ -365,7 +365,18 @@
     "crit-ko-message-9": "双重伤害! 那攻击毁了{loser}的订阅《如何成为一名猛烈战士》的杂志!",
     "crit-ko-message-10": "双重伤害! 哎哟! {loser}应该不能传宗接代了!",
     "increased-percent-trigger-message": "{zerpmonName}的{moveName}  ⬆️ {change}% ({newDmgOrPercent}%)",
-    "decreased-percent-trigger-message": "{zerpmonName}的{moveName}  ⬇️ {change}% ({newDmgOrPercent}%)"
+    "decreased-percent-trigger-message": "{zerpmonName}的{moveName}  ⬇️ {change}% ({newDmgOrPercent}%)",
+    "no-zerpmon-found": "",
+    "no-gym-deck": "",
+    "invalid-gym": "",
+    "no-trainer": "",
+    "no-zerpmon-in-deck": "",
+    "gym-zerps-not-found": "",
+    "gym-buffs-not-found": "",
+    "battle-failed": "",
+    "gym-reset-time-not-found": "",
+    "txn-queue-failed": "",
+    "gym-stage-update-failed": ""
   },
   "test": {
     "test": "这是个测试"
