@@ -377,11 +377,11 @@
     "gym-reset-time-not-found": "Die Uhrzeit des Trainingsneustarts konnte nicht ermittelt werden",
     "txn-queue-failed": "Die Transaktion konnte der Warteschlange nicht hinzugefügt werden",
     "gym-stage-update-failed": "Das Training konnte nicht auf die nächste Stufe gesetzt werden",
-    "mode-switch-error": "",
-    "empty-mission-deck": "",
-    "mission-limit-reached": "",
-    "zerpmon-resting": "",
-    "mission-wallet-no-nft": ""
+    "mode-switch-error": "Wechsel des Modus nicht erfolgreich",
+    "empty-mission-deck": "Das Missionsdeck ist leer",
+    "mission-limit-reached": "Das Maximum von 10 Missionen pro Tag ist erreicht",
+    "zerpmon-resting": "Alle Zerpmons im Missionsdeck ruhen sich aus",
+    "mission-wallet-no-nft": "Kein NFT im Missions-Wallet gefunden"
   },
   "test": {
     "test": "Dies ist ein Test"
