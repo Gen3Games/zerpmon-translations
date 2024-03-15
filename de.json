@@ -376,7 +376,12 @@
     "battle-failed": "",
     "gym-reset-time-not-found": "",
     "txn-queue-failed": "",
-    "gym-stage-update-failed": ""
+    "gym-stage-update-failed": "",
+    "mode-switch-error": "",
+    "empty-mission-deck": "",
+    "mission-limit-reached": "",
+    "zerpmon-resting": "",
+    "mission-wallet-no-nft": ""
   },
   "test": {
     "test": "Dies ist ein Test"

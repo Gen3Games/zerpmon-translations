@@ -376,7 +376,12 @@
     "battle-failed": "Battle failed",
     "gym-reset-time-not-found": "Failed to get gym reset time",
     "txn-queue-failed": "Failed to add transaction to queue",
-    "gym-stage-update-failed": "Failed to update gym to next stage"
+    "gym-stage-update-failed": "Failed to update gym to next stage",
+    "mode-switch-error": "Failed to switch mode",
+    "empty-mission-deck": "Mission deck is empty",
+    "mission-limit-reached": "Max 10 Missions for the day reached",
+    "zerpmon-resting": "All Zerpmon in Mission deck are resting",
+    "mission-wallet-no-nft": "No NFT found in Mission wallet"
   },
   "test": {
     "test": "this is a test"
