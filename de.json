@@ -471,11 +471,18 @@
     "tx-error-crossmark-msg": "Es konnte keine Transaktion im Crossmark-Wallet erzeugt werden. Bitte versuche es später noch einmal.",
     "no-loan-listing": "Das Verleihangebot konnte nicht gefunden werden",
     "no-listings": "Du hast keine aktiven Verleihangebote",
-    "pay-listing-cancellation-fee": "Bezahle die Gebühr zum Widerruf deines Verkaufsangebotes",
+    "listing-cancel-offer": "Bezahle die Gebühr zum Widerruf deines Verkaufsangebotes",
     "table-listed-days": "{numberOfDays} Tage",
     "table-listed": "Gelistet",
     "table-expired": "Abgelaufen",
-    "confirm-unlist": "Bist du sicher, dass du {zerpmonName} nicht mehr verleihen möchtest?"
+    "confirm-unlist": "Bist du sicher, dass du {zerpmonName} nicht mehr verleihen möchtest?",
+    "table-loaned": "",
+    "cancellation-fee-transaction-failed": "",
+    "table-cancelled": "",
+    "pay-listing-cancellation-fee": "",
+    "loan-to-be-cancelled": "",
+    "table-not-listed": "",
+    "loan-already-cancelled": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",

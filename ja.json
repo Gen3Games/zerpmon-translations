@@ -471,11 +471,18 @@
     "tx-error-crossmark-msg": "",
     "no-loan-listing": "",
     "no-listings": "",
-    "pay-listing-cancellation-fee": "",
+    "listing-cancel-offer": "",
     "table-listed-days": "",
     "table-listed": "",
     "table-expired": "",
-    "confirm-unlist": ""
+    "confirm-unlist": "",
+    "table-loaned": "",
+    "cancellation-fee-transaction-failed": "",
+    "table-cancelled": "",
+    "pay-listing-cancellation-fee": "",
+    "loan-to-be-cancelled": "",
+    "table-not-listed": "",
+    "loan-already-cancelled": ""
   },
   "create-listing": {
     "not-signed-in": "",

@@ -471,11 +471,18 @@
     "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later.",
     "no-loan-listing": "Could not find the loan listing",
     "no-listings": "You dont have any listings",
-    "pay-listing-cancellation-fee": "Cancel NFT Offer",
+    "listing-cancel-offer": "Cancel NFT Offer",
     "table-listed-days": "{numberOfDays} days",
     "table-listed": "Listed",
     "table-expired": "Expired",
-    "confirm-unlist": "Are you sure want to unlist {zerpmonName} from loaning ?"
+    "confirm-unlist": "Are you sure want to unlist {zerpmonName} from loaning ?",
+    "table-loaned": "Loaned",
+    "cancellation-fee-transaction-failed": "Your loan cancellation fee transaction failed. Please try again",
+    "table-cancelled": "To be cancelled",
+    "pay-listing-cancellation-fee": "Pay loan cancellation fee",
+    "loan-to-be-cancelled": "This loan will be cancelled at 00:00 UTC",
+    "table-not-listed": "Not listed",
+    "loan-already-cancelled": "Loan is already cancelled"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",

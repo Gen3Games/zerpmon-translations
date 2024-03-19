@@ -471,11 +471,18 @@
     "tx-error-crossmark-msg": "无法在 Crossmark 钱包中创建交易。请稍后再试。",
     "no-loan-listing": "找不到贷款列表",
     "no-listings": "您还没有任何列表",
-    "pay-listing-cancellation-fee": "取消 NFT 报价",
+    "listing-cancel-offer": "取消 NFT 报价",
     "table-listed-days": "{numberOfDays} 天",
     "table-listed": "上市",
     "table-expired": "到期",
-    "confirm-unlist": "您确定要从贷款列表取消列出 {zerpmonName} 吗?"
+    "confirm-unlist": "您确定要从贷款列表取消列出 {zerpmonName} 吗?",
+    "table-loaned": "",
+    "cancellation-fee-transaction-failed": "",
+    "table-cancelled": "",
+    "pay-listing-cancellation-fee": "",
+    "loan-to-be-cancelled": "",
+    "table-not-listed": "",
+    "loan-already-cancelled": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",
