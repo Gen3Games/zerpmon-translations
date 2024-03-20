@@ -443,7 +443,8 @@
     "fee-transaction-not-found": "Die Transaktion der Leihgebüren ist nicht auffindbar",
     "fee-transaction-not-validated": "Die Transaktion der Leihgebühren ist ungültig",
     "loan-payment-transaction-not-found": "Die Bezahlung des Leihangebotes ist nicht zu finden",
-    "loan-payment-transaction-not-validated": "Die Bezahlung des Leihangebotes ist ungültig"
+    "loan-payment-transaction-not-validated": "Die Bezahlung des Leihangebotes ist ungültig",
+    "loan-my-loans": ""
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -482,7 +483,14 @@
     "pay-listing-cancellation-fee": "",
     "loan-to-be-cancelled": "",
     "table-not-listed": "",
-    "loan-already-cancelled": ""
+    "loan-already-cancelled": "",
+    "not-loaning-nft": "",
+    "loan-inactive": "",
+    "my-loans": "",
+    "my-loans-description": "",
+    "no-loans": "",
+    "sell-offer-creation-failed": "",
+    "confirm-cancel": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",

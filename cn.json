@@ -443,7 +443,8 @@
     "fee-transaction-not-found": "",
     "fee-transaction-not-validated": "",
     "loan-payment-transaction-not-found": "",
-    "loan-payment-transaction-not-validated": ""
+    "loan-payment-transaction-not-validated": "",
+    "loan-my-loans": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",
@@ -482,7 +483,14 @@
     "pay-listing-cancellation-fee": "",
     "loan-to-be-cancelled": "",
     "table-not-listed": "",
-    "loan-already-cancelled": ""
+    "loan-already-cancelled": "",
+    "not-loaning-nft": "",
+    "loan-inactive": "",
+    "my-loans": "",
+    "my-loans-description": "",
+    "no-loans": "",
+    "sell-offer-creation-failed": "",
+    "confirm-cancel": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",

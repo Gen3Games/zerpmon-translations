@@ -443,7 +443,8 @@
     "fee-transaction-not-found": "Could not find loan fee transaction",
     "fee-transaction-not-validated": "Loan fee transaction is not valid",
     "loan-payment-transaction-not-found": "Could not find loan payment transaction",
-    "loan-payment-transaction-not-validated": "Loan payment transaction is not valid"
+    "loan-payment-transaction-not-validated": "Loan payment transaction is not valid",
+    "loan-my-loans": "My loans"
   },
   "manage-listing": {
     "title": "My NFTs",
@@ -482,7 +483,14 @@
     "pay-listing-cancellation-fee": "Pay loan cancellation fee",
     "loan-to-be-cancelled": "This loan will be cancelled at 00:00 UTC",
     "table-not-listed": "Not listed",
-    "loan-already-cancelled": "Loan is already cancelled"
+    "loan-already-cancelled": "Loan is already cancelled",
+    "not-loaning-nft": "You have not loaned this NFT",
+    "loan-inactive": "This loan is not active now",
+    "my-loans": "My loans",
+    "my-loans-description": "Manage your loaned NFTs",
+    "no-loans": "You dont have any loans",
+    "sell-offer-creation-failed": "Failed to create sell offer",
+    "confirm-cancel": "Are you sure want to cancel {zerpmonName} from loaning ?"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",
