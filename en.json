@@ -381,7 +381,10 @@
     "empty-mission-deck": "Mission deck is empty",
     "mission-limit-reached": "Max 10 Missions for the day reached",
     "zerpmon-resting": "All Zerpmon in Mission deck are resting",
-    "mission-wallet-no-nft": "No NFT found in Mission wallet"
+    "mission-wallet-no-nft": "No NFT found in Mission wallet",
+    "boss-damage-message": "{winnerName} 🏹  Damage dealt to 💀 {loserName} 💀  {dmg}! World Boss HP left {hpLeft}",
+    "boss-enraged-message": "{bossName} is now enraged 😡 !",
+    "boss-defeat-message": "Sorry you lost 💀 {loserName} 💀! Damage dealt 🏹 {dmg}"
   },
   "test": {
     "test": "this is a test"

@@ -381,7 +381,10 @@
     "empty-mission-deck": "Das Missionsdeck ist leer",
     "mission-limit-reached": "Das Maximum von 10 Missionen pro Tag ist erreicht",
     "zerpmon-resting": "Alle Zerpmons im Missionsdeck ruhen sich aus",
-    "mission-wallet-no-nft": "Kein NFT im Missions-Wallet gefunden"
+    "mission-wallet-no-nft": "Kein NFT im Missions-Wallet gefunden",
+    "boss-damage-message": "",
+    "boss-enraged-message": "",
+    "boss-defeat-message": ""
   },
   "test": {
     "test": "Dies ist ein Test"

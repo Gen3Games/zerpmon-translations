@@ -381,7 +381,10 @@
     "empty-mission-deck": "",
     "mission-limit-reached": "",
     "zerpmon-resting": "",
-    "mission-wallet-no-nft": ""
+    "mission-wallet-no-nft": "",
+    "boss-damage-message": "",
+    "boss-enraged-message": "",
+    "boss-defeat-message": ""
   },
   "test": {
     "test": "这是个测试"
