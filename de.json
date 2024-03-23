@@ -382,9 +382,9 @@
     "mission-limit-reached": "Das Maximum von 10 Missionen pro Tag ist erreicht",
     "zerpmon-resting": "Alle Zerpmons im Missionsdeck ruhen sich aus",
     "mission-wallet-no-nft": "Kein NFT im Missions-Wallet gefunden",
-    "boss-damage-message": "",
-    "boss-enraged-message": "",
-    "boss-defeat-message": ""
+    "boss-damage-message": "{winnerName} 🏹  Schaden ausgeteilt an 💀 {loserName} 💀  {dmg}! Weltherrscher LP übrig {hpLeft}",
+    "boss-enraged-message": "{bossName} ist jetzt angefressen 😡 !",
+    "boss-defeat-message": "Tut ns leid, du hast verloren 💀 {loserName} 💀! Schaden ausgeteilt 🏹 {dmg}"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -480,20 +480,20 @@
     "table-listed": "Gelistet",
     "table-expired": "Abgelaufen",
     "confirm-unlist": "Bist du sicher, dass du {zerpmonName} nicht mehr verleihen möchtest?",
-    "table-loaned": "",
-    "cancellation-fee-transaction-failed": "",
-    "table-cancelled": "",
-    "pay-listing-cancellation-fee": "",
-    "loan-to-be-cancelled": "",
-    "table-not-listed": "",
-    "loan-already-cancelled": "",
-    "not-loaning-nft": "",
-    "loan-inactive": "",
-    "my-loans": "",
-    "my-loans-description": "",
-    "no-loans": "",
-    "sell-offer-creation-failed": "",
-    "confirm-cancel": ""
+    "table-loaned": "Geliehen",
+    "cancellation-fee-transaction-failed": "Die Transaktion der Gebühr zum Widerruf des Leihangebotes ist gescheitert. Bitte versuche es später noch einmal.",
+    "table-cancelled": "Wird widerrufen",
+    "pay-listing-cancellation-fee": "Bezahle die Gebühr für den Widerruf des Leihangebotes",
+    "loan-to-be-cancelled": "Der Leihzeitraum endet um 00:00 UTC",
+    "table-not-listed": "Nicht im Angebot",
+    "loan-already-cancelled": "Die Leihzeitraum hat schon geendet",
+    "not-loaning-nft": "Du hast dieses NFT nicht geliehen",
+    "loan-inactive": "Dieses Leihangebot ist nicht aktiv",
+    "my-loans": "Meine Leihobjekte",
+    "my-loans-description": "Verwalte deine geliehenen NFT's",
+    "no-loans": "Du hast keine Leihobjekte",
+    "sell-offer-creation-failed": "Die Erstellung eines Verkaufsangebotes hat nicht funktioniert",
+    "confirm-cancel": "Bist du sicher, dass du die Leihe von {zerpmonName} beenden möchtest?"
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",
