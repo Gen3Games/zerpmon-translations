@@ -382,7 +382,7 @@
     "mission-limit-reached": "Das Maximum von 10 Missionen pro Tag ist erreicht",
     "zerpmon-resting": "Alle Zerpmons im Missionsdeck ruhen sich aus",
     "mission-wallet-no-nft": "Kein NFT im Missions-Wallet gefunden",
-    "boss-damage-message": "{winnerName} 🏹  Schaden ausgeteilt an 💀 {loserName} 💀  {dmg}! Weltherrscher LP übrig {hpLeft}",
+    "boss-damage-message": "{winnerName} 🏹  Schaden ausgeteilt an 💀 {loserName} 💀  {dmg}! Weltherrscher hat {hpLeft} LP übrig ",
     "boss-enraged-message": "{bossName} ist jetzt angefressen 😡 !",
     "boss-defeat-message": "Tut ns leid, du hast verloren 💀 {loserName} 💀! Schaden ausgeteilt 🏹 {dmg}"
   },
