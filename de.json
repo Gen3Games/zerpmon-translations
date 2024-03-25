@@ -335,7 +335,7 @@
   },
   "battle": {
     "title": "Wettkampf",
-    "knockout-message": "{winner} Hat 💀 {loser} 💀 ausgeknockt!",
+    "knockout-message": "{winner} hat 💀 {loser} 💀 ausgeknockt!",
     "blue-trigger-message": "{zerpmonName}  benutzt 🟦 {moveName}!",
     "miss-trigger-message": "{zerpmonName}  ({typeString}) hat verfehlt  🟥   ({movePercent}%)",
     "purple-trigger-message": "{zerpmonName}  ({typeString})   hat 🟪 {moveName} {stars} benutzt ({movePercent}%)",
