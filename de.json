@@ -536,5 +536,12 @@
     "edit-listing-description": "Bearbeite deine angebotenen NFT's unten",
     "edit-listing-update": "Aktualisiere dein Angebot",
     "sell-offer-not-found": "Konnte kein Verleihangebot für dein Zerpmon NFT finden"
+  },
+  "notifications": {
+    "notifications": "",
+    "mark-all-as-read": "",
+    "mark-as-read": "",
+    "see-all-notifications": "",
+    "no-new-notifications": ""
   }
 }

@@ -536,5 +536,12 @@
     "edit-listing-description": "",
     "edit-listing-update": "",
     "sell-offer-not-found": ""
+  },
+  "notifications": {
+    "notifications": "",
+    "mark-all-as-read": "",
+    "mark-as-read": "",
+    "see-all-notifications": "",
+    "no-new-notifications": ""
   }
 }

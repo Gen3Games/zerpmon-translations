@@ -536,5 +536,12 @@
     "edit-listing-description": "Update the details of your Zerpmon NFT listing below.",
     "edit-listing-update": "Update Listing",
     "sell-offer-not-found": "Could not find any sell offer for this NFT"
+  },
+  "notifications": {
+    "notifications": "Notifications",
+    "mark-all-as-read": "Mark all as read",
+    "mark-as-read": "Mark as read",
+    "see-all-notifications": "See all notifications",
+    "no-new-notifications": "No new notifications"
   }
 }
