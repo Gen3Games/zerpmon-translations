@@ -384,7 +384,17 @@
     "mission-wallet-no-nft": "任务钱包中未发现 NFT",
     "boss-damage-message": "{winnerName} 🏹  造成伤害 💀 {loserName} 💀  {dmg}! 世界 Boss HP 剩余 {hpLeft}",
     "boss-enraged-message": "{bossName} 被激怒了 😡 !",
-    "boss-defeat-message": "抱歉你输了 💀 {loserName} 💀! 造成伤害 🏹 {dmg}"
+    "boss-defeat-message": "抱歉你输了 💀 {loserName} 💀! 造成伤害 🏹 {dmg}",
+    "no-tower-zerpmon-alotted": "",
+    "tower-fee-not-paid": "",
+    "no-tower-deck": "",
+    "get-zrp-price-failed": "",
+    "tower-stage-update-failed": "",
+    "reset-ts-update-failed": "",
+    "boss-dmg-update-failed": "",
+    "no-boss": "",
+    "no-battle-deck": "",
+    "not-reset-yet": ""
   },
   "test": {
     "test": "这是个测试"

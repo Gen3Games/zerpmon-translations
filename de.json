@@ -384,7 +384,17 @@
     "mission-wallet-no-nft": "Kein NFT im Missions-Wallet gefunden",
     "boss-damage-message": "{winnerName} 🏹  Schaden ausgeteilt an 💀 {loserName} 💀  {dmg}! Weltherrscher hat {hpLeft} LP übrig ",
     "boss-enraged-message": "{bossName} ist jetzt angefressen 😡 !",
-    "boss-defeat-message": "Tut ns leid, du hast verloren 💀 {loserName} 💀! Schaden ausgeteilt 🏹 {dmg}"
+    "boss-defeat-message": "Tut ns leid, du hast verloren 💀 {loserName} 💀! Schaden ausgeteilt 🏹 {dmg}",
+    "no-tower-zerpmon-alotted": "",
+    "tower-fee-not-paid": "",
+    "no-tower-deck": "",
+    "get-zrp-price-failed": "",
+    "tower-stage-update-failed": "",
+    "reset-ts-update-failed": "",
+    "boss-dmg-update-failed": "",
+    "no-boss": "",
+    "no-battle-deck": "",
+    "not-reset-yet": ""
   },
   "test": {
     "test": "Dies ist ein Test"

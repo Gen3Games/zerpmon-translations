@@ -384,7 +384,17 @@
     "mission-wallet-no-nft": "",
     "boss-damage-message": "",
     "boss-enraged-message": "",
-    "boss-defeat-message": ""
+    "boss-defeat-message": "",
+    "no-tower-zerpmon-alotted": "",
+    "tower-fee-not-paid": "",
+    "no-tower-deck": "",
+    "get-zrp-price-failed": "",
+    "tower-stage-update-failed": "",
+    "reset-ts-update-failed": "",
+    "boss-dmg-update-failed": "",
+    "no-boss": "",
+    "no-battle-deck": "",
+    "not-reset-yet": ""
   },
   "test": {
     "test": "테스트입니다."

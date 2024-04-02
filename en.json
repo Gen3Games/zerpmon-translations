@@ -384,7 +384,17 @@
     "mission-wallet-no-nft": "No NFT found in Mission wallet",
     "boss-damage-message": "{winnerName} 🏹  Damage dealt to 💀 {loserName} 💀  {dmg}! World Boss HP left {hpLeft}",
     "boss-enraged-message": "{bossName} is now enraged 😡 !",
-    "boss-defeat-message": "Sorry you lost 💀 {loserName} 💀! Damage dealt 🏹 {dmg}"
+    "boss-defeat-message": "Sorry you lost 💀 {loserName} 💀! Damage dealt 🏹 {dmg}",
+    "no-tower-zerpmon-alotted": "No new zerpmons have been allotted for this Tower rush stage",
+    "tower-fee-not-paid": "Please purchase a Tower rush entry ticket first",
+    "no-tower-deck": "Please set a new Tower rush deck",
+    "get-zrp-price-failed": "Failed to get the latest ZRP price",
+    "tower-stage-update-failed": "Failed to progress to next stage",
+    "reset-ts-update-failed": "Failed to update the reset time to next day",
+    "boss-dmg-update-failed": "Failed to update your damage stats",
+    "no-boss": "Please wait for a new boss to be summoned",
+    "no-battle-deck": "No battle deck found",
+    "not-reset-yet": "Please wait until next reset"
   },
   "test": {
     "test": "this is a test"
