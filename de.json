@@ -457,7 +457,9 @@
     "fee-transaction-not-validated": "Die Transaktion der Leihgebühren ist ungültig",
     "loan-payment-transaction-not-found": "Die Bezahlung des Leihangebotes ist nicht zu finden",
     "loan-payment-transaction-not-validated": "Die Bezahlung des Leihangebotes ist ungültig",
-    "loan-my-loans": ""
+    "loan-my-loans": "",
+    "loans-description": "",
+    "listings-description": ""
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -503,7 +505,9 @@
     "my-loans-description": "Verwalte deine geliehenen NFT's",
     "no-loans": "Du hast keine Leihobjekte",
     "sell-offer-creation-failed": "Die Erstellung eines Verkaufsangebotes hat nicht funktioniert",
-    "confirm-cancel": "Bist du sicher, dass du die Leihe von {zerpmonName} beenden möchtest?"
+    "confirm-cancel": "Bist du sicher, dass du die Leihe von {zerpmonName} beenden möchtest?",
+    "add-listing": "",
+    "no-nfts": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",

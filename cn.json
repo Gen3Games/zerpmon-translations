@@ -457,7 +457,9 @@
     "fee-transaction-not-validated": "贷款费用交易无效",
     "loan-payment-transaction-not-found": "找不到贷款付款交易",
     "loan-payment-transaction-not-validated": "贷款支付交易无效",
-    "loan-my-loans": "我的贷款"
+    "loan-my-loans": "我的贷款",
+    "loans-description": "",
+    "listings-description": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",
@@ -503,7 +505,9 @@
     "my-loans-description": "管理您借出的 NFT",
     "no-loans": "您没有任何贷款",
     "sell-offer-creation-failed": "无法创建销售报价",
-    "confirm-cancel": "您确定要取消 {zerpmonName} 的贷款吗?"
+    "confirm-cancel": "您确定要取消 {zerpmonName} 的贷款吗?",
+    "add-listing": "",
+    "no-nfts": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",

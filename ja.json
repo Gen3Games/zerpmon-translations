@@ -457,7 +457,9 @@
     "fee-transaction-not-validated": "",
     "loan-payment-transaction-not-found": "",
     "loan-payment-transaction-not-validated": "",
-    "loan-my-loans": ""
+    "loan-my-loans": "",
+    "loans-description": "",
+    "listings-description": ""
   },
   "manage-listing": {
     "title": "",
@@ -503,7 +505,9 @@
     "my-loans-description": "",
     "no-loans": "",
     "sell-offer-creation-failed": "",
-    "confirm-cancel": ""
+    "confirm-cancel": "",
+    "add-listing": "",
+    "no-nfts": ""
   },
   "create-listing": {
     "not-signed-in": "",
