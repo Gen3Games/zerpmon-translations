@@ -459,7 +459,9 @@
     "loan-payment-transaction-not-validated": "贷款支付交易无效",
     "loan-my-loans": "我的贷款",
     "loans-description": "",
-    "listings-description": ""
+    "listings-description": "",
+    "add-listing-title": "",
+    "add-listing-description": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",

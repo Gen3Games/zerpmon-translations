@@ -459,7 +459,9 @@
     "loan-payment-transaction-not-validated": "",
     "loan-my-loans": "",
     "loans-description": "",
-    "listings-description": ""
+    "listings-description": "",
+    "add-listing-title": "",
+    "add-listing-description": ""
   },
   "manage-listing": {
     "title": "",

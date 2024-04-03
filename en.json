@@ -459,7 +459,9 @@
     "loan-payment-transaction-not-validated": "Loan payment transaction is not valid",
     "loan-my-loans": "My loans",
     "loans-description": "Manage your loaned NFTs",
-    "listings-description": "Manage your listed NFTs for loaning"
+    "listings-description": "Manage your listed NFTs for loaning",
+    "add-listing-title": "List your Zerpmon NFT for Loan",
+    "add-listing-description": "Select the Zerpmon NFT you want to list for loan and enter the details below."
   },
   "manage-listing": {
     "title": "My NFTs",
