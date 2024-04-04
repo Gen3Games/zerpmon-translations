@@ -221,7 +221,7 @@
     "search": "Suchen",
     "dropdown-tower-rush": "Beste Festungsstürme",
     "tower-rush-non-holders": "Festungssturm für Spieler ohne Zerpmon",
-    "gym": ""
+    "gym": "Training"
   },
   "leaderboard-table": {
     "player": "Spieler",
@@ -385,16 +385,16 @@
     "boss-damage-message": "{winnerName} 🏹  Schaden ausgeteilt an 💀 {loserName} 💀  {dmg}! Weltherrscher hat {hpLeft} LP übrig ",
     "boss-enraged-message": "{bossName} ist jetzt angefressen 😡 !",
     "boss-defeat-message": "Tut ns leid, du hast verloren 💀 {loserName} 💀! Schaden ausgeteilt 🏹 {dmg}",
-    "no-tower-zerpmon-alotted": "",
-    "tower-fee-not-paid": "",
-    "no-tower-deck": "",
-    "get-zrp-price-failed": "",
-    "tower-stage-update-failed": "",
-    "reset-ts-update-failed": "",
-    "boss-dmg-update-failed": "",
-    "no-boss": "",
-    "no-battle-deck": "",
-    "not-reset-yet": ""
+    "no-tower-zerpmon-alotted": "Für diese Stufe des Festungssturms ist kein neues Zerpmon zugeteilt worden",
+    "tower-fee-not-paid": "Kaufe bitte zuerst ein Festungssturm-Ticket",
+    "no-tower-deck": "Bitte erstelle ein neues Festungssturm-Deck",
+    "get-zrp-price-failed": "Der aktuelle ZRP-Preis konnte nicht ermittelt werden",
+    "tower-stage-update-failed": "Forstschritt auf die nächste Stufe war nicht durchführbar",
+    "reset-ts-update-failed": "Neustartzeit konnte nicht ermittelt werden",
+    "boss-dmg-update-failed": "Deine Schadens-Statistiken konnten nicht aktualisiert werden",
+    "no-boss": "Bitte warte, bis ein neuer Weltherrscher bekanntgegeben wird",
+    "no-battle-deck": "Kein Wettkampf-Deck gefunden",
+    "not-reset-yet": "Bitte warte bis zum nächsten Neustart"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -457,11 +457,11 @@
     "fee-transaction-not-validated": "Die Transaktion der Leihgebühren ist ungültig",
     "loan-payment-transaction-not-found": "Die Bezahlung des Leihangebotes ist nicht zu finden",
     "loan-payment-transaction-not-validated": "Die Bezahlung des Leihangebotes ist ungültig",
-    "loan-my-loans": "",
-    "loans-description": "",
-    "listings-description": "",
-    "add-listing-title": "",
-    "add-listing-description": ""
+    "loan-my-loans": "Meine Leihgaben",
+    "loans-description": "Verwalte deine verliehenen NFT's",
+    "listings-description": "Verwalte deine zum Verleih angebotenen NFT's",
+    "add-listing-title": "Biete dein Zerpmon-BFT's zum Verleih an",
+    "add-listing-description": "Wähle das Zerpmon-NFT aus, das du zum Verleih anbieten möchtest und gebe die Einzelheiten weiter unten ein"
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -508,8 +508,8 @@
     "no-loans": "Du hast keine Leihobjekte",
     "sell-offer-creation-failed": "Die Erstellung eines Verkaufsangebotes hat nicht funktioniert",
     "confirm-cancel": "Bist du sicher, dass du die Leihe von {zerpmonName} beenden möchtest?",
-    "add-listing": "",
-    "no-nfts": ""
+    "add-listing": "Angebot hinzufügen",
+    "no-nfts": "Keine NFT's"
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",
