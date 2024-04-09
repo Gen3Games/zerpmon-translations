@@ -461,7 +461,9 @@
     "loans-description": "",
     "listings-description": "",
     "add-listing-title": "",
-    "add-listing-description": ""
+    "add-listing-description": "",
+    "min-rental-duration": "",
+    "max-rental-duration": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",
@@ -509,7 +511,8 @@
     "sell-offer-creation-failed": "无法创建销售报价",
     "confirm-cancel": "您确定要取消 {zerpmonName} 的贷款吗?",
     "add-listing": "",
-    "no-nfts": ""
+    "no-nfts": "",
+    "table-unlisted": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",

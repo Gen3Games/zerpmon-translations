@@ -461,7 +461,9 @@
     "loans-description": "",
     "listings-description": "",
     "add-listing-title": "",
-    "add-listing-description": ""
+    "add-listing-description": "",
+    "min-rental-duration": "",
+    "max-rental-duration": ""
   },
   "manage-listing": {
     "title": "",
@@ -509,7 +511,8 @@
     "sell-offer-creation-failed": "",
     "confirm-cancel": "",
     "add-listing": "",
-    "no-nfts": ""
+    "no-nfts": "",
+    "table-unlisted": ""
   },
   "create-listing": {
     "not-signed-in": "",

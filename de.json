@@ -461,7 +461,9 @@
     "loans-description": "Verwalte deine verliehenen NFT's",
     "listings-description": "Verwalte deine zum Verleih angebotenen NFT's",
     "add-listing-title": "Biete dein Zerpmon-BFT's zum Verleih an",
-    "add-listing-description": "Wähle das Zerpmon-NFT aus, das du zum Verleih anbieten möchtest und gebe die Einzelheiten weiter unten ein"
+    "add-listing-description": "Wähle das Zerpmon-NFT aus, das du zum Verleih anbieten möchtest und gebe die Einzelheiten weiter unten ein",
+    "min-rental-duration": "",
+    "max-rental-duration": ""
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -509,7 +511,8 @@
     "sell-offer-creation-failed": "Die Erstellung eines Verkaufsangebotes hat nicht funktioniert",
     "confirm-cancel": "Bist du sicher, dass du die Leihe von {zerpmonName} beenden möchtest?",
     "add-listing": "Angebot hinzufügen",
-    "no-nfts": "Keine NFT's"
+    "no-nfts": "Keine NFT's",
+    "table-unlisted": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",

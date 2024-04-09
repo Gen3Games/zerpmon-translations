@@ -461,7 +461,9 @@
     "loans-description": "Manage your loaned NFTs",
     "listings-description": "Manage your listed NFTs for loaning",
     "add-listing-title": "List your Zerpmon NFT for Loan",
-    "add-listing-description": "Select the Zerpmon NFT you want to list for loan and enter the details below."
+    "add-listing-description": "Select the Zerpmon NFT you want to list for loan and enter the details below.",
+    "min-rental-duration": "Minimum rental duration",
+    "max-rental-duration": "Maximum rental duration"
   },
   "manage-listing": {
     "title": "My NFTs",
@@ -509,7 +511,8 @@
     "sell-offer-creation-failed": "Failed to create sell offer",
     "confirm-cancel": "Are you sure want to cancel {zerpmonName} from loaning ?",
     "add-listing": "Add listing",
-    "no-nfts": "No NFTs"
+    "no-nfts": "No NFTs",
+    "table-unlisted": "Unlisted"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",
