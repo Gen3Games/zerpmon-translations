@@ -394,7 +394,8 @@
     "boss-dmg-update-failed": "Deine Schadens-Statistiken konnten nicht aktualisiert werden",
     "no-boss": "Bitte warte, bis ein neuer Weltherrscher bekanntgegeben wird",
     "no-battle-deck": "Kein Wettkampf-Deck gefunden",
-    "not-reset-yet": "Bitte warte bis zum nächsten Neustart"
+    "not-reset-yet": "Bitte warte bis zum nächsten Neustart",
+    "pierce-trigger-message-3": ""
   },
   "test": {
     "test": "Dies ist ein Test"

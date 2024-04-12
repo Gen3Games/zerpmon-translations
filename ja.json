@@ -394,7 +394,8 @@
     "boss-dmg-update-failed": "",
     "no-boss": "",
     "no-battle-deck": "",
-    "not-reset-yet": ""
+    "not-reset-yet": "",
+    "pierce-trigger-message-3": ""
   },
   "test": {
     "test": ""
