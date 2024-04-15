@@ -553,7 +553,10 @@
     "edit-listing-title": "编辑 NFT 列表",
     "edit-listing-description": "更新下面您的 Zerpmon NFT 列表的详细信息。",
     "edit-listing-update": "更新清单",
-    "sell-offer-not-found": "找不到此 NFT 的任何出售报价"
+    "sell-offer-not-found": "找不到此 NFT 的任何出售报价",
+    "relist": "",
+    "relist-nft": "",
+    "confim-relist-nft": ""
   },
   "notifications": {
     "notifications": "",

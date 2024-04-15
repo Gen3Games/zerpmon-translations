@@ -555,7 +555,10 @@
     "edit-listing-title": "NFT Angebot bearbeiten",
     "edit-listing-description": "Bearbeite deine angebotenen NFT's unten",
     "edit-listing-update": "Aktualisiere dein Angebot",
-    "sell-offer-not-found": "Konnte kein Verleihangebot für dein Zerpmon NFT finden"
+    "sell-offer-not-found": "Konnte kein Verleihangebot für dein Zerpmon NFT finden",
+    "relist": "",
+    "relist-nft": "",
+    "confim-relist-nft": ""
   },
   "notifications": {
     "notifications": "Benachrichtigungen",

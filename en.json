@@ -555,7 +555,10 @@
     "edit-listing-title": "Edit NFT Listing",
     "edit-listing-description": "Update the details of your Zerpmon NFT listing below.",
     "edit-listing-update": "Update Listing",
-    "sell-offer-not-found": "Could not find any sell offer for this NFT"
+    "sell-offer-not-found": "Could not find any sell offer for this NFT",
+    "relist": "Relist",
+    "relist-nft": "Relist {nftName}",
+    "confim-relist-nft": "Are you sure want to relist {nftName}"
   },
   "notifications": {
     "notifications": "Notifications",

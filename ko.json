@@ -555,7 +555,10 @@
     "edit-listing-title": "",
     "edit-listing-description": "",
     "edit-listing-update": "",
-    "sell-offer-not-found": ""
+    "sell-offer-not-found": "",
+    "relist": "",
+    "relist-nft": "",
+    "confim-relist-nft": ""
   },
   "notifications": {
     "notifications": "",
