@@ -336,7 +336,7 @@
   "battle": {
     "title": "Battle",
     "knockout-message": "{winner} knocked out 💀 {loser} 💀!",
-    "blue-trigger-message": "{zerpmonName} uses 🟦 {moveName}!",
+    "blue-trigger-message": "{zerpmonName} uses 🟦 {moveName}! ({movePercent}%)",
     "miss-trigger-message": "{zerpmonName}  ({typeString})   🟥  Missed ({movePercent}%)",
     "purple-trigger-message": "{zerpmonName}  ({typeString})   used 🟪 {moveName} {stars} ({movePercent}%)",
     "damage-trigger-message": "{zerpmonName}  ({typeString})   used {moveEmj} {moveColorEmj} {moveName} ({dmgMul}) {dmg}({movePercent}%)",
