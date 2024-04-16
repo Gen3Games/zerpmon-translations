@@ -565,6 +565,8 @@
     "mark-all-as-read": "",
     "mark-as-read": "",
     "see-all-notifications": "",
-    "no-new-notifications": ""
+    "no-new-notifications": "",
+    "subscribe-description": "",
+    "subscribe": ""
   }
 }

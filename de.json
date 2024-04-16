@@ -565,6 +565,8 @@
     "mark-all-as-read": "Alle als gelesen markieren",
     "mark-as-read": "Als gelesen markieren",
     "see-all-notifications": "Alle Benachrichtigungen anzeigen",
-    "no-new-notifications": "Keine neuen Benachrichtigungen"
+    "no-new-notifications": "Keine neuen Benachrichtigungen",
+    "subscribe-description": "",
+    "subscribe": ""
   }
 }

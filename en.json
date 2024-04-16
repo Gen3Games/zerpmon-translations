@@ -565,6 +565,8 @@
     "mark-all-as-read": "Mark all as read",
     "mark-as-read": "Mark as read",
     "see-all-notifications": "See all notifications",
-    "no-new-notifications": "No new notifications"
+    "no-new-notifications": "No new notifications",
+    "subscribe-description": "You have not subscribed for push notifications. Subscribe to                     stay updated",
+    "subscribe": "Subscribe"
   }
 }
