@@ -339,7 +339,7 @@
     "blue-trigger-message": "{zerpmonName}  benutzt 🟦 {moveName}! ({movePercent}%)",
     "miss-trigger-message": "{zerpmonName}  ({typeString}) hat verfehlt  🟥   ({movePercent}%)",
     "purple-trigger-message": "{zerpmonName}  ({typeString})   hat 🟪 {moveName} {stars} benutzt ({movePercent}%)",
-    "damage-trigger-message": "{zerpmonName}  ({typeString})  hat {moveEmj} {moveColorEmj} {moveName} benutzt ({dmgMul}) {dmg}({movePercent}%)",
+    "damage-trigger-message": "{zerpmonName}  ({typeString})  hat {moveEmj} {moveColorEmj} {moveName} benutzt ({dmgMul}) {dmg} ({movePercent}%)",
     "wait-for-result": "Ermittle Wettkampfergebnisse...",
     "normal-winner-message": "SIEGER  👑{winner}👑",
     "equipment-trigger-message": "✨{equipmentName}✨ ({zerpmonName})",

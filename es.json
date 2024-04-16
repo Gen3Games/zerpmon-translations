@@ -339,7 +339,7 @@
     "blue-trigger-message": "¡{zerpmonName} utiliza 🟦 {moveName}! ({movePercent}%)",
     "miss-trigger-message": "{zerpmonName}  (typesString)   🟥  Falló ({movePercent}%)",
     "purple-trigger-message": "{zerpmonName}  ({typesString})   utilizó 🟪 {movename} {stars} ({movePercent}%)",
-    "damage-trigger-message": "{zerpmonName}  ({typesString})   utilizó {moveEmj} {moveColorEmj} {moveName} ({dmgMul}) {dmg}({movePercent}%)",
+    "damage-trigger-message": "{zerpmonName}  ({typesString})   utilizó {moveEmj} {moveColorEmj} {moveName} ({dmgMul}) {dmg} ({movePercent}%)",
     "wait-for-result": "Calculando resultados de Batalla...",
     "normal-winner-message": "GANADOR  👑{winner}👑",
     "equipment-trigger-message": "✨{equipmentName}✨ ({zerpmonName})",
