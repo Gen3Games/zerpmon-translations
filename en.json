@@ -588,6 +588,9 @@
     "see-all-notifications": "See all notifications",
     "no-new-notifications": "No new notifications",
     "subscribe-description": "You have not subscribed for push notifications. Subscribe to                     stay updated",
-    "subscribe": "Subscribe"
+    "subscribe": "Subscribe",
+    "ios-setup-title": "Add Zerpmon Web App to the home screen to subscribe for push notifications",
+    "ios-setup-step-1": "1. Press Share button on top right corner",
+    "ios-setup-step-2": "2. Press Add to Home Screen"
   }
 }
