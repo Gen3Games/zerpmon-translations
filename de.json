@@ -567,6 +567,9 @@
     "see-all-notifications": "Alle Benachrichtigungen anzeigen",
     "no-new-notifications": "Keine neuen Benachrichtigungen",
     "subscribe-description": "",
-    "subscribe": ""
+    "subscribe": "",
+    "ios-setup-title": "",
+    "ios-setup-step-1": "",
+    "ios-setup-step-2": ""
   }
 }
