@@ -416,7 +416,8 @@
     "no-boss": "Please wait for a new boss to be summoned",
     "no-battle-deck": "No battle deck found",
     "not-reset-yet": "Please wait until next reset",
-    "pierce-trigger-message-3": "{winner}'s {winnerMove} still successfully hits, despite {loser}'s {loserMove}!"
+    "pierce-trigger-message-3": "{winner}'s {winnerMove} still successfully hits, despite {loser}'s {loserMove}!",
+    "hardware-support": "iOS currently not supported. Please use a desktop browers or Android. Click here to check minimum hardware requirements."
   },
   "test": {
     "test": "this is a test"

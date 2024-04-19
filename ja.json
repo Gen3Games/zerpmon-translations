@@ -416,7 +416,8 @@
     "no-boss": "",
     "no-battle-deck": "",
     "not-reset-yet": "",
-    "pierce-trigger-message-3": ""
+    "pierce-trigger-message-3": "",
+    "hardware-support": "iOSは現在サポートされていません。デスクトップブラウザまたはAndroidを使用してください。ここをクリックして最低限のハードウェア要件を確認してください。"
   },
   "test": {
     "test": ""

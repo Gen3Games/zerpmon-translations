@@ -416,7 +416,8 @@
     "no-boss": "",
     "no-battle-deck": "",
     "not-reset-yet": "",
-    "pierce-trigger-message-3": ""
+    "pierce-trigger-message-3": "",
+    "hardware-support": "当前不支持iOS。请使用桌面浏览器或Android。点击这里检查最低硬件要求。"
   },
   "test": {
     "test": "这是个测试"
@@ -577,7 +578,9 @@
     "sell-offer-not-found": "找不到此 NFT 的任何出售报价",
     "relist": "",
     "relist-nft": "",
-    "confim-relist-nft": ""
+    "confim-relist-nft": "",
+    "listing-submit": "",
+    "pay-listing-transaction": ""
   },
   "notifications": {
     "notifications": "",

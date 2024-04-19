@@ -416,7 +416,8 @@
     "no-boss": "Bitte warte, bis ein neuer Weltherrscher bekanntgegeben wird",
     "no-battle-deck": "Kein Wettkampf-Deck gefunden",
     "not-reset-yet": "Bitte warte bis zum nächsten Neustart",
-    "pierce-trigger-message-3": ""
+    "pierce-trigger-message-3": "",
+    "hardware-support": "iOS wird derzeit nicht unterstützt. Bitte verwenden Sie einen Desktop-Browser oder Android. Klicken Sie hier, um die Mindesthardwareanforderungen zu überprüfen."
   },
   "test": {
     "test": "Dies ist ein Test"
