@@ -297,27 +297,27 @@
     "error-gym-refill-potion": "Ein Fehler ist beim Verwenden des Trainings-Nachfülltranks aufgetreten. Bitte versuche es später noch einmal",
     "used-double-xp-potion": "EP-Verdopplungstarnk verwendet",
     "error-double-xp-potion": "Ein Fehler ist beim Verwenden des EP-Verdopplungstranks aufgetreten. Bitte versuche es später noch einmal",
-    "no-golden-liquorice": "",
-    "invalid-zerpmon-nftid": "",
-    "no-moveset": "",
-    "zerpmon-maxed-out": "",
-    "no-next-level": "",
-    "no-white-candy": "",
-    "no-gold-candy": "",
-    "not-enough-candy-frag": "",
-    "no-candy": "",
-    "candy-active": "",
-    "flair-not-found": "",
-    "flair-active": "",
-    "no-lure-found": "",
-    "lure-active": "",
-    "no-revive-potion": "",
-    "revive-active": "",
-    "no-mission-potion": "",
-    "mission-potion-active": "",
-    "no-gym-refill": "",
-    "gym-refill-active": "",
-    "no-double-xp-potion": ""
+    "no-golden-liquorice": "Keine Goldene Lakritze in deinem Bestand gefunden",
+    "invalid-zerpmon-nftid": "Ungültiges Zerpmon",
+    "no-moveset": "Angriffsset konnte nicht verwendet werden",
+    "zerpmon-maxed-out": "Dieses Zerpmon ist voll ausgerüstet",
+    "no-next-level": "Nächstes Level konnte nicht ermittelt werden",
+    "no-white-candy": "Keine Weiße Süßigkeit in deinem Bestand gefunden",
+    "no-gold-candy": "Keine Goldene Süßigkeit in deinem Bestand gefunden",
+    "not-enough-candy-frag": "Nicht genug Süßigkeitenfragmente in deinem Bestand gefunden",
+    "no-candy": "Keine Süßigkeit in deinem Bestand gefunden",
+    "candy-active": "Bei diesem Zerpmon ist bereits eine Süßigkeit desselben Typs aktiv",
+    "flair-not-found": "Kein Talent in deinem Bestand gefunden",
+    "flair-active": "Zerpmon ist bereits mit diesem Talent ausgerüstet",
+    "no-lure-found": "Keine Köder in deinem Bestand gefunden",
+    "lure-active": "Köder ist bereits aktiv",
+    "no-revive-potion": "Keinen Wiederbelebungstrank in deinem Bestand gefunden",
+    "revive-active": "Keines deiner Zerpmons benötigt momentan einen Wiederbelebungstrank",
+    "no-mission-potion": "Keinen Missions-Nachfülltrank in deinem Bestand gefunden",
+    "mission-potion-active": "Keine Missionen müssen momentan wieder nachgefüllt werden",
+    "no-gym-refill": "Keinen Trainings-Nachfülltrank in deinem Bestand gefunden",
+    "gym-refill-active": "Die Verwendung würde einen Trainings-Nachfülltrank verschwenden",
+    "no-double-xp-potion": "Keinen EP-Verdopplungstrank in deinem Bestand gefunden"
   },
   "safari": {
     "title": "Safari",
@@ -416,7 +416,7 @@
     "no-boss": "Bitte warte, bis ein neuer Weltherrscher bekanntgegeben wird",
     "no-battle-deck": "Kein Wettkampf-Deck gefunden",
     "not-reset-yet": "Bitte warte bis zum nächsten Neustart",
-    "pierce-trigger-message-3": "",
+    "pierce-trigger-message-3": "{winner}'s {winnerMove} hat trotz {loser}'s {loserMove} erfolgreich getroffen!",
     "hardware-support": "iOS wird derzeit nicht unterstützt. Bitte verwenden Sie einen Desktop-Browser oder Android. Klicken Sie hier, um die Mindesthardwareanforderungen zu überprüfen."
   },
   "test": {
@@ -485,8 +485,8 @@
     "listings-description": "Verwalte deine zum Verleih angebotenen NFT's",
     "add-listing-title": "Biete dein Zerpmon-BFT's zum Verleih an",
     "add-listing-description": "Wähle das Zerpmon-NFT aus, das du zum Verleih anbieten möchtest und gebe die Einzelheiten weiter unten ein",
-    "min-rental-duration": "",
-    "max-rental-duration": ""
+    "min-rental-duration": "Minimale Leihdauer",
+    "max-rental-duration": "Maximale Leihdauer"
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -535,7 +535,7 @@
     "confirm-cancel": "Bist du sicher, dass du die Leihe von {zerpmonName} beenden möchtest?",
     "add-listing": "Angebot hinzufügen",
     "no-nfts": "Keine NFT's",
-    "table-unlisted": ""
+    "table-unlisted": "Nicht angeboten"
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",
@@ -578,9 +578,9 @@
     "edit-listing-description": "Bearbeite deine angebotenen NFT's unten",
     "edit-listing-update": "Aktualisiere dein Angebot",
     "sell-offer-not-found": "Konnte kein Verleihangebot für dein Zerpmon NFT finden",
-    "relist": "",
-    "relist-nft": "",
-    "confim-relist-nft": ""
+    "relist": "Wieder anbieten",
+    "relist-nft": "{nftName} wieder anbieten",
+    "confim-relist-nft": "Bist du sicher, dass du {nftName} wieder anbieten möchtest?"
   },
   "notifications": {
     "notifications": "Benachrichtigungen",
@@ -588,10 +588,10 @@
     "mark-as-read": "Als gelesen markieren",
     "see-all-notifications": "Alle Benachrichtigungen anzeigen",
     "no-new-notifications": "Keine neuen Benachrichtigungen",
-    "subscribe-description": "",
-    "subscribe": "",
-    "ios-setup-title": "",
-    "ios-setup-step-1": "",
-    "ios-setup-step-2": ""
+    "subscribe-description": "Du hast Push-Nachrichten nicht aktiviert. Schalte Push-Nachrichten ein, um auf dem Laufenden zu bleiben",
+    "subscribe": "Aktivieren",
+    "ios-setup-title": "Füge die Zerpmon Web App dem Home-Bildschirm hinzu, um Push-Nachrichten zu aktivieren",
+    "ios-setup-step-1": "1. Drücke den 'Teilen'-Button in der oberen rechten Ecke",
+    "ios-setup-step-2": "2. Drücke 'Zum Home-Bildschirm hinzufügen'"
   }
 }
