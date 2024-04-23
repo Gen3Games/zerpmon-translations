@@ -165,7 +165,8 @@
     "store-link-label": "点击此处前往商店",
     "all-zerpmons": "全部Zerpmons牌",
     "ascended-zerpmons": "觉醒的Zerpmons",
-    "br-deck": ""
+    "br-deck": "",
+    "add-br-deck": ""
   },
   "store": {
     "title": "商店",

@@ -165,7 +165,8 @@
     "store-link-label": "Hier klicken, um zum Shop zu kommen.",
     "all-zerpmons": "Alle Zerpmon-Karten",
     "ascended-zerpmons": "Aufgestiegene Zerpmon-Karten",
-    "br-deck": ""
+    "br-deck": "",
+    "add-br-deck": ""
   },
   "store": {
     "title": "Shop",

@@ -165,7 +165,8 @@
     "store-link-label": "ここをクリックしてストアにアクセスしてください",
     "all-zerpmons": "すべてのゼルモンカード",
     "ascended-zerpmons": "昇天ゼルモンカード",
-    "br-deck": "バトルロイヤルデッキ"
+    "br-deck": "バトルロイヤルデッキ",
+    "add-br-deck": "バトルロイヤルデッキを追加"
   },
   "store": {
     "title": "ストア",

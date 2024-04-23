@@ -165,7 +165,8 @@
     "store-link-label": "스토어로 이동하려면 여기를 클릭하세요.",
     "all-zerpmons": "모든 저프몬 카드",
     "ascended-zerpmons": "승천한 저프론 카드",
-    "br-deck": "배틀 로얄 덱"
+    "br-deck": "배틀 로얄 덱",
+    "add-br-deck": "배틀로얄 덱 추가"
   },
   "store": {
     "title": "스토어",

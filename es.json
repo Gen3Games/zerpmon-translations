@@ -165,7 +165,8 @@
     "store-link-label": "Haz click aquí para ir a la Tienda",
     "all-zerpmons": "Todas las cartas Zerpmon",
     "ascended-zerpmons": "Cartas Zerpmon Ascendidas",
-    "br-deck": "Mazo de batalla real"
+    "br-deck": "Mazo de batalla real",
+    "add-br-deck": "Agregar mazo Battle Royale"
   },
   "store": {
     "title": "Tienda",

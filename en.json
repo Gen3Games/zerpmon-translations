@@ -165,7 +165,8 @@
     "store-link-label": "Click here to go to the Store",
     "all-zerpmons": "All Zerpmon Cards",
     "ascended-zerpmons": "Ascended Zerpmon Cards",
-    "br-deck": "Battle Royale Deck"
+    "br-deck": "Battle Royale Deck",
+    "add-br-deck": "Add Battle Royale Deck"
   },
   "store": {
     "title": "Store",
