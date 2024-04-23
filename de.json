@@ -164,7 +164,8 @@
     "no-tower-rush-error-2": "Bitte kaufe ein Festungssturm-Ticket im Shop oder auf dem Discord Server.",
     "store-link-label": "Hier klicken, um zum Shop zu kommen.",
     "all-zerpmons": "Alle Zerpmon-Karten",
-    "ascended-zerpmons": "Aufgestiegene Zerpmon-Karten"
+    "ascended-zerpmons": "Aufgestiegene Zerpmon-Karten",
+    "br-deck": ""
   },
   "store": {
     "title": "Shop",

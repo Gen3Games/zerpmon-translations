@@ -164,7 +164,8 @@
     "no-tower-rush-error-2": "请您在商店或者Discord购买票玩冲塔模式",
     "store-link-label": "点击此处前往商店",
     "all-zerpmons": "全部Zerpmons牌",
-    "ascended-zerpmons": "觉醒的Zerpmons"
+    "ascended-zerpmons": "觉醒的Zerpmons",
+    "br-deck": ""
   },
   "store": {
     "title": "商店",
