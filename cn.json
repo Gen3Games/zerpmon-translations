@@ -166,7 +166,11 @@
     "all-zerpmons": "全部Zerpmons牌",
     "ascended-zerpmons": "觉醒的Zerpmons",
     "br-deck": "",
-    "add-br-deck": ""
+    "add-br-deck": "",
+    "rename-battle-deck": "",
+    "rename-gym-deck": "",
+    "rename-br-deck": "",
+    "clear-br-deck": ""
   },
   "store": {
     "title": "商店",

@@ -166,7 +166,11 @@
     "all-zerpmons": "All Zerpmon Cards",
     "ascended-zerpmons": "Ascended Zerpmon Cards",
     "br-deck": "Battle Royale Deck",
-    "add-br-deck": "Add Battle Royale Deck"
+    "add-br-deck": "Add Battle Royale Deck",
+    "rename-battle-deck": "Rename Battle Deck",
+    "rename-gym-deck": "Rename Gym Deck",
+    "rename-br-deck": "Rename Battle Royale Deck",
+    "clear-br-deck": "Clear Battle Royale Deck"
   },
   "store": {
     "title": "Store",

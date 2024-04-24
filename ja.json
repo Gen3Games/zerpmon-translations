@@ -166,7 +166,11 @@
     "all-zerpmons": "すべてのゼルモンカード",
     "ascended-zerpmons": "昇天ゼルモンカード",
     "br-deck": "バトルロイヤルデッキ",
-    "add-br-deck": "バトルロイヤルデッキを追加"
+    "add-br-deck": "バトルロイヤルデッキを追加",
+    "rename-battle-deck": "",
+    "rename-gym-deck": "",
+    "rename-br-deck": "",
+    "clear-br-deck": ""
   },
   "store": {
     "title": "ストア",

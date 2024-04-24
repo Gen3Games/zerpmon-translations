@@ -166,7 +166,11 @@
     "all-zerpmons": "Todas las cartas Zerpmon",
     "ascended-zerpmons": "Cartas Zerpmon Ascendidas",
     "br-deck": "Mazo de batalla real",
-    "add-br-deck": "Agregar mazo Battle Royale"
+    "add-br-deck": "Agregar mazo Battle Royale",
+    "rename-battle-deck": "",
+    "rename-gym-deck": "",
+    "rename-br-deck": "",
+    "clear-br-deck": ""
   },
   "store": {
     "title": "Tienda",
