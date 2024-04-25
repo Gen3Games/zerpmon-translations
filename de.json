@@ -167,10 +167,10 @@
     "ascended-zerpmons": "Aufgestiegene Zerpmon-Karten",
     "br-deck": "Battle Royale-Deck",
     "add-br-deck": "Füge Battle Royale-Deck hinzu",
-    "rename-battle-deck": "",
-    "rename-gym-deck": "",
-    "rename-br-deck": "",
-    "clear-br-deck": ""
+    "rename-battle-deck": "Wettkampf-Deck neu benennnen",
+    "rename-gym-deck": "Trainings-Deck neu benennnen",
+    "rename-br-deck": "Battle Royale-Deck neu benennnen",
+    "clear-br-deck": "Battle Royale-Deck löschen"
   },
   "store": {
     "title": "Shop",
@@ -424,16 +424,16 @@
     "not-reset-yet": "Bitte warte bis zum nächsten Neustart",
     "pierce-trigger-message-3": "{winner}'s {winnerMove} hat trotz {loser}'s {loserMove} erfolgreich getroffen!",
     "hardware-support": "iOS wird derzeit nicht unterstützt. Bitte verwende einen Desktop-Browser oder Android. Klicke hier, um die Mindesthardwareanforderungen zu überprüfen.",
-    "play-for-xp": "",
-    "play-for-xrp": "",
-    "revive-zerpmon": "",
-    "refill-missions": "",
-    "used-revive-potion": "",
-    "error-revive-potion": "",
-    "used-mission-potion": "",
-    "error-mission-potion": "",
-    "zerpmon-knocked-out": "",
-    "daily-missions-left": ""
+    "play-for-xp": "Für EP spielen",
+    "play-for-xrp": "Für XRP spielen",
+    "revive-zerpmon": "Zerpmon beleben",
+    "refill-missions": "Missionen wieder auffüllen",
+    "used-revive-potion": "Belebungstrank verwendet",
+    "error-revive-potion": "Beim Beleben ist ein Fehler aufgetreten",
+    "used-mission-potion": "Missions-Wiederauffüllung verwendet",
+    "error-mission-potion": "Bei der Wiederauffüllung ist ein Fehler aufgetreten",
+    "zerpmon-knocked-out": "Zerpmon augeknockt",
+    "daily-missions-left": "Heutige restliche Missionen"
   },
   "test": {
     "test": "Dies ist ein Test"
