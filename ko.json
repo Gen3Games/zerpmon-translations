@@ -167,10 +167,10 @@
     "ascended-zerpmons": "승천한 저프론 카드",
     "br-deck": "배틀 로얄 덱",
     "add-br-deck": "배틀로얄 덱 추가",
-    "rename-battle-deck": "",
-    "rename-gym-deck": "",
-    "rename-br-deck": "",
-    "clear-br-deck": ""
+    "rename-battle-deck": "전투 덱 이름 바꾸기",
+    "rename-gym-deck": "체육관 데크 이름 바꾸기",
+    "rename-br-deck": "배틀로얄 덱 이름 바꾸기",
+    "clear-br-deck": "배틀로얄 덱 클리어"
   },
   "store": {
     "title": "스토어",
@@ -423,7 +423,17 @@
     "no-battle-deck": "전투 덱을 찾을 수 없습니다.",
     "not-reset-yet": "다음 재설정까지 기다려 주세요.",
     "pierce-trigger-message-3": "{winner}의 {winnerMove}는 {loser}의 {loserMove}에도 불구하고 여전히 성공적으로 안타를 기록했습니다!",
-    "hardware-support": "iOS는 현재 지원되지 않습니다. 데스크톱 브라우저 또는 Android를 사용하십시오. 여기를 클릭하여 최소 하드웨어 요구 사항을 확인하십시오."
+    "hardware-support": "iOS는 현재 지원되지 않습니다. 데스크톱 브라우저 또는 Android를 사용하십시오. 여기를 클릭하여 최소 하드웨어 요구 사항을 확인하십시오.",
+    "play-for-xp": "XP용 플레이",
+    "play-for-xrp": "XRP로 플레이하세요",
+    "revive-zerpmon": "제르몬을 부활시키세요",
+    "refill-missions": "리필 임무",
+    "used-revive-potion": "저르몬 부활 물약 사용",
+    "error-revive-potion": "저프몬을 부활시키는 중 오류가 발생했습니다",
+    "used-mission-potion": "미션 리필 물약 사용",
+    "error-mission-potion": "임무를 다시 채우는 중에 오류가 발생했습니다.",
+    "zerpmon-knocked-out": "저프몬 녹아웃",
+    "daily-missions-left": "남은 일일 임무"
   },
   "test": {
     "test": "테스트입니다."

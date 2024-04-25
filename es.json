@@ -167,10 +167,10 @@
     "ascended-zerpmons": "Cartas Zerpmon Ascendidas",
     "br-deck": "Mazo de batalla real",
     "add-br-deck": "Agregar mazo Battle Royale",
-    "rename-battle-deck": "",
-    "rename-gym-deck": "",
-    "rename-br-deck": "",
-    "clear-br-deck": ""
+    "rename-battle-deck": "Cambiar el nombre del mazo de batalla",
+    "rename-gym-deck": "Cambiar el nombre de la cubierta del gimnasio",
+    "rename-br-deck": "Cambiar el nombre del mazo de Battle Royale",
+    "clear-br-deck": "Completar el mazo de Battle Royale"
   },
   "store": {
     "title": "Tienda",
@@ -423,7 +423,17 @@
     "no-battle-deck": "No se encontró ningún mazo de batalla.",
     "not-reset-yet": "Espere hasta el próximo reinicio.",
     "pierce-trigger-message-3": "¡El {winnerMove} de {winner} aún acierta con éxito, a pesar del {loserMove} de {loser}!",
-    "hardware-support": "iOS no está soportado actualmente. Por favor, use un navegador de escritorio o Android. Haz clic aquí para verificar los requisitos mínimos de hardware."
+    "hardware-support": "iOS no está soportado actualmente. Por favor, use un navegador de escritorio o Android. Haz clic aquí para verificar los requisitos mínimos de hardware.",
+    "play-for-xp": "Juega por XP",
+    "play-for-xrp": "Juega por XRP",
+    "revive-zerpmon": "Revivir a Zerpmon",
+    "refill-missions": "Misiones de recarga",
+    "used-revive-potion": "Poción revivida de Zerpmon usada",
+    "error-revive-potion": "Hubo un error al revivir a zerpmon.",
+    "used-mission-potion": "Poción de recarga de misión usada",
+    "error-mission-potion": "Hubo un error al recargar misiones.",
+    "zerpmon-knocked-out": "Zerpmon noqueado",
+    "daily-missions-left": "Misiones diarias restantes"
   },
   "test": {
     "test": "esto es un test"

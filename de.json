@@ -423,7 +423,17 @@
     "no-battle-deck": "Kein Wettkampf-Deck gefunden",
     "not-reset-yet": "Bitte warte bis zum nächsten Neustart",
     "pierce-trigger-message-3": "{winner}'s {winnerMove} hat trotz {loser}'s {loserMove} erfolgreich getroffen!",
-    "hardware-support": "iOS wird derzeit nicht unterstützt. Bitte verwende einen Desktop-Browser oder Android. Klicke hier, um die Mindesthardwareanforderungen zu überprüfen."
+    "hardware-support": "iOS wird derzeit nicht unterstützt. Bitte verwende einen Desktop-Browser oder Android. Klicke hier, um die Mindesthardwareanforderungen zu überprüfen.",
+    "play-for-xp": "",
+    "play-for-xrp": "",
+    "revive-zerpmon": "",
+    "refill-missions": "",
+    "used-revive-potion": "",
+    "error-revive-potion": "",
+    "used-mission-potion": "",
+    "error-mission-potion": "",
+    "zerpmon-knocked-out": "",
+    "daily-missions-left": ""
   },
   "test": {
     "test": "Dies ist ein Test"

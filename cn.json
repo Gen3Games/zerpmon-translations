@@ -423,7 +423,17 @@
     "no-battle-deck": "",
     "not-reset-yet": "",
     "pierce-trigger-message-3": "",
-    "hardware-support": "当前不支持iOS。请使用桌面浏览器或Android。点击这里检查最低硬件要求。"
+    "hardware-support": "当前不支持iOS。请使用桌面浏览器或Android。点击这里检查最低硬件要求。",
+    "play-for-xp": "",
+    "play-for-xrp": "",
+    "revive-zerpmon": "",
+    "refill-missions": "",
+    "used-revive-potion": "",
+    "error-revive-potion": "",
+    "used-mission-potion": "",
+    "error-mission-potion": "",
+    "zerpmon-knocked-out": "",
+    "daily-missions-left": ""
   },
   "test": {
     "test": "这是个测试"

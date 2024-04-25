@@ -167,10 +167,10 @@
     "ascended-zerpmons": "昇天ゼルモンカード",
     "br-deck": "バトルロイヤルデッキ",
     "add-br-deck": "バトルロイヤルデッキを追加",
-    "rename-battle-deck": "",
-    "rename-gym-deck": "",
-    "rename-br-deck": "",
-    "clear-br-deck": ""
+    "rename-battle-deck": "バトルデッキの名前を変更",
+    "rename-gym-deck": "ジムデッキの名前を変更",
+    "rename-br-deck": "バトルロイヤルデッキの名前を変更",
+    "clear-br-deck": "バトルロイヤルデッキをクリアする"
   },
   "store": {
     "title": "ストア",
@@ -423,7 +423,17 @@
     "no-battle-deck": "バトルデッキが見つかりません",
     "not-reset-yet": "次のリセットまでお待ちください",
     "pierce-trigger-message-3": "{winner} の {winnerMove} は、{loser} の {loserMove} にもかかわらず、依然として成功しています。",
-    "hardware-support": "iOSは現在サポートされていません。デスクトップブラウザまたはAndroidを使用してください。ここをクリックして最低限のハードウェア要件を確認してください。"
+    "hardware-support": "iOSは現在サポートされていません。デスクトップブラウザまたはAndroidを使用してください。ここをクリックして最低限のハードウェア要件を確認してください。",
+    "play-for-xp": "XP でプレイ",
+    "play-for-xrp": "XRPのためにプレイする",
+    "revive-zerpmon": "ゼルモンを復活させる",
+    "refill-missions": "補充ミッション",
+    "used-revive-potion": "ゼルモン復活ポーション使用",
+    "error-revive-potion": "ゼルプモンの復活中にエラーが発生しました",
+    "used-mission-potion": "ミッションリフィルポーション使用",
+    "error-mission-potion": "ミッションの補充中にエラーが発生しました",
+    "zerpmon-knocked-out": "ゼルモンのノックアウト",
+    "daily-missions-left": "デイリーミッションが残っています"
   },
   "test": {
     "test": "これはテストです"
