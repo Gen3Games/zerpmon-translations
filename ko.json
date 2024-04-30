@@ -502,7 +502,12 @@
     "add-listing-title": "대출을 위해 Zermon NFT를 나열하세요.",
     "add-listing-description": "대출 목록에 등록하려는 Zermon NFT를 선택하고 아래 세부 정보를 입력하세요.",
     "min-rental-duration": "최소 대여 기간",
-    "max-rental-duration": "최대 대여 기간"
+    "max-rental-duration": "최대 대여 기간",
+    "loan-category": "",
+    "loan-all-categories": "",
+    "loan-trainers": "",
+    "loan-zerpmons": "",
+    "loan-equipment": ""
   },
   "manage-listing": {
     "title": "내 NFT",

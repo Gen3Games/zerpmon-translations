@@ -502,7 +502,12 @@
     "add-listing-title": "Zerpmon NFT をローン対象にリストします。",
     "add-listing-description": "ローンにリストしたいZerpmon NFTを選択し、以下に詳細を入力します。",
     "min-rental-duration": "最低レンタル期間",
-    "max-rental-duration": "最大レンタル期間"
+    "max-rental-duration": "最大レンタル期間",
+    "loan-category": "",
+    "loan-all-categories": "",
+    "loan-trainers": "",
+    "loan-zerpmons": "",
+    "loan-equipment": ""
   },
   "manage-listing": {
     "title": "私のNFT",

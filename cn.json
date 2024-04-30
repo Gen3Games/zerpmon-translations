@@ -502,7 +502,12 @@
     "add-listing-title": "列出您的 Zerpmon NFT 以供贷款",
     "add-listing-description": "选择您想要列出以供借用的 Zerpmon NFT，并输入以下详细信息。",
     "min-rental-duration": "最短租期",
-    "max-rental-duration": "最长租期"
+    "max-rental-duration": "最长租期",
+    "loan-category": "",
+    "loan-all-categories": "",
+    "loan-trainers": "",
+    "loan-zerpmons": "",
+    "loan-equipment": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",

@@ -502,7 +502,12 @@
     "add-listing-title": "Incluya su Zerpmon NFT para préstamo",
     "add-listing-description": "Seleccione el NFT de Zerpmon que desea incluir para préstamo e ingrese los detalles a continuación.",
     "min-rental-duration": "Duración mínima del alquiler",
-    "max-rental-duration": "Duración máxima del alquiler"
+    "max-rental-duration": "Duración máxima del alquiler",
+    "loan-category": "",
+    "loan-all-categories": "",
+    "loan-trainers": "",
+    "loan-zerpmons": "",
+    "loan-equipment": ""
   },
   "manage-listing": {
     "title": "Mis NFT",

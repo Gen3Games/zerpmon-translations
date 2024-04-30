@@ -502,7 +502,12 @@
     "add-listing-title": "List your Zerpmon NFT for Loan",
     "add-listing-description": "Select the Zerpmon NFT you want to list for loan and enter the details below.",
     "min-rental-duration": "Minimum rental duration",
-    "max-rental-duration": "Maximum rental duration"
+    "max-rental-duration": "Maximum rental duration",
+    "loan-category": "Category",
+    "loan-all-categories": "All Categories",
+    "loan-trainers": "Trainers",
+    "loan-zerpmons": "Zerpmons",
+    "loan-equipment": "Equipment"
   },
   "manage-listing": {
     "title": "My NFTs",

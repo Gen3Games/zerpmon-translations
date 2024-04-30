@@ -502,7 +502,12 @@
     "add-listing-title": "Biete dein Zerpmon-NFT's zum Verleih an",
     "add-listing-description": "Wähle das Zerpmon-NFT aus, dass du zum Verleih anbieten möchtest und gebe die Einzelheiten weiter unten ein",
     "min-rental-duration": "Minimale Leihdauer",
-    "max-rental-duration": "Maximale Leihdauer"
+    "max-rental-duration": "Maximale Leihdauer",
+    "loan-category": "",
+    "loan-all-categories": "",
+    "loan-trainers": "",
+    "loan-zerpmons": "",
+    "loan-equipment": ""
   },
   "manage-listing": {
     "title": "Meine NFT's",
