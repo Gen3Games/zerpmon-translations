@@ -485,7 +485,8 @@
     "successful-loan": "Vous avez prêté avec succès {zerpmonName}",
     "title": "Marché",
     "trading": "Commerce",
-    "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard."
+    "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
+    "loaned-by": ""
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",

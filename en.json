@@ -507,7 +507,8 @@
     "loan-all-categories": "All Categories",
     "loan-trainers": "Trainers",
     "loan-zerpmons": "Zerpmons",
-    "loan-equipment": "Equipment"
+    "loan-equipment": "Equipment",
+    "loaned-by": "Loaned by {user}"
   },
   "manage-listing": {
     "title": "My NFTs",

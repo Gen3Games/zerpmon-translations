@@ -507,7 +507,8 @@
     "loan-all-categories": "",
     "loan-trainers": "",
     "loan-zerpmons": "",
-    "loan-equipment": ""
+    "loan-equipment": "",
+    "loaned-by": ""
   },
   "manage-listing": {
     "title": "私のNFT",
