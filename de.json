@@ -558,9 +558,9 @@
     "add-listing": "Angebot hinzufügen",
     "no-nfts": "Keine NFT's",
     "table-unlisted": "Nicht angeboten",
-    "min": "",
-    "max": "",
-    "loaned": ""
+    "min": "Minimum",
+    "max": "Maximum",
+    "loaned": "Verliehen"
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",
