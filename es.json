@@ -557,7 +557,10 @@
     "confirm-cancel": "¿Estás seguro de que deseas cancelar el préstamo de {zerpmonName}?",
     "add-listing": "Agregar listado",
     "no-nfts": "Sin NFT",
-    "table-unlisted": "No incluido en listado"
+    "table-unlisted": "No incluido en listado",
+    "min": "",
+    "max": "",
+    "loaned": ""
   },
   "create-listing": {
     "not-signed-in": "Sin iniciar sesión",

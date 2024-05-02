@@ -557,7 +557,10 @@
     "confirm-cancel": "Bist du sicher, dass du die Leihe von {zerpmonName} beenden möchtest?",
     "add-listing": "Angebot hinzufügen",
     "no-nfts": "Keine NFT's",
-    "table-unlisted": "Nicht angeboten"
+    "table-unlisted": "Nicht angeboten",
+    "min": "",
+    "max": "",
+    "loaned": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",

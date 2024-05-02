@@ -557,7 +557,10 @@
     "confirm-cancel": "您确定要取消 {zerpmonName} 的贷款吗?",
     "add-listing": "添加列表",
     "no-nfts": "没有 NFTs",
-    "table-unlisted": "未上市"
+    "table-unlisted": "未上市",
+    "min": "",
+    "max": "",
+    "loaned": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",

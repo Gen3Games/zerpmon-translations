@@ -439,7 +439,10 @@
     "title": "Mes NFT",
     "transaction-failed": "Votre transaction d'annulation d'offre de vente NFT a échoué. \nVeuillez réessayer plus tard.",
     "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
-    "unlist": "Désinscrire"
+    "unlist": "Désinscrire",
+    "min": "",
+    "max": "",
+    "loaned": ""
   },
   "marketplace": {
     "accept-loan": "Prêt",

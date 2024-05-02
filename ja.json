@@ -557,7 +557,10 @@
     "confirm-cancel": "{zerpmonName} の貸し出しをキャンセルしてもよろしいですか?",
     "add-listing": "リストを追加",
     "no-nfts": "NFTなし",
-    "table-unlisted": "非上場"
+    "table-unlisted": "非上場",
+    "min": "",
+    "max": "",
+    "loaned": ""
   },
   "create-listing": {
     "not-signed-in": "ログインしていない",

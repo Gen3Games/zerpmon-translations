@@ -508,7 +508,7 @@
     "loan-trainers": "Trainers",
     "loan-zerpmons": "Zerpmons",
     "loan-equipment": "Equipment",
-    "loaned-by": "Loaned by {user}"
+    "loaned-by": "Loaned by: {user}"
   },
   "manage-listing": {
     "title": "My NFTs",
@@ -557,7 +557,10 @@
     "confirm-cancel": "Are you sure want to cancel {zerpmonName} from loaning ?",
     "add-listing": "Add listing",
     "no-nfts": "No NFTs",
-    "table-unlisted": "Unlisted"
+    "table-unlisted": "Unlisted",
+    "min": "Min",
+    "max": "Max",
+    "loaned": "Loaned"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",

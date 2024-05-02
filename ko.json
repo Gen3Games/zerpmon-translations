@@ -557,7 +557,10 @@
     "confirm-cancel": "{zerpmonName}의 대출을 취소하시겠습니까?",
     "add-listing": "목록 추가",
     "no-nfts": "NFT 없음",
-    "table-unlisted": "미등록"
+    "table-unlisted": "미등록",
+    "min": "",
+    "max": "",
+    "loaned": ""
   },
   "create-listing": {
     "not-signed-in": "로그인하지 않았습니다",
