@@ -1,4 +1,4 @@
-{
+bleo{
   "app": {
     "title": "Zerpmon",
     "description": "Das erste Monster-Wettkampfspiel zum Sammeln auf dem XRP Ledger",
@@ -562,7 +562,7 @@
     "min": "Minimum",
     "max": "Maximum",
     "loaned": "Verliehen",
-    "remaining": ""
+    "remaining": "Verbleibend"
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",
@@ -608,10 +608,10 @@
     "relist": "Wieder zum Verleih anbieten",
     "relist-nft": "{nftName} wieder anbieten",
     "confim-relist-nft": "Bist du sicher, dass du {nftName} wieder zum Verleih anbieten möchtest?",
-    "loan-already-taken": "",
-    "loan-not-found": "",
-    "loan-updated-successfully": "",
-    "loan-update": ""
+    "loan-already-taken": "Jemand hat dieses Angebot bereits in Anspruch genommen",
+    "loan-not-found": "Angebot nicht gefunden",
+    "loan-updated-successfully": "Angebot erfolgreich aktualisiert",
+    "loan-update": "Aktualisierung"
   },
   "notifications": {
     "notifications": "Benachrichtigungen",
