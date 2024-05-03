@@ -561,7 +561,8 @@
     "table-unlisted": "非上場",
     "min": "",
     "max": "",
-    "loaned": ""
+    "loaned": "",
+    "remaining": ""
   },
   "create-listing": {
     "not-signed-in": "ログインしていない",

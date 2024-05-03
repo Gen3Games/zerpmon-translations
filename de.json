@@ -561,7 +561,8 @@
     "table-unlisted": "Nicht angeboten",
     "min": "Minimum",
     "max": "Maximum",
-    "loaned": "Verliehen"
+    "loaned": "Verliehen",
+    "remaining": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",

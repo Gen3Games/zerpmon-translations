@@ -442,7 +442,8 @@
     "unlist": "Désinscrire",
     "min": "",
     "max": "",
-    "loaned": ""
+    "loaned": "",
+    "remaining": ""
   },
   "marketplace": {
     "accept-loan": "Prêt",

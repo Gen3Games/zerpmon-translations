@@ -561,7 +561,8 @@
     "table-unlisted": "No incluido en listado",
     "min": "",
     "max": "",
-    "loaned": ""
+    "loaned": "",
+    "remaining": ""
   },
   "create-listing": {
     "not-signed-in": "Sin iniciar sesión",

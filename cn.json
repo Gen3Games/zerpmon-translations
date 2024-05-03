@@ -561,7 +561,8 @@
     "table-unlisted": "未上市",
     "min": "",
     "max": "",
-    "loaned": ""
+    "loaned": "",
+    "remaining": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",
