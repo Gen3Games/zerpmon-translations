@@ -508,7 +508,8 @@
     "loan-trainers": "",
     "loan-zerpmons": "",
     "loan-equipment": "",
-    "loaned-by": ""
+    "loaned-by": "",
+    "no-sell-offers": "이 NFT에는 판매 제안이 없습니다."
   },
   "manage-listing": {
     "title": "내 NFT",

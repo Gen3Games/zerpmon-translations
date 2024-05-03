@@ -508,7 +508,8 @@
     "loan-trainers": "",
     "loan-zerpmons": "",
     "loan-equipment": "",
-    "loaned-by": ""
+    "loaned-by": "",
+    "no-sell-offers": "No hay oferta de venta para este NFT"
   },
   "manage-listing": {
     "title": "Mis NFT",

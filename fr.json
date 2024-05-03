@@ -489,7 +489,8 @@
     "title": "Marché",
     "trading": "Commerce",
     "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
-    "loaned-by": ""
+    "loaned-by": "",
+    "no-sell-offers": "Il n'y a pas d'offre de vente pour ce NFT"
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",

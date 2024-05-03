@@ -508,7 +508,8 @@
     "loan-trainers": "Trainers",
     "loan-zerpmons": "Zerpmons",
     "loan-equipment": "Equipment",
-    "loaned-by": "Loaned by: {user}"
+    "loaned-by": "Loaned by: {user}",
+    "no-sell-offers": "There is no sell offer for this NFT"
   },
   "manage-listing": {
     "title": "My NFTs",

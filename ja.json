@@ -508,7 +508,8 @@
     "loan-trainers": "",
     "loan-zerpmons": "",
     "loan-equipment": "",
-    "loaned-by": ""
+    "loaned-by": "",
+    "no-sell-offers": "このNFTには販売オファーはありません"
   },
   "manage-listing": {
     "title": "私のNFT",
