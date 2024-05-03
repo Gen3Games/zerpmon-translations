@@ -607,7 +607,11 @@
     "sell-offer-not-found": "No se pudo encontrar ninguna oferta de venta para este NFT",
     "relist": "Volver a listar",
     "relist-nft": "Volver a poner en venta {nftName}",
-    "confim-relist-nft": "¿Estás seguro de que quieres volver a incluir a {nftName}?"
+    "confim-relist-nft": "¿Estás seguro de que quieres volver a incluir a {nftName}?",
+    "loan-already-taken": "",
+    "loan-not-found": "",
+    "loan-updated-successfully": "",
+    "loan-update": ""
   },
   "notifications": {
     "notifications": "Notificaciones",

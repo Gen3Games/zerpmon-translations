@@ -607,7 +607,11 @@
     "sell-offer-not-found": "이 NFT에 대한 판매 제안을 찾을 수 없습니다.",
     "relist": "재상장",
     "relist-nft": "{nftName} 재등록",
-    "confim-relist-nft": "정말로 {nftName}을(를) 재등록하시겠습니까?"
+    "confim-relist-nft": "정말로 {nftName}을(를) 재등록하시겠습니까?",
+    "loan-already-taken": "",
+    "loan-not-found": "",
+    "loan-updated-successfully": "",
+    "loan-update": ""
   },
   "notifications": {
     "notifications": "알림",

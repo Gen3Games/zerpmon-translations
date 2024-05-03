@@ -607,7 +607,11 @@
     "sell-offer-not-found": "Could not find any sell offer for this NFT",
     "relist": "Relist",
     "relist-nft": "Relist {nftName}",
-    "confim-relist-nft": "Are you sure want to relist {nftName}"
+    "confim-relist-nft": "Are you sure want to relist {nftName}",
+    "loan-already-taken": "Someone already took this loan",
+    "loan-not-found": "Loan listing not found",
+    "loan-updated-successfully": "Loan updated successfully",
+    "loan-update": "Update"
   },
   "notifications": {
     "notifications": "Notifications",

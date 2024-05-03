@@ -607,7 +607,11 @@
     "relist-nft": "重新列出 {nftName}",
     "confim-relist-nft": "您确定要重新列出 {nftName}",
     "listing-submit": "创建列表",
-    "pay-listing-transaction": "签署 NFT 优惠"
+    "pay-listing-transaction": "签署 NFT 优惠",
+    "loan-already-taken": "",
+    "loan-not-found": "",
+    "loan-updated-successfully": "",
+    "loan-update": ""
   },
   "notifications": {
     "notifications": "通告",

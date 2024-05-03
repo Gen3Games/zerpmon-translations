@@ -607,7 +607,11 @@
     "sell-offer-not-found": "Kein Verleihangebot für dein Zerpmon NFT auffindbar",
     "relist": "Wieder zum Verleih anbieten",
     "relist-nft": "{nftName} wieder anbieten",
-    "confim-relist-nft": "Bist du sicher, dass du {nftName} wieder zum Verleih anbieten möchtest?"
+    "confim-relist-nft": "Bist du sicher, dass du {nftName} wieder zum Verleih anbieten möchtest?",
+    "loan-already-taken": "",
+    "loan-not-found": "",
+    "loan-updated-successfully": "",
+    "loan-update": ""
   },
   "notifications": {
     "notifications": "Benachrichtigungen",

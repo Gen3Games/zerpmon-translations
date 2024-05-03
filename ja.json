@@ -607,7 +607,11 @@
     "sell-offer-not-found": "このNFTの販売オファーが見つかりませんでした",
     "relist": "再リスト",
     "relist-nft": "{nftName} を再リストする",
-    "confim-relist-nft": "本当に {nftName} を再出品してもよろしいですか"
+    "confim-relist-nft": "本当に {nftName} を再出品してもよろしいですか",
+    "loan-already-taken": "",
+    "loan-not-found": "",
+    "loan-updated-successfully": "",
+    "loan-update": ""
   },
   "notifications": {
     "notifications": "通知",

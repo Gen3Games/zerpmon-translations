@@ -152,7 +152,11 @@
     "sell-offer-transaction-not-validated": "La transaction d'offre de vente n'est pas valide",
     "successful-listing": "Vous avez répertorié avec succès {nftName} pour le prêt",
     "transaction-failed": "Votre transaction d'offre de vente NFT a échoué. \nVeuillez réessayer plus tard.",
-    "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard."
+    "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
+    "loan-already-taken": "",
+    "loan-not-found": "",
+    "loan-updated-successfully": "",
+    "loan-update": ""
   },
   "decks": {
     "add-battle-deck": "Ajouter un deck de combat",
