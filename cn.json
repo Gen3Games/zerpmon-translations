@@ -51,7 +51,8 @@
     "gemwallet": "GemWallet",
     "google": "使用谷歌登录",
     "discord": "使用Discord登录",
-    "social-logins-kaiju": "使用Kaiju Wallet登录"
+    "social-logins-kaiju": "使用Kaiju Wallet登录",
+    "sign-in-with-xaman": "使用 Xaman 登录"
   },
   "user-profile": {
     "trainers": "训练师",

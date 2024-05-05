@@ -51,7 +51,8 @@
     "gemwallet": "GemWallet",
     "google": "Googleでログイン",
     "discord": "Discordでログイン",
-    "social-logins-kaiju": "Kaiju Wallet を使用したソーシャル ログイン"
+    "social-logins-kaiju": "Kaiju Wallet を使用したソーシャル ログイン",
+    "sign-in-with-xaman": "Xaman でサインインする"
   },
   "user-profile": {
     "trainers": "トレーナー",

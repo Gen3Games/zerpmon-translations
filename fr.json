@@ -495,7 +495,12 @@
     "trading": "Commerce",
     "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
     "loaned-by": "",
-    "no-sell-offers": "Il n'y a pas d'offre de vente pour ce NFT"
+    "no-sell-offers": "Il n'y a pas d'offre de vente pour ce NFT",
+    "loan-all-categories": "",
+    "loan-category": "",
+    "loan-equipment": "",
+    "loan-trainers": "",
+    "loan-zerpmons": ""
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",
@@ -579,7 +584,8 @@
     "xumm": "Hum",
     "xumm-qr-modal-title": "Scannez le code QR avec Xumm",
     "xumm-sign-in-failed": "Impossible de se connecter avec le portefeuille Xumm. \nVeuillez consulter l'application Xumm.",
-    "xumm-sign-in-success": "Vous vous êtes connecté avec succès avec Xumm"
+    "xumm-sign-in-success": "Vous vous êtes connecté avec succès avec Xumm",
+    "sign-in-with-xaman": "Connectez-vous avec Xaman"
   },
   "store": {
     "buy-now": "Acheter maintenant",
