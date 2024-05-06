@@ -360,12 +360,12 @@
     "you-have-won-zerpmon": "Du hast ein zufälliges Zerpmon gewonnen",
     "you-have-won-equipment": "Du hast ein zufälliges Equipment gewonnen",
     "you-have-won-jackpot": "Du hast den Jackpot in Höhe von {amount} ZRP gewonnen",
-    "rewards-table-item": "",
-    "rewards-table-chance-1-roll": "",
-    "rewards-table-chance-3-rolls": "",
-    "rewards-table-chance-1-roll-short": "",
-    "rewards-table-chance-3-rolls-short": "",
-    "rewards-table-value-xrp": ""
+    "rewards-table-item": "Gegenstand",
+    "rewards-table-chance-1-roll": "Chance bei 1 Versuch",
+    "rewards-table-chance-3-rolls": "Chance bei 3 Versuchen",
+    "rewards-table-chance-1-roll-short": "CP1",
+    "rewards-table-chance-3-rolls-short": "CP3",
+    "rewards-table-value-xrp": "Wert in XRP"
   },
   "battle": {
     "title": "Wettkampf",
