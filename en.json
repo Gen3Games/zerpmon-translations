@@ -359,7 +359,13 @@
     "you-have-won": "You have won {rewardAmount} {rewardName}",
     "you-have-won-zerpmon": "You have won a random Zerpmon",
     "you-have-won-equipment": "You have won a random Equipment",
-    "you-have-won-jackpot": "You have won the jackpot of {amount} ZRP"
+    "you-have-won-jackpot": "You have won the jackpot of {amount} ZRP",
+    "rewards-table-item": "Item",
+    "rewards-table-chance-1-roll": "Chance Per 1 Roll",
+    "rewards-table-chance-3-rolls": "Chance Per 3 Rolls",
+    "rewards-table-chance-1-roll-short": "CP1",
+    "rewards-table-chance-3-rolls-short": "CP3",
+    "rewards-table-value-xrp": "Value in XRP"
   },
   "battle": {
     "title": "Battle",

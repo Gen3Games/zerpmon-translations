@@ -359,7 +359,13 @@
     "you-have-won": "Du hast {rewardAmount} {rewardName} gewonnen ",
     "you-have-won-zerpmon": "Du hast ein zufälliges Zerpmon gewonnen",
     "you-have-won-equipment": "Du hast ein zufälliges Equipment gewonnen",
-    "you-have-won-jackpot": "Du hast den Jackpot in Höhe von {amount} ZRP gewonnen"
+    "you-have-won-jackpot": "Du hast den Jackpot in Höhe von {amount} ZRP gewonnen",
+    "rewards-table-item": "",
+    "rewards-table-chance-1-roll": "",
+    "rewards-table-chance-3-rolls": "",
+    "rewards-table-chance-1-roll-short": "",
+    "rewards-table-chance-3-rolls-short": "",
+    "rewards-table-value-xrp": ""
   },
   "battle": {
     "title": "Wettkampf",
@@ -625,5 +631,6 @@
     "ios-setup-title": "Füge die Zerpmon Web App dem Home-Bildschirm hinzu, um Push-Nachrichten zu aktivieren",
     "ios-setup-step-1": "1. Drücke den 'Teilen'-Button in der oberen rechten Ecke",
     "ios-setup-step-2": "2. Drücke 'Zum Home-Bildschirm hinzufügen'"
-  }
+  },
+  "safari-rewards-table-value-xrp": ""
 }

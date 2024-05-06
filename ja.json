@@ -359,7 +359,13 @@
     "you-have-won": "あなたは {rewardAmount} {rewardName} を獲得しました",
     "you-have-won-zerpmon": "ランダムなゼルモンを獲得しました",
     "you-have-won-equipment": "ランダムな装備を獲得しました",
-    "you-have-won-jackpot": "あなたは {amount} ZRP のジャックポットを獲得しました"
+    "you-have-won-jackpot": "あなたは {amount} ZRP のジャックポットを獲得しました",
+    "rewards-table-item": "",
+    "rewards-table-chance-1-roll": "",
+    "rewards-table-chance-3-rolls": "",
+    "rewards-table-chance-1-roll-short": "",
+    "rewards-table-chance-3-rolls-short": "",
+    "rewards-table-value-xrp": ""
   },
   "battle": {
     "title": "バトル",
