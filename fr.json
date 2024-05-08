@@ -512,7 +512,14 @@
     "notifications": "Notifications",
     "see-all-notifications": "Voir toutes les notifications",
     "subscribe": "S'abonner",
-    "subscribe-description": "Vous n'êtes pas abonné aux notifications push. \nAbonnez-vous pour rester informé"
+    "subscribe-description": "Vous n'êtes pas abonné aux notifications push. \nAbonnez-vous pour rester informé",
+    "notifications-settings": "",
+    "loans": "",
+    "auctions": "",
+    "safari": "",
+    "loans-description": "",
+    "safari-description": "",
+    "save": ""
   },
   "safari": {
     "bg": "Zone de combats",

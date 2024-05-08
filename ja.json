@@ -630,6 +630,13 @@
     "subscribe": "購読する",
     "ios-setup-title": "Zermon Web Appをホーム画面に追加してプッシュ通知を購読します",
     "ios-setup-step-1": "1. 右上隅の共有ボタンを押します",
-    "ios-setup-step-2": "2. ホーム画面に追加を押します"
+    "ios-setup-step-2": "2. ホーム画面に追加を押します",
+    "notifications-settings": "",
+    "loans": "",
+    "auctions": "",
+    "safari": "",
+    "loans-description": "",
+    "safari-description": "",
+    "save": ""
   }
 }

@@ -630,6 +630,13 @@
     "subscribe": "Subscribe",
     "ios-setup-title": "Add Zerpmon Web App to the home screen to subscribe for push notifications",
     "ios-setup-step-1": "1. Press Share button on top right corner",
-    "ios-setup-step-2": "2. Press Add to Home Screen"
+    "ios-setup-step-2": "2. Press Add to Home Screen",
+    "notifications-settings": "Notifications Settings",
+    "loans": "Loans",
+    "auctions": "Auctions",
+    "safari": "Safari",
+    "loans-description": "New NFT listings",
+    "safari-description": "Jackpot and NFT wins",
+    "save": "Save"
   }
 }

@@ -630,6 +630,13 @@
     "subscribe": "订阅",
     "ios-setup-title": "将 Zerpmon Web App 添加到主屏幕以订阅推送通知",
     "ios-setup-step-1": "1. 按右上角的分享按钮",
-    "ios-setup-step-2": "2. 按添加到主屏幕"
+    "ios-setup-step-2": "2. 按添加到主屏幕",
+    "notifications-settings": "",
+    "loans": "",
+    "auctions": "",
+    "safari": "",
+    "loans-description": "",
+    "safari-description": "",
+    "save": ""
   }
 }

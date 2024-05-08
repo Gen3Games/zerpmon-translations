@@ -630,7 +630,14 @@
     "subscribe": "Aktivieren",
     "ios-setup-title": "Füge die Zerpmon Web App dem Home-Bildschirm hinzu, um Push-Nachrichten zu aktivieren",
     "ios-setup-step-1": "1. Drücke den 'Teilen'-Button in der oberen rechten Ecke",
-    "ios-setup-step-2": "2. Drücke 'Zum Home-Bildschirm hinzufügen'"
+    "ios-setup-step-2": "2. Drücke 'Zum Home-Bildschirm hinzufügen'",
+    "notifications-settings": "",
+    "loans": "",
+    "auctions": "",
+    "safari": "",
+    "loans-description": "",
+    "safari-description": "",
+    "save": ""
   },
   "safari-rewards-table-value-xrp": ""
 }

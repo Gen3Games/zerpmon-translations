@@ -630,6 +630,13 @@
     "subscribe": "Suscribir",
     "ios-setup-title": "Agregue la aplicación web Zerpmon a la pantalla de inicio para suscribirse a notificaciones automáticas",
     "ios-setup-step-1": "1. Presione el botón Compartir en la esquina superior derecha.",
-    "ios-setup-step-2": "2. Presione Agregar a la pantalla de inicio"
+    "ios-setup-step-2": "2. Presione Agregar a la pantalla de inicio",
+    "notifications-settings": "",
+    "loans": "",
+    "auctions": "",
+    "safari": "",
+    "loans-description": "",
+    "safari-description": "",
+    "save": ""
   }
 }
