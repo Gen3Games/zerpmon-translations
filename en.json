@@ -637,6 +637,8 @@
     "safari": "Safari",
     "loans-description": "New NFT listings",
     "safari-description": "Jackpot and NFT wins",
-    "save": "Save"
+    "save": "Save",
+    "update-failed": "Failed to update Push Notification Settings",
+    "update-success": "Push Notification Settings updated successfully"
   }
 }

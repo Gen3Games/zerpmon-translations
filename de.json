@@ -637,7 +637,9 @@
     "safari": "",
     "loans-description": "",
     "safari-description": "",
-    "save": ""
+    "save": "",
+    "update-failed": "",
+    "update-success": ""
   },
   "safari-rewards-table-value-xrp": ""
 }
