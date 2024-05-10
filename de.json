@@ -569,7 +569,7 @@
     "table-unlisted": "Nicht angeboten",
     "min": "Minimum",
     "max": "Maximum",
-    "loaned": "Verliehen",
+    "loaned": "Angebotsdauer",
     "remaining": "Verbleibend"
   },
   "create-listing": {
@@ -632,15 +632,15 @@
     "ios-setup-title": "Füge die Zerpmon Web App dem Home-Bildschirm hinzu, um Push-Nachrichten zu aktivieren",
     "ios-setup-step-1": "1. Drücke den 'Teilen'-Button in der oberen rechten Ecke",
     "ios-setup-step-2": "2. Drücke 'Zum Home-Bildschirm hinzufügen'",
-    "notifications-settings": "",
-    "loans": "",
-    "auctions": "",
-    "safari": "",
-    "loans-description": "",
-    "safari-description": "",
-    "save": "",
-    "update-failed": "",
-    "update-success": ""
+    "notifications-settings": "Benachrichtigungseinstellungen",
+    "loans": "Verleih",
+    "auctions": "Auktionen",
+    "safari": "Safari",
+    "loans-description": "Neue NFT-Angebote",
+    "safari-description": "Jackpot und NFT-Gewinne",
+    "save": "Speichern",
+    "update-failed": "Aktualisierung der Einstellungen für Push-Nachrichten fehlgeschlagen",
+    "update-success": "Aktualisierung der Einstellungen für Push-Nachrichten erfolgreich"
   },
   "safari-rewards-table-value-xrp": ""
 }
