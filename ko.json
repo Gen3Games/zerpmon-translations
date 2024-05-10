@@ -440,7 +440,8 @@
     "used-mission-potion": "미션 리필 물약 사용",
     "error-mission-potion": "임무를 다시 채우는 중에 오류가 발생했습니다.",
     "zerpmon-knocked-out": "저프몬 녹아웃",
-    "daily-missions-left": "남은 일일 임무"
+    "daily-missions-left": "남은 일일 임무",
+    "br-revive-message": ""
   },
   "test": {
     "test": "테스트입니다."

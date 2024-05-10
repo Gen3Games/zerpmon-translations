@@ -440,7 +440,8 @@
     "used-mission-potion": "使用任务补充药水",
     "error-mission-potion": "补充任务时出错",
     "zerpmon-knocked-out": "Zerpmon被击倒",
-    "daily-missions-left": "每日剩余任务"
+    "daily-missions-left": "每日剩余任务",
+    "br-revive-message": ""
   },
   "test": {
     "test": "这是个测试"

@@ -440,7 +440,8 @@
     "used-mission-potion": "Missions-Wiederauffüllung verwendet",
     "error-mission-potion": "Bei der Wiederauffüllung ist ein Fehler aufgetreten",
     "zerpmon-knocked-out": "Zerpmon augeknockt",
-    "daily-missions-left": "Heutige restliche Missionen"
+    "daily-missions-left": "Heutige restliche Missionen",
+    "br-revive-message": ""
   },
   "test": {
     "test": "Dies ist ein Test"

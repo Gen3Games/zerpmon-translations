@@ -440,7 +440,8 @@
     "used-mission-potion": "Poción de recarga de misión usada",
     "error-mission-potion": "Hubo un error al recargar misiones.",
     "zerpmon-knocked-out": "Zerpmon noqueado",
-    "daily-missions-left": "Misiones diarias restantes"
+    "daily-missions-left": "Misiones diarias restantes",
+    "br-revive-message": ""
   },
   "test": {
     "test": "esto es un test"

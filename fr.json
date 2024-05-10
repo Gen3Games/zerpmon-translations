@@ -107,7 +107,8 @@
     "used-revive-potion": "Potion de réanimation de Zerpmon utilisée",
     "wait-for-result": "Calcul des résultats de la bataille...",
     "zerpmon-knocked-out": "Zerpmon éliminé",
-    "zerpmon-resting": "Tous les Zerpmon du deck Mission se reposent"
+    "zerpmon-resting": "Tous les Zerpmon du deck Mission se reposent",
+    "br-revive-message": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

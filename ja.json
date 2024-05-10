@@ -440,7 +440,8 @@
     "used-mission-potion": "ミッションリフィルポーション使用",
     "error-mission-potion": "ミッションの補充中にエラーが発生しました",
     "zerpmon-knocked-out": "ゼルモンのノックアウト",
-    "daily-missions-left": "デイリーミッションが残っています"
+    "daily-missions-left": "デイリーミッションが残っています",
+    "br-revive-message": ""
   },
   "test": {
     "test": "これはテストです"

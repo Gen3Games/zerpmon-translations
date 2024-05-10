@@ -440,7 +440,8 @@
     "used-mission-potion": "Mission refill potion used",
     "error-mission-potion": "There was an error refilling missions",
     "zerpmon-knocked-out": "Zerpmon Knocked-Out",
-    "daily-missions-left": "Daily Missions Left"
+    "daily-missions-left": "Daily Missions Left",
+    "br-revive-message": "It's a miracle! {zerpmonName} was brought back from the dead"
   },
   "test": {
     "test": "this is a test"
