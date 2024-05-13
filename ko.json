@@ -641,5 +641,10 @@
     "save": "",
     "update-failed": "",
     "update-success": ""
+  },
+  "settings": {
+    "language": "",
+    "notifications": "",
+    "gameplay": ""
   }
 }

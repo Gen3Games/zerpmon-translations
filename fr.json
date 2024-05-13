@@ -641,5 +641,10 @@
     "strong": "Fort",
     "useless": "Terrible",
     "weak": "Faible"
+  },
+  "settings": {
+    "language": "",
+    "notifications": "",
+    "gameplay": ""
   }
 }

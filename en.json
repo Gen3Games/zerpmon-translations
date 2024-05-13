@@ -641,5 +641,10 @@
     "save": "Save",
     "update-failed": "Failed to update Push Notification Settings",
     "update-success": "Push Notification Settings updated successfully"
+  },
+  "settings": {
+    "language": "Language",
+    "notifications": "Notifications",
+    "gameplay": "Gameplay"
   }
 }
