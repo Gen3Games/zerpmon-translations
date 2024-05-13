@@ -645,6 +645,9 @@
   "settings": {
     "language": "",
     "notifications": "",
-    "gameplay": ""
+    "gameplay": "",
+    "low": "",
+    "medium": "",
+    "high": ""
   }
 }

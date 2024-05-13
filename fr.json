@@ -108,7 +108,7 @@
     "wait-for-result": "Calcul des résultats de la bataille...",
     "zerpmon-knocked-out": "Zerpmon éliminé",
     "zerpmon-resting": "Tous les Zerpmon du deck Mission se reposent",
-    "br-revive-message": ""
+    "br-revive-message": "C'est un miracle! \n{zerpmonName} a été ramené d'entre les morts"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -154,10 +154,10 @@
     "successful-listing": "Vous avez répertorié avec succès {nftName} pour le prêt",
     "transaction-failed": "Votre transaction d'offre de vente NFT a échoué. \nVeuillez réessayer plus tard.",
     "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
-    "loan-already-taken": "",
-    "loan-not-found": "",
-    "loan-updated-successfully": "",
-    "loan-update": ""
+    "loan-already-taken": "Quelqu'un a déjà contracté ce prêt",
+    "loan-not-found": "Liste de prêt introuvable",
+    "loan-updated-successfully": "Prêt mis à jour avec succès",
+    "loan-update": "Mise à jour"
   },
   "decks": {
     "add-battle-deck": "Ajouter un deck de combat",
@@ -445,10 +445,10 @@
     "transaction-failed": "Votre transaction d'annulation d'offre de vente NFT a échoué. \nVeuillez réessayer plus tard.",
     "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
     "unlist": "Désinscrire",
-    "min": "",
-    "max": "",
-    "loaned": "",
-    "remaining": ""
+    "min": "Min.",
+    "max": "Max.",
+    "loaned": "Prêté",
+    "remaining": "Restant"
   },
   "marketplace": {
     "accept-loan": "Prêt",
@@ -495,13 +495,13 @@
     "title": "Marché",
     "trading": "Commerce",
     "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
-    "loaned-by": "",
+    "loaned-by": "Prêté par : {utilisateur}",
     "no-sell-offers": "Il n'y a pas d'offre de vente pour ce NFT",
-    "loan-all-categories": "",
-    "loan-category": "",
-    "loan-equipment": "",
-    "loan-trainers": "",
-    "loan-zerpmons": ""
+    "loan-all-categories": "toutes catégories",
+    "loan-category": "Catégorie",
+    "loan-equipment": "Équipement",
+    "loan-trainers": "Formateurs",
+    "loan-zerpmons": "Zerpmons"
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",
@@ -514,15 +514,15 @@
     "see-all-notifications": "Voir toutes les notifications",
     "subscribe": "S'abonner",
     "subscribe-description": "Vous n'êtes pas abonné aux notifications push. \nAbonnez-vous pour rester informé",
-    "notifications-settings": "",
-    "loans": "",
-    "auctions": "",
-    "safari": "",
-    "loans-description": "",
-    "safari-description": "",
-    "save": "",
-    "update-failed": "",
-    "update-success": ""
+    "notifications-settings": "Paramètres des notifications",
+    "loans": "Prêts",
+    "auctions": "Les enchères",
+    "safari": "Safari",
+    "loans-description": "Nouvelles inscriptions NFT",
+    "safari-description": "Jackpot et gains NFT",
+    "save": "Sauvegarder",
+    "update-failed": "Échec de la mise à jour des paramètres de notification push",
+    "update-success": "Paramètres de notification push mis à jour avec succès"
   },
   "safari": {
     "bg": "Zone de combats",
@@ -558,12 +558,12 @@
     "zerpmon": "Zerpmon",
     "zrp-earned-from-jackpot": "Vous avez gagné le jackpot ! \nZRP gagné grâce au jackpot",
     "zrp-sent-to-jackpot": "ZRP envoyé au jackpot",
-    "rewards-table-item": "",
-    "rewards-table-chance-1-roll": "",
-    "rewards-table-chance-3-rolls": "",
-    "rewards-table-chance-1-roll-short": "",
-    "rewards-table-chance-3-rolls-short": "",
-    "rewards-table-value-xrp": ""
+    "rewards-table-item": "Article",
+    "rewards-table-chance-1-roll": "Chance par 1 lancer",
+    "rewards-table-chance-3-rolls": "Chance par 3 lancers",
+    "rewards-table-chance-1-roll-short": "CP1",
+    "rewards-table-chance-3-rolls-short": "CP3",
+    "rewards-table-value-xrp": "Valeur en XRP"
   },
   "sidebar": {
     "analytics": "Analytique",
@@ -643,8 +643,11 @@
     "weak": "Faible"
   },
   "settings": {
-    "language": "",
-    "notifications": "",
-    "gameplay": ""
+    "language": "Langue",
+    "notifications": "Notifications",
+    "gameplay": "Gameplay",
+    "low": "Faible",
+    "medium": "Moyen",
+    "high": "Haut"
   }
 }

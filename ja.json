@@ -360,12 +360,12 @@
     "you-have-won-zerpmon": "ランダムなゼルモンを獲得しました",
     "you-have-won-equipment": "ランダムな装備を獲得しました",
     "you-have-won-jackpot": "あなたは {amount} ZRP のジャックポットを獲得しました",
-    "rewards-table-item": "",
-    "rewards-table-chance-1-roll": "",
-    "rewards-table-chance-3-rolls": "",
-    "rewards-table-chance-1-roll-short": "",
-    "rewards-table-chance-3-rolls-short": "",
-    "rewards-table-value-xrp": ""
+    "rewards-table-item": "アイテム",
+    "rewards-table-chance-1-roll": "1ロールあたりのチャンス",
+    "rewards-table-chance-3-rolls": "3 ロールごとのチャンス",
+    "rewards-table-chance-1-roll-short": "CP1",
+    "rewards-table-chance-3-rolls-short": "CP3",
+    "rewards-table-value-xrp": "XRPでの価値"
   },
   "battle": {
     "title": "バトル",
@@ -441,7 +441,7 @@
     "error-mission-potion": "ミッションの補充中にエラーが発生しました",
     "zerpmon-knocked-out": "ゼルモンのノックアウト",
     "daily-missions-left": "デイリーミッションが残っています",
-    "br-revive-message": ""
+    "br-revive-message": "奇跡だよ！ \n{zerpmonName} は死から蘇りました"
   },
   "test": {
     "test": "これはテストです"
@@ -511,12 +511,12 @@
     "add-listing-description": "ローンにリストしたいZerpmon NFTを選択し、以下に詳細を入力します。",
     "min-rental-duration": "最低レンタル期間",
     "max-rental-duration": "最大レンタル期間",
-    "loan-category": "",
-    "loan-all-categories": "",
-    "loan-trainers": "",
-    "loan-zerpmons": "",
-    "loan-equipment": "",
-    "loaned-by": "",
+    "loan-category": "カテゴリー",
+    "loan-all-categories": "すべてのカテゴリ",
+    "loan-trainers": "トレーナー",
+    "loan-zerpmons": "ゼルモンズ",
+    "loan-equipment": "装置",
+    "loaned-by": "貸与者: {user}",
     "no-sell-offers": "このNFTには販売オファーはありません"
   },
   "manage-listing": {
@@ -567,10 +567,10 @@
     "add-listing": "リストを追加",
     "no-nfts": "NFTなし",
     "table-unlisted": "非上場",
-    "min": "",
-    "max": "",
-    "loaned": "",
-    "remaining": ""
+    "min": "分",
+    "max": "マックス",
+    "loaned": "貸し出しました",
+    "remaining": "残り"
   },
   "create-listing": {
     "not-signed-in": "ログインしていない",
@@ -616,10 +616,10 @@
     "relist": "再リスト",
     "relist-nft": "{nftName} を再リストする",
     "confim-relist-nft": "本当に {nftName} を再出品してもよろしいですか",
-    "loan-already-taken": "",
-    "loan-not-found": "",
-    "loan-updated-successfully": "",
-    "loan-update": ""
+    "loan-already-taken": "誰かがすでにこのローンを利用しています",
+    "loan-not-found": "ローンリストが見つかりません",
+    "loan-updated-successfully": "ローンが正常に更新されました",
+    "loan-update": "アップデート"
   },
   "notifications": {
     "notifications": "通知",
@@ -632,19 +632,22 @@
     "ios-setup-title": "Zermon Web Appをホーム画面に追加してプッシュ通知を購読します",
     "ios-setup-step-1": "1. 右上隅の共有ボタンを押します",
     "ios-setup-step-2": "2. ホーム画面に追加を押します",
-    "notifications-settings": "",
-    "loans": "",
-    "auctions": "",
-    "safari": "",
-    "loans-description": "",
-    "safari-description": "",
-    "save": "",
-    "update-failed": "",
-    "update-success": ""
+    "notifications-settings": "通知設定",
+    "loans": "ローン",
+    "auctions": "オークション",
+    "safari": "サファリ",
+    "loans-description": "新しいNFTリスト",
+    "safari-description": "ジャックポットとNFTの勝利",
+    "save": "保存",
+    "update-failed": "プッシュ通知設定の更新に失敗しました",
+    "update-success": "プッシュ通知設定が正常に更新されました"
   },
   "settings": {
-    "language": "",
-    "notifications": "",
-    "gameplay": ""
+    "language": "言語",
+    "notifications": "通知",
+    "gameplay": "ゲームプレイ",
+    "low": "低い",
+    "medium": "中くらい",
+    "high": "高い"
   }
 }

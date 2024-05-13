@@ -360,12 +360,12 @@
     "you-have-won-zerpmon": "랜덤 Zerpmon을 획득하였습니다.",
     "you-have-won-equipment": "랜덤 장비를 획득하였습니다.",
     "you-have-won-jackpot": "{amount} ZRP의 잭팟을 획득하였습니다.",
-    "rewards-table-item": "",
-    "rewards-table-chance-1-roll": "",
-    "rewards-table-chance-3-rolls": "",
-    "rewards-table-chance-1-roll-short": "",
-    "rewards-table-chance-3-rolls-short": "",
-    "rewards-table-value-xrp": ""
+    "rewards-table-item": "안건",
+    "rewards-table-chance-1-roll": "1롤당 확률",
+    "rewards-table-chance-3-rolls": "3롤 당 확률",
+    "rewards-table-chance-1-roll-short": "CP1",
+    "rewards-table-chance-3-rolls-short": "CP3",
+    "rewards-table-value-xrp": "XRP의 가치"
   },
   "battle": {
     "title": "배틀",
@@ -441,7 +441,7 @@
     "error-mission-potion": "임무를 다시 채우는 중에 오류가 발생했습니다.",
     "zerpmon-knocked-out": "저프몬 녹아웃",
     "daily-missions-left": "남은 일일 임무",
-    "br-revive-message": ""
+    "br-revive-message": "기적이에요! \n{zerpmonName}이(가) 죽음에서 부활했습니다"
   },
   "test": {
     "test": "테스트입니다."
@@ -511,12 +511,12 @@
     "add-listing-description": "대출 목록에 등록하려는 Zermon NFT를 선택하고 아래 세부 정보를 입력하세요.",
     "min-rental-duration": "최소 대여 기간",
     "max-rental-duration": "최대 대여 기간",
-    "loan-category": "",
-    "loan-all-categories": "",
-    "loan-trainers": "",
-    "loan-zerpmons": "",
-    "loan-equipment": "",
-    "loaned-by": "",
+    "loan-category": "범주",
+    "loan-all-categories": "모든 카테고리",
+    "loan-trainers": "트레이너",
+    "loan-zerpmons": "저프몬",
+    "loan-equipment": "장비",
+    "loaned-by": "대여자: {user}",
     "no-sell-offers": "이 NFT에는 판매 제안이 없습니다."
   },
   "manage-listing": {
@@ -567,10 +567,10 @@
     "add-listing": "목록 추가",
     "no-nfts": "NFT 없음",
     "table-unlisted": "미등록",
-    "min": "",
-    "max": "",
-    "loaned": "",
-    "remaining": ""
+    "min": "최소",
+    "max": "맥스",
+    "loaned": "대출됨",
+    "remaining": "남은"
   },
   "create-listing": {
     "not-signed-in": "로그인하지 않았습니다",
@@ -616,10 +616,10 @@
     "relist": "재상장",
     "relist-nft": "{nftName} 재등록",
     "confim-relist-nft": "정말로 {nftName}을(를) 재등록하시겠습니까?",
-    "loan-already-taken": "",
-    "loan-not-found": "",
-    "loan-updated-successfully": "",
-    "loan-update": ""
+    "loan-already-taken": "누군가 이미 이 대출을 받았습니다.",
+    "loan-not-found": "대출 목록을 찾을 수 없습니다",
+    "loan-updated-successfully": "대출이 업데이트되었습니다.",
+    "loan-update": "업데이트"
   },
   "notifications": {
     "notifications": "알림",
@@ -632,19 +632,22 @@
     "ios-setup-title": "푸시 알림을 구독하려면 홈 화면에 Zermon Web App을 추가하세요.",
     "ios-setup-step-1": "1. 오른쪽 상단의 공유 버튼을 누르세요.",
     "ios-setup-step-2": "2. 홈 화면에 추가를 누릅니다.",
-    "notifications-settings": "",
-    "loans": "",
-    "auctions": "",
-    "safari": "",
-    "loans-description": "",
-    "safari-description": "",
-    "save": "",
-    "update-failed": "",
-    "update-success": ""
+    "notifications-settings": "알림 설정",
+    "loans": "대출",
+    "auctions": "경매",
+    "safari": "원정 여행",
+    "loans-description": "새로운 NFT 목록",
+    "safari-description": "잭팟과 NFT 승리",
+    "save": "구하다",
+    "update-failed": "푸시 알림 설정을 업데이트하지 못했습니다.",
+    "update-success": "푸시 알림 설정이 업데이트되었습니다."
   },
   "settings": {
-    "language": "",
-    "notifications": "",
-    "gameplay": ""
+    "language": "언어",
+    "notifications": "알림",
+    "gameplay": "게임플레이",
+    "low": "낮은",
+    "medium": "중간",
+    "high": "높은"
   }
 }

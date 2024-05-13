@@ -642,10 +642,12 @@
     "update-failed": "Aktualisierung der Einstellungen für Push-Nachrichten fehlgeschlagen",
     "update-success": "Aktualisierung der Einstellungen für Push-Nachrichten erfolgreich"
   },
-  "safari-rewards-table-value-xrp": "",
   "settings": {
     "language": "",
     "notifications": "",
-    "gameplay": ""
+    "gameplay": "",
+    "low": "",
+    "medium": "",
+    "high": ""
   }
 }
