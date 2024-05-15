@@ -649,5 +649,25 @@
     "low": "",
     "medium": "",
     "high": ""
+  },
+  "auctions": {
+    "start-an-auction": "",
+    "select-nft": "",
+    "nft-selection": "",
+    "select-nft-short": "",
+    "currency-selection": "",
+    "starting-price": "",
+    "enter-starting-price": "",
+    "length": "",
+    "enter-length": "",
+    "create-auction": "",
+    "ends-in": "",
+    "highest-bid": "",
+    "bid": "",
+    "custom-amount": "",
+    "place-bid": "",
+    "initial-value": "",
+    "zerpmon-auctions": "",
+    "description": ""
   }
 }

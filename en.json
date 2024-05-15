@@ -649,5 +649,25 @@
     "low": "Low",
     "medium": "Medium",
     "high": "High"
+  },
+  "auctions": {
+    "start-an-auction": "Start an Auction for your NFTs",
+    "select-nft": "Select the Zerpmon NFT you want to auction and enter the details below.",
+    "nft-selection": "Zerpmon NFT Selection",
+    "select-nft-short": "Select NFT",
+    "currency-selection": "Currency Selection",
+    "starting-price": "Starting Price",
+    "enter-starting-price": "Enter the starting price",
+    "length": "Length of Auction (hours)",
+    "enter-length": "Enter the length of auction",
+    "create-auction": "Create Auction",
+    "ends-in": "Ends in",
+    "highest-bid": "Highest Bid",
+    "bid": "Bid",
+    "custom-amount": "Custom Amount",
+    "place-bid": "Place Bid",
+    "initial-value": "Starting {price} {currency}",
+    "zerpmon-auctions": "Zerpmon Auctions",
+    "description": "Discover unique Zerpmon NFTs in auction"
   }
 }
