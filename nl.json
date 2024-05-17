@@ -669,6 +669,8 @@
     "no-listing-found": "",
     "sell-offer-not-found": "",
     "nft-transfer-failed": "",
-    "successful-listing": ""
+    "successful-listing": "",
+    "rejected-crossmark-msg": "",
+    "tx-error-crossmark-msg": ""
   }
 }

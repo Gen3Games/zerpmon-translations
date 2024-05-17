@@ -687,6 +687,8 @@
     "no-listing-found": "Could not find temporary listing",
     "sell-offer-not-found": "Could not find any sell offer for this NFT",
     "nft-transfer-failed": "Failed to transfer NFT to Auction wallet",
-    "successful-listing": "You have successfully started an auction for {nftName}"
+    "successful-listing": "You have successfully started an auction for {nftName}",
+    "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
+    "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later."
   }
 }
