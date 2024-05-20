@@ -689,6 +689,8 @@
     "nft-transfer-failed": "Der Tranfer zum Auktionswallet hat nicht funktioniert",
     "successful-listing": "Du hast erfolgreich eine Auktion für {nftName} begonnen",
     "rejected-crossmark-msg": "Du hast die Transaktion im Crossmark-Wallet abgelehnt",
-    "tx-error-crossmark-msg": "Die Transaktion im Crossmark-Wallet konnte nicht durchgeführt werden. Bitte versuche es später noch einmal."
+    "tx-error-crossmark-msg": "Die Transaktion im Crossmark-Wallet konnte nicht durchgeführt werden. Bitte versuche es später noch einmal.",
+    "no-ongoing-auctions": "",
+    "be-the-first-bidder": ""
   }
 }

@@ -671,6 +671,8 @@
     "nft-transfer-failed": "",
     "successful-listing": "",
     "rejected-crossmark-msg": "",
-    "tx-error-crossmark-msg": ""
+    "tx-error-crossmark-msg": "",
+    "no-ongoing-auctions": "",
+    "be-the-first-bidder": ""
   }
 }

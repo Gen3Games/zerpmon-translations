@@ -689,6 +689,8 @@
     "nft-transfer-failed": "Failed to transfer NFT to Auction wallet",
     "successful-listing": "You have successfully started an auction for {nftName}",
     "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
-    "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later."
+    "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later.",
+    "no-ongoing-auctions": "There are no any ongoing auctions",
+    "be-the-first-bidder": "Be the first one to Bid"
   }
 }
