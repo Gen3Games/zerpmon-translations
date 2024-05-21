@@ -689,7 +689,7 @@
     "successful-listing": "Du hast erfolgreich eine Auktion für {nftName} begonnen",
     "rejected-crossmark-msg": "Du hast die Transaktion im Crossmark-Wallet abgelehnt",
     "tx-error-crossmark-msg": "Die Transaktion im Crossmark-Wallet konnte nicht durchgeführt werden. Bitte versuche es später noch einmal.",
-    "no-ongoing-auctions": "",
-    "be-the-first-bidder": ""
+    "no-ongoing-auctions": "Momentan sind keine Auktionen im Gange",
+    "be-the-first-bidder": "Sei der Erste, der bietet!"
   }
 }
