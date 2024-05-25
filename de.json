@@ -691,5 +691,11 @@
     "tx-error-crossmark-msg": "Die Transaktion im Crossmark-Wallet konnte nicht durchgeführt werden. Bitte versuche es später noch einmal.",
     "no-ongoing-auctions": "Momentan sind keine Auktionen im Gange",
     "be-the-first-bidder": "Sei der Erste, der bietet!"
+  },
+  "forge": {
+    "title": "",
+    "forge-equipment": "",
+    "empower-your-nfts": "",
+    "claim-trainer": ""
   }
 }

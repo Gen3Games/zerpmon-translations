@@ -691,5 +691,11 @@
     "tx-error-crossmark-msg": "",
     "no-ongoing-auctions": "",
     "be-the-first-bidder": ""
+  },
+  "forge": {
+    "title": "",
+    "forge-equipment": "",
+    "empower-your-nfts": "",
+    "claim-trainer": ""
   }
 }

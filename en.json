@@ -691,5 +691,11 @@
     "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later.",
     "no-ongoing-auctions": "There are no any ongoing auctions",
     "be-the-first-bidder": "Be the first one to Bid"
+  },
+  "forge": {
+    "title": "Forge",
+    "forge-equipment": "Forge Equipment",
+    "empower-your-nfts": "Empower your NFTs",
+    "claim-trainer": "Claim Trainer"
   }
 }

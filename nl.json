@@ -672,6 +672,30 @@
     "rejected-crossmark-msg": "",
     "tx-error-crossmark-msg": "",
     "no-ongoing-auctions": "",
-    "be-the-first-bidder": ""
+    "be-the-first-bidder": "",
+    "bid": "",
+    "create-auction": "",
+    "currency-selection": "",
+    "custom-amount": "",
+    "description": "",
+    "ends-in": "",
+    "enter-length": "",
+    "enter-starting-price": "",
+    "highest-bid": "",
+    "initial-value": "",
+    "length": "",
+    "nft-selection": "",
+    "place-bid": "",
+    "select-nft": "",
+    "select-nft-short": "",
+    "start-an-auction": "",
+    "starting-price": "",
+    "zerpmon-auctions": ""
+  },
+  "forge": {
+    "title": "",
+    "forge-equipment": "",
+    "empower-your-nfts": "",
+    "claim-trainer": ""
   }
 }
