@@ -693,9 +693,9 @@
     "be-the-first-bidder": "Sei der Erste, der bietet!"
   },
   "forge": {
-    "title": "",
-    "forge-equipment": "",
-    "empower-your-nfts": "",
-    "claim-trainer": ""
+    "title": "Schmiede",
+    "forge-equipment": "Geschmiedete Ausrüstung",
+    "empower-your-nfts": "Verstärke deine NFT's",
+    "claim-trainer": "Trainer anfordern"
   }
 }
