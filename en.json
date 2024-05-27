@@ -690,7 +690,18 @@
     "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
     "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later.",
     "no-ongoing-auctions": "There are no any ongoing auctions",
-    "be-the-first-bidder": "Be the first one to Bid"
+    "be-the-first-bidder": "Be the first one to Bid",
+    "auction-not-found": "There are no auctions for this NFT",
+    "auction-ended": "The Auction for this NFT has ended",
+    "bid-not-enough": "Your bid is lower than the current highest bid",
+    "bid-transaction-not-found": "Could not find bid transaction",
+    "bid-transaction-not-validated": "Bid transaction is not valid",
+    "you-have-been-outbid": "You have been outbid and will be refunded",
+    "bid-transaction-failed": "Your Bid transaction has failed. Please try again later.",
+    "successful-bid": "Your bid was successful",
+    "pay-nft-bid": "Pay for NFT Bid",
+    "confirm-bid-popup-title": "Bid for {nftName}",
+    "confirm-bid-popup-message": "Are you sure want to bid {amount} {currency} for {nftName} ?"
   },
   "forge": {
     "title": "Forge",

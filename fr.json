@@ -690,7 +690,18 @@
     "rejected-crossmark-msg": "",
     "tx-error-crossmark-msg": "",
     "no-ongoing-auctions": "",
-    "be-the-first-bidder": ""
+    "be-the-first-bidder": "",
+    "auction-not-found": "",
+    "auction-ended": "",
+    "bid-not-enough": "",
+    "bid-transaction-not-found": "",
+    "bid-transaction-not-validated": "",
+    "you-have-been-outbid": "",
+    "bid-transaction-failed": "",
+    "successful-bid": "",
+    "pay-nft-bid": "",
+    "confirm-bid-popup-title": "",
+    "confirm-bid-popup-message": ""
   },
   "forge": {
     "title": "",
