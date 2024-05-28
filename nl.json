@@ -706,7 +706,18 @@
     "select-nft-short": "",
     "start-an-auction": "",
     "starting-price": "",
-    "zerpmon-auctions": ""
+    "zerpmon-auctions": "",
+    "auction-not-found": "",
+    "auction-ended": "",
+    "bid-not-enough": "",
+    "bid-transaction-not-found": "",
+    "bid-transaction-not-validated": "",
+    "you-have-been-outbid": "",
+    "bid-transaction-failed": "",
+    "successful-bid": "",
+    "pay-nft-bid": "",
+    "confirm-bid-popup-title": "",
+    "confirm-bid-popup-message": ""
   },
   "forge": {
     "title": "",

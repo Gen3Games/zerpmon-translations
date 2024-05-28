@@ -706,7 +706,18 @@
     "rejected-crossmark-msg": "Du hast die Transaktion im Crossmark-Wallet abgelehnt",
     "tx-error-crossmark-msg": "Die Transaktion im Crossmark-Wallet konnte nicht durchgeführt werden. Bitte versuche es später noch einmal.",
     "no-ongoing-auctions": "Momentan sind keine Auktionen im Gange",
-    "be-the-first-bidder": "Sei der Erste, der bietet!"
+    "be-the-first-bidder": "Sei der Erste, der bietet!",
+    "auction-not-found": "",
+    "auction-ended": "",
+    "bid-not-enough": "",
+    "bid-transaction-not-found": "",
+    "bid-transaction-not-validated": "",
+    "you-have-been-outbid": "",
+    "bid-transaction-failed": "",
+    "successful-bid": "",
+    "pay-nft-bid": "",
+    "confirm-bid-popup-title": "",
+    "confirm-bid-popup-message": ""
   },
   "forge": {
     "title": "Schmiede",
