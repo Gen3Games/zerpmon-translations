@@ -440,7 +440,23 @@
     "error-mission-potion": "Bei der Wiederauffüllung ist ein Fehler aufgetreten",
     "zerpmon-knocked-out": "Zerpmon augeknockt",
     "daily-missions-left": "Heutige restliche Missionen",
-    "br-revive-message": "Es ist ein Wunder! {zerpmonName} ist wieder unter den Lebenden"
+    "br-revive-message": "Es ist ein Wunder! {zerpmonName} ist wieder unter den Lebenden",
+    "invalid-opponent": "",
+    "pending-challenges-active": "",
+    "rank-gap-too-high": "",
+    "few-zerpmon-in-deck": "",
+    "wrong-battle-id": "",
+    "battle-timed-out": "",
+    "queue-active": "",
+    "invalid-players": "",
+    "few-zerpmon-in-deck-opponent": "",
+    "failed-to-update-rank": "",
+    "max-start-time-is-24hr": "",
+    "max-active-brs": "",
+    "invalid-br": "",
+    "br-transaction-not-found": "",
+    "br-transaction-not-validated": "",
+    "failed-to-enter-br": ""
   },
   "test": {
     "test": "Dies ist ein Test"

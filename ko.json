@@ -440,7 +440,23 @@
     "error-mission-potion": "임무를 다시 채우는 중에 오류가 발생했습니다.",
     "zerpmon-knocked-out": "저프몬 녹아웃",
     "daily-missions-left": "남은 일일 임무",
-    "br-revive-message": "기적이에요! \n{zerpmonName}이(가) 죽음에서 부활했습니다"
+    "br-revive-message": "기적이에요! \n{zerpmonName}이(가) 죽음에서 부활했습니다",
+    "invalid-opponent": "",
+    "pending-challenges-active": "",
+    "rank-gap-too-high": "",
+    "few-zerpmon-in-deck": "",
+    "wrong-battle-id": "",
+    "battle-timed-out": "",
+    "queue-active": "",
+    "invalid-players": "",
+    "few-zerpmon-in-deck-opponent": "",
+    "failed-to-update-rank": "",
+    "max-start-time-is-24hr": "",
+    "max-active-brs": "",
+    "invalid-br": "",
+    "br-transaction-not-found": "",
+    "br-transaction-not-validated": "",
+    "failed-to-enter-br": ""
   },
   "test": {
     "test": "테스트입니다."

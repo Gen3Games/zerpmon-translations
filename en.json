@@ -440,7 +440,23 @@
     "error-mission-potion": "There was an error refilling missions",
     "zerpmon-knocked-out": "Zerpmon Knocked-Out",
     "daily-missions-left": "Daily Missions Left",
-    "br-revive-message": "It's a miracle! {zerpmonName} was brought back from the dead"
+    "br-revive-message": "It's a miracle! {zerpmonName} was brought back from the dead",
+    "invalid-opponent": "Invalid opponent for PvP",
+    "pending-challenges-active": "Pending PvP challenge already active",
+    "rank-gap-too-high": "Invalid opponent (Rank tier gap high)",
+    "few-zerpmon-in-deck": "Deck contains few zerpmon",
+    "wrong-battle-id": "Invalid battle",
+    "battle-timed-out": "PvP challenge timed out",
+    "queue-active": "Already in queue",
+    "invalid-players": "Invalid opponent",
+    "few-zerpmon-in-deck-opponent": "Opponent deck contains few zerpmon",
+    "failed-to-update-rank": "Failed to update rank points",
+    "max-start-time-is-24hr": "Battle royale timer should be below 24 hours",
+    "max-active-brs": "Active battle royale limit reached",
+    "invalid-br": "Invalid battle royale",
+    "br-transaction-not-found": "Unable to find payment transaction",
+    "br-transaction-not-validated": "Payment transaction not validated",
+    "failed-to-enter-br": "Failed to enter the battle royale"
   },
   "test": {
     "test": "this is a test"

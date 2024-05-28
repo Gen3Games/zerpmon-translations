@@ -440,7 +440,23 @@
     "error-mission-potion": "ミッションの補充中にエラーが発生しました",
     "zerpmon-knocked-out": "ゼルモンのノックアウト",
     "daily-missions-left": "デイリーミッションが残っています",
-    "br-revive-message": "奇跡だよ！ \n{zerpmonName} は死から蘇りました"
+    "br-revive-message": "奇跡だよ！ \n{zerpmonName} は死から蘇りました",
+    "invalid-opponent": "",
+    "pending-challenges-active": "",
+    "rank-gap-too-high": "",
+    "few-zerpmon-in-deck": "",
+    "wrong-battle-id": "",
+    "battle-timed-out": "",
+    "queue-active": "",
+    "invalid-players": "",
+    "few-zerpmon-in-deck-opponent": "",
+    "failed-to-update-rank": "",
+    "max-start-time-is-24hr": "",
+    "max-active-brs": "",
+    "invalid-br": "",
+    "br-transaction-not-found": "",
+    "br-transaction-not-validated": "",
+    "failed-to-enter-br": ""
   },
   "test": {
     "test": "これはテストです"
