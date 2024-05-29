@@ -440,7 +440,23 @@
     "error-mission-potion": "There was an error refilling missions",
     "zerpmon-knocked-out": "Zerpmon Knocked-Out",
     "daily-missions-left": "Daily Missions Left",
-    "br-revive-message": "It's a miracle! {zerpmonName} was brought back from the dead"
+    "br-revive-message": "It's a miracle! {zerpmonName} was brought back from the dead",
+    "invalid-opponent": "",
+    "pending-challenges-active": "",
+    "rank-gap-too-high": "",
+    "few-zerpmon-in-deck": "",
+    "wrong-battle-id": "",
+    "battle-timed-out": "",
+    "queue-active": "",
+    "invalid-players": "",
+    "few-zerpmon-in-deck-opponent": "",
+    "failed-to-update-rank": "",
+    "max-start-time-is-24hr": "",
+    "max-active-brs": "",
+    "invalid-br": "",
+    "br-transaction-not-found": "",
+    "br-transaction-not-validated": "",
+    "failed-to-enter-br": ""
   },
   "test": {
     "test": "this is a test"
@@ -690,7 +706,18 @@
     "select-nft-short": "",
     "start-an-auction": "",
     "starting-price": "",
-    "zerpmon-auctions": ""
+    "zerpmon-auctions": "",
+    "auction-not-found": "",
+    "auction-ended": "",
+    "bid-not-enough": "",
+    "bid-transaction-not-found": "",
+    "bid-transaction-not-validated": "",
+    "you-have-been-outbid": "",
+    "bid-transaction-failed": "",
+    "successful-bid": "",
+    "pay-nft-bid": "",
+    "confirm-bid-popup-title": "",
+    "confirm-bid-popup-message": ""
   },
   "forge": {
     "title": "",

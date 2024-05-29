@@ -440,7 +440,23 @@
     "error-mission-potion": "임무를 다시 채우는 중에 오류가 발생했습니다.",
     "zerpmon-knocked-out": "저프몬 녹아웃",
     "daily-missions-left": "남은 일일 임무",
-    "br-revive-message": "기적이에요! \n{zerpmonName}이(가) 죽음에서 부활했습니다"
+    "br-revive-message": "기적이에요! \n{zerpmonName}이(가) 죽음에서 부활했습니다",
+    "invalid-opponent": "",
+    "pending-challenges-active": "",
+    "rank-gap-too-high": "",
+    "few-zerpmon-in-deck": "",
+    "wrong-battle-id": "",
+    "battle-timed-out": "",
+    "queue-active": "",
+    "invalid-players": "",
+    "few-zerpmon-in-deck-opponent": "",
+    "failed-to-update-rank": "",
+    "max-start-time-is-24hr": "",
+    "max-active-brs": "",
+    "invalid-br": "",
+    "br-transaction-not-found": "",
+    "br-transaction-not-validated": "",
+    "failed-to-enter-br": ""
   },
   "test": {
     "test": "테스트입니다."
@@ -690,7 +706,18 @@
     "rejected-crossmark-msg": "Crossmark 지갑에서 거래를 거부하셨습니다.",
     "tx-error-crossmark-msg": "Crossmark 지갑에서 거래를 생성할 수 없습니다. \n나중에 다시 시도 해주십시오.",
     "no-ongoing-auctions": "진행중인 경매가 없습니다.",
-    "be-the-first-bidder": "가장 먼저 입찰하세요"
+    "be-the-first-bidder": "가장 먼저 입찰하세요",
+    "auction-not-found": "",
+    "auction-ended": "",
+    "bid-not-enough": "",
+    "bid-transaction-not-found": "",
+    "bid-transaction-not-validated": "",
+    "you-have-been-outbid": "",
+    "bid-transaction-failed": "",
+    "successful-bid": "",
+    "pay-nft-bid": "",
+    "confirm-bid-popup-title": "",
+    "confirm-bid-popup-message": ""
   },
   "forge": {
     "title": "노",
