@@ -696,6 +696,7 @@
     "title": "Forge",
     "forge-equipment": "Forge Equipment",
     "empower-your-nfts": "Empower your NFTs",
-    "claim-trainer": "Claim Trainer"
+    "claim-trainer": "Claim Trainer",
+    "select-collection-nft": "Select a {collectionName} NFT"
   }
 }
