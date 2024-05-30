@@ -724,6 +724,11 @@
     "forge-equipment": "단조 장비",
     "empower-your-nfts": "NFT에 힘을 실어주세요",
     "claim-trainer": "청구 트레이너",
-    "select-collection-nft": "{collectionName} NFT 선택"
+    "select-collection-nft": "{collectionName} NFT 선택",
+    "coming-soon": "",
+    "nft-not-owned": "",
+    "trainer-already-claimed": "",
+    "trainer-claimed": "",
+    "claim-trainer-error": ""
   }
 }

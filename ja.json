@@ -724,6 +724,11 @@
     "forge-equipment": "鍛造設備",
     "empower-your-nfts": "NFT を強化する",
     "claim-trainer": "クレームトレーナー",
-    "select-collection-nft": "{collectionName} NFT を選択します"
+    "select-collection-nft": "{collectionName} NFT を選択します",
+    "coming-soon": "",
+    "nft-not-owned": "",
+    "trainer-already-claimed": "",
+    "trainer-claimed": "",
+    "claim-trainer-error": ""
   }
 }

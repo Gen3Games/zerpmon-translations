@@ -724,6 +724,11 @@
     "forge-equipment": "Geschmiedete Ausrüstung",
     "empower-your-nfts": "Verstärke deine NFT's",
     "claim-trainer": "Trainer anfordern",
-    "select-collection-nft": ""
+    "select-collection-nft": "",
+    "coming-soon": "",
+    "nft-not-owned": "",
+    "trainer-already-claimed": "",
+    "trainer-claimed": "",
+    "claim-trainer-error": ""
   }
 }

@@ -724,6 +724,11 @@
     "forge-equipment": "Équipement de forge",
     "empower-your-nfts": "Renforcez vos NFT",
     "claim-trainer": "Formateur en sinistres",
-    "select-collection-nft": "Sélectionnez un NFT {collectionName}"
+    "select-collection-nft": "Sélectionnez un NFT {collectionName}",
+    "coming-soon": "",
+    "nft-not-owned": "",
+    "trainer-already-claimed": "",
+    "trainer-claimed": "",
+    "claim-trainer-error": ""
   }
 }

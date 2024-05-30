@@ -724,6 +724,11 @@
     "forge-equipment": "Forge Equipment",
     "empower-your-nfts": "Empower your NFTs",
     "claim-trainer": "Claim Trainer",
-    "select-collection-nft": "Select a {collectionName} NFT"
+    "select-collection-nft": "Select a {collectionName} NFT",
+    "coming-soon": "Coming Soon...",
+    "nft-not-owned": "NFT not owned",
+    "trainer-already-claimed": "Trainer already claimed",
+    "trainer-claimed": "You have successfully claimed a trainer!",
+    "claim-trainer-error": "There was an error claiming your trainer"
   }
 }
