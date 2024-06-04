@@ -29,7 +29,8 @@
     "settings": "Configuración",
     "logout": "Cerrar Sesión",
     "sign-out-success": "Has cerrado sesión exitosamente.",
-    "marketplace": "Mercado"
+    "marketplace": "Mercado",
+    "forge": "Fragua"
   },
   "sign-in": {
     "button-label": "Iniciar Sesión",

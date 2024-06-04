@@ -29,7 +29,8 @@
     "settings": "设置",
     "logout": "登出",
     "sign-out-success": "您已成功登出。",
-    "marketplace": "交易市场"
+    "marketplace": "交易市场",
+    "forge": ""
   },
   "sign-in": {
     "button-label": "登录",

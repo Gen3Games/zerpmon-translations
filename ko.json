@@ -29,7 +29,8 @@
     "settings": "설정",
     "logout": "로그아웃",
     "sign-out-success": "성공적으로 로그아웃되었습니다.",
-    "marketplace": "시장"
+    "marketplace": "시장",
+    "forge": "노"
   },
   "sign-in": {
     "button-label": "로그인",

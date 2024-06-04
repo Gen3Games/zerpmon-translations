@@ -593,7 +593,8 @@
     "settings": "Paramètres",
     "sign-out-success": "Vous vous êtes déconnecté avec succès.",
     "stats": "Statistiques",
-    "store": "Magasin"
+    "store": "Magasin",
+    "forge": "Forger"
   },
   "sign-in": {
     "button-label": "Se connecter",

@@ -29,7 +29,8 @@
     "settings": "設定",
     "logout": "サインアウト",
     "sign-out-success": "正常にサインアウトしました。",
-    "marketplace": "市場"
+    "marketplace": "市場",
+    "forge": "フォージ"
   },
   "sign-in": {
     "button-label": "サインイン",

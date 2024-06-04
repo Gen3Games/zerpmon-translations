@@ -29,7 +29,8 @@
     "settings": "Settings",
     "logout": "Sign Out",
     "sign-out-success": "You have successfully signed out.",
-    "marketplace": "Marketplace"
+    "marketplace": "Marketplace",
+    "forge": ""
   },
   "sign-in": {
     "button-label": "Sign In",
