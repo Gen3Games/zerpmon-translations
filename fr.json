@@ -725,10 +725,20 @@
     "empower-your-nfts": "Renforcez vos NFT",
     "claim-trainer": "Formateur en sinistres",
     "select-collection-nft": "Sélectionnez un NFT {collectionName}",
-    "coming-soon": "",
-    "nft-not-owned": "",
-    "trainer-already-claimed": "",
-    "trainer-claimed": "",
-    "claim-trainer-error": ""
+    "coming-soon": "À venir...",
+    "nft-not-owned": "NFT n'appartient pas",
+    "trainer-already-claimed": "Entraîneur déjà réclamé",
+    "trainer-claimed": "Vous avez réclamé avec succès un entraîneur !",
+    "claim-trainer-error": "Une erreur s'est produite lors de la revendication de votre entraîneur",
+    "check-nft-claim": "Vérifier les identifiants NFT",
+    "check-nft-claim-desc": "Vérifiez si vos NFT sont éligibles pour réclamer un formateur",
+    "provide-nft-id": "Saisissez ou collez l'identifiant NFT",
+    "check-claim": "Vérifier l'état de la réclamation",
+    "provide-nft-id-error": "Veuillez fournir un identifiant NFT",
+    "check-claim-generic-error": "Une erreur s'est produite lors de la vérification de l'état de la réclamation.",
+    "nft-trainer-is-claimed": "Ce NFT a déjà été utilisé pour revendiquer un entraîneur",
+    "nft-trainer-is-available": "Ce NFT est disponible pour réclamer un entraîneur",
+    "go-back-to-forge": "Retournez à la Forge",
+    "check-nft-claim-status": "Vérifier l'état de la réclamation NFT"
   }
 }

@@ -725,10 +725,20 @@
     "empower-your-nfts": "NFT を強化する",
     "claim-trainer": "クレームトレーナー",
     "select-collection-nft": "{collectionName} NFT を選択します",
-    "coming-soon": "",
-    "nft-not-owned": "",
-    "trainer-already-claimed": "",
-    "trainer-claimed": "",
-    "claim-trainer-error": ""
+    "coming-soon": "近日公開...",
+    "nft-not-owned": "NFTを所有していない",
+    "trainer-already-claimed": "トレーナーはすでに主張しています",
+    "trainer-claimed": "トレーナーの獲得に成功しました!",
+    "claim-trainer-error": "トレーナーの申請中にエラーが発生しました",
+    "check-nft-claim": "NFT IDを確認する",
+    "check-nft-claim-desc": "あなたのNFTがトレーナーを請求する資格があるかどうかを確認してください",
+    "provide-nft-id": "NFT IDを入力または貼り付けます",
+    "check-claim": "請求ステータスの確認",
+    "provide-nft-id-error": "NFT IDを入力してください",
+    "check-claim-generic-error": "請求ステータスの確認中にエラーが発生しました",
+    "nft-trainer-is-claimed": "このNFTはすでにトレーナーを獲得するために使用されています",
+    "nft-trainer-is-available": "このNFTはトレーナーを請求するために利用できます",
+    "go-back-to-forge": "鍛冶場に戻る",
+    "check-nft-claim-status": "NFT請求ステータスを確認する"
   }
 }

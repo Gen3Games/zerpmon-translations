@@ -729,6 +729,16 @@
     "nft-not-owned": "NFT nicht im Besitz",
     "trainer-already-claimed": "Trainer bereits angefordert",
     "trainer-claimed": "Du hast erfolgreich einen Trainer angefordert",
-    "claim-trainer-error": "Es ist ein Fehler aufgetreten bei der Traineranforderung"
+    "claim-trainer-error": "Es ist ein Fehler aufgetreten bei der Traineranforderung",
+    "check-nft-claim": "",
+    "check-nft-claim-desc": "",
+    "provide-nft-id": "",
+    "check-claim": "",
+    "provide-nft-id-error": "",
+    "check-claim-generic-error": "",
+    "nft-trainer-is-claimed": "",
+    "nft-trainer-is-available": "",
+    "go-back-to-forge": "",
+    "check-nft-claim-status": ""
   }
 }

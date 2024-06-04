@@ -725,10 +725,20 @@
     "empower-your-nfts": "NFT에 힘을 실어주세요",
     "claim-trainer": "청구 트레이너",
     "select-collection-nft": "{collectionName} NFT 선택",
-    "coming-soon": "",
-    "nft-not-owned": "",
-    "trainer-already-claimed": "",
-    "trainer-claimed": "",
-    "claim-trainer-error": ""
+    "coming-soon": "출시 예정...",
+    "nft-not-owned": "NFT가 소유되지 않음",
+    "trainer-already-claimed": "트레이너가 이미 소유권을 주장했습니다.",
+    "trainer-claimed": "트레이너를 성공적으로 신청하셨습니다!",
+    "claim-trainer-error": "트레이너를 요청하는 중에 오류가 발생했습니다.",
+    "check-nft-claim": "NFT ID 확인",
+    "check-nft-claim-desc": "귀하의 NFT가 트레이너를 신청할 수 있는지 확인하세요",
+    "provide-nft-id": "NFT ID 입력 또는 붙여넣기",
+    "check-claim": "청구 상태 확인",
+    "provide-nft-id-error": "NFT ID를 입력하세요.",
+    "check-claim-generic-error": "소유권 주장 상태를 확인하는 중에 오류가 발생했습니다.",
+    "nft-trainer-is-claimed": "이 NFT는 이미 트레이너를 요청하는 데 사용되었습니다.",
+    "nft-trainer-is-available": "이 NFT는 트레이너를 청구하는 데 사용할 수 있습니다.",
+    "go-back-to-forge": "포지로 돌아가세요",
+    "check-nft-claim-status": "NFT 청구 상태 확인"
   }
 }

@@ -729,6 +729,16 @@
     "nft-not-owned": "NFT not owned",
     "trainer-already-claimed": "Trainer already claimed",
     "trainer-claimed": "You have successfully claimed a trainer!",
-    "claim-trainer-error": "There was an error claiming your trainer"
+    "claim-trainer-error": "There was an error claiming your trainer",
+    "check-nft-claim": "Check NFT IDs",
+    "check-nft-claim-desc": "Verify if your NFTs are eligible for claiming a Trainer",
+    "provide-nft-id": "Enter or paste NFT ID",
+    "check-claim": "Check Claim Status",
+    "provide-nft-id-error": "Please provide an NFT ID",
+    "check-claim-generic-error": "There was an error checking the claim status",
+    "nft-trainer-is-claimed": "This NFT has already been used to claim a trainer",
+    "nft-trainer-is-available": "This NFT is available to claim a trainer",
+    "go-back-to-forge": "Go back to the Forge",
+    "check-nft-claim-status": "Check NFT Claim Status"
   }
 }
