@@ -731,15 +731,15 @@
     "trainer-already-claimed": "Trainer bereits angefordert",
     "trainer-claimed": "Du hast erfolgreich einen Trainer angefordert",
     "claim-trainer-error": "Es ist ein Fehler aufgetreten bei der Traineranforderung",
-    "check-nft-claim": "",
-    "check-nft-claim-desc": "",
-    "provide-nft-id": "",
-    "check-claim": "",
-    "provide-nft-id-error": "",
-    "check-claim-generic-error": "",
-    "nft-trainer-is-claimed": "",
-    "nft-trainer-is-available": "",
-    "go-back-to-forge": "",
-    "check-nft-claim-status": ""
+    "check-nft-claim": "Verifiziere deine NFT's, damit du einen Trainer anfordern kannst",
+    "check-nft-claim-desc": "Verifizieren, wenn deine NFT's berechtigt sind, einen Trainer anzufordern",
+    "provide-nft-id": "Bestätigen oder NFT-ID eingeben",
+    "check-claim": "Prüfe Anforderungsstatus",
+    "provide-nft-id-error": "Bitte gebe eine NFT-ID ein",
+    "check-claim-generic-error": "Beim Prüfen des Anforderungsstatus ist ein Fehler aufgetreten",
+    "nft-trainer-is-claimed": "Mit diesem NFT wurde bereits ein Trainer angefordert",
+    "nft-trainer-is-available": "Dieses NFT ist berechtigt, einen Trainer anzufordern",
+    "go-back-to-forge": "Zurück zur Schmiede",
+    "check-nft-claim-status": "Prüfe den NFT-Anforderungsstatus"
   }
 }
