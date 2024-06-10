@@ -635,7 +635,8 @@
     "loan-already-taken": "",
     "loan-not-found": "",
     "loan-updated-successfully": "",
-    "loan-update": ""
+    "loan-update": "",
+    "legend-gryll-trainer-loan-error": ""
   },
   "notifications": {
     "notifications": "通告",

@@ -635,7 +635,8 @@
     "loan-already-taken": "誰かがすでにこのローンを利用しています",
     "loan-not-found": "ローンリストが見つかりません",
     "loan-updated-successfully": "ローンが正常に更新されました",
-    "loan-update": "アップデート"
+    "loan-update": "アップデート",
+    "legend-gryll-trainer-loan-error": ""
   },
   "notifications": {
     "notifications": "通知",

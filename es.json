@@ -635,7 +635,8 @@
     "loan-already-taken": "Alguien ya tomó este préstamo",
     "loan-not-found": "Listado de préstamos no encontrado",
     "loan-updated-successfully": "Préstamo actualizado exitosamente",
-    "loan-update": "Actualizar"
+    "loan-update": "Actualizar",
+    "legend-gryll-trainer-loan-error": ""
   },
   "notifications": {
     "notifications": "Notificaciones",

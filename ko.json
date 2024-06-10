@@ -635,7 +635,8 @@
     "loan-already-taken": "누군가 이미 이 대출을 받았습니다.",
     "loan-not-found": "대출 목록을 찾을 수 없습니다",
     "loan-updated-successfully": "대출이 업데이트되었습니다.",
-    "loan-update": "업데이트"
+    "loan-update": "업데이트",
+    "legend-gryll-trainer-loan-error": ""
   },
   "notifications": {
     "notifications": "알림",

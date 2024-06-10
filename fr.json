@@ -172,7 +172,8 @@
     "loan-already-taken": "Quelqu'un a déjà contracté ce prêt",
     "loan-not-found": "Liste de prêt introuvable",
     "loan-updated-successfully": "Prêt mis à jour avec succès",
-    "loan-update": "Mise à jour"
+    "loan-update": "Mise à jour",
+    "legend-gryll-trainer-loan-error": ""
   },
   "decks": {
     "add-battle-deck": "Ajouter un deck de combat",

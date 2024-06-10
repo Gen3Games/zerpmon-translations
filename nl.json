@@ -635,7 +635,8 @@
     "loan-already-taken": "Someone already took this loan",
     "loan-not-found": "Loan listing not found",
     "loan-updated-successfully": "Loan updated successfully",
-    "loan-update": "Update"
+    "loan-update": "Update",
+    "legend-gryll-trainer-loan-error": ""
   },
   "notifications": {
     "notifications": "Notifications",
