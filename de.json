@@ -54,7 +54,7 @@
     "discord": "Discord",
     "social-logins-kaiju": "Kaiju-Wallet Social Login",
     "sign-in-with-xaman": "Melden Sie sich mit Xaman an",
-    "signed-in-using-kaiju-wallet": ""
+    "signed-in-using-kaiju-wallet": "Du hast dich gerade mit dem Kaiju Wallet angemeldet"
   },
   "user-profile": {
     "trainers": "Trainer",
@@ -637,7 +637,7 @@
     "loan-not-found": "Angebot nicht gefunden",
     "loan-updated-successfully": "Angebot erfolgreich aktualisiert",
     "loan-update": "Aktualisierung",
-    "legend-gryll-trainer-loan-error": ""
+    "legend-gryll-trainer-loan-error": "Legends- oder Gryll Master-Trainer können nicht verliehen werden"
   },
   "notifications": {
     "notifications": "Benachrichtigungen",
