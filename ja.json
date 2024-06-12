@@ -53,7 +53,8 @@
     "google": "Googleでログイン",
     "discord": "Discordでログイン",
     "social-logins-kaiju": "Kaiju Wallet を使用したソーシャル ログイン",
-    "sign-in-with-xaman": "Xaman でサインインする"
+    "sign-in-with-xaman": "Xaman でサインインする",
+    "signed-in-using-kaiju-wallet": "Kaiju Wallet にサインインしました"
   },
   "user-profile": {
     "trainers": "トレーナー",
@@ -636,7 +637,7 @@
     "loan-not-found": "ローンリストが見つかりません",
     "loan-updated-successfully": "ローンが正常に更新されました",
     "loan-update": "アップデート",
-    "legend-gryll-trainer-loan-error": ""
+    "legend-gryll-trainer-loan-error": "レジェンドまたはグリルマスターのトレーナーはレンタルできません"
   },
   "notifications": {
     "notifications": "通知",

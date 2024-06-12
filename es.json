@@ -53,7 +53,8 @@
     "google": "Iniciar con Google",
     "discord": "Iniciar con Discord",
     "social-logins-kaiju": "Inicio con Kaiju Wallet",
-    "sign-in-with-xaman": "Iniciar sesión con Xaman"
+    "sign-in-with-xaman": "Iniciar sesión con Xaman",
+    "signed-in-using-kaiju-wallet": "Acabas de iniciar sesión en Kaiju Wallet"
   },
   "user-profile": {
     "trainers": "Entrenadores",
@@ -636,7 +637,7 @@
     "loan-not-found": "Listado de préstamos no encontrado",
     "loan-updated-successfully": "Préstamo actualizado exitosamente",
     "loan-update": "Actualizar",
-    "legend-gryll-trainer-loan-error": ""
+    "legend-gryll-trainer-loan-error": "No se pueden prestar entrenadores Legend o Gryll Master"
   },
   "notifications": {
     "notifications": "Notificaciones",

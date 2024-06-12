@@ -53,7 +53,8 @@
     "google": "Login with Google",
     "discord": "Login with Discord",
     "social-logins-kaiju": "Social Logins with Kaiju Wallet",
-    "sign-in-with-xaman": "Sign in with Xaman"
+    "sign-in-with-xaman": "Sign in with Xaman",
+    "signed-in-using-kaiju-wallet": ""
   },
   "user-profile": {
     "trainers": "Trainers",

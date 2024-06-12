@@ -173,7 +173,7 @@
     "loan-not-found": "Liste de prêt introuvable",
     "loan-updated-successfully": "Prêt mis à jour avec succès",
     "loan-update": "Mise à jour",
-    "legend-gryll-trainer-loan-error": ""
+    "legend-gryll-trainer-loan-error": "Les entraîneurs Legend ou Gryll Master ne peuvent pas être prêtés"
   },
   "decks": {
     "add-battle-deck": "Ajouter un deck de combat",
@@ -618,7 +618,8 @@
     "xumm-qr-modal-title": "Scannez le code QR avec Xumm",
     "xumm-sign-in-failed": "Impossible de se connecter avec le portefeuille Xumm. \nVeuillez consulter l'application Xumm.",
     "xumm-sign-in-success": "Vous vous êtes connecté avec succès avec Xumm",
-    "sign-in-with-xaman": "Connectez-vous avec Xaman"
+    "sign-in-with-xaman": "Connectez-vous avec Xaman",
+    "signed-in-using-kaiju-wallet": "Vous venez de vous connecter avec Kaiju Wallet"
   },
   "store": {
     "buy-now": "Acheter maintenant",
