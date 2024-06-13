@@ -458,7 +458,14 @@
     "invalid-br": "Batalla real no válida",
     "br-transaction-not-found": "No se puede encontrar la transacción de pago",
     "br-transaction-not-validated": "Transacción de pago no validada",
-    "failed-to-enter-br": "No se pudo ingresar a la batalla real"
+    "failed-to-enter-br": "No se pudo ingresar a la batalla real",
+    "pvp-lobby": "",
+    "random-opponents": "",
+    "search-opponents": "",
+    "name-or-address": "",
+    "search": "",
+    "search-cannot-be-empty": "",
+    "search-failed": ""
   },
   "test": {
     "test": "esto es un test"

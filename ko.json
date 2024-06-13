@@ -458,7 +458,14 @@
     "invalid-br": "잘못된 배틀 로얄",
     "br-transaction-not-found": "결제 거래를 찾을 수 없습니다.",
     "br-transaction-not-validated": "결제 거래가 확인되지 않았습니다.",
-    "failed-to-enter-br": "배틀로얄 입장 실패"
+    "failed-to-enter-br": "배틀로얄 입장 실패",
+    "pvp-lobby": "",
+    "random-opponents": "",
+    "search-opponents": "",
+    "name-or-address": "",
+    "search": "",
+    "search-cannot-be-empty": "",
+    "search-failed": ""
   },
   "test": {
     "test": "테스트입니다."

@@ -123,7 +123,14 @@
     "invalid-br": "Bataille royale invalide",
     "br-transaction-not-found": "Impossible de trouver l'opération de paiement",
     "br-transaction-not-validated": "Opération de paiement non validée",
-    "failed-to-enter-br": "Impossible d'entrer dans la bataille royale"
+    "failed-to-enter-br": "Impossible d'entrer dans la bataille royale",
+    "pvp-lobby": "",
+    "random-opponents": "",
+    "search-opponents": "",
+    "name-or-address": "",
+    "search": "",
+    "search-cannot-be-empty": "",
+    "search-failed": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

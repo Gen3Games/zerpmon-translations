@@ -458,7 +458,14 @@
     "invalid-br": "無効なバトルロワイヤル",
     "br-transaction-not-found": "支払い取引が見つかりません",
     "br-transaction-not-validated": "支払いトランザクションが検証されていません",
-    "failed-to-enter-br": "バトルロイヤルに参加できませんでした"
+    "failed-to-enter-br": "バトルロイヤルに参加できませんでした",
+    "pvp-lobby": "",
+    "random-opponents": "",
+    "search-opponents": "",
+    "name-or-address": "",
+    "search": "",
+    "search-cannot-be-empty": "",
+    "search-failed": ""
   },
   "test": {
     "test": "これはテストです"

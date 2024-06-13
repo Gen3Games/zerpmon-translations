@@ -458,7 +458,14 @@
     "invalid-br": "Ungültiges Battle Royal-Gefecht",
     "br-transaction-not-found": "Die Transaktion zur Bezahlung konnte nicht gefunden werden",
     "br-transaction-not-validated": "Die Transaktion zur Bezahlung ist unbestätigt",
-    "failed-to-enter-br": "Teilnahme am Battle Royal nicht erfolgreich"
+    "failed-to-enter-br": "Teilnahme am Battle Royal nicht erfolgreich",
+    "pvp-lobby": "",
+    "random-opponents": "",
+    "search-opponents": "",
+    "name-or-address": "",
+    "search": "",
+    "search-cannot-be-empty": "",
+    "search-failed": ""
   },
   "test": {
     "test": "Dies ist ein Test"

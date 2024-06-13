@@ -458,7 +458,14 @@
     "invalid-br": "",
     "br-transaction-not-found": "",
     "br-transaction-not-validated": "",
-    "failed-to-enter-br": ""
+    "failed-to-enter-br": "",
+    "pvp-lobby": "",
+    "random-opponents": "",
+    "search-opponents": "",
+    "name-or-address": "",
+    "search": "",
+    "search-cannot-be-empty": "",
+    "search-failed": ""
   },
   "test": {
     "test": "这是个测试"

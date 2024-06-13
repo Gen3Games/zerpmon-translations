@@ -458,7 +458,14 @@
     "invalid-br": "Invalid battle royale",
     "br-transaction-not-found": "Unable to find payment transaction",
     "br-transaction-not-validated": "Payment transaction not validated",
-    "failed-to-enter-br": "Failed to enter the battle royale"
+    "failed-to-enter-br": "Failed to enter the battle royale",
+    "pvp-lobby": "PVP Lobby",
+    "random-opponents": "Random Opponents",
+    "search-opponents": "Search Opponents",
+    "name-or-address": "Name or address",
+    "search": "Search",
+    "search-cannot-be-empty": "Please provide opponent name or address",
+    "search-failed": "Search failed"
   },
   "test": {
     "test": "this is a test"
