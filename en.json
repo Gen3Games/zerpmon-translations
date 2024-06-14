@@ -541,7 +541,8 @@
     "loan-zerpmons": "Zerpmons",
     "loan-equipment": "Equipment",
     "loaned-by": "Loaned by: {user}",
-    "no-sell-offers": "There is no sell offer for this NFT"
+    "no-sell-offers": "There is no sell offer for this NFT",
+    "loan-payment-transaction-success": "Payment for accept loan successfully sent"
   },
   "manage-listing": {
     "title": "My NFTs",
@@ -644,7 +645,8 @@
     "loan-not-found": "Loan listing not found",
     "loan-updated-successfully": "Loan updated successfully",
     "loan-update": "Update",
-    "legend-gryll-trainer-loan-error": "Legend or Gryll Master trainers cannot be loaned"
+    "legend-gryll-trainer-loan-error": "Legend or Gryll Master trainers cannot be loaned",
+    "sell-offer-success": "Sell offer successfully created"
   },
   "notifications": {
     "notifications": "Notifications",

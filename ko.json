@@ -541,7 +541,8 @@
     "loan-zerpmons": "저프몬",
     "loan-equipment": "장비",
     "loaned-by": "대여자: {user}",
-    "no-sell-offers": "이 NFT에는 판매 제안이 없습니다."
+    "no-sell-offers": "이 NFT에는 판매 제안이 없습니다.",
+    "loan-payment-transaction-success": ""
   },
   "manage-listing": {
     "title": "내 NFT",
@@ -644,7 +645,8 @@
     "loan-not-found": "대출 목록을 찾을 수 없습니다",
     "loan-updated-successfully": "대출이 업데이트되었습니다.",
     "loan-update": "업데이트",
-    "legend-gryll-trainer-loan-error": "Legend 또는 Gryll Master 트레이너는 대여할 수 없습니다."
+    "legend-gryll-trainer-loan-error": "Legend 또는 Gryll Master 트레이너는 대여할 수 없습니다.",
+    "sell-offer-success": ""
   },
   "notifications": {
     "notifications": "알림",

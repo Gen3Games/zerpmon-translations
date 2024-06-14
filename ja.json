@@ -541,7 +541,8 @@
     "loan-zerpmons": "ゼルモンズ",
     "loan-equipment": "装置",
     "loaned-by": "貸与者: {user}",
-    "no-sell-offers": "このNFTには販売オファーはありません"
+    "no-sell-offers": "このNFTには販売オファーはありません",
+    "loan-payment-transaction-success": ""
   },
   "manage-listing": {
     "title": "私のNFT",
@@ -644,7 +645,8 @@
     "loan-not-found": "ローンリストが見つかりません",
     "loan-updated-successfully": "ローンが正常に更新されました",
     "loan-update": "アップデート",
-    "legend-gryll-trainer-loan-error": "レジェンドまたはグリルマスターのトレーナーはレンタルできません"
+    "legend-gryll-trainer-loan-error": "レジェンドまたはグリルマスターのトレーナーはレンタルできません",
+    "sell-offer-success": ""
   },
   "notifications": {
     "notifications": "通知",
