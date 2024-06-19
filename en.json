@@ -190,7 +190,9 @@
     "equipment-offer-accepted": "You have successfully purchased the equipment and it has been sent to your wallet.",
     "new-items": "New Items",
     "see-all": "See all",
-    "variants": "Variants"
+    "variants": "Variants",
+    "confirm-trainer-specialization": "Are you sure you want to use {buffType} specialization with {trainer} ?",
+    "trainer-spec-payment-confirmed": "Your payment transaction was successful and your {trainer} has now acquired {buffType}."
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",

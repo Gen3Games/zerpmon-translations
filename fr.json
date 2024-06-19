@@ -645,7 +645,9 @@
     "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
     "variants": "Variantes",
     "xrp-store": "Boutique XRP",
-    "zrp-store": "ZRP-Store"
+    "zrp-store": "ZRP-Store",
+    "confirm-trainer-specialization": "",
+    "trainer-spec-payment-confirmed": ""
   },
   "test": {
     "test": "c'est un test"

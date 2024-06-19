@@ -190,7 +190,9 @@
     "equipment-offer-accepted": "장비 구매에 성공했으며, 지갑으로 전송되었습니다.",
     "new-items": "새로운 아이템",
     "see-all": "모두 보기",
-    "variants": "다양한 종류"
+    "variants": "다양한 종류",
+    "confirm-trainer-specialization": "",
+    "trainer-spec-payment-confirmed": ""
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",

@@ -190,7 +190,9 @@
     "equipment-offer-accepted": "您已成功购买装备，它已被发送到您的钱包。",
     "new-items": "新物品",
     "see-all": "查看所有",
-    "variants": "变体"
+    "variants": "变体",
+    "confirm-trainer-specialization": "",
+    "trainer-spec-payment-confirmed": ""
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

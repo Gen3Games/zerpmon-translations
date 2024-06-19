@@ -190,7 +190,9 @@
     "equipment-offer-accepted": "装備の購入に成功し、ウォレットに送信されました。",
     "new-items": "新しいアイテム",
     "see-all": "すべて見る",
-    "variants": "Variants"
+    "variants": "Variants",
+    "confirm-trainer-specialization": "",
+    "trainer-spec-payment-confirmed": ""
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",

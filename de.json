@@ -190,7 +190,9 @@
     "equipment-offer-accepted": "Du hast diese Ausrüstung erfolgreich gekauft und sie wurde an dein Wallet gesendet.",
     "new-items": "Neue Artikel",
     "see-all": "Alle ansehen",
-    "variants": "Kategorien"
+    "variants": "Kategorien",
+    "confirm-trainer-specialization": "",
+    "trainer-spec-payment-confirmed": ""
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",
