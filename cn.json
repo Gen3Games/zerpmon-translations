@@ -192,7 +192,8 @@
     "see-all": "查看所有",
     "variants": "变体",
     "confirm-trainer-specialization": "",
-    "trainer-spec-payment-confirmed": ""
+    "trainer-spec-payment-confirmed": "",
+    "buy-confirmation-message": ""
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

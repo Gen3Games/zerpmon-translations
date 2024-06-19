@@ -192,7 +192,8 @@
     "see-all": "すべて見る",
     "variants": "Variants",
     "confirm-trainer-specialization": "",
-    "trainer-spec-payment-confirmed": ""
+    "trainer-spec-payment-confirmed": "",
+    "buy-confirmation-message": ""
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",

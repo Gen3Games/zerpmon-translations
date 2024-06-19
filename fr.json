@@ -647,7 +647,8 @@
     "xrp-store": "Boutique XRP",
     "zrp-store": "ZRP-Store",
     "confirm-trainer-specialization": "",
-    "trainer-spec-payment-confirmed": ""
+    "trainer-spec-payment-confirmed": "",
+    "buy-confirmation-message": ""
   },
   "test": {
     "test": "c'est un test"
