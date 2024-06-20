@@ -191,9 +191,9 @@
     "new-items": "Neue Artikel",
     "see-all": "Alle ansehen",
     "variants": "Kategorien",
-    "confirm-trainer-specialization": "",
-    "trainer-spec-payment-confirmed": "",
-    "buy-confirmation-message": ""
+    "confirm-trainer-specialization": "Bist du sicher, dass du die Spezialisierung {buffType} für {trainer} anwenden möchtest?",
+    "trainer-spec-payment-confirmed": "Deine Zahlung war erfolgreich and {trainer} ist mit {buffType} ausgestattet",
+    "buy-confirmation-message": "Bist du sicher, dass du {item} kaufen möchtest?"
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",
@@ -462,13 +462,13 @@
     "br-transaction-not-found": "Die Transaktion zur Bezahlung konnte nicht gefunden werden",
     "br-transaction-not-validated": "Die Transaktion zur Bezahlung ist unbestätigt",
     "failed-to-enter-br": "Teilnahme am Battle Royal nicht erfolgreich",
-    "pvp-lobby": "",
-    "random-opponents": "",
-    "search-opponents": "",
-    "name-or-address": "",
-    "search": "",
-    "search-cannot-be-empty": "",
-    "search-failed": ""
+    "pvp-lobby": "PvP-Lobby",
+    "random-opponents": "Zufallsgegner",
+    "search-opponents": "Gegner suchen",
+    "name-or-address": "Name oder Adresse",
+    "search": "Suche",
+    "search-cannot-be-empty": "Bitte gebe den Namen oder die Adresse des Gegners ein",
+    "search-failed": "Suche erfolglos"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -545,7 +545,7 @@
     "loan-equipment": "Ausrüstung",
     "loaned-by": "Ausgeliehen von {user}",
     "no-sell-offers": "Für dieses NFT gibt es kein Angebot",
-    "loan-payment-transaction-success": ""
+    "loan-payment-transaction-success": "Zahlung für die Bestätigung des Leihangebotes erfolgreich gesendet"
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -649,7 +649,7 @@
     "loan-updated-successfully": "Angebot erfolgreich aktualisiert",
     "loan-update": "Aktualisierung",
     "legend-gryll-trainer-loan-error": "Legends- oder Gryll Master-Trainer können nicht verliehen werden",
-    "sell-offer-success": ""
+    "sell-offer-success": "Verkaufsangebot erfolgreich erstellt"
   },
   "notifications": {
     "notifications": "Benachrichtigungen",
