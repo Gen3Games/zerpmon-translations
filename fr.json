@@ -648,7 +648,9 @@
     "zrp-store": "ZRP-Store",
     "confirm-trainer-specialization": "",
     "trainer-spec-payment-confirmed": "",
-    "buy-confirmation-message": ""
+    "buy-confirmation-message": "",
+    "ascend-payment-tx-confirmed": "",
+    "confirm-ascend": ""
   },
   "test": {
     "test": "c'est un test"

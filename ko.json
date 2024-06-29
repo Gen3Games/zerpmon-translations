@@ -193,7 +193,9 @@
     "variants": "다양한 종류",
     "confirm-trainer-specialization": "",
     "trainer-spec-payment-confirmed": "",
-    "buy-confirmation-message": ""
+    "buy-confirmation-message": "",
+    "ascend-payment-tx-confirmed": "",
+    "confirm-ascend": ""
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",

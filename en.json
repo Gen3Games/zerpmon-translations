@@ -193,7 +193,9 @@
     "variants": "Variants",
     "confirm-trainer-specialization": "Are you sure you want to use {buffType} specialization with {trainer} ?",
     "trainer-spec-payment-confirmed": "Your payment transaction was successful and {trainer} has now acquired {buffType}.",
-    "buy-confirmation-message": "Are you sure you want to buy {item} ?"
+    "buy-confirmation-message": "Are you sure you want to buy {item} ?",
+    "ascend-payment-tx-confirmed": "Your payment transaction was successful and {zerpmonName} has been ascended.",
+    "confirm-ascend": "Are you sure you want to ascend {zerpmonName} ?"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",

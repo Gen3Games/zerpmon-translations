@@ -193,7 +193,9 @@
     "variants": "Kategorien",
     "confirm-trainer-specialization": "Bist du sicher, dass du die Spezialisierung {buffType} für {trainer} anwenden möchtest?",
     "trainer-spec-payment-confirmed": "Deine Zahlung war erfolgreich and {trainer} ist mit {buffType} ausgestattet",
-    "buy-confirmation-message": "Bist du sicher, dass du {item} kaufen möchtest?"
+    "buy-confirmation-message": "Bist du sicher, dass du {item} kaufen möchtest?",
+    "ascend-payment-tx-confirmed": "",
+    "confirm-ascend": ""
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",
