@@ -54,7 +54,8 @@
     "discord": "Login with Discord",
     "social-logins-kaiju": "Social Logins with Kaiju Wallet",
     "sign-in-with-xaman": "Sign in with Xaman",
-    "signed-in-using-kaiju-wallet": ""
+    "signed-in-using-kaiju-wallet": "",
+    "twitter": ""
   },
   "user-profile": {
     "trainers": "Trainers",

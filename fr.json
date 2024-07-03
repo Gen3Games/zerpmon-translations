@@ -628,7 +628,8 @@
     "xumm-sign-in-failed": "Impossible de se connecter avec le portefeuille Xaman. \nVeuillez consulter l'application Xaman.",
     "xumm-sign-in-success": "Vous vous êtes connecté avec succès avec Xaman",
     "sign-in-with-xaman": "Connectez-vous avec Xaman",
-    "signed-in-using-kaiju-wallet": "Vous venez de vous connecter avec Kaiju Wallet"
+    "signed-in-using-kaiju-wallet": "Vous venez de vous connecter avec Kaiju Wallet",
+    "twitter": ""
   },
   "store": {
     "buy-now": "Acheter maintenant",

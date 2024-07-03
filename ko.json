@@ -54,7 +54,8 @@
     "discord": "Discord 로그인",
     "social-logins-kaiju": "Kaiju 지갑을 사용한 소셜 로그인",
     "sign-in-with-xaman": "Xaman으로 로그인",
-    "signed-in-using-kaiju-wallet": "방금 Kaiju Wallet에 로그인하셨습니다."
+    "signed-in-using-kaiju-wallet": "방금 Kaiju Wallet에 로그인하셨습니다.",
+    "twitter": ""
   },
   "user-profile": {
     "trainers": "트레이너",

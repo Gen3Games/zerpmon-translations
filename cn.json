@@ -54,7 +54,8 @@
     "discord": "使用Discord登录",
     "social-logins-kaiju": "使用Kaiju Wallet登录",
     "sign-in-with-xaman": "使用 Xaman 登录",
-    "signed-in-using-kaiju-wallet": ""
+    "signed-in-using-kaiju-wallet": "",
+    "twitter": ""
   },
   "user-profile": {
     "trainers": "训练师",
