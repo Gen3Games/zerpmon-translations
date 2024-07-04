@@ -629,7 +629,8 @@
     "xumm-sign-in-success": "Vous vous êtes connecté avec succès avec Xaman",
     "sign-in-with-xaman": "Connectez-vous avec Xaman",
     "signed-in-using-kaiju-wallet": "Vous venez de vous connecter avec Kaiju Wallet",
-    "twitter": ""
+    "twitter": "",
+    "facebook": ""
   },
   "store": {
     "buy-now": "Acheter maintenant",

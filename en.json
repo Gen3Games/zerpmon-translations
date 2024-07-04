@@ -55,7 +55,8 @@
     "social-logins-kaiju": "Social Logins with Kaiju Wallet",
     "sign-in-with-xaman": "Sign in with Xaman",
     "signed-in-using-kaiju-wallet": "You have just signed in with Kaiju Wallet",
-    "twitter": "Login with X"
+    "twitter": "Login with X",
+    "facebook": "Login with Facebook"
   },
   "user-profile": {
     "trainers": "Trainers",
