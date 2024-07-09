@@ -759,5 +759,13 @@
     "nft-trainer-is-available": "Este NFT está disponible para reclamar un entrenador",
     "go-back-to-forge": "Vuelve a la fragua",
     "check-nft-claim-status": "Verifique el estado del reclamo de NFT"
+  },
+  "buy-zerpmon": {
+    "already-bought": "",
+    "no-zerpmon-left": "",
+    "unexpected-error": "",
+    "invalid-request": "",
+    "transaction-not-found": "",
+    "transaction-not-validated": ""
   }
 }

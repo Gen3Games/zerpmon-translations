@@ -759,5 +759,13 @@
     "nft-trainer-is-available": "Dieses NFT ist berechtigt, einen Trainer anzufordern",
     "go-back-to-forge": "Zurück zur Schmiede",
     "check-nft-claim-status": "Prüfe den NFT-Anforderungsstatus"
+  },
+  "buy-zerpmon": {
+    "already-bought": "",
+    "no-zerpmon-left": "",
+    "unexpected-error": "",
+    "invalid-request": "",
+    "transaction-not-found": "",
+    "transaction-not-validated": ""
   }
 }

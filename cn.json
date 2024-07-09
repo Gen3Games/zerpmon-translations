@@ -759,5 +759,13 @@
     "nft-trainer-is-available": "",
     "go-back-to-forge": "",
     "check-nft-claim-status": ""
+  },
+  "buy-zerpmon": {
+    "already-bought": "",
+    "no-zerpmon-left": "",
+    "unexpected-error": "",
+    "invalid-request": "",
+    "transaction-not-found": "",
+    "transaction-not-validated": ""
   }
 }

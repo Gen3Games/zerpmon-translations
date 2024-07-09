@@ -759,5 +759,13 @@
     "nft-trainer-is-available": "이 NFT는 트레이너를 청구하는 데 사용할 수 있습니다.",
     "go-back-to-forge": "포지로 돌아가세요",
     "check-nft-claim-status": "NFT 청구 상태 확인"
+  },
+  "buy-zerpmon": {
+    "already-bought": "",
+    "no-zerpmon-left": "",
+    "unexpected-error": "",
+    "invalid-request": "",
+    "transaction-not-found": "",
+    "transaction-not-validated": ""
   }
 }

@@ -759,5 +759,13 @@
     "nft-trainer-is-available": "This NFT is available to claim a trainer",
     "go-back-to-forge": "Go back to the Forge",
     "check-nft-claim-status": "Check NFT Claim Status"
+  },
+  "buy-zerpmon": {
+    "already-bought": "You have already purchased a zerpmon",
+    "no-zerpmon-left": "All Zerpmon have been sold out.",
+    "unexpected-error": "Something went wrong.",
+    "invalid-request": "Invalid mint request",
+    "transaction-not-found": "Transaction not found",
+    "transaction-not-validated": "Transaction not validated"
   }
 }
