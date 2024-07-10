@@ -770,6 +770,7 @@
     "payment-title": "Pay NFT Minting fee with XUMM",
     "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later.",
     "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
-    "transaction-failed": "Your NFT payment transaction has failed. Please try again later."
+    "transaction-failed": "Your NFT payment transaction has failed. Please try again later.",
+    "purchase-success": "Purchase successfull"
   }
 }

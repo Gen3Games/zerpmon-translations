@@ -770,6 +770,7 @@
     "payment-title": "",
     "tx-error-crossmark-msg": "",
     "rejected-crossmark-msg": "",
-    "transaction-failed": ""
+    "transaction-failed": "",
+    "purchase-success": ""
   }
 }
