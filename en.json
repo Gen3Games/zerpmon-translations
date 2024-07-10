@@ -766,6 +766,10 @@
     "unexpected-error": "Something went wrong.",
     "invalid-request": "Invalid mint request",
     "transaction-not-found": "Transaction not found",
-    "transaction-not-validated": "Transaction not validated"
+    "transaction-not-validated": "Transaction not validated",
+    "payment-title": "Pay NFT Minting fee with XUMM",
+    "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later.",
+    "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
+    "transaction-failed": "Your NFT payment transaction has failed. Please try again later."
   }
 }

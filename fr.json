@@ -766,6 +766,10 @@
     "unexpected-error": "",
     "invalid-request": "",
     "transaction-not-found": "",
-    "transaction-not-validated": ""
+    "transaction-not-validated": "",
+    "payment-title": "",
+    "tx-error-crossmark-msg": "",
+    "rejected-crossmark-msg": "",
+    "transaction-failed": ""
   }
 }
