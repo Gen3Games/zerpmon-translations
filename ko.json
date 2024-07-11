@@ -31,7 +31,7 @@
     "sign-out-success": "성공적으로 로그아웃되었습니다.",
     "marketplace": "시장",
     "forge": "노",
-    "mint": ""
+    "mint": "민트"
   },
   "sign-in": {
     "button-label": "로그인",
@@ -56,8 +56,8 @@
     "social-logins-kaiju": "Kaiju 지갑을 사용한 소셜 로그인",
     "sign-in-with-xaman": "Xaman으로 로그인",
     "signed-in-using-kaiju-wallet": "방금 Kaiju Wallet에 로그인하셨습니다.",
-    "twitter": "",
-    "facebook": ""
+    "twitter": "X로 로그인",
+    "facebook": "페이스북으로 로그인"
   },
   "user-profile": {
     "trainers": "트레이너",
@@ -194,11 +194,11 @@
     "new-items": "새로운 아이템",
     "see-all": "모두 보기",
     "variants": "다양한 종류",
-    "confirm-trainer-specialization": "",
-    "trainer-spec-payment-confirmed": "",
-    "buy-confirmation-message": "",
-    "ascend-payment-tx-confirmed": "",
-    "confirm-ascend": ""
+    "confirm-trainer-specialization": "{trainer}와 함께 {buffType} 전문화를 사용하시겠습니까?",
+    "trainer-spec-payment-confirmed": "귀하의 결제 거래가 성공적으로 완료되었으며 {trainer}가 이제 {buffType}을(를) 획득했습니다.",
+    "buy-confirmation-message": "정말로 {item}을 구매하시겠습니까?",
+    "ascend-payment-tx-confirmed": "귀하의 결제 거래가 성공적으로 이루어졌으며 {zerpmonName}이(가) 승격되었습니다.",
+    "confirm-ascend": "정말로 {zerpmonName} 을(를) 오르시겠습니까?"
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",
@@ -467,13 +467,13 @@
     "br-transaction-not-found": "결제 거래를 찾을 수 없습니다.",
     "br-transaction-not-validated": "결제 거래가 확인되지 않았습니다.",
     "failed-to-enter-br": "배틀로얄 입장 실패",
-    "pvp-lobby": "",
-    "random-opponents": "",
-    "search-opponents": "",
-    "name-or-address": "",
-    "search": "",
-    "search-cannot-be-empty": "",
-    "search-failed": ""
+    "pvp-lobby": "PVP 로비",
+    "random-opponents": "무작위 상대",
+    "search-opponents": "상대 검색",
+    "name-or-address": "이름 또는 주소",
+    "search": "찾다",
+    "search-cannot-be-empty": "상대방의 이름이나 주소를 알려주세요",
+    "search-failed": "검색 실패"
   },
   "test": {
     "test": "테스트입니다."
@@ -550,7 +550,7 @@
     "loan-equipment": "장비",
     "loaned-by": "대여자: {user}",
     "no-sell-offers": "이 NFT에는 판매 제안이 없습니다.",
-    "loan-payment-transaction-success": ""
+    "loan-payment-transaction-success": "대출 수락에 대한 결제가 성공적으로 전송되었습니다."
   },
   "manage-listing": {
     "title": "내 NFT",
@@ -654,7 +654,7 @@
     "loan-updated-successfully": "대출이 업데이트되었습니다.",
     "loan-update": "업데이트",
     "legend-gryll-trainer-loan-error": "Legend 또는 Gryll Master 트레이너는 대여할 수 없습니다.",
-    "sell-offer-success": ""
+    "sell-offer-success": "판매 제안이 성공적으로 생성되었습니다."
   },
   "notifications": {
     "notifications": "알림",
@@ -762,23 +762,23 @@
     "check-nft-claim-status": "NFT 청구 상태 확인"
   },
   "buy-zerpmon": {
-    "already-bought": "",
-    "no-zerpmon-left": "",
-    "unexpected-error": "",
-    "invalid-request": "",
-    "transaction-not-found": "",
-    "transaction-not-validated": "",
-    "payment-title": "",
-    "tx-error-crossmark-msg": "",
-    "rejected-crossmark-msg": "",
-    "transaction-failed": "",
-    "purchase-success": ""
+    "already-bought": "이미 저프몬을 구매하셨습니다",
+    "no-zerpmon-left": "제르몬은 모두 매진되었습니다.",
+    "unexpected-error": "문제가 발생했습니다.",
+    "invalid-request": "잘못된 민트 요청",
+    "transaction-not-found": "거래를 찾을 수 없습니다.",
+    "transaction-not-validated": "거래가 검증되지 않았습니다.",
+    "payment-title": "XUMM으로 NFT 채굴 수수료 지불",
+    "tx-error-crossmark-msg": "Crossmark 지갑에서 거래를 생성할 수 없습니다. \n나중에 다시 시도 해주십시오.",
+    "rejected-crossmark-msg": "Crossmark 지갑에서 거래를 거부하셨습니다.",
+    "transaction-failed": "NFT 결제 거래가 실패했습니다. \n나중에 다시 시도 해주십시오.",
+    "purchase-success": "구매 성공"
   },
   "mint": {
-    "mint-opens-in": "",
-    "days": "",
-    "hours": "",
-    "minutes": "",
-    "seconds": ""
+    "mint-opens-in": "민트가 열립니다",
+    "days": "날",
+    "hours": "시간",
+    "minutes": "분",
+    "seconds": "초"
   }
 }

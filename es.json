@@ -31,7 +31,7 @@
     "sign-out-success": "Has cerrado sesión exitosamente.",
     "marketplace": "Mercado",
     "forge": "Fragua",
-    "mint": ""
+    "mint": "menta"
   },
   "sign-in": {
     "button-label": "Iniciar Sesión",
@@ -56,8 +56,8 @@
     "social-logins-kaiju": "Inicio con Kaiju Wallet",
     "sign-in-with-xaman": "Iniciar sesión con Xaman",
     "signed-in-using-kaiju-wallet": "Acabas de iniciar sesión en Kaiju Wallet",
-    "twitter": "",
-    "facebook": ""
+    "twitter": "Inicia sesión con X",
+    "facebook": "Iniciar sesión con Facebook"
   },
   "user-profile": {
     "trainers": "Entrenadores",
@@ -194,11 +194,11 @@
     "new-items": "Nuevos Artículos",
     "see-all": "Ver Todo",
     "variants": "Variantes",
-    "confirm-trainer-specialization": "",
-    "trainer-spec-payment-confirmed": "",
-    "buy-confirmation-message": "",
-    "ascend-payment-tx-confirmed": "",
-    "confirm-ascend": ""
+    "confirm-trainer-specialization": "¿Estás seguro de que quieres utilizar la especialización {buffType} con {trainer}?",
+    "trainer-spec-payment-confirmed": "Su transacción de pago fue exitosa y {trainer} ahora adquirió {buffType}.",
+    "buy-confirmation-message": "¿Estás seguro de que quieres comprar {artículo}?",
+    "ascend-payment-tx-confirmed": "Su transacción de pago fue exitosa y {zerpmonName} ascendió.",
+    "confirm-ascend": "¿Estás seguro de que quieres ascender a {zerpmonName}?"
   },
   "home": {
     "catch-your-zerpmon-now": "¡Atrapa tu Zerpmon ahora!",
@@ -467,13 +467,13 @@
     "br-transaction-not-found": "No se puede encontrar la transacción de pago",
     "br-transaction-not-validated": "Transacción de pago no validada",
     "failed-to-enter-br": "No se pudo ingresar a la batalla real",
-    "pvp-lobby": "",
-    "random-opponents": "",
-    "search-opponents": "",
-    "name-or-address": "",
-    "search": "",
-    "search-cannot-be-empty": "",
-    "search-failed": ""
+    "pvp-lobby": "Vestíbulo JcJ",
+    "random-opponents": "Oponentes aleatorios",
+    "search-opponents": "Buscar oponentes",
+    "name-or-address": "Nombre o dirección",
+    "search": "Buscar",
+    "search-cannot-be-empty": "Proporcione el nombre o la dirección del oponente.",
+    "search-failed": "La búsqueda falló"
   },
   "test": {
     "test": "esto es un test"
@@ -550,7 +550,7 @@
     "loan-equipment": "Equipo",
     "loaned-by": "Prestado por: {usuario}",
     "no-sell-offers": "No hay oferta de venta para este NFT",
-    "loan-payment-transaction-success": ""
+    "loan-payment-transaction-success": "Pago para aceptar préstamo enviado exitosamente"
   },
   "manage-listing": {
     "title": "Mis NFT",
@@ -654,7 +654,7 @@
     "loan-updated-successfully": "Préstamo actualizado exitosamente",
     "loan-update": "Actualizar",
     "legend-gryll-trainer-loan-error": "No se pueden prestar entrenadores Legend o Gryll Master",
-    "sell-offer-success": ""
+    "sell-offer-success": "Oferta de venta creada correctamente"
   },
   "notifications": {
     "notifications": "Notificaciones",
@@ -762,23 +762,23 @@
     "check-nft-claim-status": "Verifique el estado del reclamo de NFT"
   },
   "buy-zerpmon": {
-    "already-bought": "",
-    "no-zerpmon-left": "",
-    "unexpected-error": "",
-    "invalid-request": "",
-    "transaction-not-found": "",
-    "transaction-not-validated": "",
-    "payment-title": "",
-    "tx-error-crossmark-msg": "",
-    "rejected-crossmark-msg": "",
-    "transaction-failed": "",
-    "purchase-success": ""
+    "already-bought": "Ya has comprado un zerpmon",
+    "no-zerpmon-left": "Todos los Zerpmon se han agotado.",
+    "unexpected-error": "Algo salió mal.",
+    "invalid-request": "Solicitud de menta no válida",
+    "transaction-not-found": "Transacción no encontrada",
+    "transaction-not-validated": "Transacción no validada",
+    "payment-title": "Pague la tarifa de acuñación de NFT con XUMM",
+    "tx-error-crossmark-msg": "No se pudo crear una transacción en la billetera Crossmark. \nPor favor, inténtelo de nuevo más tarde.",
+    "rejected-crossmark-msg": "Ha rechazado la transacción en la billetera Crossmark.",
+    "transaction-failed": "Su transacción de pago NFT falló. \nPor favor, inténtelo de nuevo más tarde.",
+    "purchase-success": "Compra exitosa"
   },
   "mint": {
-    "mint-opens-in": "",
-    "days": "",
-    "hours": "",
-    "minutes": "",
-    "seconds": ""
+    "mint-opens-in": "La Casa de la Moneda abre en",
+    "days": "días",
+    "hours": "horas",
+    "minutes": "minutos",
+    "seconds": "segundos"
   }
 }
