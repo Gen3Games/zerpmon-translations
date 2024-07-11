@@ -761,16 +761,16 @@
     "check-nft-claim-status": "Prüfe den NFT-Anforderungsstatus"
   },
   "buy-zerpmon": {
-    "already-bought": "",
-    "no-zerpmon-left": "",
-    "unexpected-error": "",
-    "invalid-request": "",
-    "transaction-not-found": "",
-    "transaction-not-validated": "",
-    "payment-title": "",
-    "tx-error-crossmark-msg": "",
-    "rejected-crossmark-msg": "",
-    "transaction-failed": "",
-    "purchase-success": ""
+    "already-bought": "Du hast bereits ein Zerpmon gekauft",
+    "no-zerpmon-left": "Alle Zerpmons sind bereits ausverkauft.",
+    "unexpected-error": "Etwas ist schiefgelaufen.",
+    "invalid-request": "Ungültige Mint-Anfrage",
+    "transaction-not-found": "Transaktion nicht gefunden",
+    "transaction-not-validated": "Transaktion nicht bestätigt",
+    "payment-title": "Bezahle die Mint-Gebühr mit Xaman",
+    "tx-error-crossmark-msg": "Die Transaktion konnte im Crossmark-Wallet nicht erstellt werden. Bitte versuche es später noch einmal.",
+    "rejected-crossmark-msg": "Du hast die Transaktion im Crossmark-Wallet abgelehnt",
+    "transaction-failed": "Die Bezahlung des NFT's ist gescheitert. Bitte versuche es später noch einmal.",
+    "purchase-success": "Kauf erfolgreich"
   }
 }
