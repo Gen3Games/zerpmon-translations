@@ -30,7 +30,8 @@
     "logout": "Sign Out",
     "sign-out-success": "You have successfully signed out.",
     "marketplace": "Marketplace",
-    "forge": "Forge"
+    "forge": "Forge",
+    "mint": "Mint"
   },
   "sign-in": {
     "button-label": "Sign In",
@@ -772,5 +773,12 @@
     "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
     "transaction-failed": "Your NFT payment transaction has failed. Please try again later.",
     "purchase-success": "Purchase successfull"
+  },
+  "mint": {
+    "mint-opens-in": "Mint Opens In",
+    "days": "days",
+    "hours": "hours",
+    "minutes": "minutes",
+    "seconds": "seconds"
   }
 }

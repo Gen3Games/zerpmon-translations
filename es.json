@@ -30,7 +30,8 @@
     "logout": "Cerrar Sesión",
     "sign-out-success": "Has cerrado sesión exitosamente.",
     "marketplace": "Mercado",
-    "forge": "Fragua"
+    "forge": "Fragua",
+    "mint": ""
   },
   "sign-in": {
     "button-label": "Iniciar Sesión",
@@ -772,5 +773,12 @@
     "rejected-crossmark-msg": "",
     "transaction-failed": "",
     "purchase-success": ""
+  },
+  "mint": {
+    "mint-opens-in": "",
+    "days": "",
+    "hours": "",
+    "minutes": "",
+    "seconds": ""
   }
 }

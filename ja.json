@@ -30,7 +30,8 @@
     "logout": "サインアウト",
     "sign-out-success": "正常にサインアウトしました。",
     "marketplace": "市場",
-    "forge": "フォージ"
+    "forge": "フォージ",
+    "mint": ""
   },
   "sign-in": {
     "button-label": "サインイン",
@@ -772,5 +773,12 @@
     "rejected-crossmark-msg": "",
     "transaction-failed": "",
     "purchase-success": ""
+  },
+  "mint": {
+    "mint-opens-in": "",
+    "days": "",
+    "hours": "",
+    "minutes": "",
+    "seconds": ""
   }
 }

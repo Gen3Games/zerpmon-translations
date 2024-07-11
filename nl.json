@@ -30,7 +30,8 @@
     "logout": "Sign Out",
     "sign-out-success": "You have successfully signed out.",
     "marketplace": "Marketplace",
-    "forge": ""
+    "forge": "",
+    "mint": ""
   },
   "sign-in": {
     "button-label": "Sign In",
@@ -772,5 +773,12 @@
     "rejected-crossmark-msg": "",
     "transaction-failed": "",
     "purchase-success": ""
+  },
+  "mint": {
+    "mint-opens-in": "",
+    "days": "",
+    "hours": "",
+    "minutes": "",
+    "seconds": ""
   }
 }

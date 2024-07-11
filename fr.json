@@ -604,7 +604,8 @@
     "sign-out-success": "Vous vous êtes déconnecté avec succès.",
     "stats": "Statistiques",
     "store": "Magasin",
-    "forge": "Forger"
+    "forge": "Forger",
+    "mint": ""
   },
   "sign-in": {
     "button-label": "Se connecter",
@@ -772,5 +773,12 @@
     "rejected-crossmark-msg": "",
     "transaction-failed": "",
     "purchase-success": ""
+  },
+  "mint": {
+    "mint-opens-in": "",
+    "days": "",
+    "hours": "",
+    "minutes": "",
+    "seconds": ""
   }
 }

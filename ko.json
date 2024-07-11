@@ -30,7 +30,8 @@
     "logout": "로그아웃",
     "sign-out-success": "성공적으로 로그아웃되었습니다.",
     "marketplace": "시장",
-    "forge": "노"
+    "forge": "노",
+    "mint": ""
   },
   "sign-in": {
     "button-label": "로그인",
@@ -772,5 +773,12 @@
     "rejected-crossmark-msg": "",
     "transaction-failed": "",
     "purchase-success": ""
+  },
+  "mint": {
+    "mint-opens-in": "",
+    "days": "",
+    "hours": "",
+    "minutes": "",
+    "seconds": ""
   }
 }

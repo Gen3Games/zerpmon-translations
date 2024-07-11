@@ -30,7 +30,8 @@
     "logout": "Abmelden",
     "sign-out-success": "Du hast dich erfolgreich abgemeldet.",
     "marketplace": "Marktplatz",
-    "forge": "Schmiede"
+    "forge": "Schmiede",
+    "mint": ""
   },
   "sign-in": {
     "button-label": "Anmelden",
@@ -772,5 +773,12 @@
     "rejected-crossmark-msg": "",
     "transaction-failed": "",
     "purchase-success": ""
+  },
+  "mint": {
+    "mint-opens-in": "",
+    "days": "",
+    "hours": "",
+    "minutes": "",
+    "seconds": ""
   }
 }
