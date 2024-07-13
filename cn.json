@@ -771,13 +771,14 @@
     "payment-title": "",
     "tx-error-crossmark-msg": "",
     "rejected-crossmark-msg": "",
-    "transaction-failed": "",
+    "transaction-failed": "Your NFT payment transaction has failed. Please try again later.",
     "purchase-success": "",
     "mint-price": "",
     "login-to-mint": "",
     "nfts-remaining": "",
     "sold-out": "",
-    "mint": ""
+    "mint": "",
+    "refund-initiated": ""
   },
   "mint": {
     "mint-opens-in": "",

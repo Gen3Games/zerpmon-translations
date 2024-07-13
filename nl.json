@@ -194,7 +194,7 @@
     "nfts-remaining": "Resterende NFT's",
     "no-zerpmon-left": "Alle Zerpmon zijn uitverkocht.",
     "payment-title": "Betaal NFT Minting-kosten met XUMM",
-    "purchase-success": "Aankoop succesvol",
+    "purchase-success": "Aankoop succesvol! \nHet verkoopaanbod voor uw portemonnee wordt binnenkort aangemaakt. \nHoud uw portemonnee in de gaten.",
     "rejected-crossmark-msg": "U heeft de transactie in de Crossmark-portemonnee afgewezen.",
     "sold-out": "Uitverkocht",
     "transaction-failed": "Uw NFT-betalingstransactie is mislukt. \nProbeer het later opnieuw.",
@@ -202,7 +202,8 @@
     "transaction-not-validated": "Transactie niet gevalideerd",
     "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
     "unexpected-error": "Er is iets fout gegaan.",
-    "mint": "Munt"
+    "mint": "Munt",
+    "refund-initiated": "Sorry, maar we hebben geen Zerpmon meer. \nUw terugbetaling wordt binnenkort naar u verzonden."
   },
   "create-listing": {
     "confim-relist-nft": "Weet u zeker dat u {nftName} opnieuw wilt aanbieden",

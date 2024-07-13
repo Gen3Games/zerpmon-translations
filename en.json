@@ -772,12 +772,13 @@
     "tx-error-crossmark-msg": "Could not create transaction in Crossmark wallet. Please try again later.",
     "rejected-crossmark-msg": "You have rejected the transaction in Crossmark wallet.",
     "transaction-failed": "Your NFT payment transaction has failed. Please try again later.",
-    "purchase-success": "Purchase successfull",
+    "purchase-success": "Purchase successful! The sell offer to your wallet will be created soon. Please monitor your wallet.",
     "mint-price": "Mint Price",
     "login-to-mint": "You need to sign in to mint",
     "nfts-remaining": "NFTs Remaining",
     "sold-out": "Sold Out",
-    "mint": "Mint"
+    "mint": "Mint",
+    "refund-initiated": "Sorry but we're all out of Zerpmon. Your refund will be sent to you shortly."
   },
   "mint": {
     "mint-opens-in": "Mint Opens In",

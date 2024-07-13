@@ -772,12 +772,13 @@
     "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
     "rejected-crossmark-msg": "Vous avez rejeté la transaction dans le portefeuille Crossmark.",
     "transaction-failed": "Votre transaction de paiement NFT a échoué. \nVeuillez réessayer plus tard.",
-    "purchase-success": "Achat réussi",
+    "purchase-success": "Achat réussi ! \nL'offre de vente sur votre portefeuille sera bientôt créée. \nVeuillez surveiller votre portefeuille.",
     "mint-price": "Prix ​​​​de la menthe",
     "login-to-mint": "Vous devez vous connecter à Mint",
     "nfts-remaining": "NFT restants",
     "sold-out": "Épuisé",
-    "mint": "menthe"
+    "mint": "menthe",
+    "refund-initiated": "Désolé mais nous n'avons plus de Zerpmon. \nVotre remboursement vous sera envoyé sous peu."
   },
   "mint": {
     "mint-opens-in": "La menthe ouvre ses portes",
