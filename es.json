@@ -772,7 +772,12 @@
     "tx-error-crossmark-msg": "No se pudo crear una transacción en la billetera Crossmark. \nPor favor, inténtelo de nuevo más tarde.",
     "rejected-crossmark-msg": "Ha rechazado la transacción en la billetera Crossmark.",
     "transaction-failed": "Su transacción de pago NFT falló. \nPor favor, inténtelo de nuevo más tarde.",
-    "purchase-success": "Compra exitosa"
+    "purchase-success": "Compra exitosa",
+    "mint-price": "Precio de menta",
+    "login-to-mint": "Necesitas iniciar sesión en mint",
+    "nfts-remaining": "NFT restantes",
+    "sold-out": "Agotado",
+    "mint": "menta"
   },
   "mint": {
     "mint-opens-in": "La Casa de la Moneda abre en",

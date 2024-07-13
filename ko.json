@@ -772,7 +772,12 @@
     "tx-error-crossmark-msg": "Crossmark 지갑에서 거래를 생성할 수 없습니다. \n나중에 다시 시도 해주십시오.",
     "rejected-crossmark-msg": "Crossmark 지갑에서 거래를 거부하셨습니다.",
     "transaction-failed": "NFT 결제 거래가 실패했습니다. \n나중에 다시 시도 해주십시오.",
-    "purchase-success": "구매 성공"
+    "purchase-success": "구매 성공",
+    "mint-price": "민트 가격",
+    "login-to-mint": "민트에 로그인해야 합니다",
+    "nfts-remaining": "남은 NFT",
+    "sold-out": "매진",
+    "mint": "민트"
   },
   "mint": {
     "mint-opens-in": "민트가 열립니다",

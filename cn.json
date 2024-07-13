@@ -772,7 +772,12 @@
     "tx-error-crossmark-msg": "",
     "rejected-crossmark-msg": "",
     "transaction-failed": "",
-    "purchase-success": ""
+    "purchase-success": "",
+    "mint-price": "",
+    "login-to-mint": "",
+    "nfts-remaining": "",
+    "sold-out": "",
+    "mint": ""
   },
   "mint": {
     "mint-opens-in": "",

@@ -772,7 +772,12 @@
     "tx-error-crossmark-msg": "Crossmark ウォレットでトランザクションを作成できませんでした。\n後でもう一度試してください。",
     "rejected-crossmark-msg": "Crossmark ウォレットでの取引を拒否しました。",
     "transaction-failed": "NFT 支払いトランザクションが失敗しました。\n後でもう一度試してください。",
-    "purchase-success": "購入成功"
+    "purchase-success": "購入成功",
+    "mint-price": "ミント価格",
+    "login-to-mint": "mintにサインインする必要があります",
+    "nfts-remaining": "残りのNFT",
+    "sold-out": "完売",
+    "mint": "ミント"
   },
   "mint": {
     "mint-opens-in": "ミントが開く",

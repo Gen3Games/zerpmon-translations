@@ -772,6 +772,18 @@
     "tx-error-crossmark-msg": "Die Transaktion konnte im Crossmark-Wallet nicht erstellt werden. Bitte versuche es später noch einmal.",
     "rejected-crossmark-msg": "Du hast die Transaktion im Crossmark-Wallet abgelehnt",
     "transaction-failed": "Die Bezahlung des NFT's ist gescheitert. Bitte versuche es später noch einmal.",
-    "purchase-success": "Kauf erfolgreich"
+    "purchase-success": "Kauf erfolgreich",
+    "mint-price": "Neupreis",
+    "login-to-mint": "Sie müssen sich bei Mint anmelden",
+    "nfts-remaining": "Verbleibende NFTs",
+    "sold-out": "Ausverkauft",
+    "mint": "Minze"
+  },
+  "mint": {
+    "days": "Tage",
+    "hours": "Std.",
+    "mint-opens-in": "Mint öffnet sich in",
+    "minutes": "Protokoll",
+    "seconds": "Sekunden"
   }
 }

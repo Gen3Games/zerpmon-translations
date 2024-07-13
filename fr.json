@@ -772,7 +772,12 @@
     "tx-error-crossmark-msg": "Impossible de créer une transaction dans le portefeuille Crossmark. \nVeuillez réessayer plus tard.",
     "rejected-crossmark-msg": "Vous avez rejeté la transaction dans le portefeuille Crossmark.",
     "transaction-failed": "Votre transaction de paiement NFT a échoué. \nVeuillez réessayer plus tard.",
-    "purchase-success": "Achat réussi"
+    "purchase-success": "Achat réussi",
+    "mint-price": "Prix ​​​​de la menthe",
+    "login-to-mint": "Vous devez vous connecter à Mint",
+    "nfts-remaining": "NFT restants",
+    "sold-out": "Épuisé",
+    "mint": "menthe"
   },
   "mint": {
     "mint-opens-in": "La menthe ouvre ses portes",
