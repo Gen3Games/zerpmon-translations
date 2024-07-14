@@ -228,7 +228,8 @@
     "inactive": "Inactive",
     "use-double-xp-potion": "Use a Double XP potion to activate",
     "zrp-balance": "ZRP Balance",
-    "xrp-balance": "XRP Balance"
+    "xrp-balance": "XRP Balance",
+    "world-boss": "World Boss"
   },
   "leaderboard": {
     "title": "Leaderboard",
@@ -786,5 +787,11 @@
     "hours": "hours",
     "minutes": "minutes",
     "seconds": "seconds"
+  },
+  "world-boss": {
+    "world-boss": "World Boss",
+    "battled-today": "Battled Today",
+    "today-damage": "Today's Damage",
+    "week-damage": "This Week's Damage"
   }
 }

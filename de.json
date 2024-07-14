@@ -228,7 +228,8 @@
     "inactive": "Inaktiv",
     "use-double-xp-potion": "Benutze zur Aktivierung den EP-Verdopplungstrank",
     "zrp-balance": "ZRP Guthaben",
-    "xrp-balance": "XRP Guthaben"
+    "xrp-balance": "XRP Guthaben",
+    "world-boss": ""
   },
   "leaderboard": {
     "title": "Bestenliste",
@@ -786,5 +787,11 @@
     "mint-opens-in": "Mint öffnet sich in",
     "minutes": "Protokoll",
     "seconds": "Sekunden"
+  },
+  "world-boss": {
+    "world-boss": "",
+    "battled-today": "",
+    "today-damage": "",
+    "week-damage": ""
   }
 }

@@ -322,7 +322,8 @@
     "visit-store-sub-heading": "Achetez des réanimations, des recharges, de l'équipement, des cosmétiques et des consommables pour vous aider dans votre parcours de formateur.",
     "xrp-balance": "Solde XRP",
     "zrp-balance": "Solde ZRP",
-    "zrp-earned-today": "ZRP gagné aujourd'hui"
+    "zrp-earned-today": "ZRP gagné aujourd'hui",
+    "world-boss": "Patron du monde"
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",
@@ -786,5 +787,11 @@
     "hours": "heures",
     "minutes": "minutes",
     "seconds": "secondes"
+  },
+  "world-boss": {
+    "world-boss": "Patron du monde",
+    "battled-today": "Combattu aujourd'hui",
+    "today-damage": "Les dégâts du jour",
+    "week-damage": "Les dégâts de cette semaine"
   }
 }

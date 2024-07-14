@@ -228,7 +228,8 @@
     "inactive": "待用",
     "use-double-xp-potion": "使用双倍经验药水",
     "zrp-balance": "结余ZRP",
-    "xrp-balance": "结余XRP"
+    "xrp-balance": "结余XRP",
+    "world-boss": ""
   },
   "leaderboard": {
     "title": "排行榜",
@@ -786,5 +787,11 @@
     "hours": "小时",
     "minutes": "分钟",
     "seconds": "秒"
+  },
+  "world-boss": {
+    "world-boss": "",
+    "battled-today": "",
+    "today-damage": "",
+    "week-damage": ""
   }
 }

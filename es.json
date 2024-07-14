@@ -228,7 +228,8 @@
     "inactive": "Inactivo",
     "use-double-xp-potion": "Usa una poción de doble XP para activar",
     "zrp-balance": "Saldo ZRP",
-    "xrp-balance": "Saldo XRP"
+    "xrp-balance": "Saldo XRP",
+    "world-boss": "Mundo Jefe"
   },
   "leaderboard": {
     "title": "Clasificación",
@@ -786,5 +787,11 @@
     "hours": "horas",
     "minutes": "minutos",
     "seconds": "segundos"
+  },
+  "world-boss": {
+    "world-boss": "Mundo Jefe",
+    "battled-today": "Luchó hoy",
+    "today-damage": "El daño de hoy",
+    "week-damage": "El daño de esta semana"
   }
 }

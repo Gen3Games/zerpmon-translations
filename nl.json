@@ -417,7 +417,8 @@
     "visit-store-sub-heading": "Koop Revives, Navullingen, Uitrusting, Cosmetica en Verbruiksartikelen om u te helpen tijdens uw Trainer-reis",
     "xrp-balance": "XRP-saldo",
     "zrp-balance": "ZRP-saldo",
-    "zrp-earned-today": "ZRP vandaag verdiend"
+    "zrp-earned-today": "ZRP vandaag verdiend",
+    "world-boss": "Wereld baas"
   },
   "inventory": {
     "candy-active": "Zerpmon heeft al een soortgelijk soort snoep actief",
@@ -786,5 +787,11 @@
     "strong": "Sterk",
     "useless": "Vreselijk",
     "weak": "Zwak"
+  },
+  "world-boss": {
+    "world-boss": "Wereld baas",
+    "battled-today": "Vandaag gestreden",
+    "today-damage": "De schade van vandaag",
+    "week-damage": "De schade van deze week"
   }
 }
