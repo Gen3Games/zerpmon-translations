@@ -202,7 +202,7 @@
     "transaction-not-validated": "Transactie niet gevalideerd",
     "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
     "unexpected-error": "Er is iets fout gegaan.",
-    "mint": "Munt",
+    "mint": "Munten",
     "refund-initiated": "Sorry, maar we hebben geen Zerpmon meer. \nUw terugbetaling wordt binnenkort naar u verzonden."
   },
   "create-listing": {
