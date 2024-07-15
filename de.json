@@ -229,7 +229,7 @@
     "use-double-xp-potion": "Benutze zur Aktivierung den EP-Verdopplungstrank",
     "zrp-balance": "ZRP Guthaben",
     "xrp-balance": "XRP Guthaben",
-    "world-boss": ""
+    "world-boss": "Weltenherrscher"
   },
   "leaderboard": {
     "title": "Bestenliste",
@@ -789,9 +789,9 @@
     "seconds": "Sekunden"
   },
   "world-boss": {
-    "world-boss": "",
-    "battled-today": "",
-    "today-damage": "",
-    "week-damage": ""
+    "world-boss": "Weltenherrscher",
+    "battled-today": "Heute gekämpft",
+    "today-damage": "Heutiger Schaden",
+    "week-damage": "Schaden dieser Woche"
   }
 }
