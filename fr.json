@@ -130,7 +130,8 @@
     "name-or-address": "Nom ou adresse",
     "search": "Recherche",
     "search-cannot-be-empty": "Veuillez fournir le nom ou l'adresse de l'adversaire",
-    "search-failed": "La recherche a échoué"
+    "search-failed": "La recherche a échoué",
+    "pending-pvp-battles-active": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

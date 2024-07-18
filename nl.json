@@ -184,7 +184,8 @@
     "wait-for-result": "Gevechtsresultaten berekenen...",
     "wrong-battle-id": "Ongeldige strijd",
     "zerpmon-knocked-out": "Zerpmon uitgeschakeld",
-    "zerpmon-resting": "Alle Zerpmon in het missiedek rusten"
+    "zerpmon-resting": "Alle Zerpmon in het missiedek rusten",
+    "pending-pvp-battles-active": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

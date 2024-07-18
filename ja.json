@@ -190,7 +190,8 @@
     "wait-for-result": "",
     "wrong-battle-id": "",
     "zerpmon-knocked-out": "",
-    "zerpmon-resting": ""
+    "zerpmon-resting": "",
+    "pending-pvp-battles-active": ""
   },
   "buy-zerpmon": {
     "already-bought": "",

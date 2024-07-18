@@ -474,7 +474,8 @@
     "name-or-address": "Nombre o dirección",
     "search": "Buscar",
     "search-cannot-be-empty": "Proporcione el nombre o la dirección del oponente.",
-    "search-failed": "La búsqueda falló"
+    "search-failed": "La búsqueda falló",
+    "pending-pvp-battles-active": ""
   },
   "test": {
     "test": "esto es un test"

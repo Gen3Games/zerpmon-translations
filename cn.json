@@ -474,7 +474,8 @@
     "name-or-address": "",
     "search": "",
     "search-cannot-be-empty": "",
-    "search-failed": ""
+    "search-failed": "",
+    "pending-pvp-battles-active": ""
   },
   "test": {
     "test": "这是个测试"
