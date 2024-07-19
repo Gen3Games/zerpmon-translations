@@ -761,7 +761,9 @@
     "nft-trainer-is-claimed": "This NFT has already been used to claim a trainer",
     "nft-trainer-is-available": "This NFT is available to claim a trainer",
     "go-back-to-forge": "Go back to the Forge",
-    "check-nft-claim-status": "Check NFT Claim Status"
+    "check-nft-claim-status": "Check NFT Claim Status",
+    "xblade-claimed": "Equipment already claimed",
+    "invalid-xblades-selected": "Invalid Xblades selected"
   },
   "buy-zerpmon": {
     "already-bought": "You have already purchased a zerpmon",

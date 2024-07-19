@@ -394,7 +394,9 @@
     "select-collection-nft": "",
     "title": "",
     "trainer-already-claimed": "",
-    "trainer-claimed": ""
+    "trainer-claimed": "",
+    "xblade-claimed": "",
+    "invalid-xblades-selected": ""
   },
   "home": {
     "analytics": "",

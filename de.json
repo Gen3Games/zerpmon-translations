@@ -761,7 +761,9 @@
     "nft-trainer-is-claimed": "Mit diesem NFT wurde bereits ein Trainer angefordert",
     "nft-trainer-is-available": "Dieses NFT ist berechtigt, einen Trainer anzufordern",
     "go-back-to-forge": "Zurück zur Schmiede",
-    "check-nft-claim-status": "Prüfe den NFT-Anforderungsstatus"
+    "check-nft-claim-status": "Prüfe den NFT-Anforderungsstatus",
+    "xblade-claimed": "",
+    "invalid-xblades-selected": ""
   },
   "buy-zerpmon": {
     "already-bought": "Du hast bereits ein Zerpmon gekauft",

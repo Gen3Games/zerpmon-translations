@@ -388,7 +388,9 @@
     "select-collection-nft": "Selecteer een {collectionName} NFT",
     "title": "Smederij",
     "trainer-already-claimed": "Trainer heeft al geclaimd",
-    "trainer-claimed": "Je hebt met succes een trainer geclaimd!"
+    "trainer-claimed": "Je hebt met succes een trainer geclaimd!",
+    "xblade-claimed": "",
+    "invalid-xblades-selected": ""
   },
   "home": {
     "analytics": "Analyse",

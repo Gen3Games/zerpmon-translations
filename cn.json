@@ -761,7 +761,9 @@
     "nft-trainer-is-claimed": "此NFT已被用来认领教练",
     "nft-trainer-is-available": "此NFT可用于认领教练",
     "go-back-to-forge": "返回锻造",
-    "check-nft-claim-status": "检查NFT认领状态"
+    "check-nft-claim-status": "检查NFT认领状态",
+    "xblade-claimed": "",
+    "invalid-xblades-selected": ""
   },
   "buy-zerpmon": {
     "already-bought": "您已经购买了一只泽普蒙",
