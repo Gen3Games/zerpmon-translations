@@ -795,6 +795,9 @@
     "world-boss": "Wereld baas",
     "battled-today": "Vandaag gestreden",
     "today-damage": "De schade van vandaag",
-    "week-damage": "De schade van deze week"
+    "week-damage": "De schade van deze week",
+    "world-boss-total-damage": "Schade van alle tijden",
+    "hp-remaining": "HP resterend",
+    "zrp-share": "ZRP-aandeel"
   }
 }

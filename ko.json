@@ -3,7 +3,10 @@
     "today-damage": "오늘의 피해",
     "battled-today": "",
     "world-boss": "",
-    "week-damage": "이번주의 피해"
+    "week-damage": "이번주의 피해",
+    "world-boss-total-damage": "올타임 데미지",
+    "hp-remaining": "남은 HP",
+    "zrp-share": "ZRP 공유"
   },
   "analytics": {
     "analytics": "",

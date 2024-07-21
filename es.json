@@ -795,6 +795,9 @@
     "world-boss": "Mundo Jefe",
     "battled-today": "Luchó hoy",
     "today-damage": "El daño de hoy",
-    "week-damage": "El daño de esta semana"
+    "week-damage": "El daño de esta semana",
+    "world-boss-total-damage": "Daño de todos los tiempos",
+    "hp-remaining": "HP restantes",
+    "zrp-share": "Compartir ZRP"
   }
 }

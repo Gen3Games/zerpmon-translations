@@ -3,7 +3,10 @@
     "today-damage": "今日のダメージ",
     "battled-today": "",
     "world-boss": "",
-    "week-damage": "今週のダメージ"
+    "week-damage": "今週のダメージ",
+    "world-boss-total-damage": "オールタイムダメージ",
+    "hp-remaining": "残りHP",
+    "zrp-share": "ZRPシェア"
   },
   "analytics": {
     "analytics": "",

@@ -795,6 +795,9 @@
     "world-boss": "Weltenherrscher",
     "battled-today": "Heute gekämpft",
     "today-damage": "Heutiger Schaden",
-    "week-damage": "Schaden dieser Woche"
+    "week-damage": "Schaden dieser Woche",
+    "world-boss-total-damage": "Allzeitschaden",
+    "hp-remaining": "Verbleibende HP",
+    "zrp-share": "ZRP-Aktie"
   }
 }

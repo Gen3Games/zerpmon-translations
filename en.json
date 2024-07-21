@@ -795,6 +795,9 @@
     "world-boss": "World Boss",
     "battled-today": "Battled Today",
     "today-damage": "Today's Damage",
-    "week-damage": "This Week's Damage"
+    "week-damage": "This Week's Damage",
+    "world-boss-total-damage": "All Time Damage",
+    "hp-remaining": "HP Remaining",
+    "zrp-share": "ZRP Share"
   }
 }

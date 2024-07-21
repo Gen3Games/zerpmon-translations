@@ -795,6 +795,9 @@
     "world-boss": "Patron du monde",
     "battled-today": "Combattu aujourd'hui",
     "today-damage": "Les dégâts du jour",
-    "week-damage": "Les dégâts de cette semaine"
+    "week-damage": "Les dégâts de cette semaine",
+    "world-boss-total-damage": "Dégâts de tous les temps",
+    "hp-remaining": "PV restants",
+    "zrp-share": "Partager ZRP"
   }
 }

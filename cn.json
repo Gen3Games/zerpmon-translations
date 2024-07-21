@@ -795,6 +795,9 @@
     "world-boss": "",
     "battled-today": "",
     "today-damage": "",
-    "week-damage": ""
+    "week-damage": "",
+    "world-boss-total-damage": "All Time Damage",
+    "hp-remaining": "",
+    "zrp-share": ""
   }
 }
