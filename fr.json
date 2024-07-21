@@ -607,7 +607,8 @@
     "stats": "Statistiques",
     "store": "Magasin",
     "forge": "Forger",
-    "mint": "menthe"
+    "mint": "menthe",
+    "hide-sidebar": "Cacher"
   },
   "sign-in": {
     "button-label": "Se connecter",

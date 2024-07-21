@@ -31,7 +31,8 @@
     "sign-out-success": "You have successfully signed out.",
     "marketplace": "Marketplace",
     "forge": "Forge",
-    "mint": "Mint"
+    "mint": "Mint",
+    "hide-sidebar": "Hide"
   },
   "sign-in": {
     "button-label": "Sign In",

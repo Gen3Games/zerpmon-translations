@@ -31,7 +31,8 @@
     "sign-out-success": "Du hast dich erfolgreich abgemeldet.",
     "marketplace": "Marktplatz",
     "forge": "Schmiede",
-    "mint": "Mint"
+    "mint": "Mint",
+    "hide-sidebar": "Verstecken"
   },
   "sign-in": {
     "button-label": "Anmelden",

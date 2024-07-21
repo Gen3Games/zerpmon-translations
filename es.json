@@ -31,7 +31,8 @@
     "sign-out-success": "Has cerrado sesión exitosamente.",
     "marketplace": "Mercado",
     "forge": "Fragua",
-    "mint": "menta"
+    "mint": "menta",
+    "hide-sidebar": "Esconder"
   },
   "sign-in": {
     "button-label": "Iniciar Sesión",

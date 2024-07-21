@@ -31,7 +31,8 @@
     "sign-out-success": "您已成功登出。",
     "marketplace": "交易市场",
     "forge": "锻造",
-    "mint": "铸造"
+    "mint": "铸造",
+    "hide-sidebar": "Hide"
   },
   "sign-in": {
     "button-label": "登录",
