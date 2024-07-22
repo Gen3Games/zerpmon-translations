@@ -194,7 +194,8 @@
     "wrong-battle-id": "",
     "zerpmon-knocked-out": "",
     "zerpmon-resting": "",
-    "pending-pvp-battles-active": ""
+    "pending-pvp-battles-active": "",
+    "no-trainer-opponent": ""
   },
   "buy-zerpmon": {
     "already-bought": "",

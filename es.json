@@ -476,7 +476,8 @@
     "search": "Buscar",
     "search-cannot-be-empty": "Proporcione el nombre o la dirección del oponente.",
     "search-failed": "La búsqueda falló",
-    "pending-pvp-battles-active": ""
+    "pending-pvp-battles-active": "",
+    "no-trainer-opponent": ""
   },
   "test": {
     "test": "esto es un test"

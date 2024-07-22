@@ -476,7 +476,8 @@
     "search": "Search",
     "search-cannot-be-empty": "Please provide opponent name or address",
     "search-failed": "Search failed",
-    "pending-pvp-battles-active": "Pending PvP battle found"
+    "pending-pvp-battles-active": "Pending PvP battle found",
+    "no-trainer-opponent": "No Trainer found in opponent's default deck"
   },
   "test": {
     "test": "this is a test"

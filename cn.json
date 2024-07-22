@@ -476,7 +476,8 @@
     "search": "",
     "search-cannot-be-empty": "",
     "search-failed": "",
-    "pending-pvp-battles-active": ""
+    "pending-pvp-battles-active": "",
+    "no-trainer-opponent": ""
   },
   "test": {
     "test": "这是个测试"

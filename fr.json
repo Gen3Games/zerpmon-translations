@@ -131,7 +131,8 @@
     "search": "Recherche",
     "search-cannot-be-empty": "Veuillez fournir le nom ou l'adresse de l'adversaire",
     "search-failed": "La recherche a échoué",
-    "pending-pvp-battles-active": ""
+    "pending-pvp-battles-active": "",
+    "no-trainer-opponent": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
