@@ -477,7 +477,7 @@
     "search-cannot-be-empty": "Bitte gebe den Namen oder die Adresse des Gegners ein",
     "search-failed": "Suche erfolglos",
     "pending-pvp-battles-active": "Ausstehendes PvP-Gefecht gefunden",
-    "no-trainer-opponent": ""
+    "no-trainer-opponent": "Keinen Trainer im gegnerischen Deck gefunden"
   },
   "test": {
     "test": "Dies ist ein Test"
