@@ -131,8 +131,8 @@
     "search": "Recherche",
     "search-cannot-be-empty": "Veuillez fournir le nom ou l'adresse de l'adversaire",
     "search-failed": "La recherche a échoué",
-    "pending-pvp-battles-active": "",
-    "no-trainer-opponent": ""
+    "pending-pvp-battles-active": "Bataille PvP en attente trouvée",
+    "no-trainer-opponent": "Aucun Dresseur trouvé dans le deck par défaut de l'adversaire"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -764,8 +764,8 @@
     "nft-trainer-is-available": "Ce NFT est disponible pour réclamer un entraîneur",
     "go-back-to-forge": "Retournez à la Forge",
     "check-nft-claim-status": "Vérifier l'état de la réclamation NFT",
-    "xblade-claimed": "",
-    "invalid-xblades-selected": ""
+    "xblade-claimed": "Matériel déjà réclamé",
+    "invalid-xblades-selected": "Xblades sélectionnés non valides"
   },
   "buy-zerpmon": {
     "already-bought": "Vous avez déjà acheté un zerpmon",

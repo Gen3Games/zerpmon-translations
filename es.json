@@ -476,8 +476,8 @@
     "search": "Buscar",
     "search-cannot-be-empty": "Proporcione el nombre o la dirección del oponente.",
     "search-failed": "La búsqueda falló",
-    "pending-pvp-battles-active": "",
-    "no-trainer-opponent": ""
+    "pending-pvp-battles-active": "Batalla PvP pendiente encontrada",
+    "no-trainer-opponent": "No se encontró ningún entrenador en el mazo predeterminado del oponente."
   },
   "test": {
     "test": "esto es un test"
@@ -764,8 +764,8 @@
     "nft-trainer-is-available": "Este NFT está disponible para reclamar un entrenador",
     "go-back-to-forge": "Vuelve a la fragua",
     "check-nft-claim-status": "Verifique el estado del reclamo de NFT",
-    "xblade-claimed": "",
-    "invalid-xblades-selected": ""
+    "xblade-claimed": "Equipo ya reclamado",
+    "invalid-xblades-selected": "Xblades seleccionados no válidos"
   },
   "buy-zerpmon": {
     "already-bought": "Ya has comprado un zerpmon",

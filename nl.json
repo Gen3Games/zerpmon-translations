@@ -185,8 +185,8 @@
     "wrong-battle-id": "Ongeldige strijd",
     "zerpmon-knocked-out": "Zerpmon uitgeschakeld",
     "zerpmon-resting": "Alle Zerpmon in het missiedek rusten",
-    "pending-pvp-battles-active": "",
-    "no-trainer-opponent": ""
+    "pending-pvp-battles-active": "PvP-gevecht in afwachting gevonden",
+    "no-trainer-opponent": "Er is geen trainer gevonden in het standaarddeck van de tegenstander"
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -390,8 +390,8 @@
     "title": "Smederij",
     "trainer-already-claimed": "Trainer heeft al geclaimd",
     "trainer-claimed": "Je hebt met succes een trainer geclaimd!",
-    "xblade-claimed": "",
-    "invalid-xblades-selected": ""
+    "xblade-claimed": "Apparatuur al geclaimd",
+    "invalid-xblades-selected": "Ongeldige Xblades geselecteerd"
   },
   "home": {
     "analytics": "Analyse",
