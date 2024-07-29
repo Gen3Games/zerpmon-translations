@@ -478,7 +478,7 @@
     "search-failed": "Suche erfolglos",
     "pending-pvp-battles-active": "Ausstehendes PvP-Gefecht gefunden",
     "no-trainer-opponent": "Keinen Trainer im gegnerischen Deck gefunden",
-    "tower-create-new-deck": ""
+    "tower-create-new-deck": "Bitte erstelle ein neues Festungssturm-Deck"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -801,6 +801,6 @@
     "week-damage": "Schaden dieser Woche",
     "world-boss-total-damage": "Allzeitschaden",
     "hp-remaining": "Verbleibende HP",
-    "zrp-share": "ZRP-Aktie"
+    "zrp-share": "ZRP-Anteil"
   }
 }
