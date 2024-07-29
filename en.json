@@ -477,7 +477,8 @@
     "search-cannot-be-empty": "Please provide opponent name or address",
     "search-failed": "Search failed",
     "pending-pvp-battles-active": "Pending PvP battle found",
-    "no-trainer-opponent": "No Trainer found in opponent's default deck"
+    "no-trainer-opponent": "No Trainer found in opponent's default deck",
+    "tower-create-new-deck": "Please set a new Tower rush deck"
   },
   "test": {
     "test": "this is a test"

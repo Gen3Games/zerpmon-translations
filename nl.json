@@ -186,7 +186,8 @@
     "zerpmon-knocked-out": "Zerpmon uitgeschakeld",
     "zerpmon-resting": "Alle Zerpmon in het missiedek rusten",
     "pending-pvp-battles-active": "PvP-gevecht in afwachting gevonden",
-    "no-trainer-opponent": "Er is geen trainer gevonden in het standaarddeck van de tegenstander"
+    "no-trainer-opponent": "Er is geen trainer gevonden in het standaarddeck van de tegenstander",
+    "tower-create-new-deck": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

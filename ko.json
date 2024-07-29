@@ -477,7 +477,8 @@
     "search-cannot-be-empty": "상대방의 이름이나 주소를 알려주세요",
     "search-failed": "검색 실패",
     "no-trainer-opponent": "상대의 기본 덱에 트레이너가 없습니다.",
-    "pending-pvp-battles-active": "대기 중인 PvP 전투가 발견되었습니다."
+    "pending-pvp-battles-active": "대기 중인 PvP 전투가 발견되었습니다.",
+    "tower-create-new-deck": ""
   },
   "test": {
     "test": "테스트입니다."

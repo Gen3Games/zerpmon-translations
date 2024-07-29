@@ -477,7 +477,8 @@
     "search-cannot-be-empty": "相手の名前または住所を入力してください",
     "search-failed": "検索に失敗しました",
     "no-trainer-opponent": "相手のデフォルトデッキにトレーナーが見つかりません",
-    "pending-pvp-battles-active": "保留中のPvPバトルが見つかりました"
+    "pending-pvp-battles-active": "保留中のPvPバトルが見つかりました",
+    "tower-create-new-deck": ""
   },
   "test": {
     "test": "これはテストです"

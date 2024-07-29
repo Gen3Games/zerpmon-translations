@@ -477,7 +477,8 @@
     "search-cannot-be-empty": "",
     "search-failed": "",
     "pending-pvp-battles-active": "",
-    "no-trainer-opponent": ""
+    "no-trainer-opponent": "",
+    "tower-create-new-deck": ""
   },
   "test": {
     "test": "这是个测试"

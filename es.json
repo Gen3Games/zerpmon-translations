@@ -477,7 +477,8 @@
     "search-cannot-be-empty": "Proporcione el nombre o la dirección del oponente.",
     "search-failed": "La búsqueda falló",
     "pending-pvp-battles-active": "Batalla PvP pendiente encontrada",
-    "no-trainer-opponent": "No se encontró ningún entrenador en el mazo predeterminado del oponente."
+    "no-trainer-opponent": "No se encontró ningún entrenador en el mazo predeterminado del oponente.",
+    "tower-create-new-deck": ""
   },
   "test": {
     "test": "esto es un test"

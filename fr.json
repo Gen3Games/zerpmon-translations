@@ -132,7 +132,8 @@
     "search-cannot-be-empty": "Veuillez fournir le nom ou l'adresse de l'adversaire",
     "search-failed": "La recherche a échoué",
     "pending-pvp-battles-active": "Bataille PvP en attente trouvée",
-    "no-trainer-opponent": "Aucun Dresseur trouvé dans le deck par défaut de l'adversaire"
+    "no-trainer-opponent": "Aucun Dresseur trouvé dans le deck par défaut de l'adversaire",
+    "tower-create-new-deck": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
