@@ -745,7 +745,8 @@
     "successful-bid": "Dein Gebot war erfolgreich",
     "pay-nft-bid": "Bezahle für das NFT-Gebot",
     "confirm-bid-popup-title": "Gebot für {nftName}",
-    "confirm-bid-popup-message": "Bist du sicher, dass du für {nftName} {amount} {currency} bieten möchtest?"
+    "confirm-bid-popup-message": "Bist du sicher, dass du für {nftName} {amount} {currency} bieten möchtest?",
+    "bid-not-enough-starting": "Ihr Gebot liegt unter dem Startpreis"
   },
   "forge": {
     "title": "Schmiede",

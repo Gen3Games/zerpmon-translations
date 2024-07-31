@@ -745,7 +745,8 @@
     "successful-bid": "Your bid was successful",
     "pay-nft-bid": "Pay for NFT Bid",
     "confirm-bid-popup-title": "Bid for {nftName}",
-    "confirm-bid-popup-message": "Are you sure want to bid {amount} {currency} for {nftName} ?"
+    "confirm-bid-popup-message": "Are you sure want to bid {amount} {currency} for {nftName} ?",
+    "bid-not-enough-starting": "Your bid is lower than the starting price"
   },
   "forge": {
     "title": "Forge",

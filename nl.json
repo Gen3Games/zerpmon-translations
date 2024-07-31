@@ -87,7 +87,8 @@
     "transaction-failed": "Uw NFT-verkoopaanbiedingstransactie is mislukt. \nProbeer het later opnieuw.",
     "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
     "you-have-been-outbid": "Je bent overboden en krijgt je geld terug",
-    "zerpmon-auctions": "Zerpmon-veilingen"
+    "zerpmon-auctions": "Zerpmon-veilingen",
+    "bid-not-enough-starting": "Uw bod is lager dan de vanafprijs"
   },
   "battle": {
     "battle-failed": "De strijd is mislukt",

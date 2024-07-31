@@ -87,7 +87,8 @@
     "transaction-failed": "La transazione dell'offerta di vendita NFT non è riuscita. \nPer favore riprova più tardi.",
     "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi.",
     "you-have-been-outbid": "La tua offerta è stata superata e sarai rimborsato",
-    "zerpmon-auctions": "Aste di Zerpmon"
+    "zerpmon-auctions": "Aste di Zerpmon",
+    "bid-not-enough-starting": "La tua offerta è inferiore al prezzo iniziale"
   },
   "battle": {
     "battle-failed": "La battaglia fallì",

@@ -745,7 +745,8 @@
     "successful-bid": "귀하의 입찰이 성공했습니다",
     "pay-nft-bid": "NFT 입찰 비용 지불",
     "confirm-bid-popup-title": "{nftName}에 대한 입찰",
-    "confirm-bid-popup-message": "정말로 {nftName}에 대해 {amount} {currency}에 입찰하시겠습니까?"
+    "confirm-bid-popup-message": "정말로 {nftName}에 대해 {amount} {currency}에 입찰하시겠습니까?",
+    "bid-not-enough-starting": "입찰가가 시작 가격보다 낮습니다."
   },
   "forge": {
     "title": "노",

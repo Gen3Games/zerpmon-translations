@@ -745,7 +745,8 @@
     "successful-bid": "Su oferta fue exitosa",
     "pay-nft-bid": "Pagar por la oferta NFT",
     "confirm-bid-popup-title": "Oferta por {nftName}",
-    "confirm-bid-popup-message": "¿Está seguro de que desea ofertar {cantidad} {moneda} por {nftName}?"
+    "confirm-bid-popup-message": "¿Está seguro de que desea ofertar {cantidad} {moneda} por {nftName}?",
+    "bid-not-enough-starting": "Su oferta es inferior al precio inicial"
   },
   "forge": {
     "title": "Fragua",

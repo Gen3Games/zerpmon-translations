@@ -32,7 +32,8 @@
     "report-a-bug": "Signaler un bug",
     "signed-xumm-alert": "Vous avez signé la transaction dans l'application mobile Xaman et attendez la confirmation",
     "title": "Zerpmon",
-    "yes": "Oui"
+    "yes": "Oui",
+    "search": ""
   },
   "battle": {
     "battle-failed": "La bataille a échoué",
@@ -133,7 +134,9 @@
     "search-failed": "La recherche a échoué",
     "pending-pvp-battles-active": "Bataille PvP en attente trouvée",
     "no-trainer-opponent": "Aucun Dresseur trouvé dans le deck par défaut de l'adversaire",
-    "tower-create-new-deck": ""
+    "tower-create-new-deck": "",
+    "generic-error": "",
+    "incomplete-deck": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -742,7 +745,8 @@
     "successful-bid": "Votre enchère a été retenue",
     "pay-nft-bid": "Payer l'offre NFT",
     "confirm-bid-popup-title": "Enchérir sur {nftName}",
-    "confirm-bid-popup-message": "Êtes-vous sûr de vouloir enchérir de {amount} {currency} pour {nftName} ?"
+    "confirm-bid-popup-message": "Êtes-vous sûr de vouloir enchérir de {amount} {currency} pour {nftName} ?",
+    "bid-not-enough-starting": "Votre enchère est inférieure au prix de départ"
   },
   "forge": {
     "title": "Forger",
