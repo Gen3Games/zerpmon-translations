@@ -14,7 +14,8 @@
     "confirm": "确认",
     "yes": "是",
     "no": "否",
-    "rename-deck-popup-title": "改名 {deckType} 牌組号 {deckNumber}"
+    "rename-deck-popup-title": "改名 {deckType} 牌組号 {deckNumber}",
+    "search": "搜索"
   },
   "sidebar": {
     "home": "首页",
@@ -153,7 +154,7 @@
     "cannot-swap-equipment-itself": "没法交换同一个装备",
     "clear-battle-deck": "清除战斗牌組",
     "clear-gym-deck": "清除道館牌組",
-    "rename-deck-popup-title": "",
+    "rename-deck-popup-title": "重命名 {deckType} 牌组编号 {deckNumber}",
     "cancel": "取消",
     "rename-deck": "改牌組名称",
     "unnamed-deck": "取消牌組名称",
@@ -195,11 +196,11 @@
     "new-items": "新物品",
     "see-all": "查看所有",
     "variants": "变体",
-    "confirm-trainer-specialization": "",
-    "trainer-spec-payment-confirmed": "",
-    "buy-confirmation-message": "",
-    "ascend-payment-tx-confirmed": "",
-    "confirm-ascend": ""
+    "confirm-trainer-specialization": "您确定要将 {buffType} 专业化与 {trainer} 一起使用吗？",
+    "trainer-spec-payment-confirmed": "您的付款交易已成功，{trainer} 现已获取 {buffType}。",
+    "buy-confirmation-message": "您确定要购买{item}吗？",
+    "ascend-payment-tx-confirmed": "您的付款交易已成功，并且 {zerpmonName} 已提升。",
+    "confirm-ascend": "您确定要提升 {zerpmonName} 吗？"
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",
@@ -230,7 +231,7 @@
     "use-double-xp-potion": "使用双倍经验药水",
     "zrp-balance": "结余ZRP",
     "xrp-balance": "结余XRP",
-    "world-boss": ""
+    "world-boss": "世界老大"
   },
   "leaderboard": {
     "title": "排行榜",
@@ -372,12 +373,12 @@
     "you-have-won-zerpmon": "您赢得了一只Zerpmon",
     "you-have-won-equipment": "您赢得了一个装备",
     "you-have-won-jackpot": "您赢得了大奖",
-    "rewards-table-item": "",
-    "rewards-table-chance-1-roll": "",
-    "rewards-table-chance-3-rolls": "",
-    "rewards-table-chance-1-roll-short": "",
-    "rewards-table-chance-3-rolls-short": "",
-    "rewards-table-value-xrp": ""
+    "rewards-table-item": "物品",
+    "rewards-table-chance-1-roll": "每 1 卷的机会",
+    "rewards-table-chance-3-rolls": "每 3 卷的几率",
+    "rewards-table-chance-1-roll-short": "CP1",
+    "rewards-table-chance-3-rolls-short": "CP3",
+    "rewards-table-value-xrp": "瑞波币价值"
   },
   "battle": {
     "title": "战斗",
@@ -440,7 +441,7 @@
     "no-boss": "请等待新boss的召唤",
     "no-battle-deck": "未找到战斗套牌",
     "not-reset-yet": "请等待下次重置",
-    "pierce-trigger-message-3": "",
+    "pierce-trigger-message-3": "尽管{loser}的{loserMove}，但{winner}的{winnerMove}仍然成功命中！",
     "hardware-support": "当前不支持iOS。请使用桌面浏览器或Android。点击这里检查最低硬件要求。",
     "play-for-xp": "打任务 - 赢XP",
     "play-for-xrp": "打任务 - 赢XRP",
@@ -452,33 +453,35 @@
     "error-mission-potion": "补充任务时出错",
     "zerpmon-knocked-out": "Zerpmon被击倒",
     "daily-missions-left": "每日剩余任务",
-    "br-revive-message": "",
-    "invalid-opponent": "",
-    "pending-challenges-active": "",
-    "rank-gap-too-high": "",
-    "few-zerpmon-in-deck": "",
-    "wrong-battle-id": "",
-    "battle-timed-out": "",
-    "queue-active": "",
-    "invalid-players": "",
-    "few-zerpmon-in-deck-opponent": "",
-    "failed-to-update-rank": "",
-    "max-start-time-is-24hr": "",
-    "max-active-brs": "",
-    "invalid-br": "",
-    "br-transaction-not-found": "",
-    "br-transaction-not-validated": "",
-    "failed-to-enter-br": "",
-    "pvp-lobby": "",
-    "random-opponents": "",
-    "search-opponents": "",
-    "name-or-address": "",
-    "search": "",
-    "search-cannot-be-empty": "",
-    "search-failed": "",
-    "pending-pvp-battles-active": "",
-    "no-trainer-opponent": "",
-    "tower-create-new-deck": ""
+    "br-revive-message": "这是一个奇迹！ \n{zerpmonName}死而复生",
+    "invalid-opponent": "PvP 对手无效",
+    "pending-challenges-active": "待处理的 PvP 挑战已激活",
+    "rank-gap-too-high": "对手无效（排名差距高）",
+    "few-zerpmon-in-deck": "套牌中包含少量泽普兽",
+    "wrong-battle-id": "无效战斗",
+    "battle-timed-out": "PvP 挑战超时",
+    "queue-active": "已经在队列中",
+    "invalid-players": "对手无效",
+    "few-zerpmon-in-deck-opponent": "对手套牌中的泽普兽数量很少",
+    "failed-to-update-rank": "无法更新排名积分",
+    "max-start-time-is-24hr": "大逃杀计时器应低于 24 小时",
+    "max-active-brs": "已达到活跃大逃杀限制",
+    "invalid-br": "大逃杀无效",
+    "br-transaction-not-found": "无法找到付款交易",
+    "br-transaction-not-validated": "付款交易未验证",
+    "failed-to-enter-br": "无法进入大逃杀",
+    "pvp-lobby": "PVP 大厅",
+    "random-opponents": "随机对手",
+    "search-opponents": "搜索对手",
+    "name-or-address": "姓名或地址",
+    "search": "搜索",
+    "search-cannot-be-empty": "请提供对手姓名或地址",
+    "search-failed": "搜索失败",
+    "pending-pvp-battles-active": "发现待处理的 PvP 战斗",
+    "no-trainer-opponent": "在对手的默认套牌中找不到训练师",
+    "tower-create-new-deck": "请设置一个新的塔楼冲锋甲板",
+    "incomplete-deck": "你的套牌不完整",
+    "generic-error": "出了些问题"
   },
   "test": {
     "test": "这是个测试"
@@ -548,14 +551,14 @@
     "add-listing-description": "选择您想要列出以供借用的 Zerpmon NFT，并输入以下详细信息。",
     "min-rental-duration": "最短租期",
     "max-rental-duration": "最长租期",
-    "loan-category": "",
-    "loan-all-categories": "",
-    "loan-trainers": "",
-    "loan-zerpmons": "",
-    "loan-equipment": "",
-    "loaned-by": "",
+    "loan-category": "类别",
+    "loan-all-categories": "所有类别",
+    "loan-trainers": "运动鞋",
+    "loan-zerpmons": "泽拉蒙兽",
+    "loan-equipment": "设备",
+    "loaned-by": "借出者：{user}",
     "no-sell-offers": "该 NFT 没有卖价",
-    "loan-payment-transaction-success": ""
+    "loan-payment-transaction-success": "接受贷款付款已成功发送"
   },
   "manage-listing": {
     "title": "我的 NFTs",
@@ -605,10 +608,10 @@
     "add-listing": "添加列表",
     "no-nfts": "没有 NFTs",
     "table-unlisted": "未上市",
-    "min": "",
-    "max": "",
-    "loaned": "",
-    "remaining": ""
+    "min": "最小",
+    "max": "最大限度",
+    "loaned": "借用",
+    "remaining": "其余的"
   },
   "create-listing": {
     "not-signed-in": "未登录",
@@ -654,12 +657,12 @@
     "confim-relist-nft": "您确定要重新列出 {nftName}",
     "listing-submit": "创建列表",
     "pay-listing-transaction": "签署 NFT 优惠",
-    "loan-already-taken": "",
-    "loan-not-found": "",
-    "loan-updated-successfully": "",
-    "loan-update": "",
-    "legend-gryll-trainer-loan-error": "",
-    "sell-offer-success": ""
+    "loan-already-taken": "已经有人借了这笔贷款",
+    "loan-not-found": "未找到贷款清单",
+    "loan-updated-successfully": "贷款更新成功",
+    "loan-update": "更新",
+    "legend-gryll-trainer-loan-error": "传奇或格里尔大师训练师不能借用",
+    "sell-offer-success": "销售报价已成功创建"
   },
   "notifications": {
     "notifications": "通告",
@@ -672,15 +675,15 @@
     "ios-setup-title": "将 Zerpmon Web App 添加到主屏幕以订阅推送通知",
     "ios-setup-step-1": "1. 按右上角的分享按钮",
     "ios-setup-step-2": "2. 按添加到主屏幕",
-    "notifications-settings": "",
-    "loans": "",
-    "auctions": "",
-    "safari": "",
-    "loans-description": "",
-    "safari-description": "",
-    "save": "",
-    "update-failed": "",
-    "update-success": ""
+    "notifications-settings": "通知设置",
+    "loans": "贷款",
+    "auctions": "拍卖",
+    "safari": "苹果浏览器",
+    "loans-description": "新 NFT 上市",
+    "safari-description": "累积奖金和 NFT 奖金",
+    "save": "节省",
+    "update-failed": "无法更新推送通知设置",
+    "update-success": "推送通知设置已成功更新"
   },
   "settings": {
     "language": "语言",
@@ -765,8 +768,8 @@
     "nft-trainer-is-available": "此NFT可用于认领教练",
     "go-back-to-forge": "返回锻造",
     "check-nft-claim-status": "检查NFT认领状态",
-    "xblade-claimed": "",
-    "invalid-xblades-selected": ""
+    "xblade-claimed": "设备已认领",
+    "invalid-xblades-selected": "选择的 Xblade 无效"
   },
   "buy-zerpmon": {
     "already-bought": "您已经购买了一只泽普蒙",
@@ -795,12 +798,12 @@
     "seconds": "秒"
   },
   "world-boss": {
-    "world-boss": "",
-    "battled-today": "",
-    "today-damage": "",
-    "week-damage": "",
-    "world-boss-total-damage": "All Time Damage",
-    "hp-remaining": "",
-    "zrp-share": ""
+    "world-boss": "世界老大",
+    "battled-today": "今天战斗",
+    "today-damage": "今天的伤害",
+    "week-damage": "本周的伤害",
+    "world-boss-total-damage": "所有时间伤害",
+    "hp-remaining": "剩余生命值",
+    "zrp-share": "中荣股份"
   }
 }

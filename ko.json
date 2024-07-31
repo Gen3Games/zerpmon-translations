@@ -14,7 +14,8 @@
     "confirm": "확인",
     "yes": "예",
     "no": "아니오",
-    "rename-deck-popup-title": "{deckType} 덱 번호 {deckNumber}의 이름을 변경하세요."
+    "rename-deck-popup-title": "{deckType} 덱 번호 {deckNumber}의 이름을 변경하세요.",
+    "search": "찾다"
   },
   "sidebar": {
     "home": "홈",
@@ -478,7 +479,9 @@
     "search-failed": "검색 실패",
     "no-trainer-opponent": "상대의 기본 덱에 트레이너가 없습니다.",
     "pending-pvp-battles-active": "대기 중인 PvP 전투가 발견되었습니다.",
-    "tower-create-new-deck": ""
+    "tower-create-new-deck": "새로운 타워 러시 덱을 설정해주세요",
+    "incomplete-deck": "당신의 덱은 불완전합니다",
+    "generic-error": "문제가 발생했습니다."
   },
   "test": {
     "test": "테스트입니다."

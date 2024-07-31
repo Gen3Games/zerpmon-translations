@@ -14,7 +14,8 @@
     "confirm": "Bestätigen",
     "yes": "Ja",
     "no": "Nein",
-    "rename-deck-popup-title": "Deck {deckNumber} {deckType} umbenennen"
+    "rename-deck-popup-title": "Deck {deckNumber} {deckType} umbenennen",
+    "search": "Suchen"
   },
   "sidebar": {
     "home": "Startseite",
@@ -478,7 +479,9 @@
     "search-failed": "Suche erfolglos",
     "pending-pvp-battles-active": "Ausstehendes PvP-Gefecht gefunden",
     "no-trainer-opponent": "Keinen Trainer im gegnerischen Deck gefunden",
-    "tower-create-new-deck": "Bitte erstelle ein neues Festungssturm-Deck"
+    "tower-create-new-deck": "",
+    "incomplete-deck": "Dein Deck ist unvollständig",
+    "generic-error": "Etwas ist schief gelaufen"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -801,6 +804,6 @@
     "week-damage": "Schaden dieser Woche",
     "world-boss-total-damage": "Allzeitschaden",
     "hp-remaining": "Verbleibende HP",
-    "zrp-share": "ZRP-Anteil"
+    "zrp-share": "ZRP-Aktie"
   }
 }

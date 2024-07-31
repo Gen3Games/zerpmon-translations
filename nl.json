@@ -32,7 +32,8 @@
     "report-a-bug": "Rapporteer een bug",
     "signed-xumm-alert": "U heeft de transactie ondertekend in de mobiele Xaman-app en wacht op bevestiging",
     "title": "Zerpmon",
-    "yes": "Ja"
+    "yes": "Ja",
+    "search": "Zoekopdracht"
   },
   "auctions": {
     "auction-ended": "De veiling voor deze NFT is afgelopen",
@@ -187,7 +188,9 @@
     "zerpmon-resting": "Alle Zerpmon in het missiedek rusten",
     "pending-pvp-battles-active": "PvP-gevecht in afwachting gevonden",
     "no-trainer-opponent": "Er is geen trainer gevonden in het standaarddeck van de tegenstander",
-    "tower-create-new-deck": ""
+    "tower-create-new-deck": "Stel een nieuw Tower rush-deck in",
+    "incomplete-deck": "Je deck is niet compleet",
+    "generic-error": "Er is iets fout gegaan"
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

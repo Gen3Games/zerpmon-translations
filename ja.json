@@ -14,7 +14,8 @@
     "confirm": "Confirm",
     "yes": "Yes",
     "no": "No",
-    "rename-deck-popup-title": "{deckType} のデッキ番号の名前を変更します。 \n{デッキ番号}"
+    "rename-deck-popup-title": "{deckType} のデッキ番号の名前を変更します。 \n{デッキ番号}",
+    "search": "検索"
   },
   "sidebar": {
     "home": "ホーム",
@@ -478,7 +479,9 @@
     "search-failed": "検索に失敗しました",
     "no-trainer-opponent": "相手のデフォルトデッキにトレーナーが見つかりません",
     "pending-pvp-battles-active": "保留中のPvPバトルが見つかりました",
-    "tower-create-new-deck": ""
+    "tower-create-new-deck": "新しいタワーラッシュデッキをセットしてください",
+    "incomplete-deck": "あなたのデッキは不完全です",
+    "generic-error": "何か問題が発生しました"
   },
   "test": {
     "test": "これはテストです"

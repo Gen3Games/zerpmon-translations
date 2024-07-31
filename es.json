@@ -14,7 +14,8 @@
     "confirm": "Confirmar",
     "yes": "Sí",
     "no": "No",
-    "rename-deck-popup-title": "Renombrar el mazo {deckType} no. {deckNumber}"
+    "rename-deck-popup-title": "Renombrar el mazo {deckType} no. {deckNumber}",
+    "search": "Buscar"
   },
   "sidebar": {
     "home": "Inicio",
@@ -478,7 +479,9 @@
     "search-failed": "La búsqueda falló",
     "pending-pvp-battles-active": "Batalla PvP pendiente encontrada",
     "no-trainer-opponent": "No se encontró ningún entrenador en el mazo predeterminado del oponente.",
-    "tower-create-new-deck": ""
+    "tower-create-new-deck": "Por favor, configura un nuevo mazo de Tower Rush.",
+    "incomplete-deck": "Tu mazo está incompleto",
+    "generic-error": "Algo salió mal"
   },
   "test": {
     "test": "esto es un test"

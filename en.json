@@ -14,7 +14,8 @@
     "confirm": "Confirm",
     "yes": "Yes",
     "no": "No",
-    "rename-deck-popup-title": "Rename {deckType} deck no. {deckNumber}"
+    "rename-deck-popup-title": "Rename {deckType} deck no. {deckNumber}",
+    "search": "Search"
   },
   "sidebar": {
     "home": "Home",
@@ -478,7 +479,9 @@
     "search-failed": "Search failed",
     "pending-pvp-battles-active": "Pending PvP battle found",
     "no-trainer-opponent": "No Trainer found in opponent's default deck",
-    "tower-create-new-deck": "Please set a new Tower rush deck"
+    "tower-create-new-deck": "Please set a new Tower rush deck",
+    "incomplete-deck": "Your deck is incomplete",
+    "generic-error": "Something went wrong"
   },
   "test": {
     "test": "this is a test"
