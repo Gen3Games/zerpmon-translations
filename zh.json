@@ -53,13 +53,13 @@
     "wallets-coming-soon": "Crossmark、Metamask和GemWallet钱包支持即将推出",
     "metamask": "Metamask",
     "gemwallet": "GemWallet",
-    "google": "使用谷歌登录",
+    "google": "谷歌",
     "discord": "使用Discord登录",
     "social-logins-kaiju": "使用Kaiju Wallet登录",
     "sign-in-with-xaman": "使用 Xaman 登录",
     "signed-in-using-kaiju-wallet": "您刚刚使用 Kaiju 钱包登录",
-    "twitter": "用 X 登录",
-    "facebook": "用 Facebook 登录"
+    "twitter": "X（推特）",
+    "facebook": "Facebook"
   },
   "user-profile": {
     "trainers": "训练师",

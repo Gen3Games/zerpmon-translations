@@ -53,13 +53,13 @@
     "wallets-coming-soon": "Metamask, GemWallet 및 소셜 로그인 지원이 곧 출시됩니다.",
     "metamask": "Metamask",
     "gemwallet": "GemWallet",
-    "google": "Google 로그인",
+    "google": "Google",
     "discord": "Discord 로그인",
     "social-logins-kaiju": "Kaiju 지갑을 사용한 소셜 로그인",
     "sign-in-with-xaman": "Xaman으로 로그인",
     "signed-in-using-kaiju-wallet": "방금 Kaiju Wallet에 로그인하셨습니다.",
-    "twitter": "X로 로그인",
-    "facebook": "페이스북으로 로그인"
+    "twitter": "엑스(트위터)",
+    "facebook": "페이스북"
   },
   "user-profile": {
     "trainers": "트레이너",

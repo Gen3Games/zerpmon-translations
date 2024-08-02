@@ -53,13 +53,13 @@
     "wallets-coming-soon": "Metamask, GemWallet and Social Logins support coming soon",
     "metamask": "Metamask",
     "gemwallet": "GemWallet",
-    "google": "Login with Google",
+    "google": "Google",
     "discord": "Login with Discord",
     "social-logins-kaiju": "Social Logins with Kaiju Wallet",
     "sign-in-with-xaman": "Sign in with Xaman",
     "signed-in-using-kaiju-wallet": "You have just signed in with Kaiju Wallet",
-    "twitter": "Login with X",
-    "facebook": "Login with Facebook"
+    "twitter": "X (Twitter)",
+    "facebook": "Facebook"
   },
   "user-profile": {
     "trainers": "Trainers",

@@ -628,7 +628,7 @@
     "crossmark-sign-in-success": "Vous vous êtes connecté avec succès avec Crossmark",
     "discord": "Connectez-vous avec Discord",
     "gemwallet": "Portefeuille de pierres précieuses",
-    "google": "Connectez-vous avec Google",
+    "google": "Google",
     "metamask": "Métamasque",
     "open-in-xumm-mobile-app": "Ouvrir dans l'application mobile Xaman",
     "social-logins-kaiju": "Connexions sociales avec Kaiju Wallet",
@@ -639,8 +639,8 @@
     "xumm-sign-in-success": "Vous vous êtes connecté avec succès avec Xaman",
     "sign-in-with-xaman": "Connectez-vous avec Xaman",
     "signed-in-using-kaiju-wallet": "Vous venez de vous connecter avec Kaiju Wallet",
-    "twitter": "Connectez-vous avec X",
-    "facebook": "Se connecter avec Facebook"
+    "twitter": "X (Twitter)",
+    "facebook": "Facebook"
   },
   "store": {
     "buy-now": "Acheter maintenant",
