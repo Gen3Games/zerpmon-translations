@@ -100,7 +100,8 @@
     "zerpmon-knocked-out": "ज़र्पमोन नॉक-आउट",
     "zerpmon-resting": "मिशन डेक के सभी ज़र्पमोन आराम कर रहे हैं",
     "incomplete-deck": "आपका डेक अधूरा है",
-    "generic-error": "कुछ गलत हो गया"
+    "generic-error": "कुछ गलत हो गया",
+    "queue-ban-active": ""
   },
   "analytics": {
     "analytics": "एनालिटिक्स",

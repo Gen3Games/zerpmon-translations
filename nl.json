@@ -191,7 +191,8 @@
     "no-trainer-opponent": "Er is geen trainer gevonden in het standaarddeck van de tegenstander",
     "tower-create-new-deck": "Stel een nieuw Tower rush-deck in",
     "incomplete-deck": "Je deck is niet compleet",
-    "generic-error": "Er is iets fout gegaan"
+    "generic-error": "Er is iets fout gegaan",
+    "queue-ban-active": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

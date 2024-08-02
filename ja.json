@@ -481,7 +481,8 @@
     "pending-pvp-battles-active": "保留中のPvPバトルが見つかりました",
     "tower-create-new-deck": "新しいタワーラッシュデッキをセットしてください",
     "incomplete-deck": "あなたのデッキは不完全です",
-    "generic-error": "何か問題が発生しました"
+    "generic-error": "何か問題が発生しました",
+    "queue-ban-active": ""
   },
   "test": {
     "test": "これはテストです"

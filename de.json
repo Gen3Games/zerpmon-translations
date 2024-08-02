@@ -481,7 +481,8 @@
     "no-trainer-opponent": "Keinen Trainer im gegnerischen Deck gefunden",
     "tower-create-new-deck": "",
     "incomplete-deck": "Dein Deck ist unvollständig",
-    "generic-error": "Etwas ist schief gelaufen"
+    "generic-error": "Etwas ist schief gelaufen",
+    "queue-ban-active": ""
   },
   "test": {
     "test": "Dies ist ein Test"

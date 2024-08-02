@@ -191,7 +191,8 @@
     "zerpmon-knocked-out": "Zerpmon messo KO",
     "zerpmon-resting": "Tutti gli Zerpmon nel mazzo Missioni stanno riposando",
     "incomplete-deck": "Il tuo mazzo è incompleto",
-    "generic-error": "Qualcosa è andato storto"
+    "generic-error": "Qualcosa è andato storto",
+    "queue-ban-active": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

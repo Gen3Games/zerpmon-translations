@@ -136,7 +136,8 @@
     "no-trainer-opponent": "Aucun Dresseur trouvé dans le deck par défaut de l'adversaire",
     "tower-create-new-deck": "",
     "generic-error": "",
-    "incomplete-deck": ""
+    "incomplete-deck": "",
+    "queue-ban-active": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

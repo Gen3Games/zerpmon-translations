@@ -481,7 +481,8 @@
     "pending-pvp-battles-active": "대기 중인 PvP 전투가 발견되었습니다.",
     "tower-create-new-deck": "새로운 타워 러시 덱을 설정해주세요",
     "incomplete-deck": "당신의 덱은 불완전합니다",
-    "generic-error": "문제가 발생했습니다."
+    "generic-error": "문제가 발생했습니다.",
+    "queue-ban-active": ""
   },
   "test": {
     "test": "테스트입니다."

@@ -481,7 +481,8 @@
     "no-trainer-opponent": "No se encontró ningún entrenador en el mazo predeterminado del oponente.",
     "tower-create-new-deck": "Por favor, configura un nuevo mazo de Tower Rush.",
     "incomplete-deck": "Tu mazo está incompleto",
-    "generic-error": "Algo salió mal"
+    "generic-error": "Algo salió mal",
+    "queue-ban-active": ""
   },
   "test": {
     "test": "esto es un test"

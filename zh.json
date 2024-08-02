@@ -481,7 +481,8 @@
     "no-trainer-opponent": "在对手的默认套牌中找不到训练师",
     "tower-create-new-deck": "请设置一个新的塔楼冲锋甲板",
     "incomplete-deck": "你的套牌不完整",
-    "generic-error": "出了些问题"
+    "generic-error": "出了些问题",
+    "queue-ban-active": ""
   },
   "test": {
     "test": "这是个测试"

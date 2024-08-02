@@ -481,7 +481,8 @@
     "no-trainer-opponent": "No Trainer found in opponent's default deck",
     "tower-create-new-deck": "Please set a new Tower rush deck",
     "incomplete-deck": "Your deck is incomplete",
-    "generic-error": "Something went wrong"
+    "generic-error": "Something went wrong",
+    "queue-ban-active": "Please wait, you are currently under a penalty for not joining the match."
   },
   "test": {
     "test": "this is a test"
