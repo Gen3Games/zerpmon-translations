@@ -18,8 +18,8 @@
     "search": "Suchen",
     "zerpmon": "Zerpmon",
     "equipment": "Ausrüstung",
-    "trainer": "",
-    "users": ""
+    "trainer": "Trainer",
+    "users": "Benutzer"
   },
   "sidebar": {
     "home": "Startseite",
@@ -486,7 +486,7 @@
     "tower-create-new-deck": "",
     "incomplete-deck": "Dein Deck ist unvollständig",
     "generic-error": "Etwas ist schief gelaufen",
-    "queue-ban-active": ""
+    "queue-ban-active": "Bitte habe etwas Geduld. Du bist momentan gebannt, da du ein Gefecht nicht angetreten hast"
   },
   "test": {
     "test": "Dies ist ein Test"
