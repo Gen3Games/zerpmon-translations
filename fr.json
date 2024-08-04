@@ -33,7 +33,11 @@
     "signed-xumm-alert": "Vous avez signé la transaction dans l'application mobile Xaman et attendez la confirmation",
     "title": "Zerpmon",
     "yes": "Oui",
-    "search": ""
+    "search": "",
+    "zerpmon": "Zerpmon",
+    "equipment": "Équipement",
+    "trainer": "Formateurs",
+    "users": "Utilisateurs"
   },
   "battle": {
     "battle-failed": "La bataille a échoué",

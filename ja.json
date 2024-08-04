@@ -15,7 +15,11 @@
     "yes": "Yes",
     "no": "No",
     "rename-deck-popup-title": "{deckType} のデッキ番号の名前を変更します。 \n{デッキ番号}",
-    "search": "検索"
+    "search": "検索",
+    "zerpmon": "ゼルモン",
+    "equipment": "装置",
+    "trainer": "トレーナー",
+    "users": "ユーザー"
   },
   "sidebar": {
     "home": "ホーム",

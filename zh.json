@@ -15,7 +15,11 @@
     "yes": "是",
     "no": "否",
     "rename-deck-popup-title": "改名 {deckType} 牌組号 {deckNumber}",
-    "search": "搜索"
+    "search": "搜索",
+    "zerpmon": "泽拉普兽",
+    "equipment": "设备",
+    "trainer": "运动鞋",
+    "users": "用户"
   },
   "sidebar": {
     "home": "首页",

@@ -15,7 +15,11 @@
     "yes": "Ja",
     "no": "Nein",
     "rename-deck-popup-title": "Deck {deckNumber} {deckType} umbenennen",
-    "search": "Suchen"
+    "search": "Suchen",
+    "zerpmon": "Zerpmon",
+    "equipment": "Ausrüstung",
+    "trainer": "",
+    "users": ""
   },
   "sidebar": {
     "home": "Startseite",

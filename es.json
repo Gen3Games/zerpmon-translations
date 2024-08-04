@@ -15,7 +15,11 @@
     "yes": "Sí",
     "no": "No",
     "rename-deck-popup-title": "Renombrar el mazo {deckType} no. {deckNumber}",
-    "search": "Buscar"
+    "search": "Buscar",
+    "zerpmon": "Zerpmon",
+    "equipment": "Equipo",
+    "trainer": "Entrenadores",
+    "users": "Usuarios"
   },
   "sidebar": {
     "home": "Inicio",

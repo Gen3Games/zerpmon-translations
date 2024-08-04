@@ -33,7 +33,11 @@
     "signed-xumm-alert": "U heeft de transactie ondertekend in de mobiele Xaman-app en wacht op bevestiging",
     "title": "Zerpmon",
     "yes": "Ja",
-    "search": "Zoekopdracht"
+    "search": "Zoekopdracht",
+    "zerpmon": "Zerpmon",
+    "equipment": "Apparatuur",
+    "trainer": "Sneakers",
+    "users": "Gebruikers"
   },
   "auctions": {
     "auction-ended": "De veiling voor deze NFT is afgelopen",

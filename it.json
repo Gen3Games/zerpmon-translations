@@ -33,7 +33,11 @@
     "signed-xumm-alert": "Hai firmato la transazione nell'app mobile Xaman e sei in attesa di conferma",
     "title": "Zerpmon",
     "yes": "SÌ",
-    "search": "Ricerca"
+    "search": "Ricerca",
+    "zerpmon": "Zerpmon",
+    "equipment": "Attrezzatura",
+    "trainer": "Formatori",
+    "users": "Utenti"
   },
   "auctions": {
     "auction-ended": "L'asta per questo NFT è terminata",

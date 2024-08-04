@@ -15,7 +15,11 @@
     "yes": "예",
     "no": "아니오",
     "rename-deck-popup-title": "{deckType} 덱 번호 {deckNumber}의 이름을 변경하세요.",
-    "search": "찾다"
+    "search": "찾다",
+    "zerpmon": "제르몬",
+    "equipment": "장비",
+    "trainer": "트레이너",
+    "users": "사용자"
   },
   "sidebar": {
     "home": "홈",
