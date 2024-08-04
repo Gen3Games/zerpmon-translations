@@ -615,7 +615,7 @@
     "table-unlisted": "Nicht angeboten",
     "min": "Minimum",
     "max": "Maximum",
-    "loaned": "Angebotsdauer",
+    "loaned": "Verleihdauer",
     "remaining": "Verbleibend"
   },
   "create-listing": {
