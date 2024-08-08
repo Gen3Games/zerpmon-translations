@@ -401,7 +401,10 @@
     "title": "फोर्ज",
     "trainer-already-claimed": "प्रशिक्षक ने पहले ही दावा कर दिया है",
     "trainer-claimed": "आपने सफलतापूर्वक प्रशिक्षक का दावा कर लिया है!",
-    "xblade-claimed": "उपकरण का दावा पहले ही किया जा चुका है"
+    "xblade-claimed": "उपकरण का दावा पहले ही किया जा चुका है",
+    "claim-equipment": "",
+    "select-xblade-nft": "",
+    "equipment-claimed": ""
   },
   "home": {
     "analytics": "एनालिटिक्स",

@@ -775,7 +775,10 @@
     "go-back-to-forge": "포지로 돌아가세요",
     "check-nft-claim-status": "NFT 청구 상태 확인",
     "invalid-xblades-selected": "잘못된 Xblade가 선택되었습니다.",
-    "xblade-claimed": "이미 청구된 장비"
+    "xblade-claimed": "이미 청구된 장비",
+    "claim-equipment": "",
+    "select-xblade-nft": "",
+    "equipment-claimed": ""
   },
   "buy-zerpmon": {
     "already-bought": "이미 저프몬을 구매하셨습니다",

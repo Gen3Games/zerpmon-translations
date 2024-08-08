@@ -775,7 +775,10 @@
     "go-back-to-forge": "鍛冶場に戻る",
     "check-nft-claim-status": "NFT請求ステータスを確認する",
     "invalid-xblades-selected": "無効な Xblade が選択されました",
-    "xblade-claimed": "すでに申請済みの装備"
+    "xblade-claimed": "すでに申請済みの装備",
+    "claim-equipment": "",
+    "select-xblade-nft": "",
+    "equipment-claimed": ""
   },
   "buy-zerpmon": {
     "already-bought": "すでにゼルプモンを購入しています",

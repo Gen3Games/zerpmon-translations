@@ -775,7 +775,10 @@
     "go-back-to-forge": "Go back to the Forge",
     "check-nft-claim-status": "Check NFT Claim Status",
     "xblade-claimed": "Equipment already claimed",
-    "invalid-xblades-selected": "Invalid Xblades selected"
+    "invalid-xblades-selected": "Invalid Xblades selected",
+    "claim-equipment": "Claim Equipment",
+    "select-xblade-nft": "Select Xblade NFTs with 5 or more points",
+    "equipment-claimed": "You have successfully claimed an equipment!"
   },
   "buy-zerpmon": {
     "already-bought": "You have already purchased a zerpmon",

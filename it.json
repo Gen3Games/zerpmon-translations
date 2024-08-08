@@ -401,7 +401,10 @@
     "title": "Fucina",
     "trainer-already-claimed": "L'allenatore ha già rivendicato",
     "trainer-claimed": "Hai rivendicato con successo un allenatore!",
-    "xblade-claimed": "Attrezzatura già richiesta"
+    "xblade-claimed": "Attrezzatura già richiesta",
+    "claim-equipment": "",
+    "select-xblade-nft": "",
+    "equipment-claimed": ""
   },
   "home": {
     "analytics": "Analitica",

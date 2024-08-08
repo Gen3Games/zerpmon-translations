@@ -401,7 +401,10 @@
     "trainer-already-claimed": "Trainer heeft al geclaimd",
     "trainer-claimed": "Je hebt met succes een trainer geclaimd!",
     "xblade-claimed": "Apparatuur al geclaimd",
-    "invalid-xblades-selected": "Ongeldige Xblades geselecteerd"
+    "invalid-xblades-selected": "Ongeldige Xblades geselecteerd",
+    "claim-equipment": "",
+    "select-xblade-nft": "",
+    "equipment-claimed": ""
   },
   "home": {
     "analytics": "Analyse",

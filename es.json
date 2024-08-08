@@ -775,7 +775,10 @@
     "go-back-to-forge": "Vuelve a la fragua",
     "check-nft-claim-status": "Verifique el estado del reclamo de NFT",
     "xblade-claimed": "Equipo ya reclamado",
-    "invalid-xblades-selected": "Xblades seleccionados no válidos"
+    "invalid-xblades-selected": "Xblades seleccionados no válidos",
+    "claim-equipment": "",
+    "select-xblade-nft": "",
+    "equipment-claimed": ""
   },
   "buy-zerpmon": {
     "already-bought": "Ya has comprado un zerpmon",

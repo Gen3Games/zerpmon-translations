@@ -775,7 +775,10 @@
     "go-back-to-forge": "Zurück zur Schmiede",
     "check-nft-claim-status": "Prüfe den NFT-Anforderungsstatus",
     "xblade-claimed": "Mit diesem XBlade-NFT wurde bereits ein Ausrüstungsgegenstand angefordert",
-    "invalid-xblades-selected": "Ungültiges XBlade-NFT ausgewählt"
+    "invalid-xblades-selected": "Ungültiges XBlade-NFT ausgewählt",
+    "claim-equipment": "",
+    "select-xblade-nft": "",
+    "equipment-claimed": ""
   },
   "buy-zerpmon": {
     "already-bought": "Du hast bereits ein Zerpmon gekauft",

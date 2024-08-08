@@ -775,7 +775,10 @@
     "go-back-to-forge": "返回锻造",
     "check-nft-claim-status": "检查NFT认领状态",
     "xblade-claimed": "设备已认领",
-    "invalid-xblades-selected": "选择的 Xblade 无效"
+    "invalid-xblades-selected": "选择的 Xblade 无效",
+    "claim-equipment": "",
+    "select-xblade-nft": "",
+    "equipment-claimed": ""
   },
   "buy-zerpmon": {
     "already-bought": "您已经购买了一只泽普蒙",
