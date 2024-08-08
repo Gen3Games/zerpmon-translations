@@ -811,5 +811,13 @@
     "world-boss-total-damage": "Allzeitschaden",
     "hp-remaining": "Verbleibende HP",
     "zrp-share": "ZRP-Anteil"
+  },
+  "metadata": {
+    "auction-not-found": "Auktion nicht gefunden",
+    "auction-on-zerpmon": "Auktion auf Zerpmon",
+    "default-title": "Zerpmon: Digitale Kreaturen sammeln, bekämpfen und handeln",
+    "default-description": "Tauchen Sie ein in die Welt von Zerpmon, dem ultimativen NFT-Sammelkartenspiel! \nSammle einzigartige digitale Monster, nimm an epischen Schlachten teil und handele mit Spielern auf der ganzen Welt. \nTreten Sie noch heute der Zerpmon-Community bei und erleben Sie die Zukunft des Gamings!",
+    "user-not-found": "Benutzer nicht gefunden",
+    "zerpmon-user-profile": "Zerpmon-Benutzerprofil"
   }
 }

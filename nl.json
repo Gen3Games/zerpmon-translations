@@ -811,5 +811,13 @@
     "world-boss-total-damage": "Schade van alle tijden",
     "hp-remaining": "HP resterend",
     "zrp-share": "ZRP-aandeel"
+  },
+  "metadata": {
+    "auction-not-found": "Veiling niet gevonden",
+    "auction-on-zerpmon": "Veiling op Zerpmon",
+    "default-title": "Zerpmon: verzamel, vecht en verhandel digitale wezens",
+    "default-description": "Duik in de wereld van Zerpmon, het ultieme NFT-ruilkaartspel! \nVerzamel unieke digitale monsters, neem deel aan epische gevechten en handel met spelers over de hele wereld. \nSluit je vandaag nog aan bij de Zerpmon-community en ervaar de toekomst van gaming!",
+    "user-not-found": "Gebruiker niet gevonden",
+    "zerpmon-user-profile": "Zerpmon-gebruikersprofiel"
   }
 }

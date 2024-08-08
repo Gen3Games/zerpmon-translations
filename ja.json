@@ -811,5 +811,13 @@
     "world-boss": "ワールドボス",
     "world-boss-total-damage": "オールタイムダメージ",
     "zrp-share": "ZRPシェア"
+  },
+  "metadata": {
+    "auction-not-found": "オークションが見つかりませんでした",
+    "auction-on-zerpmon": "ゼルモンのオークション",
+    "default-title": "ゼルモン: デジタル クリーチャーを集め、戦い、取引する",
+    "default-description": "究極の NFT トレーディング カード ゲーム、Zerpmon の世界に飛び込みましょう!\nユニークなデジタル モンスターを収集し、壮大な戦いに参加し、世界中のプレイヤーと取引します。\n今すぐ Zerpmon コミュニティに参加して、ゲームの未来を体験してください!",
+    "user-not-found": "ユーザーが見つかりません",
+    "zerpmon-user-profile": "ゼルモンのユーザープロフィール"
   }
 }

@@ -811,5 +811,13 @@
     "world-boss-total-damage": "所有时间伤害",
     "hp-remaining": "剩余生命值",
     "zrp-share": "中荣股份"
+  },
+  "metadata": {
+    "auction-not-found": "未找到拍卖",
+    "auction-on-zerpmon": "杰拉普兽拍卖",
+    "default-title": "Zerpmon：收集、战斗和交易数字生物",
+    "default-description": "潜入 Zerpmon 的世界，终极 NFT 集换式卡牌游戏！\n收集独特的数字怪物，参与史诗般的战斗，并与世界各地的玩家进行交易。\n立即加入 Zerpmon 社区，体验游戏的未来！",
+    "user-not-found": "未找到用户",
+    "zerpmon-user-profile": "泽拉普兽用户资料"
   }
 }

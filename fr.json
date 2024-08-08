@@ -811,5 +811,13 @@
     "world-boss-total-damage": "Dégâts de tous les temps",
     "hp-remaining": "PV restants",
     "zrp-share": "Partager ZRP"
+  },
+  "metadata": {
+    "auction-not-found": "Enchère introuvable",
+    "auction-on-zerpmon": "Vente aux enchères sur Zerpmon",
+    "default-title": "Zerpmon : collectez, combattez et échangez des créatures numériques",
+    "default-description": "Plongez dans le monde de Zerpmon, le jeu de cartes à collectionner NFT ultime ! \nCollectionnez des monstres numériques uniques, participez à des batailles épiques et échangez avec des joueurs du monde entier. \nRejoignez la communauté Zerpmon aujourd'hui et découvrez l'avenir du jeu !",
+    "user-not-found": "Utilisateur non trouvé",
+    "zerpmon-user-profile": "Profil utilisateur de Zerpmon"
   }
 }
