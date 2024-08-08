@@ -762,7 +762,7 @@
     "coming-soon": "Bald am Start...",
     "nft-not-owned": "NFT nicht im Besitz",
     "trainer-already-claimed": "Trainer bereits angefordert",
-    "trainer-claimed": "Du hast erfolgreich einen Trainer angefordert",
+    "trainer-claimed": "Du hast erfolgreich einen Trainer angefordert!",
     "claim-trainer-error": "Es ist ein Fehler aufgetreten bei der Traineranforderung",
     "check-nft-claim": "Verifiziere deine NFT's, damit du einen Trainer anfordern kannst",
     "check-nft-claim-desc": "Verifizieren, wenn deine NFT's berechtigt sind, einen Trainer anzufordern",
@@ -776,9 +776,9 @@
     "check-nft-claim-status": "Prüfe den NFT-Anforderungsstatus",
     "xblade-claimed": "Mit diesem XBlade-NFT wurde bereits ein Ausrüstungsgegenstand angefordert",
     "invalid-xblades-selected": "Ungültiges XBlade-NFT ausgewählt",
-    "claim-equipment": "",
-    "select-xblade-nft": "",
-    "equipment-claimed": ""
+    "claim-equipment": "Equipment anfordern",
+    "select-xblade-nft": "Wähle XBlade NFT's mit 5 oder mehr Punkten",
+    "equipment-claimed": "Du hast erfolgreich ein Ausrüstungsgegenstand angefordert!"
   },
   "buy-zerpmon": {
     "already-bought": "Du hast bereits ein Zerpmon gekauft",
