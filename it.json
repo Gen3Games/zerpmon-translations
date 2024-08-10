@@ -435,7 +435,8 @@
     "world-boss": "Boss del mondo",
     "xrp-balance": "Saldo XRP",
     "zrp-balance": "Saldo ZRP",
-    "zrp-earned-today": "ZRP guadagnato oggi"
+    "zrp-earned-today": "ZRP guadagnato oggi",
+    "get-zrp": "Ottieni ZRP"
   },
   "inventory": {
     "candy-active": "Zerpmon ha già attivo un tipo di caramella simile",

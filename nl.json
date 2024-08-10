@@ -435,7 +435,8 @@
     "xrp-balance": "XRP-saldo",
     "zrp-balance": "ZRP-saldo",
     "zrp-earned-today": "ZRP vandaag verdiend",
-    "world-boss": "Wereld baas"
+    "world-boss": "Wereld baas",
+    "get-zrp": "Ontvang ZRP"
   },
   "inventory": {
     "candy-active": "Zerpmon heeft al een soortgelijk soort snoep actief",

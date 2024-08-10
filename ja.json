@@ -235,7 +235,8 @@
     "use-double-xp-potion": "ダブルXPポーションを使用してアクティブ化します",
     "zrp-balance": "ZRPバランス",
     "xrp-balance": "XRP残高",
-    "world-boss": "ワールドボス"
+    "world-boss": "ワールドボス",
+    "get-zrp": "ZRPを入手"
   },
   "leaderboard": {
     "title": "リーダーボード",

@@ -235,7 +235,8 @@
     "use-double-xp-potion": "활성화하려면 두 배 XP 물약을 사용하세요.",
     "zrp-balance": "ZRP 잔액",
     "xrp-balance": "XRP 잔액",
-    "world-boss": "월드보스"
+    "world-boss": "월드보스",
+    "get-zrp": "ZRP 받기"
   },
   "leaderboard": {
     "title": "리더보드",

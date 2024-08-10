@@ -334,7 +334,8 @@
     "xrp-balance": "Solde XRP",
     "zrp-balance": "Solde ZRP",
     "zrp-earned-today": "ZRP gagné aujourd'hui",
-    "world-boss": "Patron du monde"
+    "world-boss": "Patron du monde",
+    "get-zrp": "Obtenez le ZRP"
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",
