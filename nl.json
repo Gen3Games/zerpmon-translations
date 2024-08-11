@@ -196,7 +196,7 @@
     "tower-create-new-deck": "Stel een nieuw Tower rush-deck in",
     "incomplete-deck": "Je deck is niet compleet",
     "generic-error": "Er is iets fout gegaan",
-    "queue-ban-active": ""
+    "queue-ban-active": "Even geduld, u krijgt momenteel een boete omdat u niet meedoet aan de wedstrijd."
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -402,9 +402,9 @@
     "trainer-claimed": "Je hebt met succes een trainer geclaimd!",
     "xblade-claimed": "Apparatuur al geclaimd",
     "invalid-xblades-selected": "Ongeldige Xblades geselecteerd",
-    "claim-equipment": "",
-    "select-xblade-nft": "",
-    "equipment-claimed": ""
+    "claim-equipment": "Apparatuur claimen",
+    "select-xblade-nft": "Selecteer Xblade NFT's met 5 of meer punten",
+    "equipment-claimed": "Je hebt met succes een uitrusting geclaimd!"
   },
   "home": {
     "analytics": "Analyse",

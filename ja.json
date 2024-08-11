@@ -487,7 +487,7 @@
     "tower-create-new-deck": "新しいタワーラッシュデッキをセットしてください",
     "incomplete-deck": "あなたのデッキは不完全です",
     "generic-error": "何か問題が発生しました",
-    "queue-ban-active": ""
+    "queue-ban-active": "お待ちください。現在、試合に参加しないことでペナルティを受けています。"
   },
   "test": {
     "test": "これはテストです"
@@ -777,9 +777,9 @@
     "check-nft-claim-status": "NFT請求ステータスを確認する",
     "invalid-xblades-selected": "無効な Xblade が選択されました",
     "xblade-claimed": "すでに申請済みの装備",
-    "claim-equipment": "",
-    "select-xblade-nft": "",
-    "equipment-claimed": ""
+    "claim-equipment": "機器の請求",
+    "select-xblade-nft": "5点以上のXblade NFTを選択してください",
+    "equipment-claimed": "無事に装備を獲得できました！"
   },
   "buy-zerpmon": {
     "already-bought": "すでにゼルプモンを購入しています",

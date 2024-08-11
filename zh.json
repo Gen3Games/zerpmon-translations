@@ -487,7 +487,7 @@
     "tower-create-new-deck": "请设置一个新的塔楼冲锋甲板",
     "incomplete-deck": "你的套牌不完整",
     "generic-error": "出了些问题",
-    "queue-ban-active": ""
+    "queue-ban-active": "请稍候，您目前因未参加比赛而受到处罚。"
   },
   "test": {
     "test": "这是个测试"
@@ -777,9 +777,9 @@
     "check-nft-claim-status": "检查NFT认领状态",
     "xblade-claimed": "设备已认领",
     "invalid-xblades-selected": "选择的 Xblade 无效",
-    "claim-equipment": "",
-    "select-xblade-nft": "",
-    "equipment-claimed": ""
+    "claim-equipment": "领取装备",
+    "select-xblade-nft": "选择具有 5 个或更多积分的 Xblade NFT",
+    "equipment-claimed": "您已成功领取装备！"
   },
   "buy-zerpmon": {
     "already-bought": "您已经购买了一只泽普蒙",

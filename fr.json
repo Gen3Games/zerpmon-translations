@@ -33,7 +33,7 @@
     "signed-xumm-alert": "Vous avez signé la transaction dans l'application mobile Xaman et attendez la confirmation",
     "title": "Zerpmon",
     "yes": "Oui",
-    "search": "",
+    "search": "Recherche",
     "zerpmon": "Zerpmon",
     "equipment": "Équipement",
     "trainer": "Formateurs",
@@ -138,10 +138,10 @@
     "search-failed": "La recherche a échoué",
     "pending-pvp-battles-active": "Bataille PvP en attente trouvée",
     "no-trainer-opponent": "Aucun Dresseur trouvé dans le deck par défaut de l'adversaire",
-    "tower-create-new-deck": "",
-    "generic-error": "",
-    "incomplete-deck": "",
-    "queue-ban-active": ""
+    "tower-create-new-deck": "Veuillez définir un nouveau deck Tower Rush",
+    "generic-error": "Quelque chose s'est mal passé",
+    "incomplete-deck": "Votre deck est incomplet",
+    "queue-ban-active": "Veuillez patienter, vous êtes actuellement sous le coup d'une pénalité pour ne pas avoir rejoint le match."
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -777,9 +777,9 @@
     "check-nft-claim-status": "Vérifier l'état de la réclamation NFT",
     "xblade-claimed": "Matériel déjà réclamé",
     "invalid-xblades-selected": "Xblades sélectionnés non valides",
-    "claim-equipment": "",
-    "select-xblade-nft": "",
-    "equipment-claimed": ""
+    "claim-equipment": "Réclamation d'équipement",
+    "select-xblade-nft": "Sélectionnez les NFT Xblade avec 5 points ou plus",
+    "equipment-claimed": "Vous avez réclamé avec succès un équipement !"
   },
   "buy-zerpmon": {
     "already-bought": "Vous avez déjà acheté un zerpmon",

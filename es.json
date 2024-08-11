@@ -487,7 +487,7 @@
     "tower-create-new-deck": "Por favor, configura un nuevo mazo de Tower Rush.",
     "incomplete-deck": "Tu mazo está incompleto",
     "generic-error": "Algo salió mal",
-    "queue-ban-active": ""
+    "queue-ban-active": "Espera, actualmente estás bajo penalización por no unirte al partido."
   },
   "test": {
     "test": "esto es un test"
@@ -777,9 +777,9 @@
     "check-nft-claim-status": "Verifique el estado del reclamo de NFT",
     "xblade-claimed": "Equipo ya reclamado",
     "invalid-xblades-selected": "Xblades seleccionados no válidos",
-    "claim-equipment": "",
-    "select-xblade-nft": "",
-    "equipment-claimed": ""
+    "claim-equipment": "Equipo de reclamo",
+    "select-xblade-nft": "Seleccione Xblade NFT con 5 o más puntos",
+    "equipment-claimed": "¡Has reclamado con éxito un equipo!"
   },
   "buy-zerpmon": {
     "already-bought": "Ya has comprado un zerpmon",

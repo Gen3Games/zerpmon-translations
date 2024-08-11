@@ -196,7 +196,7 @@
     "zerpmon-resting": "Tutti gli Zerpmon nel mazzo Missioni stanno riposando",
     "incomplete-deck": "Il tuo mazzo è incompleto",
     "generic-error": "Qualcosa è andato storto",
-    "queue-ban-active": ""
+    "queue-ban-active": "Ti preghiamo di attendere, al momento sei soggetto a una penalità per non esserti unito alla partita."
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -402,9 +402,9 @@
     "trainer-already-claimed": "L'allenatore ha già rivendicato",
     "trainer-claimed": "Hai rivendicato con successo un allenatore!",
     "xblade-claimed": "Attrezzatura già richiesta",
-    "claim-equipment": "",
-    "select-xblade-nft": "",
-    "equipment-claimed": ""
+    "claim-equipment": "Rivendicare l'attrezzatura",
+    "select-xblade-nft": "Seleziona NFT Xblade con 5 o più punti",
+    "equipment-claimed": "Hai rivendicato con successo un equipaggiamento!"
   },
   "home": {
     "analytics": "Analitica",

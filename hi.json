@@ -101,7 +101,7 @@
     "zerpmon-resting": "मिशन डेक के सभी ज़र्पमोन आराम कर रहे हैं",
     "incomplete-deck": "आपका डेक अधूरा है",
     "generic-error": "कुछ गलत हो गया",
-    "queue-ban-active": ""
+    "queue-ban-active": "कृपया प्रतीक्षा करें, इस समय आप मैच में शामिल न होने के कारण दंड के दायरे में हैं।"
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
@@ -402,9 +402,9 @@
     "trainer-already-claimed": "प्रशिक्षक ने पहले ही दावा कर दिया है",
     "trainer-claimed": "आपने सफलतापूर्वक प्रशिक्षक का दावा कर लिया है!",
     "xblade-claimed": "उपकरण का दावा पहले ही किया जा चुका है",
-    "claim-equipment": "",
-    "select-xblade-nft": "",
-    "equipment-claimed": ""
+    "claim-equipment": "दावा उपकरण",
+    "select-xblade-nft": "5 या अधिक अंकों वाले एक्सब्लेड एनएफटी का चयन करें",
+    "equipment-claimed": "आपने एक उपकरण पर सफलतापूर्वक दावा कर लिया है!"
   },
   "home": {
     "analytics": "एनालिटिक्स",
