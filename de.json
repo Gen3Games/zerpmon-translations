@@ -193,7 +193,9 @@
     "previous-deck": "Vorheriges Deck",
     "next-deck": "Nächstes Deck",
     "previous-5-slots": "Vorherige 5 Slots",
-    "next-5-slots": "Nächste 5 Slots"
+    "next-5-slots": "Nächste 5 Slots",
+    "set-pvp-deck": "",
+    "set-pvp-deck-success": ""
   },
   "store": {
     "title": "Shop",

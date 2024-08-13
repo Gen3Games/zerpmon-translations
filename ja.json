@@ -193,7 +193,9 @@
     "previous-deck": "前のデッキ",
     "next-deck": "次のデッキ",
     "previous-5-slots": "過去 5 つのスロット",
-    "next-5-slots": "次の 5 つのスロット"
+    "next-5-slots": "次の 5 つのスロット",
+    "set-pvp-deck": "",
+    "set-pvp-deck-success": ""
   },
   "store": {
     "title": "ストア",

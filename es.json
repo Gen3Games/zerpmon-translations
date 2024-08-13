@@ -193,7 +193,9 @@
     "previous-deck": "Mazo anterior",
     "next-deck": "Siguiente cubierta",
     "previous-5-slots": "5 espacios anteriores",
-    "next-5-slots": "Siguientes 5 espacios"
+    "next-5-slots": "Siguientes 5 espacios",
+    "set-pvp-deck": "",
+    "set-pvp-deck-success": ""
   },
   "store": {
     "title": "Tienda",

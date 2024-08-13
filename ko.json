@@ -193,7 +193,9 @@
     "previous-deck": "이전 덱",
     "next-deck": "다음 덱",
     "previous-5-slots": "이전 5개 슬롯",
-    "next-5-slots": "다음 5개 슬롯"
+    "next-5-slots": "다음 5개 슬롯",
+    "set-pvp-deck": "",
+    "set-pvp-deck-success": ""
   },
   "store": {
     "title": "스토어",

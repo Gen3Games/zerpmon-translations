@@ -182,7 +182,9 @@
     "rename-battle-deck": "Rename Battle Deck",
     "rename-gym-deck": "Rename Gym Deck",
     "rename-br-deck": "Rename Battle Royale Deck",
-    "clear-br-deck": "Clear Battle Royale Deck"
+    "clear-br-deck": "Clear Battle Royale Deck",
+    "set-pvp-deck": "Set as PvP Deck",
+    "set-pvp-deck-success": "Successfully set as PvP Deck!"
   },
   "store": {
     "title": "Store",

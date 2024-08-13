@@ -442,7 +442,9 @@
     "previous-deck": "Mazzo precedente",
     "next-deck": "Mazzo successivo",
     "previous-5-slots": "5 slot precedenti",
-    "next-5-slots": "Prossimi 5 slot"
+    "next-5-slots": "Prossimi 5 slot",
+    "set-pvp-deck": "",
+    "set-pvp-deck-success": ""
   },
   "edit-profile": {
     "basic-info": "Informazioni basilari",

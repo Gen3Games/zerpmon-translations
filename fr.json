@@ -366,7 +366,9 @@
     "previous-deck": "Pont précédent",
     "next-deck": "Pont suivant",
     "previous-5-slots": "5 emplacements précédents",
-    "next-5-slots": "5 emplacements suivants"
+    "next-5-slots": "5 emplacements suivants",
+    "set-pvp-deck": "",
+    "set-pvp-deck-success": ""
   },
   "edit-profile": {
     "basic-info": "Informations de base",
