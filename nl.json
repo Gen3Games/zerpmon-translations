@@ -442,7 +442,9 @@
     "previous-deck": "Vorig dek",
     "next-deck": "Volgende dek",
     "previous-5-slots": "Vorige 5 slots",
-    "next-5-slots": "Volgende 5 slots"
+    "next-5-slots": "Volgende 5 slots",
+    "set-pvp-deck": "",
+    "set-pvp-deck-success": ""
   },
   "edit-profile": {
     "basic-info": "Basis informatie",

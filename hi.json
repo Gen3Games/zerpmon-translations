@@ -442,7 +442,9 @@
     "previous-deck": "पिछला डेक",
     "next-deck": "अगला डेक",
     "previous-5-slots": "पिछले 5 स्लॉट",
-    "next-5-slots": "अगले 5 स्लॉट"
+    "next-5-slots": "अगले 5 स्लॉट",
+    "set-pvp-deck": "",
+    "set-pvp-deck-success": ""
   },
   "edit-profile": {
     "basic-info": "बुनियादी जानकारी",

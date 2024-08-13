@@ -185,6 +185,8 @@
     "rename-gym-deck": "Rename Gym Deck",
     "rename-br-deck": "Rename Battle Royale Deck",
     "clear-br-deck": "Clear Battle Royale Deck",
+    "set-pvp-deck": "Set as PvP Deck",
+    "set-pvp-deck-success": "Successfully set as PvP Deck!",
     "clear-deck": "",
     "current-free-play-deck": "",
     "is-ready-to-battle": "",

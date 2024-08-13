@@ -193,7 +193,9 @@
     "previous-deck": "上一张牌",
     "next-deck": "下一层",
     "previous-5-slots": "前 5 个槽位",
-    "next-5-slots": "接下来 5 个插槽"
+    "next-5-slots": "接下来 5 个插槽",
+    "set-pvp-deck": "",
+    "set-pvp-deck-success": ""
   },
   "store": {
     "title": "商店",
