@@ -481,7 +481,10 @@
     "trainer-claimed": "Je hebt met succes een trainer geclaimd!",
     "xblade-claimed": "Apparatuur al geclaimd",
     "invalid-xblades-selected": "Ongeldige Xblades geselecteerd",
-    "xscape-xblade": "XSCAPE XBLADE"
+    "xscape-xblade": "XSCAPE XBLADE",
+    "claim-equipment": "",
+    "equipment-claimed": "",
+    "select-xblade-nft": ""
   },
   "home": {
     "analytics": "Analyse",
@@ -514,7 +517,8 @@
     "zrp-earned-today": "ZRP vandaag verdiend",
     "world-boss": "Wereld baas",
     "discord": "Meningsverschil",
-    "store": "Winkel"
+    "store": "Winkel",
+    "get-zrp": ""
   },
   "inventory": {
     "candy-active": "Zerpmon heeft al een soortgelijk soort snoep actief",
@@ -1059,6 +1063,7 @@
     "zerpmon-user-profile": "Zerpmon-gebruikersprofiel"
   },
   "wallet": {
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "managed-wallet": "Beheerde portemonnee"
   }
 }

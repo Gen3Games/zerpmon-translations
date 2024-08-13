@@ -71,7 +71,8 @@
     "equipments": "Equipment",
     "bio": "Bio",
     "edit-profile": "Edit Profile",
-    "refresh-nfts": "Refresh NFTs"
+    "refresh-nfts": "Refresh NFTs",
+    "favourite-cards": ""
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",
@@ -84,7 +85,8 @@
     "save-changes": "Save Changes",
     "favourite-cards": "Favourite Cards",
     "favourite-trainer": "Your Favourite Trainer",
-    "favourite-zerpmon": "Favourite Zerpmon #{index}"
+    "favourite-zerpmon": "Favourite Zerpmon #{index}",
+    "connect": ""
   },
   "decks": {
     "title": "Decks",
@@ -182,7 +184,16 @@
     "rename-battle-deck": "Rename Battle Deck",
     "rename-gym-deck": "Rename Gym Deck",
     "rename-br-deck": "Rename Battle Royale Deck",
-    "clear-br-deck": "Clear Battle Royale Deck"
+    "clear-br-deck": "Clear Battle Royale Deck",
+    "clear-deck": "",
+    "current-free-play-deck": "",
+    "is-ready-to-battle": "",
+    "next-5-slots": "",
+    "next-deck": "",
+    "play": "",
+    "previous-5-slots": "",
+    "previous-deck": "",
+    "waiting-for-player-b": ""
   },
   "store": {
     "title": "Store",
@@ -236,7 +247,9 @@
     "zrp-balance": "ZRP Balance",
     "xrp-balance": "XRP Balance",
     "world-boss": "World Boss",
-    "get-zrp": "Get ZRP"
+    "get-zrp": "Get ZRP",
+    "discord": "",
+    "store": ""
   },
   "leaderboard": {
     "title": "Leaderboard",
@@ -342,7 +355,9 @@
     "mission-potion-active": "No missions need to be refilled right now",
     "no-gym-refill": "No gym refill potion found under your holdings",
     "gym-refill-active": "This would waste a gym refill potion",
-    "no-double-xp-potion": "No double xp potion found under your holdings"
+    "no-double-xp-potion": "No double xp potion found under your holdings",
+    "level": "",
+    "level-30": ""
   },
   "safari": {
     "title": "Safari",
@@ -487,7 +502,74 @@
     "tower-create-new-deck": "Please set a new Tower rush deck",
     "incomplete-deck": "Your deck is incomplete",
     "generic-error": "Something went wrong",
-    "queue-ban-active": "Please wait, you are currently under a penalty for not joining the match."
+    "queue-ban-active": "Please wait, you are currently under a penalty for not joining the match.",
+    "already-battled": "",
+    "back": "",
+    "back-to-decks": "",
+    "back-to-lobby": "",
+    "back-to-menu": "",
+    "banned": "",
+    "battle-for-free": "",
+    "battle-mode": "",
+    "boss": "",
+    "challenge": "",
+    "close-modal": "",
+    "coming-soon": "",
+    "could-not-find-any-battle-history": "",
+    "damage": "",
+    "dealt": "",
+    "dmg-done": "",
+    "earned": "",
+    "friendly": "",
+    "gym": "",
+    "gym-leader-zerpmon-reset": "",
+    "hp": "",
+    "inspect": "",
+    "league": "",
+    "left": "",
+    "level": "",
+    "level-up": "",
+    "level-up-rewards": "",
+    "mission-potion-won": "",
+    "more": "",
+    "more-details": "",
+    "next-battle": "",
+    "no-opponents-found-maybe-try-a-refresh": "",
+    "no-recent-opponents": "",
+    "play": "",
+    "points": "",
+    "points-earned": "",
+    "points-range": "",
+    "rank": "",
+    "ranked": "",
+    "ranked-points": "",
+    "recent-opponents": "",
+    "refresh-opponents": "",
+    "refresh-tokens-remaining": "",
+    "revive-potion-won": "",
+    "reward": "",
+    "searching-for-opponent": "",
+    "set-up-decks": "",
+    "setup-decks": "",
+    "show-less": "",
+    "stage": "",
+    "tiers": "",
+    "total": "",
+    "total-points": "",
+    "tower": "",
+    "trainer-slot": "",
+    "trial-rush": "",
+    "trp-reward": "",
+    "use-refill-potion": "",
+    "won": "",
+    "world": "",
+    "xp": "",
+    "xp-won": "",
+    "xrp": "",
+    "your-rank": "",
+    "your-recent-ranked-battle-history": "",
+    "zerpmon-slot": "",
+    "zrp": ""
   },
   "test": {
     "test": "this is a test"
@@ -499,7 +581,9 @@
     "signin-with-crossmark": "Please sign in with your Crossmark wallet",
     "invalid-signature-error": "You sent an invalid signature, please make sure you do this with your Crossmark wallet",
     "verify-button-label": "Verify Your Crossmark Address",
-    "signin-request-missing": "Request link does not exist or has expired"
+    "signin-request-missing": "Request link does not exist or has expired",
+    "check-for-crossmark-description": "",
+    "connect-to-crossmark": ""
   },
   "zerpmon-types-damage-table": {
     "strong": "Strong",
@@ -779,7 +863,8 @@
     "invalid-xblades-selected": "Invalid Xblades selected",
     "claim-equipment": "Claim Equipment",
     "select-xblade-nft": "Select Xblade NFTs with 5 or more points",
-    "equipment-claimed": "You have successfully claimed an equipment!"
+    "equipment-claimed": "You have successfully claimed an equipment!",
+    "xscape-xblade": ""
   },
   "buy-zerpmon": {
     "already-bought": "You have already purchased a zerpmon",
@@ -798,7 +883,9 @@
     "nfts-remaining": "NFTs Remaining",
     "sold-out": "Sold Out",
     "mint": "Mint",
-    "refund-initiated": "Sorry but we're all out of Zerpmon. Your refund will be sent to you shortly."
+    "refund-initiated": "Sorry but we're all out of Zerpmon. Your refund will be sent to you shortly.",
+    "back": "",
+    "rewards-recieved": ""
   },
   "mint": {
     "mint-opens-in": "Mint Opens In",
@@ -880,7 +967,8 @@
     "changes-to-this-policy": "Changes to This Policy",
     "changes-to-this-policy-description": "We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the effective date.",
     "contact-us": "Contact Us",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "If you have any questions about this policy, please contact us at our"
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "If you have any questions about this policy, please contact us at our",
+    "nformation-we-collect": ""
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "Terms of Service for Zerpmon",
@@ -975,6 +1063,7 @@
     "zerpmon-user-profile": "Zerpmon User Profile"
   },
   "wallet": {
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "managed-wallet": "Managed Wallet"
   }
 }

@@ -481,7 +481,10 @@
     "trainer-already-claimed": "प्रशिक्षक ने पहले ही दावा कर दिया है",
     "trainer-claimed": "आपने सफलतापूर्वक प्रशिक्षक का दावा कर लिया है!",
     "xblade-claimed": "उपकरण का दावा पहले ही किया जा चुका है",
-    "xscape-xblade": "एक्सस्केप एक्सब्लेड"
+    "xscape-xblade": "एक्सस्केप एक्सब्लेड",
+    "claim-equipment": "",
+    "equipment-claimed": "",
+    "select-xblade-nft": ""
   },
   "home": {
     "analytics": "एनालिटिक्स",
@@ -514,7 +517,8 @@
     "zrp-balance": "जेआरपी बैलेंस",
     "zrp-earned-today": "ZRP ने आज कमाई की",
     "discord": "कलह",
-    "store": "इकट्ठा करना"
+    "store": "इकट्ठा करना",
+    "get-zrp": ""
   },
   "inventory": {
     "candy-active": "ज़र्पमोन के पास पहले से ही इसी प्रकार की कैंडी सक्रिय है",
@@ -963,7 +967,8 @@
     "changes-to-this-policy": "इस नीति में परिवर्तन",
     "changes-to-this-policy-description": "हम इस गोपनीयता नीति को समय-समय पर अद्यतन कर सकते हैं। \nहम इस पृष्ठ पर नई नीति पोस्ट करके और प्रभावी तिथि अपडेट करके आपको किसी भी बदलाव के बारे में सूचित करेंगे।",
     "contact-us": "संपर्क करें",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "यदि इस नीति के बारे में आपके कोई प्रश्न हैं, तो कृपया हमसे यहां संपर्क करें"
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "यदि इस नीति के बारे में आपके कोई प्रश्न हैं, तो कृपया हमसे यहां संपर्क करें",
+    "nformation-we-collect": ""
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "ज़र्पमोन के लिए सेवा की शर्तें",
@@ -1058,6 +1063,7 @@
     "zerpmon-user-profile": "ज़र्पमोन उपयोगकर्ता प्रोफ़ाइल"
   },
   "wallet": {
-    "zerpwallet": "ज़र्पवॉलेट"
+    "zerpwallet": "ज़र्पवॉलेट",
+    "managed-wallet": "प्रबंधित वॉलेट"
   }
 }

@@ -248,7 +248,8 @@
     "xrp-balance": "XRP残高",
     "world-boss": "ワールドボス",
     "discord": "不和",
-    "store": "店"
+    "store": "店",
+    "get-zrp": ""
   },
   "leaderboard": {
     "title": "リーダーボード",
@@ -860,7 +861,10 @@
     "check-nft-claim-status": "NFT請求ステータスを確認する",
     "invalid-xblades-selected": "無効な Xblade が選択されました",
     "xblade-claimed": "すでに申請済みの装備",
-    "xscape-xblade": "XSケープ エクスブレード"
+    "xscape-xblade": "XSケープ エクスブレード",
+    "claim-equipment": "",
+    "equipment-claimed": "",
+    "select-xblade-nft": ""
   },
   "buy-zerpmon": {
     "already-bought": "すでにゼルプモンを購入しています",
@@ -963,7 +967,8 @@
     "changes-to-this-policy": "このポリシーの変更",
     "changes-to-this-policy-description": "当社は、このプライバシー ポリシーを随時更新することがあります。\n変更があった場合は、このページに新しいポリシーを掲載し、発効日を更新することでお知らせします。",
     "contact-us": "お問い合わせ",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "このポリシーについてご質問がある場合は、弊社までお問い合わせください。"
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "このポリシーについてご質問がある場合は、弊社までお問い合わせください。",
+    "nformation-we-collect": ""
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "ゼルモン利用規約",
@@ -1058,6 +1063,7 @@
     "zerpmon-user-profile": "ゼルモンのユーザープロフィール"
   },
   "wallet": {
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "managed-wallet": "マネージドウォレット"
   }
 }

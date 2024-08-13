@@ -248,7 +248,8 @@
     "xrp-balance": "XRP Guthaben",
     "world-boss": "Weltenherrscher",
     "discord": "Zwietracht",
-    "store": "Speichern"
+    "store": "Speichern",
+    "get-zrp": ""
   },
   "leaderboard": {
     "title": "Bestenliste",
@@ -860,7 +861,10 @@
     "check-nft-claim-status": "Prüfe den NFT-Anforderungsstatus",
     "xblade-claimed": "Mit diesem XBlade-NFT wurde bereits ein Ausrüstungsgegenstand angefordert",
     "invalid-xblades-selected": "Ungültiges XBlade-NFT ausgewählt",
-    "xscape-xblade": "XSCAPE XBLADE"
+    "xscape-xblade": "XSCAPE XBLADE",
+    "claim-equipment": "",
+    "equipment-claimed": "",
+    "select-xblade-nft": ""
   },
   "buy-zerpmon": {
     "already-bought": "Du hast bereits ein Zerpmon gekauft",
@@ -963,7 +967,8 @@
     "changes-to-this-policy": "Änderungen an dieser Richtlinie",
     "changes-to-this-policy-description": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. \nWir werden Sie über alle Änderungen informieren, indem wir die neue Richtlinie auf dieser Seite veröffentlichen und das Datum des Inkrafttretens aktualisieren.",
     "contact-us": "Kontaktiere uns",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "Wenn Sie Fragen zu dieser Richtlinie haben, kontaktieren Sie uns bitte unter unserer"
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "Wenn Sie Fragen zu dieser Richtlinie haben, kontaktieren Sie uns bitte unter unserer",
+    "nformation-we-collect": ""
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "Nutzungsbedingungen für Zerpmon",
@@ -1058,6 +1063,7 @@
     "zerpmon-user-profile": "Zerpmon-Benutzerprofil"
   },
   "wallet": {
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "managed-wallet": "Verwaltete Geldbörse"
   }
 }

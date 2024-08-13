@@ -248,7 +248,8 @@
     "xrp-balance": "结余XRP",
     "world-boss": "世界老大",
     "discord": "不和谐",
-    "store": "店铺"
+    "store": "店铺",
+    "get-zrp": ""
   },
   "leaderboard": {
     "title": "排行榜",
@@ -860,7 +861,10 @@
     "check-nft-claim-status": "检查NFT认领状态",
     "xblade-claimed": "设备已认领",
     "invalid-xblades-selected": "选择的 Xblade 无效",
-    "xscape-xblade": "XSCAPE X刀片"
+    "xscape-xblade": "XSCAPE X刀片",
+    "claim-equipment": "",
+    "equipment-claimed": "",
+    "select-xblade-nft": ""
   },
   "buy-zerpmon": {
     "already-bought": "您已经购买了一只泽普蒙",
@@ -1059,6 +1063,7 @@
     "zerpmon-user-profile": "泽拉普兽用户资料"
   },
   "wallet": {
-    "zerpwallet": "泽普钱包"
+    "zerpwallet": "泽普钱包",
+    "managed-wallet": "托管钱包"
   }
 }

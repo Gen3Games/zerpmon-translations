@@ -481,7 +481,10 @@
     "trainer-already-claimed": "L'allenatore ha già rivendicato",
     "trainer-claimed": "Hai rivendicato con successo un allenatore!",
     "xblade-claimed": "Attrezzatura già richiesta",
-    "xscape-xblade": "XSCAPE XBLADE"
+    "xscape-xblade": "XSCAPE XBLADE",
+    "claim-equipment": "",
+    "equipment-claimed": "",
+    "select-xblade-nft": ""
   },
   "home": {
     "analytics": "Analitica",
@@ -514,7 +517,8 @@
     "zrp-balance": "Saldo ZRP",
     "zrp-earned-today": "ZRP guadagnato oggi",
     "discord": "Discordia",
-    "store": "Negozio"
+    "store": "Negozio",
+    "get-zrp": ""
   },
   "inventory": {
     "candy-active": "Zerpmon ha già attivo un tipo di caramella simile",
@@ -963,7 +967,8 @@
     "changes-to-this-policy": "Modifiche a questa politica",
     "changes-to-this-policy-description": "Potremmo aggiornare la presente informativa sulla privacy di tanto in tanto. \nTi informeremo di eventuali modifiche pubblicando la nuova politica su questa pagina e aggiornando la data di entrata in vigore.",
     "contact-us": "Contattaci",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "In caso di domande su questa politica, contattaci al ns"
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "In caso di domande su questa politica, contattaci al ns",
+    "nformation-we-collect": ""
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "Termini di servizio per Zerpmon",
@@ -1058,6 +1063,7 @@
     "zerpmon-user-profile": "Profilo utente Zerpmon"
   },
   "wallet": {
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "managed-wallet": "Portafoglio gestito"
   }
 }

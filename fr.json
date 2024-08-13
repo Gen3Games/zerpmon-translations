@@ -413,7 +413,8 @@
     "zrp-earned-today": "ZRP gagné aujourd'hui",
     "world-boss": "Patron du monde",
     "discord": "Discorde",
-    "store": "Magasin"
+    "store": "Magasin",
+    "get-zrp": ""
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",
@@ -860,7 +861,10 @@
     "check-nft-claim-status": "Vérifier l'état de la réclamation NFT",
     "xblade-claimed": "Matériel déjà réclamé",
     "invalid-xblades-selected": "Xblades sélectionnés non valides",
-    "xscape-xblade": "XSCAPE XBLADE"
+    "xscape-xblade": "XSCAPE XBLADE",
+    "claim-equipment": "",
+    "equipment-claimed": "",
+    "select-xblade-nft": ""
   },
   "buy-zerpmon": {
     "already-bought": "Vous avez déjà acheté un zerpmon",
@@ -963,7 +967,8 @@
     "changes-to-this-policy": "Modifications de cette politique",
     "changes-to-this-policy-description": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. \nNous vous informerons de tout changement en publiant la nouvelle politique sur cette page et en mettant à jour la date d'entrée en vigueur.",
     "contact-us": "Contactez-nous",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "Si vous avez des questions concernant cette politique, veuillez nous contacter à notre"
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "Si vous avez des questions concernant cette politique, veuillez nous contacter à notre",
+    "nformation-we-collect": ""
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "Conditions d’utilisation de Zerpmon",
@@ -1058,6 +1063,7 @@
     "zerpmon-user-profile": "Profil utilisateur de Zerpmon"
   },
   "wallet": {
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "managed-wallet": "Portefeuille géré"
   }
 }

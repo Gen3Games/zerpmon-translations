@@ -248,7 +248,8 @@
     "xrp-balance": "XRP 잔액",
     "world-boss": "월드보스",
     "discord": "불화",
-    "store": "가게"
+    "store": "가게",
+    "get-zrp": ""
   },
   "leaderboard": {
     "title": "리더보드",
@@ -860,7 +861,10 @@
     "check-nft-claim-status": "NFT 청구 상태 확인",
     "invalid-xblades-selected": "잘못된 Xblade가 선택되었습니다.",
     "xblade-claimed": "이미 청구된 장비",
-    "xscape-xblade": "XSCAPE XBLADE"
+    "xscape-xblade": "XSCAPE XBLADE",
+    "claim-equipment": "",
+    "equipment-claimed": "",
+    "select-xblade-nft": ""
   },
   "buy-zerpmon": {
     "already-bought": "이미 저프몬을 구매하셨습니다",
@@ -1059,6 +1063,7 @@
     "zerpmon-user-profile": "Zermon 사용자 프로필"
   },
   "wallet": {
-    "zerpwallet": "Zerp월렛"
+    "zerpwallet": "Zerp월렛",
+    "managed-wallet": "관리형 지갑"
   }
 }

@@ -248,7 +248,8 @@
     "xrp-balance": "Saldo XRP",
     "world-boss": "Mundo Jefe",
     "discord": "Discordia",
-    "store": "Almacenar"
+    "store": "Almacenar",
+    "get-zrp": ""
   },
   "leaderboard": {
     "title": "Clasificación",
@@ -860,7 +861,10 @@
     "check-nft-claim-status": "Verifique el estado del reclamo de NFT",
     "xblade-claimed": "Equipo ya reclamado",
     "invalid-xblades-selected": "Xblades seleccionados no válidos",
-    "xscape-xblade": "XSCAPE XBLADE"
+    "xscape-xblade": "XSCAPE XBLADE",
+    "claim-equipment": "",
+    "equipment-claimed": "",
+    "select-xblade-nft": ""
   },
   "buy-zerpmon": {
     "already-bought": "Ya has comprado un zerpmon",
@@ -1059,6 +1063,7 @@
     "zerpmon-user-profile": "Perfil de usuario de Zerpmon"
   },
   "wallet": {
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "managed-wallet": "Monedero administrado"
   }
 }
