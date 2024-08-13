@@ -823,5 +823,8 @@
     "default-description": "Tauche ein in die Welt von Zerpmon, dem ultimativen NFT-Sammelkartenspiel! Sammle einzigartige digitale Monster, nimm an epischen Schlachten teil und handele mit Spielern auf der ganzen Welt. Trete noch heute der Zerpmon-Community bei und erlebe die Zukunft des Gamings!",
     "user-not-found": "Benutzer nicht gefunden",
     "zerpmon-user-profile": "Zerpmon-Benutzerprofil"
+  },
+  "wallet": {
+    "zerpwallet": "ZerpWallet"
   }
 }

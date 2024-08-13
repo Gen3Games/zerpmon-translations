@@ -823,5 +823,8 @@
     "default-description": "Tuffati nel mondo di Zerpmon, il gioco di carte collezionabili NFT definitivo! \nColleziona mostri digitali unici, affronta battaglie epiche e commercia con giocatori di tutto il mondo. \nUnisciti oggi stesso alla comunità Zerpmon e sperimenta il futuro dei giochi!",
     "user-not-found": "Utente non trovato",
     "zerpmon-user-profile": "Profilo utente Zerpmon"
+  },
+  "wallet": {
+    "zerpwallet": "ZerpWallet"
   }
 }

@@ -823,5 +823,8 @@
     "default-description": "究極の NFT トレーディング カード ゲーム、Zerpmon の世界に飛び込みましょう!\nユニークなデジタル モンスターを収集し、壮大な戦いに参加し、世界中のプレイヤーと取引します。\n今すぐ Zerpmon コミュニティに参加して、ゲームの未来を体験してください!",
     "user-not-found": "ユーザーが見つかりません",
     "zerpmon-user-profile": "ゼルモンのユーザープロフィール"
+  },
+  "wallet": {
+    "zerpwallet": "ZerpWallet"
   }
 }
