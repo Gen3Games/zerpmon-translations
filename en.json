@@ -816,14 +816,6 @@
     "hp-remaining": "HP Remaining",
     "zrp-share": "ZRP Share"
   },
-  "metadata": {
-    "auction-not-found": "Auction not found",
-    "auction-on-zerpmon": "Auction on Zerpmon",
-    "default-title": "Zerpmon: Collect, Battle, and Trade Digital Creatures",
-    "default-description": "Dive into the world of Zerpmon, the ultimate NFT trading card game! Collect unique digital monsters, engage in epic battles, and trade with players worldwide. Join the Zerpmon community today and experience the future of gaming!",
-    "user-not-found": "User not found",
-    "zerpmon-user-profile": "Zerpmon User Profile"
-  },
   "nft-details-popup": {
     "level": "Level"
   },
