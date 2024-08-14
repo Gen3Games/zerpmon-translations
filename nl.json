@@ -1078,6 +1078,21 @@
     "deposit": "Borg",
     "deposit-funds": "Stortingsfondsen",
     "deposit-funds-description": "Stuur uw XRP of ZRP naar klassiek of X-Address.",
-    "withdraw": "Terugtrekken"
+    "withdraw": "Terugtrekken",
+    "withdraw-funds": "Geld opnemen",
+    "available-to-withdraw": "Beschikbaar om in te trekken",
+    "amount-to-withdraw": "Bedrag dat moet worden opgenomen",
+    "currency": "Munteenheid",
+    "select-currency": "Selecteer Valuta",
+    "destination-wallet": "Bestemmingsportemonnee",
+    "select-destination-wallet": "Selecteer de bestemmingsportemonnee",
+    "primary": "Primair",
+    "multi-chain-wallet-linking-coming-soon": "Koppeling van meerdere ketenportemonnees binnenkort beschikbaar",
+    "withdrawal-amount-must-be-greater-than-zero": "Ongeldig opnamebedrag",
+    "insufficient-balance": "Onvoldoende evenwicht",
+    "invalid-address": "Ongeldig bestemmingsportefeuilleadres",
+    "withdrawal-failed": "Intrekking mislukt",
+    "withdrawal-request-failed": "Indiening van het intrekkingsverzoek is mislukt",
+    "withdrawal-request-success": "Opnameverzoek succesvol ingediend. Uw geld wordt binnenkort verwerkt en overgemaakt naar uw bestemmingsportefeuille."
   }
 }

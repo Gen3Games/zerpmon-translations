@@ -1078,6 +1078,21 @@
     "deposit": "Einzahlung",
     "deposit-funds": "Einzahlungsfonds",
     "deposit-funds-description": "Senden Sie Ihr XRP oder ZRP entweder an die klassische oder X-Address.",
-    "withdraw": "Abheben"
+    "withdraw": "Abheben",
+    "withdraw-funds": "Geld abheben",
+    "available-to-withdraw": "Verfügbar zum Abheben",
+    "amount-to-withdraw": "Abzuhebender Betrag",
+    "currency": "Währung",
+    "select-currency": "Wählen Sie Währung aus",
+    "destination-wallet": "Ziel-Wallet",
+    "select-destination-wallet": "Ziel-Wallet auswählen",
+    "primary": "Primär",
+    "multi-chain-wallet-linking-coming-soon": "Multichain-Wallet-Verknüpfung in Kürze verfügbar",
+    "withdrawal-amount-must-be-greater-than-zero": "Ungültiger Auszahlungsbetrag",
+    "insufficient-balance": "Unzureichendes Gleichgewicht",
+    "invalid-address": "Ungültige Ziel-Wallet-Adresse",
+    "withdrawal-failed": "Die Auszahlung ist fehlgeschlagen",
+    "withdrawal-request-failed": "Das Einreichen des Auszahlungsantrags ist fehlgeschlagen",
+    "withdrawal-request-success": "Auszahlungsantrag erfolgreich übermittelt. Ihr Geld wird in Kürze verarbeitet und auf Ihr Ziel-Wallet übertragen."
   }
 }

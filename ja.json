@@ -1078,6 +1078,21 @@
     "deposit": "デポジット",
     "deposit-funds": "預金資金",
     "deposit-funds-description": "XRP または ZRP をクラシックまたは X-Address に送信します。",
-    "withdraw": "撤回する"
+    "withdraw": "撤回する",
+    "withdraw-funds": "資金を引き出す",
+    "available-to-withdraw": "出金可能",
+    "amount-to-withdraw": "出金金額",
+    "currency": "通貨",
+    "select-currency": "通貨の選択",
+    "destination-wallet": "宛先ウォレット",
+    "select-destination-wallet": "宛先ウォレットを選択",
+    "primary": "主要な",
+    "multi-chain-wallet-linking-coming-soon": "マルチチェーンウォレットリンクは近日公開予定",
+    "withdrawal-amount-must-be-greater-than-zero": "無効な引き出し金額",
+    "insufficient-balance": "残高不足",
+    "invalid-address": "宛先ウォレットアドレスが無効です",
+    "withdrawal-failed": "出金に失敗しました",
+    "withdrawal-request-failed": "出金リクエストの送信に失敗しました",
+    "withdrawal-request-success": "出金リクエストが正常に送信されました。あなたの資金はすぐに処理され、目的のウォレットに転送されます。"
   }
 }

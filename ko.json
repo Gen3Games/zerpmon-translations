@@ -1078,6 +1078,21 @@
     "deposit": "보증금",
     "deposit-funds": "예금 자금",
     "deposit-funds-description": "XRP 또는 ZRP를 클래식 또는 X-Address로 보내세요.",
-    "withdraw": "철회하다"
+    "withdraw": "철회하다",
+    "withdraw-funds": "자금 인출",
+    "available-to-withdraw": "출금 가능",
+    "amount-to-withdraw": "인출할 금액",
+    "currency": "통화",
+    "select-currency": "통화 선택",
+    "destination-wallet": "대상 지갑",
+    "select-destination-wallet": "대상 지갑 선택",
+    "primary": "주요한",
+    "multi-chain-wallet-linking-coming-soon": "멀티체인 지갑 연결 예정",
+    "withdrawal-amount-must-be-greater-than-zero": "잘못된 인출 금액",
+    "insufficient-balance": "잔액 부족",
+    "invalid-address": "잘못된 대상 지갑 주소",
+    "withdrawal-failed": "출금 실패",
+    "withdrawal-request-failed": "출금 요청 제출 실패",
+    "withdrawal-request-success": "출금 요청이 성공적으로 제출되었습니다. 귀하의 자금은 곧 처리되어 대상 지갑으로 이체됩니다."
   }
 }

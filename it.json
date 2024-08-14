@@ -1078,6 +1078,21 @@
     "deposit": "Depositare",
     "deposit-funds": "Depositare fondi",
     "deposit-funds-description": "Invia il tuo XRP o ZRP all'indirizzo classico o X-Address.",
-    "withdraw": "Ritirare"
+    "withdraw": "Ritirare",
+    "withdraw-funds": "Prelevare fondi",
+    "available-to-withdraw": "Disponibile al ritiro",
+    "amount-to-withdraw": "Importo da prelevare",
+    "currency": "Valuta",
+    "select-currency": "Seleziona Valuta",
+    "destination-wallet": "Portafoglio di destinazione",
+    "select-destination-wallet": "Seleziona il portafoglio di destinazione",
+    "primary": "Primario",
+    "multi-chain-wallet-linking-coming-soon": "Collegamento al portafoglio multicatena disponibile a breve",
+    "withdrawal-amount-must-be-greater-than-zero": "Importo di prelievo non valido",
+    "insufficient-balance": "Equilibrio insufficiente",
+    "invalid-address": "Indirizzo del portafoglio di destinazione non valido",
+    "withdrawal-failed": "Ritiro fallito",
+    "withdrawal-request-failed": "L'invio della richiesta di prelievo non è riuscito",
+    "withdrawal-request-success": "Richiesta di prelievo inviata con successo. I tuoi fondi verranno elaborati e trasferiti al tuo portafoglio di destinazione a breve."
   }
 }

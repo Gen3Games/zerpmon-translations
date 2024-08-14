@@ -1078,6 +1078,21 @@
     "deposit": "Deposit",
     "deposit-funds": "Deposit Funds",
     "deposit-funds-description": "Send your XRP or ZRP to either classic or X-Address.",
-    "withdraw": "Withdraw"
+    "withdraw": "Withdraw",
+    "withdraw-funds": "Withdraw Funds",
+    "available-to-withdraw": "Available to withdraw",
+    "amount-to-withdraw": "Amount To Withdraw",
+    "currency": "Currency",
+    "select-currency": "Select Currency",
+    "destination-wallet": "Destination Wallet",
+    "select-destination-wallet": "Select destination wallet",
+    "primary": "Primary",
+    "multi-chain-wallet-linking-coming-soon": "Multichain Wallet Linking Coming Soon",
+    "withdrawal-amount-must-be-greater-than-zero": "Invalid withdrawal amount",
+    "insufficient-balance": "Insufficient balance",
+    "invalid-address": "Invalid destination wallet address",
+    "withdrawal-failed": "Withdrawal failed",
+    "withdrawal-request-failed": "Withdrawal request submission failed",
+    "withdrawal-request-success": "Withdrawal request submitted successfully. Your funds will be processed and transferred to your destination wallet shortly."
   }
 }

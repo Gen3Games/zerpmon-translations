@@ -1078,6 +1078,21 @@
     "deposit": "जमा",
     "deposit-funds": "निधि जमा करें",
     "deposit-funds-description": "अपना एक्सआरपी या जेडआरपी क्लासिक या एक्स-पते पर भेजें।",
-    "withdraw": "निकालना"
+    "withdraw": "निकालना",
+    "withdraw-funds": "पैसे निकालने",
+    "available-to-withdraw": "वापस लेने के लिए उपलब्ध है",
+    "amount-to-withdraw": "निकासी हेतु राशि",
+    "currency": "मुद्रा",
+    "select-currency": "मुद्रा चुनें",
+    "destination-wallet": "गंतव्य बटुआ",
+    "select-destination-wallet": "गंतव्य वॉलेट चुनें",
+    "primary": "प्राथमिक",
+    "multi-chain-wallet-linking-coming-soon": "मल्टीचेन वॉलेट लिंकिंग जल्द ही आ रही है",
+    "withdrawal-amount-must-be-greater-than-zero": "अवैध निकासी राशि",
+    "insufficient-balance": "अपर्याप्त शेषराशि",
+    "invalid-address": "अमान्य गंतव्य वॉलेट पता",
+    "withdrawal-failed": "निकासी विफल रही",
+    "withdrawal-request-failed": "निकासी अनुरोध प्रस्तुत करना विफल रहा",
+    "withdrawal-request-success": "निकासी अनुरोध सफलतापूर्वक सबमिट किया गया. आपकी धनराशि संसाधित हो जाएगी और शीघ्र ही आपके गंतव्य वॉलेट में स्थानांतरित कर दी जाएगी।"
   }
 }
