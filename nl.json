@@ -1066,6 +1066,17 @@
   },
   "wallet": {
     "zerpwallet": "ZerpWallet",
-    "managed-wallet": "Beheerde portemonnee"
+    "managed-wallet": "Beheerde portemonnee",
+    "managed-wallet-warning": "Deze portemonnee wordt beheerd door het Zerpmon-team. \nGebruik deze portemonnee alstublieft niet voor uw persoonlijke bezittingen en transacties.",
+    "xrp-balance": "XRP-saldo",
+    "zrp-balance": "ZRP-saldo",
+    "wallet-details": "Portemonneegegevens",
+    "classic-address": "Klassiek adres",
+    "x-address": "X-Address",
+    "classic-address-copied": "Klassiek adres gekopieerd naar klembord",
+    "x-address-copied": "X-adres gekopieerd naar klembord",
+    "deposit": "Borg",
+    "deposit-funds": "Stortingsfondsen",
+    "deposit-funds-description": "Stuur uw XRP of ZRP naar klassiek of X-Address."
   }
 }

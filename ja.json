@@ -1066,6 +1066,17 @@
   },
   "wallet": {
     "zerpwallet": "ZerpWallet",
-    "managed-wallet": "マネージドウォレット"
+    "managed-wallet": "マネージドウォレット",
+    "managed-wallet-warning": "このウォレットはZerpmonチームによって管理されています。\nこのウォレットを個人的な保有や取引に使用しないでください。",
+    "xrp-balance": "XRP残高",
+    "zrp-balance": "ZRPバランス",
+    "wallet-details": "ウォレットの詳細",
+    "classic-address": "クラシックアドレス",
+    "x-address": "X-Address",
+    "classic-address-copied": "従来のアドレスがクリップボードにコピーされました",
+    "x-address-copied": "X アドレスがクリップボードにコピーされました",
+    "deposit": "デポジット",
+    "deposit-funds": "預金資金",
+    "deposit-funds-description": "XRP または ZRP をクラシックまたは X-Address に送信します。"
   }
 }

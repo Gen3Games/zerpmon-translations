@@ -1066,6 +1066,17 @@
   },
   "wallet": {
     "zerpwallet": "ZerpWallet",
-    "managed-wallet": "Managed Wallet"
+    "managed-wallet": "Managed Wallet",
+    "managed-wallet-warning": "This wallet is managed by the Zerpmon Team. Please do not use this wallet for your personal holdings and transactions.",
+    "xrp-balance": "XRP Balance",
+    "zrp-balance": "ZRP Balance",
+    "wallet-details": "Wallet Details",
+    "classic-address": "Classic Address",
+    "x-address": "X-Address",
+    "classic-address-copied": "Classic address copied to clipboard",
+    "x-address-copied": "X-Address copied to clipboard",
+    "deposit": "Deposit",
+    "deposit-funds": "Deposit Funds",
+    "deposit-funds-description": "Send your XRP or ZRP to either classic or X-Address."
   }
 }

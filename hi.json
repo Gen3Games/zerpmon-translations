@@ -1066,6 +1066,17 @@
   },
   "wallet": {
     "zerpwallet": "ज़र्पवॉलेट",
-    "managed-wallet": "प्रबंधित वॉलेट"
+    "managed-wallet": "प्रबंधित वॉलेट",
+    "managed-wallet-warning": "इस वॉलेट का प्रबंधन ज़ेरपमोन टीम द्वारा किया जाता है। \nकृपया इस वॉलेट का उपयोग अपनी व्यक्तिगत होल्डिंग्स और लेनदेन के लिए न करें।",
+    "xrp-balance": "एक्सआरपी बैलेंस",
+    "zrp-balance": "जेआरपी बैलेंस",
+    "wallet-details": "बटुआ विवरण",
+    "classic-address": "क्लासिक पता",
+    "x-address": "X-Address",
+    "classic-address-copied": "क्लासिक पता क्लिपबोर्ड पर कॉपी किया गया",
+    "x-address-copied": "एक्स-एड्रेस क्लिपबोर्ड पर कॉपी किया गया",
+    "deposit": "जमा",
+    "deposit-funds": "निधि जमा करें",
+    "deposit-funds-description": "अपना एक्सआरपी या जेडआरपी क्लासिक या एक्स-पते पर भेजें।"
   }
 }

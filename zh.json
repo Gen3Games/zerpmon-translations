@@ -1066,6 +1066,17 @@
   },
   "wallet": {
     "zerpwallet": "泽普钱包",
-    "managed-wallet": "托管钱包"
+    "managed-wallet": "托管钱包",
+    "managed-wallet-warning": "这个钱包由Zerpmon团队管理。\n请不要使用此钱包进行您的个人持有和交易。",
+    "xrp-balance": "瑞波币余额",
+    "zrp-balance": "ZRP余额",
+    "wallet-details": "钱包详情",
+    "classic-address": "经典地址",
+    "x-address": "X-Address",
+    "classic-address-copied": "经典地址已复制到剪贴板",
+    "x-address-copied": "X-地址已复制到剪贴板",
+    "deposit": "订金",
+    "deposit-funds": "存入资金",
+    "deposit-funds-description": "将您的 XRP 或 ZRP 发送至 classic 或 X-Address。"
   }
 }

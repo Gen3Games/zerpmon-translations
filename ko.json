@@ -1066,6 +1066,17 @@
   },
   "wallet": {
     "zerpwallet": "Zerp월렛",
-    "managed-wallet": "관리형 지갑"
+    "managed-wallet": "관리형 지갑",
+    "managed-wallet-warning": "이 지갑은 Zermon 팀에서 관리합니다. \n개인소유 및 거래용으로 이 지갑을 사용하지 마십시오.",
+    "xrp-balance": "XRP 잔액",
+    "zrp-balance": "ZRP 잔액",
+    "wallet-details": "지갑 세부정보",
+    "classic-address": "클래식 주소",
+    "x-address": "X-Address",
+    "classic-address-copied": "기본 주소가 클립보드에 복사되었습니다.",
+    "x-address-copied": "X-주소가 클립보드에 복사되었습니다.",
+    "deposit": "보증금",
+    "deposit-funds": "예금 자금",
+    "deposit-funds-description": "XRP 또는 ZRP를 클래식 또는 X-Address로 보내세요."
   }
 }

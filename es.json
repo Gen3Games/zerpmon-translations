@@ -1066,6 +1066,17 @@
   },
   "wallet": {
     "zerpwallet": "ZerpWallet",
-    "managed-wallet": "Monedero administrado"
+    "managed-wallet": "Monedero administrado",
+    "managed-wallet-warning": "Esta billetera es administrada por el equipo Zerpmon. \nNo utilice esta billetera para sus tenencias y transacciones personales.",
+    "xrp-balance": "Saldo XRP",
+    "zrp-balance": "Saldo ZRP",
+    "wallet-details": "Detalles de la billetera",
+    "classic-address": "Dirección clásica",
+    "x-address": "X-Address",
+    "classic-address-copied": "Dirección clásica copiada al portapapeles",
+    "x-address-copied": "X-Address copiada al portapapeles",
+    "deposit": "Depósito",
+    "deposit-funds": "Fondos de depósito",
+    "deposit-funds-description": "Envíe su XRP o ZRP a Classic o X-Address."
   }
 }
