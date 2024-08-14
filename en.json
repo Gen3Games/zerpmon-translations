@@ -1077,6 +1077,7 @@
     "x-address-copied": "X-Address copied to clipboard",
     "deposit": "Deposit",
     "deposit-funds": "Deposit Funds",
-    "deposit-funds-description": "Send your XRP or ZRP to either classic or X-Address."
+    "deposit-funds-description": "Send your XRP or ZRP to either classic or X-Address.",
+    "withdraw": "Withdraw"
   }
 }

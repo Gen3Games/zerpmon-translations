@@ -1077,6 +1077,7 @@
     "x-address-copied": "X-地址已复制到剪贴板",
     "deposit": "订金",
     "deposit-funds": "存入资金",
-    "deposit-funds-description": "将您的 XRP 或 ZRP 发送至 classic 或 X-Address。"
+    "deposit-funds-description": "将您的 XRP 或 ZRP 发送至 classic 或 X-Address。",
+    "withdraw": "提取"
   }
 }

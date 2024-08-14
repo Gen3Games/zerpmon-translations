@@ -1077,6 +1077,7 @@
     "x-address-copied": "X-Address in die Zwischenablage kopiert",
     "deposit": "Einzahlung",
     "deposit-funds": "Einzahlungsfonds",
-    "deposit-funds-description": "Senden Sie Ihr XRP oder ZRP entweder an die klassische oder X-Address."
+    "deposit-funds-description": "Senden Sie Ihr XRP oder ZRP entweder an die klassische oder X-Address.",
+    "withdraw": "Abheben"
   }
 }

@@ -1077,6 +1077,7 @@
     "x-address-copied": "X-주소가 클립보드에 복사되었습니다.",
     "deposit": "보증금",
     "deposit-funds": "예금 자금",
-    "deposit-funds-description": "XRP 또는 ZRP를 클래식 또는 X-Address로 보내세요."
+    "deposit-funds-description": "XRP 또는 ZRP를 클래식 또는 X-Address로 보내세요.",
+    "withdraw": "철회하다"
   }
 }

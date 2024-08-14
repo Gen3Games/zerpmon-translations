@@ -1077,6 +1077,7 @@
     "x-address-copied": "X-adres gekopieerd naar klembord",
     "deposit": "Borg",
     "deposit-funds": "Stortingsfondsen",
-    "deposit-funds-description": "Stuur uw XRP of ZRP naar klassiek of X-Address."
+    "deposit-funds-description": "Stuur uw XRP of ZRP naar klassiek of X-Address.",
+    "withdraw": "Terugtrekken"
   }
 }

@@ -1077,6 +1077,7 @@
     "x-address-copied": "X-Address copiada al portapapeles",
     "deposit": "Depósito",
     "deposit-funds": "Fondos de depósito",
-    "deposit-funds-description": "Envíe su XRP o ZRP a Classic o X-Address."
+    "deposit-funds-description": "Envíe su XRP o ZRP a Classic o X-Address.",
+    "withdraw": "Retirar"
   }
 }
