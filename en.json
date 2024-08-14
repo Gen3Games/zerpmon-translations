@@ -1093,6 +1093,8 @@
     "invalid-address": "Invalid destination wallet address",
     "withdrawal-failed": "Withdrawal failed",
     "withdrawal-request-failed": "Withdrawal request submission failed",
-    "withdrawal-request-success": "Withdrawal request submitted successfully. Your funds will be processed and transferred to your destination wallet shortly."
+    "withdrawal-request-success": "Withdrawal request submitted successfully. Your funds will be processed and transferred to your destination wallet shortly.",
+    "confirm-correctness": "I confirm that the withdrawal details I provided are correct.",
+    "confirm-withdrawal-correctness": "I confirm that the withdrawal details I provided are correct."
   }
 }

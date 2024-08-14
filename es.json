@@ -1093,6 +1093,8 @@
     "invalid-address": "Dirección de billetera de destino no válida",
     "withdrawal-failed": "Retiro fallido",
     "withdrawal-request-failed": "Error al enviar la solicitud de retiro",
-    "withdrawal-request-success": "Solicitud de retiro enviada exitosamente. Sus fondos serán procesados ​​y transferidos a su billetera de destino en breve."
+    "withdrawal-request-success": "Solicitud de retiro enviada exitosamente. Sus fondos serán procesados ​​y transferidos a su billetera de destino en breve.",
+    "confirm-correctness": "",
+    "confirm-withdrawal-correctness": "Confirmo que los detalles de retiro que proporcioné son correctos."
   }
 }
