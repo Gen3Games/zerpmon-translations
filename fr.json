@@ -1095,6 +1095,7 @@
     "withdrawal-request-failed": "Échec de la soumission de la demande de retrait",
     "withdrawal-request-success": "Demande de retrait soumise avec succès. Vos fonds seront traités et transférés vers votre portefeuille de destination sous peu.",
     "confirm-correctness": "",
-    "confirm-withdrawal-correctness": "Je confirme que les détails de retrait que j'ai fournis sont corrects."
+    "confirm-withdrawal-correctness": "Je confirme que les détails de retrait que j'ai fournis sont corrects.",
+    "available": "Disponible"
   }
 }
