@@ -1098,6 +1098,9 @@
     "confirm-withdrawal-correctness": "제공한 출금 세부정보가 정확함을 확인합니다.",
     "min-deposit": "",
     "min-withdraw": "",
-    "withdraw-limit-not-met": ""
+    "withdraw-limit-not-met": "",
+    "available": "사용 가능",
+    "refresh": "새로 고치다",
+    "pending-withdrawal": "아직 출금 대기 중인 상태입니다. 다른 출금 요청을 제출하기 전에 완료될 때까지 기다리십시오."
   }
 }

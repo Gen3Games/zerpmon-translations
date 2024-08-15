@@ -1098,6 +1098,9 @@
     "confirm-withdrawal-correctness": "I confirm that the withdrawal details I provided are correct.",
     "min-deposit": "Min Deposit {amount}",
     "min-withdraw": "Min Withdrawal {amount}",
-    "withdraw-limit-not-met": "Withdrawal amount should be greater than {amount}"
+    "withdraw-limit-not-met": "Withdrawal amount should be greater than {amount}",
+    "available": "Available",
+    "refresh": "Refresh",
+    "pending-withdrawal": "You still have a pending withdrawal. Please wait for it to complete before submitting another withdrawal request"
   }
 }

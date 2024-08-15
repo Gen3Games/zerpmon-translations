@@ -1098,6 +1098,9 @@
     "confirm-withdrawal-correctness": "Confermo che i dettagli di prelievo che ho fornito sono corretti.",
     "min-deposit": "",
     "min-withdraw": "",
-    "withdraw-limit-not-met": ""
+    "withdraw-limit-not-met": "",
+    "available": "Disponibile",
+    "refresh": "Aggiorna",
+    "pending-withdrawal": "Hai ancora un prelievo in sospeso. Attendi il completamento prima di inviare un'altra richiesta di prelievo"
   }
 }

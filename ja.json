@@ -1098,6 +1098,9 @@
     "confirm-withdrawal-correctness": "提供した出金の詳細が正しいことを確認します。",
     "min-deposit": "",
     "min-withdraw": "",
-    "withdraw-limit-not-met": ""
+    "withdraw-limit-not-met": "",
+    "available": "利用可能",
+    "refresh": "リフレッシュ",
+    "pending-withdrawal": "保留中の引き出しがまだあります。完了するまで待ってから、別の出金リクエストを送信してください"
   }
 }

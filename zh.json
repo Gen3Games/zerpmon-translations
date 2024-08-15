@@ -33,7 +33,10 @@
     "confirm-withdrawal-correctness": "我确认我提供的提款详细信息是正确的。",
     "min-deposit": "",
     "min-withdraw": "",
-    "withdraw-limit-not-met": ""
+    "withdraw-limit-not-met": "",
+    "available": "可用的",
+    "refresh": "刷新",
+    "pending-withdrawal": "您还有待处理的提款。请等待其完成后再提交另一个提款请求"
   },
   "analytics": {
     "analytics": "",

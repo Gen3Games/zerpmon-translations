@@ -1098,6 +1098,9 @@
     "confirm-withdrawal-correctness": "मैं पुष्टि करता हूं कि मेरे द्वारा प्रदान किया गया निकासी विवरण सही है।",
     "min-deposit": "",
     "min-withdraw": "",
-    "withdraw-limit-not-met": ""
+    "withdraw-limit-not-met": "",
+    "available": "उपलब्ध",
+    "refresh": "ताज़ा करना",
+    "pending-withdrawal": "आपके पास अभी भी निकासी लंबित है. कृपया दूसरा निकासी अनुरोध सबमिट करने से पहले इसके पूरा होने तक प्रतीक्षा करें"
   }
 }

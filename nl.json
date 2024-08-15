@@ -1098,6 +1098,9 @@
     "confirm-withdrawal-correctness": "Ik bevestig dat de door mij verstrekte opnamegegevens correct zijn.",
     "min-deposit": "",
     "min-withdraw": "",
-    "withdraw-limit-not-met": ""
+    "withdraw-limit-not-met": "",
+    "available": "Beschikbaar",
+    "refresh": "Vernieuwen",
+    "pending-withdrawal": "Er is nog steeds een uitbetaling in behandeling. Wacht tot dit is voltooid voordat u opnieuw een opnameverzoek indient"
   }
 }

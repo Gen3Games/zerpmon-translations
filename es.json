@@ -1098,6 +1098,9 @@
     "confirm-withdrawal-correctness": "Confirmo que los detalles de retiro que proporcioné son correctos.",
     "min-deposit": "",
     "min-withdraw": "",
-    "withdraw-limit-not-met": ""
+    "withdraw-limit-not-met": "",
+    "available": "Disponible",
+    "refresh": "Refrescar",
+    "pending-withdrawal": "Aún tienes un retiro pendiente. Espere a que se complete antes de enviar otra solicitud de retiro"
   }
 }
