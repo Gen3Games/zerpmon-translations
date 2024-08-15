@@ -1097,6 +1097,7 @@
     "confirm-correctness": "I confirm that the withdrawal details I provided are correct.",
     "confirm-withdrawal-correctness": "I confirm that the withdrawal details I provided are correct.",
     "available": "Available",
-    "refresh": "Refresh"
+    "refresh": "Refresh",
+    "pending-withdrawal": "You still have a pending withdrawal. Please wait for it to complete before submitting another withdrawal request"
   }
 }

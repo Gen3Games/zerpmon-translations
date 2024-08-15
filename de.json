@@ -1097,6 +1097,7 @@
     "confirm-correctness": "",
     "confirm-withdrawal-correctness": "Ich bestätige, dass die von mir angegebenen Auszahlungsdaten korrekt sind.",
     "available": "Verfügbar",
-    "refresh": "Aktualisieren"
+    "refresh": "Aktualisieren",
+    "pending-withdrawal": "Sie haben noch eine ausstehende Auszahlung. Bitte warten Sie, bis der Vorgang abgeschlossen ist, bevor Sie eine weitere Auszahlungsanforderung einreichen"
   }
 }

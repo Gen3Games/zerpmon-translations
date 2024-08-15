@@ -1097,6 +1097,7 @@
     "confirm-correctness": "",
     "confirm-withdrawal-correctness": "Confermo che i dettagli di prelievo che ho fornito sono corretti.",
     "available": "Disponibile",
-    "refresh": "Aggiorna"
+    "refresh": "Aggiorna",
+    "pending-withdrawal": "Hai ancora un prelievo in sospeso. Attendi il completamento prima di inviare un'altra richiesta di prelievo"
   }
 }

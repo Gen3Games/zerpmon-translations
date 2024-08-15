@@ -1097,6 +1097,7 @@
     "confirm-correctness": "",
     "confirm-withdrawal-correctness": "Ik bevestig dat de door mij verstrekte opnamegegevens correct zijn.",
     "available": "Beschikbaar",
-    "refresh": "Vernieuwen"
+    "refresh": "Vernieuwen",
+    "pending-withdrawal": "Er is nog steeds een uitbetaling in behandeling. Wacht tot dit is voltooid voordat u opnieuw een opnameverzoek indient"
   }
 }

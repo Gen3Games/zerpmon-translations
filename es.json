@@ -1097,6 +1097,7 @@
     "confirm-correctness": "",
     "confirm-withdrawal-correctness": "Confirmo que los detalles de retiro que proporcioné son correctos.",
     "available": "Disponible",
-    "refresh": "Refrescar"
+    "refresh": "Refrescar",
+    "pending-withdrawal": "Aún tienes un retiro pendiente. Espere a que se complete antes de enviar otra solicitud de retiro"
   }
 }

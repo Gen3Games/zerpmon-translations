@@ -1097,6 +1097,7 @@
     "confirm-correctness": "",
     "confirm-withdrawal-correctness": "提供した出金の詳細が正しいことを確認します。",
     "available": "利用可能",
-    "refresh": "リフレッシュ"
+    "refresh": "リフレッシュ",
+    "pending-withdrawal": "保留中の引き出しがまだあります。完了するまで待ってから、別の出金リクエストを送信してください"
   }
 }
