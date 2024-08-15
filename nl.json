@@ -1095,6 +1095,9 @@
     "withdrawal-request-failed": "Indiening van het intrekkingsverzoek is mislukt",
     "withdrawal-request-success": "Opnameverzoek succesvol ingediend. Uw geld wordt binnenkort verwerkt en overgemaakt naar uw bestemmingsportefeuille.",
     "confirm-correctness": "",
-    "confirm-withdrawal-correctness": "Ik bevestig dat de door mij verstrekte opnamegegevens correct zijn."
+    "confirm-withdrawal-correctness": "Ik bevestig dat de door mij verstrekte opnamegegevens correct zijn.",
+    "min-deposit": "",
+    "min-withdraw": "",
+    "withdraw-limit-not-met": ""
   }
 }

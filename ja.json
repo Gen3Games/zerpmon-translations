@@ -1095,6 +1095,9 @@
     "withdrawal-request-failed": "出金リクエストの送信に失敗しました",
     "withdrawal-request-success": "出金リクエストが正常に送信されました。あなたの資金はすぐに処理され、目的のウォレットに転送されます。",
     "confirm-correctness": "",
-    "confirm-withdrawal-correctness": "提供した出金の詳細が正しいことを確認します。"
+    "confirm-withdrawal-correctness": "提供した出金の詳細が正しいことを確認します。",
+    "min-deposit": "",
+    "min-withdraw": "",
+    "withdraw-limit-not-met": ""
   }
 }

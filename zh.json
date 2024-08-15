@@ -30,7 +30,10 @@
     "withdrawal-request-failed": "提款请求提交失败",
     "withdrawal-request-success": "提款请求已成功提交。您的资金将很快被处理并转移到您的目的地钱包。",
     "confirm-correctness": "",
-    "confirm-withdrawal-correctness": "我确认我提供的提款详细信息是正确的。"
+    "confirm-withdrawal-correctness": "我确认我提供的提款详细信息是正确的。",
+    "min-deposit": "",
+    "min-withdraw": "",
+    "withdraw-limit-not-met": ""
   },
   "analytics": {
     "analytics": "",

@@ -1095,6 +1095,9 @@
     "withdrawal-request-failed": "L'invio della richiesta di prelievo non è riuscito",
     "withdrawal-request-success": "Richiesta di prelievo inviata con successo. I tuoi fondi verranno elaborati e trasferiti al tuo portafoglio di destinazione a breve.",
     "confirm-correctness": "",
-    "confirm-withdrawal-correctness": "Confermo che i dettagli di prelievo che ho fornito sono corretti."
+    "confirm-withdrawal-correctness": "Confermo che i dettagli di prelievo che ho fornito sono corretti.",
+    "min-deposit": "",
+    "min-withdraw": "",
+    "withdraw-limit-not-met": ""
   }
 }
