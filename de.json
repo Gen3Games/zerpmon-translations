@@ -1096,6 +1096,7 @@
     "withdrawal-request-success": "Auszahlungsantrag erfolgreich übermittelt. Ihr Geld wird in Kürze verarbeitet und auf Ihr Ziel-Wallet übertragen.",
     "confirm-correctness": "",
     "confirm-withdrawal-correctness": "Ich bestätige, dass die von mir angegebenen Auszahlungsdaten korrekt sind.",
-    "available": "Verfügbar"
+    "available": "Verfügbar",
+    "refresh": "Aktualisieren"
   }
 }

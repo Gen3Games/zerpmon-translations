@@ -1096,6 +1096,7 @@
     "withdrawal-request-success": "Richiesta di prelievo inviata con successo. I tuoi fondi verranno elaborati e trasferiti al tuo portafoglio di destinazione a breve.",
     "confirm-correctness": "",
     "confirm-withdrawal-correctness": "Confermo che i dettagli di prelievo che ho fornito sono corretti.",
-    "available": "Disponibile"
+    "available": "Disponibile",
+    "refresh": "Aggiorna"
   }
 }

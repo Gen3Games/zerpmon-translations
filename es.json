@@ -1096,6 +1096,7 @@
     "withdrawal-request-success": "Solicitud de retiro enviada exitosamente. Sus fondos serán procesados ​​y transferidos a su billetera de destino en breve.",
     "confirm-correctness": "",
     "confirm-withdrawal-correctness": "Confirmo que los detalles de retiro que proporcioné son correctos.",
-    "available": "Disponible"
+    "available": "Disponible",
+    "refresh": "Refrescar"
   }
 }

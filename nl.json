@@ -1096,6 +1096,7 @@
     "withdrawal-request-success": "Opnameverzoek succesvol ingediend. Uw geld wordt binnenkort verwerkt en overgemaakt naar uw bestemmingsportefeuille.",
     "confirm-correctness": "",
     "confirm-withdrawal-correctness": "Ik bevestig dat de door mij verstrekte opnamegegevens correct zijn.",
-    "available": "Beschikbaar"
+    "available": "Beschikbaar",
+    "refresh": "Vernieuwen"
   }
 }
