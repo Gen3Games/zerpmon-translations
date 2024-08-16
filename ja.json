@@ -194,8 +194,8 @@
     "next-deck": "次のデッキ",
     "previous-5-slots": "過去 5 つのスロット",
     "next-5-slots": "次の 5 つのスロット",
-    "set-pvp-deck": "",
-    "set-pvp-deck-success": ""
+    "set-pvp-deck": "PvPデッキとして設定",
+    "set-pvp-deck-success": "PvPデッキとしての設定に成功しました！"
   },
   "store": {
     "title": "ストア",
@@ -251,7 +251,7 @@
     "world-boss": "ワールドボス",
     "discord": "不和",
     "store": "店",
-    "get-zrp": ""
+    "get-zrp": "ZRPを入手"
   },
   "leaderboard": {
     "title": "リーダーボード",
@@ -535,10 +535,8 @@
     "rank": "ランク",
     "total": "合計",
     "back-to-lobby": "ロビーに戻る",
-    "back": "戻る",
     "challenge": "チャレンジ",
     "inspect": "検査する",
-    "already-battled": "すでに戦闘済み",
     "recent-opponents": "最近の対戦相手",
     "no-recent-opponents": "最近の対戦相手はいません",
     "close-modal": "モーダルを閉じる",
@@ -571,7 +569,9 @@
     "dmg-done": "ダメージの完了:",
     "level": "レベル",
     "trial-rush": "トライアルラッシュ",
-    "battle-for-free": "無料でバトル"
+    "battle-for-free": "無料でバトル",
+    "already-battled": "",
+    "back": ""
   },
   "test": {
     "test": "これはテストです"
@@ -864,9 +864,9 @@
     "invalid-xblades-selected": "無効な Xblade が選択されました",
     "xblade-claimed": "すでに申請済みの装備",
     "xscape-xblade": "XSケープ エクスブレード",
-    "claim-equipment": "",
-    "equipment-claimed": "",
-    "select-xblade-nft": ""
+    "claim-equipment": "機器の請求",
+    "equipment-claimed": "装備の獲得に成功しました!",
+    "select-xblade-nft": "5点以上のXblade NFTを選択してください"
   },
   "buy-zerpmon": {
     "already-bought": "すでにゼルプモンを購入しています",
@@ -1094,13 +1094,15 @@
     "withdrawal-failed": "出金に失敗しました",
     "withdrawal-request-failed": "出金リクエストの送信に失敗しました",
     "withdrawal-request-success": "出金リクエストが正常に送信されました。あなたの資金はすぐに処理され、目的のウォレットに転送されます。",
-    "confirm-correctness": "",
+    "confirm-correctness": "提供した出金の詳細が正しいことを確認します。",
     "confirm-withdrawal-correctness": "提供した出金の詳細が正しいことを確認します。",
-    "min-deposit": "",
-    "min-withdraw": "",
-    "withdraw-limit-not-met": "",
+    "min-deposit": "最低入金額 {金額}",
+    "min-withdraw": "最小出金額 {金額}",
+    "withdraw-limit-not-met": "出金額は {amount} より大きい必要があります",
     "available": "利用可能",
     "refresh": "リフレッシュ",
-    "pending-withdrawal": "保留中の引き出しがまだあります。完了するまで待ってから、別の出金リクエストを送信してください"
+    "pending-withdrawal": "保留中の引き出しがまだあります。完了するまで待ってから、別の出金リクエストを送信してください",
+    "invalid-amount": "無効な金額です。\n最低出金額は1です。",
+    "withdrew-recently": "過去 15 分以内に退会しました。 \n15 分ごとに複数回引き出すことはできません。"
   }
 }

@@ -194,8 +194,8 @@
     "next-deck": "Nächstes Deck",
     "previous-5-slots": "Vorherige 5 Slots",
     "next-5-slots": "Nächste 5 Slots",
-    "set-pvp-deck": "",
-    "set-pvp-deck-success": ""
+    "set-pvp-deck": "Als PvP-Deck festlegen",
+    "set-pvp-deck-success": "Erfolgreich als PvP-Deck eingestellt!"
   },
   "store": {
     "title": "Shop",
@@ -251,7 +251,7 @@
     "world-boss": "Weltenherrscher",
     "discord": "Zwietracht",
     "store": "Speichern",
-    "get-zrp": ""
+    "get-zrp": "Holen Sie sich ZRP"
   },
   "leaderboard": {
     "title": "Bestenliste",
@@ -535,10 +535,8 @@
     "rank": "Rang",
     "total": "Gesamt",
     "back-to-lobby": "Zurück zur Lobby",
-    "back": "Zurück",
     "challenge": "Herausforderung",
     "inspect": "Prüfen",
-    "already-battled": "Bereits gekämpft",
     "recent-opponents": "Aktuelle Gegner",
     "no-recent-opponents": "Keine aktuellen Gegner",
     "close-modal": "Modal schließen",
@@ -864,9 +862,9 @@
     "xblade-claimed": "Mit diesem XBlade-NFT wurde bereits ein Ausrüstungsgegenstand angefordert",
     "invalid-xblades-selected": "Ungültiges XBlade-NFT ausgewählt",
     "xscape-xblade": "XSCAPE XBLADE",
-    "claim-equipment": "",
-    "equipment-claimed": "",
-    "select-xblade-nft": ""
+    "claim-equipment": "Fordern Sie Ausrüstung an",
+    "equipment-claimed": "Sie haben erfolgreich eine Ausrüstung beansprucht!",
+    "select-xblade-nft": "Wählen Sie Xblade NFTs mit 5 oder mehr Punkten"
   },
   "buy-zerpmon": {
     "already-bought": "Du hast bereits ein Zerpmon gekauft",
@@ -1094,13 +1092,15 @@
     "withdrawal-failed": "Die Auszahlung ist fehlgeschlagen",
     "withdrawal-request-failed": "Das Einreichen des Auszahlungsantrags ist fehlgeschlagen",
     "withdrawal-request-success": "Auszahlungsantrag erfolgreich übermittelt. Ihr Geld wird in Kürze verarbeitet und auf Ihr Ziel-Wallet übertragen.",
-    "confirm-correctness": "",
+    "confirm-correctness": "Ich bestätige, dass die von mir angegebenen Auszahlungsdaten korrekt sind.",
     "confirm-withdrawal-correctness": "Ich bestätige, dass die von mir angegebenen Auszahlungsdaten korrekt sind.",
-    "min-deposit": "",
-    "min-withdraw": "",
-    "withdraw-limit-not-met": "",
+    "min-deposit": "Mindesteinzahlung {Betrag}",
+    "min-withdraw": "Min. Auszahlung {Betrag}",
+    "withdraw-limit-not-met": "Der Auszahlungsbetrag sollte größer als {amount} sein",
     "available": "Verfügbar",
     "refresh": "Aktualisieren",
-    "pending-withdrawal": "Sie haben noch eine ausstehende Auszahlung. Bitte warten Sie, bis der Vorgang abgeschlossen ist, bevor Sie eine weitere Auszahlungsanforderung einreichen"
+    "pending-withdrawal": "Sie haben noch eine ausstehende Auszahlung. Bitte warten Sie, bis der Vorgang abgeschlossen ist, bevor Sie eine weitere Auszahlungsanforderung einreichen",
+    "invalid-amount": "",
+    "withdrew-recently": ""
   }
 }

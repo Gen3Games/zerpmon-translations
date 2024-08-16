@@ -1101,6 +1101,8 @@
     "withdraw-limit-not-met": "Withdrawal amount should be greater than {amount}",
     "available": "Available",
     "refresh": "Refresh",
-    "pending-withdrawal": "You still have a pending withdrawal. Please wait for it to complete before submitting another withdrawal request"
+    "pending-withdrawal": "You still have a pending withdrawal. Please wait for it to complete before submitting another withdrawal request",
+    "invalid-amount": "Invalid amount. Minimum withdrawal amount is 1.",
+    "withdrew-recently": "You have withdrawn within the last 15 minutes. You cannot withdraw more than once every 15 minutes."
   }
 }

@@ -194,8 +194,8 @@
     "next-deck": "다음 덱",
     "previous-5-slots": "이전 5개 슬롯",
     "next-5-slots": "다음 5개 슬롯",
-    "set-pvp-deck": "",
-    "set-pvp-deck-success": ""
+    "set-pvp-deck": "PvP 덱으로 설정",
+    "set-pvp-deck-success": "PvP 덱 설정에 성공했습니다!"
   },
   "store": {
     "title": "스토어",
@@ -251,7 +251,7 @@
     "world-boss": "월드보스",
     "discord": "불화",
     "store": "가게",
-    "get-zrp": ""
+    "get-zrp": "ZRP 받기"
   },
   "leaderboard": {
     "title": "리더보드",
@@ -535,10 +535,8 @@
     "rank": "계급",
     "total": "총",
     "back-to-lobby": "로비로 돌아가기",
-    "back": "뒤쪽에",
     "challenge": "도전",
     "inspect": "검사",
-    "already-battled": "이미 전투를 벌였습니다",
     "recent-opponents": "최근 상대",
     "no-recent-opponents": "최근 상대 없음",
     "close-modal": "모달 닫기",
@@ -571,7 +569,9 @@
     "dmg-done": "DMG 완료:",
     "level": "수준",
     "trial-rush": "시험 러쉬",
-    "battle-for-free": "무료 전투"
+    "battle-for-free": "무료 전투",
+    "already-battled": "",
+    "back": ""
   },
   "test": {
     "test": "테스트입니다."
@@ -864,9 +864,9 @@
     "invalid-xblades-selected": "잘못된 Xblade가 선택되었습니다.",
     "xblade-claimed": "이미 청구된 장비",
     "xscape-xblade": "XSCAPE XBLADE",
-    "claim-equipment": "",
-    "equipment-claimed": "",
-    "select-xblade-nft": ""
+    "claim-equipment": "장비 청구",
+    "equipment-claimed": "장비를 성공적으로 획득했습니다!",
+    "select-xblade-nft": "포인트가 5개 이상인 Xblade NFT를 선택하세요."
   },
   "buy-zerpmon": {
     "already-bought": "이미 저프몬을 구매하셨습니다",
@@ -970,7 +970,7 @@
     "changes-to-this-policy-description": "당사는 수시로 본 개인정보 보호정책을 업데이트할 수 있습니다. \n변경 사항이 있을 경우 본 페이지에 새로운 정책을 게시하고 시행일을 업데이트하여 알려드리겠습니다.",
     "contact-us": "문의하기",
     "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "이 정책에 대해 질문이 있는 경우 당사에 문의하십시오.",
-    "information-we-collect": ""
+    "information-we-collect": "당사가 수집하는 정보"
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "Zermon 서비스 약관",
@@ -1094,13 +1094,15 @@
     "withdrawal-failed": "출금 실패",
     "withdrawal-request-failed": "출금 요청 제출 실패",
     "withdrawal-request-success": "출금 요청이 성공적으로 제출되었습니다. 귀하의 자금은 곧 처리되어 대상 지갑으로 이체됩니다.",
-    "confirm-correctness": "",
+    "confirm-correctness": "제공한 출금 세부정보가 정확함을 확인합니다.",
     "confirm-withdrawal-correctness": "제공한 출금 세부정보가 정확함을 확인합니다.",
-    "min-deposit": "",
-    "min-withdraw": "",
-    "withdraw-limit-not-met": "",
+    "min-deposit": "최소 입금액 {amount}",
+    "min-withdraw": "최소 출금 {금액}",
+    "withdraw-limit-not-met": "인출 금액은 {amount}보다 커야 합니다.",
     "available": "사용 가능",
     "refresh": "새로 고치다",
-    "pending-withdrawal": "아직 출금 대기 중인 상태입니다. 다른 출금 요청을 제출하기 전에 완료될 때까지 기다리십시오."
+    "pending-withdrawal": "아직 출금 대기 중인 상태입니다. 다른 출금 요청을 제출하기 전에 완료될 때까지 기다리십시오.",
+    "invalid-amount": "금액이 잘못되었습니다. \n최소 출금 금액은 1입니다.",
+    "withdrew-recently": "지난 15분 이내에 출금하셨습니다. \n15분마다 한 번 이상 인출할 수 없습니다."
   }
 }

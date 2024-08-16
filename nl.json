@@ -227,10 +227,8 @@
     "rank": "Rang",
     "total": "Totaal",
     "back-to-lobby": "Terug naar lobby",
-    "back": "Rug",
     "challenge": "Uitdaging",
     "inspect": "Inspecteren",
-    "already-battled": "Al gevochten",
     "recent-opponents": "Recente tegenstanders",
     "no-recent-opponents": "Geen recente tegenstanders",
     "close-modal": "Sluit modaal",
@@ -263,7 +261,9 @@
     "dmg-done": "DMG klaar:",
     "level": "Niveau",
     "trial-rush": "Proefdruk",
-    "battle-for-free": "Strijd gratis"
+    "battle-for-free": "Strijd gratis",
+    "already-battled": "",
+    "back": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -443,8 +443,8 @@
     "next-deck": "Volgende dek",
     "previous-5-slots": "Vorige 5 slots",
     "next-5-slots": "Volgende 5 slots",
-    "set-pvp-deck": "",
-    "set-pvp-deck-success": ""
+    "set-pvp-deck": "Instellen als PvP-deck",
+    "set-pvp-deck-success": "Succesvol ingezet als PvP-deck!"
   },
   "edit-profile": {
     "basic-info": "Basis informatie",
@@ -484,9 +484,9 @@
     "xblade-claimed": "Apparatuur al geclaimd",
     "invalid-xblades-selected": "Ongeldige Xblades geselecteerd",
     "xscape-xblade": "XSCAPE XBLADE",
-    "claim-equipment": "",
-    "equipment-claimed": "",
-    "select-xblade-nft": ""
+    "claim-equipment": "Apparatuur claimen",
+    "equipment-claimed": "Je hebt met succes een uitrusting geclaimd!",
+    "select-xblade-nft": "Selecteer Xblade NFT's met 5 of meer punten"
   },
   "home": {
     "analytics": "Analyse",
@@ -520,7 +520,7 @@
     "world-boss": "Wereld baas",
     "discord": "Meningsverschil",
     "store": "Winkel",
-    "get-zrp": ""
+    "get-zrp": "Ontvang ZRP"
   },
   "inventory": {
     "candy-active": "Zerpmon heeft al een soortgelijk soort snoep actief",
@@ -970,7 +970,7 @@
     "changes-to-this-policy-description": "We kunnen dit privacybeleid van tijd tot tijd bijwerken. \nWij zullen u op de hoogte stellen van eventuele wijzigingen door het nieuwe beleid op deze pagina te plaatsen en de ingangsdatum bij te werken.",
     "contact-us": "Neem contact met ons op",
     "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "Als u vragen heeft over dit beleid, kunt u contact met ons opnemen via onze",
-    "information-we-collect": ""
+    "information-we-collect": "Informatie die we verzamelen"
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "Servicevoorwaarden voor Zerpmon",
@@ -1094,13 +1094,15 @@
     "withdrawal-failed": "Intrekking mislukt",
     "withdrawal-request-failed": "Indiening van het intrekkingsverzoek is mislukt",
     "withdrawal-request-success": "Opnameverzoek succesvol ingediend. Uw geld wordt binnenkort verwerkt en overgemaakt naar uw bestemmingsportefeuille.",
-    "confirm-correctness": "",
+    "confirm-correctness": "Ik bevestig dat de door mij verstrekte opnamegegevens correct zijn.",
     "confirm-withdrawal-correctness": "Ik bevestig dat de door mij verstrekte opnamegegevens correct zijn.",
-    "min-deposit": "",
-    "min-withdraw": "",
-    "withdraw-limit-not-met": "",
+    "min-deposit": "Min. storting {bedrag}",
+    "min-withdraw": "Min. opname {bedrag}",
+    "withdraw-limit-not-met": "Het opnamebedrag moet groter zijn dan {amount}",
     "available": "Beschikbaar",
     "refresh": "Vernieuwen",
-    "pending-withdrawal": "Er is nog steeds een uitbetaling in behandeling. Wacht tot dit is voltooid voordat u opnieuw een opnameverzoek indient"
+    "pending-withdrawal": "Er is nog steeds een uitbetaling in behandeling. Wacht tot dit is voltooid voordat u opnieuw een opnameverzoek indient",
+    "invalid-amount": "Ongeldig bedrag. \nHet minimale opnamebedrag is 1.",
+    "withdrew-recently": "Je hebt je in de afgelopen 15 minuten teruggetrokken. \nU kunt niet vaker dan één keer per 15 minuten opnemen."
   }
 }

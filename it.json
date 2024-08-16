@@ -227,10 +227,8 @@
     "rank": "Rango",
     "total": "Totale",
     "back-to-lobby": "Ritorno alla lobby",
-    "back": "Indietro",
     "challenge": "Sfida",
     "inspect": "Ispezionare",
-    "already-battled": "Già combattuto",
     "recent-opponents": "Avversari recenti",
     "no-recent-opponents": "Nessun avversario recente",
     "close-modal": "Chiudi modale",
@@ -263,7 +261,9 @@
     "dmg-done": "DMG fatto:",
     "level": "Livello",
     "trial-rush": "Corsa di prova",
-    "battle-for-free": "Combatti gratuitamente"
+    "battle-for-free": "Combatti gratuitamente",
+    "already-battled": "",
+    "back": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -443,8 +443,8 @@
     "next-deck": "Mazzo successivo",
     "previous-5-slots": "5 slot precedenti",
     "next-5-slots": "Prossimi 5 slot",
-    "set-pvp-deck": "",
-    "set-pvp-deck-success": ""
+    "set-pvp-deck": "Impostato come mazzo PvP",
+    "set-pvp-deck-success": "Impostato con successo come mazzo PvP!"
   },
   "edit-profile": {
     "basic-info": "Informazioni basilari",
@@ -484,9 +484,9 @@
     "trainer-claimed": "Hai rivendicato con successo un allenatore!",
     "xblade-claimed": "Attrezzatura già richiesta",
     "xscape-xblade": "XSCAPE XBLADE",
-    "claim-equipment": "",
-    "equipment-claimed": "",
-    "select-xblade-nft": ""
+    "claim-equipment": "Rivendicare l'attrezzatura",
+    "equipment-claimed": "Hai rivendicato con successo un equipaggiamento!",
+    "select-xblade-nft": "Seleziona NFT Xblade con 5 o più punti"
   },
   "home": {
     "analytics": "Analitica",
@@ -520,7 +520,7 @@
     "zrp-earned-today": "ZRP guadagnato oggi",
     "discord": "Discordia",
     "store": "Negozio",
-    "get-zrp": ""
+    "get-zrp": "Ottieni ZRP"
   },
   "inventory": {
     "candy-active": "Zerpmon ha già attivo un tipo di caramella simile",
@@ -1094,13 +1094,15 @@
     "withdrawal-failed": "Ritiro fallito",
     "withdrawal-request-failed": "L'invio della richiesta di prelievo non è riuscito",
     "withdrawal-request-success": "Richiesta di prelievo inviata con successo. I tuoi fondi verranno elaborati e trasferiti al tuo portafoglio di destinazione a breve.",
-    "confirm-correctness": "",
+    "confirm-correctness": "Confermo che i dettagli di prelievo che ho fornito sono corretti.",
     "confirm-withdrawal-correctness": "Confermo che i dettagli di prelievo che ho fornito sono corretti.",
-    "min-deposit": "",
-    "min-withdraw": "",
-    "withdraw-limit-not-met": "",
+    "min-deposit": "Deposito minimo {importo}",
+    "min-withdraw": "Prelievo minimo {importo}",
+    "withdraw-limit-not-met": "L'importo del prelievo deve essere maggiore di {importo}",
     "available": "Disponibile",
     "refresh": "Aggiorna",
-    "pending-withdrawal": "Hai ancora un prelievo in sospeso. Attendi il completamento prima di inviare un'altra richiesta di prelievo"
+    "pending-withdrawal": "Hai ancora un prelievo in sospeso. Attendi il completamento prima di inviare un'altra richiesta di prelievo",
+    "invalid-amount": "Importo non valido. \nL'importo minimo di prelievo è 1.",
+    "withdrew-recently": "Ti sei ritirato negli ultimi 15 minuti. \nNon puoi prelevare più di una volta ogni 15 minuti."
   }
 }

@@ -172,10 +172,8 @@
     "rank": "Rang",
     "total": "Total",
     "back-to-lobby": "Retour au hall",
-    "back": "Dos",
     "challenge": "Défi",
     "inspect": "Inspecter",
-    "already-battled": "Déjà combattu",
     "recent-opponents": "Adversaires récents",
     "no-recent-opponents": "Aucun adversaire récent",
     "close-modal": "Fermer modale",
@@ -208,7 +206,9 @@
     "dmg-done": "DMG terminé :",
     "level": "Niveau",
     "trial-rush": "Rush d'essai",
-    "battle-for-free": "Combattez gratuitement"
+    "battle-for-free": "Combattez gratuitement",
+    "already-battled": "",
+    "back": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -367,8 +367,8 @@
     "next-deck": "Pont suivant",
     "previous-5-slots": "5 emplacements précédents",
     "next-5-slots": "5 emplacements suivants",
-    "set-pvp-deck": "",
-    "set-pvp-deck-success": ""
+    "set-pvp-deck": "Définir comme deck PvP",
+    "set-pvp-deck-success": "Définir avec succès comme deck PvP !"
   },
   "edit-profile": {
     "basic-info": "Informations de base",
@@ -416,7 +416,7 @@
     "world-boss": "Patron du monde",
     "discord": "Discorde",
     "store": "Magasin",
-    "get-zrp": ""
+    "get-zrp": "Obtenez le ZRP"
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",
@@ -864,9 +864,9 @@
     "xblade-claimed": "Matériel déjà réclamé",
     "invalid-xblades-selected": "Xblades sélectionnés non valides",
     "xscape-xblade": "XSCAPE XBLADE",
-    "claim-equipment": "",
-    "equipment-claimed": "",
-    "select-xblade-nft": ""
+    "claim-equipment": "Réclamation d'équipement",
+    "equipment-claimed": "Vous avez réclamé avec succès un équipement !",
+    "select-xblade-nft": "Sélectionnez les NFT Xblade avec 5 points ou plus"
   },
   "buy-zerpmon": {
     "already-bought": "Vous avez déjà acheté un zerpmon",
@@ -1094,13 +1094,15 @@
     "withdrawal-failed": "Échec du retrait",
     "withdrawal-request-failed": "Échec de la soumission de la demande de retrait",
     "withdrawal-request-success": "Demande de retrait soumise avec succès. Vos fonds seront traités et transférés vers votre portefeuille de destination sous peu.",
-    "confirm-correctness": "",
+    "confirm-correctness": "Je confirme que les détails de retrait que j'ai fournis sont corrects.",
     "confirm-withdrawal-correctness": "Je confirme que les détails de retrait que j'ai fournis sont corrects.",
-    "min-deposit": "",
-    "min-withdraw": "",
-    "withdraw-limit-not-met": "",
+    "min-deposit": "Dépôt minimum {montant}",
+    "min-withdraw": "Retrait minimum {montant}",
+    "withdraw-limit-not-met": "Le montant du retrait doit être supérieur à {amount}",
     "available": "Disponible",
     "refresh": "Rafraîchir",
-    "pending-withdrawal": "Vous avez toujours un retrait en attente. Veuillez attendre qu'il soit terminé avant de soumettre une autre demande de retrait"
+    "pending-withdrawal": "Vous avez toujours un retrait en attente. Veuillez attendre qu'il soit terminé avant de soumettre une autre demande de retrait",
+    "invalid-amount": "Montant invalide. \nLe montant minimum de retrait est de 1.",
+    "withdrew-recently": "Vous vous êtes retiré au cours des 15 dernières minutes. \nVous ne pouvez pas retirer plus d'une fois toutes les 15 minutes."
   }
 }

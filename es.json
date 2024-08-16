@@ -194,8 +194,8 @@
     "next-deck": "Siguiente cubierta",
     "previous-5-slots": "5 espacios anteriores",
     "next-5-slots": "Siguientes 5 espacios",
-    "set-pvp-deck": "",
-    "set-pvp-deck-success": ""
+    "set-pvp-deck": "Establecer como mazo PvP",
+    "set-pvp-deck-success": "¡Configurado correctamente como mazo PvP!"
   },
   "store": {
     "title": "Tienda",
@@ -251,7 +251,7 @@
     "world-boss": "Mundo Jefe",
     "discord": "Discordia",
     "store": "Almacenar",
-    "get-zrp": ""
+    "get-zrp": "Obtener ZRP"
   },
   "leaderboard": {
     "title": "Clasificación",
@@ -535,10 +535,8 @@
     "rank": "Rango",
     "total": "Total",
     "back-to-lobby": "Volver al vestíbulo",
-    "back": "Atrás",
     "challenge": "Desafío",
     "inspect": "Inspeccionar",
-    "already-battled": "Ya luché",
     "recent-opponents": "Oponentes recientes",
     "no-recent-opponents": "Sin oponentes recientes",
     "close-modal": "Cerrar modal",
@@ -571,7 +569,9 @@
     "dmg-done": "Daño hecho:",
     "level": "Nivel",
     "trial-rush": "Fiebre de prueba",
-    "battle-for-free": "Batalla gratis"
+    "battle-for-free": "Batalla gratis",
+    "already-battled": "",
+    "back": ""
   },
   "test": {
     "test": "esto es un test"
@@ -864,9 +864,9 @@
     "xblade-claimed": "Equipo ya reclamado",
     "invalid-xblades-selected": "Xblades seleccionados no válidos",
     "xscape-xblade": "XSCAPE XBLADE",
-    "claim-equipment": "",
-    "equipment-claimed": "",
-    "select-xblade-nft": ""
+    "claim-equipment": "Equipo de reclamo",
+    "equipment-claimed": "¡Has reclamado con éxito un equipo!",
+    "select-xblade-nft": "Seleccione Xblade NFT con 5 o más puntos"
   },
   "buy-zerpmon": {
     "already-bought": "Ya has comprado un zerpmon",
@@ -970,7 +970,7 @@
     "changes-to-this-policy-description": "Podemos actualizar esta política de privacidad de vez en cuando. \nLe notificaremos cualquier cambio publicando la nueva política en esta página y actualizando la fecha de vigencia.",
     "contact-us": "Contáctenos",
     "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "Si tiene alguna pregunta sobre esta política, comuníquese con nosotros a nuestro",
-    "information-we-collect": ""
+    "information-we-collect": "Información que recopilamos"
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "Términos de servicio para Zerpmon",
@@ -1094,13 +1094,15 @@
     "withdrawal-failed": "Retiro fallido",
     "withdrawal-request-failed": "Error al enviar la solicitud de retiro",
     "withdrawal-request-success": "Solicitud de retiro enviada exitosamente. Sus fondos serán procesados ​​y transferidos a su billetera de destino en breve.",
-    "confirm-correctness": "",
+    "confirm-correctness": "Confirmo que los datos de retiro que proporcioné son correctos.",
     "confirm-withdrawal-correctness": "Confirmo que los detalles de retiro que proporcioné son correctos.",
-    "min-deposit": "",
-    "min-withdraw": "",
-    "withdraw-limit-not-met": "",
+    "min-deposit": "Depósito mínimo {cantidad}",
+    "min-withdraw": "Retiro mínimo {cantidad}",
+    "withdraw-limit-not-met": "El monto del retiro debe ser mayor que {amount}",
     "available": "Disponible",
     "refresh": "Refrescar",
-    "pending-withdrawal": "Aún tienes un retiro pendiente. Espere a que se complete antes de enviar otra solicitud de retiro"
+    "pending-withdrawal": "Aún tienes un retiro pendiente. Espere a que se complete antes de enviar otra solicitud de retiro",
+    "invalid-amount": "Cantidad no válida. \nEl monto mínimo de retiro es 1.",
+    "withdrew-recently": "Te has retirado en los últimos 15 minutos. \nNo puedes retirar más de una vez cada 15 minutos."
   }
 }
