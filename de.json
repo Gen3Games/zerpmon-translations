@@ -577,8 +577,8 @@
     "level": "Ebene",
     "trial-rush": "Proberausch",
     "battle-for-free": "Kämpfe kostenlos",
-    "already-battled": "",
-    "back": ""
+    "already-battled": "Bereits gekämpft",
+    "back": "Zurück"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -976,8 +976,7 @@
     "changes-to-this-policy": "Änderungen an dieser Richtlinie",
     "changes-to-this-policy-description": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. \nWir werden Sie über alle Änderungen informieren, indem wir die neue Richtlinie auf dieser Seite veröffentlichen und das Datum des Inkrafttretens aktualisieren.",
     "contact-us": "Kontaktiere uns",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "Wenn Sie Fragen zu dieser Richtlinie haben, kontaktieren Sie uns bitte unter unserer",
-    "nformation-we-collect": ""
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "Wenn Sie Fragen zu dieser Richtlinie haben, kontaktieren Sie uns bitte unter unserer"
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "Nutzungsbedingungen für Zerpmon",
@@ -1109,7 +1108,7 @@
     "available": "Verfügbar",
     "refresh": "Aktualisieren",
     "pending-withdrawal": "Sie haben noch eine ausstehende Auszahlung. Bitte warten Sie, bis der Vorgang abgeschlossen ist, bevor Sie eine weitere Auszahlungsanforderung einreichen",
-    "invalid-amount": "",
-    "withdrew-recently": ""
+    "invalid-amount": "Ungültiger Betrag. \nDer Mindestauszahlungsbetrag beträgt 1.",
+    "withdrew-recently": "Sie haben sich innerhalb der letzten 15 Minuten zurückgezogen. \nSie können nicht mehr als einmal alle 15 Minuten abheben."
   }
 }

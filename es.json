@@ -577,8 +577,8 @@
     "level": "Nivel",
     "trial-rush": "Fiebre de prueba",
     "battle-for-free": "Batalla gratis",
-    "already-battled": "",
-    "back": ""
+    "already-battled": "Ya luché",
+    "back": "Atrás"
   },
   "test": {
     "test": "esto es un test"
@@ -950,7 +950,6 @@
     "effective-date": "Fecha efectiva",
     "privacy-policy-description": "¡Bienvenidos a Zerpmon! \nEstamos comprometidos a proteger su privacidad. \nEsta Política de Privacidad explica cómo recopilamos, utilizamos y compartimos información sobre usted cuando utiliza nuestro sitio web, nuestra aplicación móvil y nuestros servicios.",
     "introduction": "Introducción",
-    "nformation-we-collect": "Información que recopilamos",
     "personal-information": "Informacion personal",
     "personal-information-description": "Esto incluye información que usted nos proporciona directamente, como su nombre, dirección de correo electrónico e información de pago cuando se registra para obtener una cuenta, participa en nuestros juegos o realiza transacciones.",
     "usage-information": "Información de uso",

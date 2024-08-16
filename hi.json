@@ -167,8 +167,8 @@
     "level": "स्तर",
     "trial-rush": "ट्रायल रश",
     "battle-for-free": "मुफ़्त में लड़ाई",
-    "already-battled": "",
-    "back": ""
+    "already-battled": "पहले ही युद्ध कर चुके हैं",
+    "back": "पीछे"
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
@@ -976,8 +976,7 @@
     "changes-to-this-policy": "इस नीति में परिवर्तन",
     "changes-to-this-policy-description": "हम इस गोपनीयता नीति को समय-समय पर अद्यतन कर सकते हैं। \nहम इस पृष्ठ पर नई नीति पोस्ट करके और प्रभावी तिथि अपडेट करके आपको किसी भी बदलाव के बारे में सूचित करेंगे।",
     "contact-us": "संपर्क करें",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "यदि इस नीति के बारे में आपके कोई प्रश्न हैं, तो कृपया हमसे यहां संपर्क करें",
-    "nformation-we-collect": ""
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "यदि इस नीति के बारे में आपके कोई प्रश्न हैं, तो कृपया हमसे यहां संपर्क करें"
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "ज़र्पमोन के लिए सेवा की शर्तें",

@@ -577,8 +577,8 @@
     "level": "수준",
     "trial-rush": "시험 러쉬",
     "battle-for-free": "무료 전투",
-    "already-battled": "",
-    "back": ""
+    "already-battled": "이미 전투를 벌였습니다",
+    "back": "뒤쪽에"
   },
   "test": {
     "test": "테스트입니다."
@@ -950,7 +950,6 @@
     "effective-date": "발효일",
     "privacy-policy-description": "저르몬에 오신 것을 환영합니다! \n우리는 귀하의 개인 정보를 보호하기 위해 최선을 다하고 있습니다. \n본 개인정보 보호정책은 귀하가 당사 웹사이트, 모바일 앱 및 서비스를 사용할 때 귀하에 대한 정보를 수집, 사용 및 공유하는 방법을 설명합니다.",
     "introduction": "소개",
-    "nformation-we-collect": "우리가 수집하는 정보",
     "personal-information": "개인 정보",
     "personal-information-description": "여기에는 귀하가 계정 등록, 게임 참여 또는 거래 시 귀하의 이름, 이메일 주소, 결제 정보 등 귀하가 당사에 직접 제공하는 정보가 포함됩니다.",
     "usage-information": "이용정보",

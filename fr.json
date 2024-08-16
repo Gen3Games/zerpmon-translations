@@ -207,8 +207,8 @@
     "level": "Niveau",
     "trial-rush": "Rush d'essai",
     "battle-for-free": "Combattez gratuitement",
-    "already-battled": "",
-    "back": ""
+    "already-battled": "Déjà combattu",
+    "back": "Dos"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -976,8 +976,7 @@
     "changes-to-this-policy": "Modifications de cette politique",
     "changes-to-this-policy-description": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. \nNous vous informerons de tout changement en publiant la nouvelle politique sur cette page et en mettant à jour la date d'entrée en vigueur.",
     "contact-us": "Contactez-nous",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "Si vous avez des questions concernant cette politique, veuillez nous contacter à notre",
-    "nformation-we-collect": ""
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "Si vous avez des questions concernant cette politique, veuillez nous contacter à notre"
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "Conditions d’utilisation de Zerpmon",

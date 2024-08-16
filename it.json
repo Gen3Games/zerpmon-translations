@@ -262,8 +262,8 @@
     "level": "Livello",
     "trial-rush": "Corsa di prova",
     "battle-for-free": "Combatti gratuitamente",
-    "already-battled": "",
-    "back": ""
+    "already-battled": "Già combattuto",
+    "back": "Indietro"
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -976,8 +976,7 @@
     "changes-to-this-policy": "Modifiche a questa politica",
     "changes-to-this-policy-description": "Potremmo aggiornare la presente informativa sulla privacy di tanto in tanto. \nTi informeremo di eventuali modifiche pubblicando la nuova politica su questa pagina e aggiornando la data di entrata in vigore.",
     "contact-us": "Contattaci",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "In caso di domande su questa politica, contattaci al ns",
-    "nformation-we-collect": ""
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "In caso di domande su questa politica, contattaci al ns"
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "Termini di servizio per Zerpmon",

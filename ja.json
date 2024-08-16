@@ -577,8 +577,8 @@
     "level": "レベル",
     "trial-rush": "トライアルラッシュ",
     "battle-for-free": "無料でバトル",
-    "already-battled": "",
-    "back": ""
+    "already-battled": "すでに戦闘済み",
+    "back": "戻る"
   },
   "test": {
     "test": "これはテストです"
@@ -976,8 +976,7 @@
     "changes-to-this-policy": "このポリシーの変更",
     "changes-to-this-policy-description": "当社は、このプライバシー ポリシーを随時更新することがあります。\n変更があった場合は、このページに新しいポリシーを掲載し、発効日を更新することでお知らせします。",
     "contact-us": "お問い合わせ",
-    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "このポリシーについてご質問がある場合は、弊社までお問い合わせください。",
-    "nformation-we-collect": ""
+    "if-you-have-any-questions-about-this-policy-please-contact-us-at-our": "このポリシーについてご質問がある場合は、弊社までお問い合わせください。"
   },
   "terms-of-service": {
     "terms-of-service-for-zerpmon": "ゼルモン利用規約",

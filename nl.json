@@ -262,8 +262,8 @@
     "level": "Niveau",
     "trial-rush": "Proefdruk",
     "battle-for-free": "Strijd gratis",
-    "already-battled": "",
-    "back": ""
+    "already-battled": "Al gevochten",
+    "back": "Rug"
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -950,7 +950,6 @@
     "effective-date": "Ingangsdatum",
     "privacy-policy-description": "Welkom bij Zerpmon! \nWij doen er alles aan om uw privacy te beschermen. \nIn dit privacybeleid wordt uitgelegd hoe wij informatie over u verzamelen, gebruiken en delen wanneer u onze website, mobiele app en diensten gebruikt.",
     "introduction": "Invoering",
-    "nformation-we-collect": "informatie die we verzamelen",
     "personal-information": "Persoonlijke informatie",
     "personal-information-description": "Dit omvat informatie die u rechtstreeks aan ons verstrekt, zoals uw naam, e-mailadres en betalingsinformatie wanneer u zich registreert voor een account, deelneemt aan onze spellen of transacties uitvoert.",
     "usage-information": "Gebruiksinformatie",
