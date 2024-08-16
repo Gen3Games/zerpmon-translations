@@ -878,7 +878,9 @@
     "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi.",
     "variants": "Varianti",
     "xrp-store": "Negozio XRP",
-    "zrp-store": "Negozio ZRP"
+    "zrp-store": "Negozio ZRP",
+    "purchase-and-spin": "Acquista e gira",
+    "pay-with-xaman": "Paga con Xaman"
   },
   "test": {
     "test": "questa è una prova"

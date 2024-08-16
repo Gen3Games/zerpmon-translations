@@ -218,7 +218,9 @@
     "trainer-spec-payment-confirmed": "Your payment transaction was successful and {trainer} has now acquired {buffType}.",
     "buy-confirmation-message": "Are you sure you want to buy {item} ?",
     "ascend-payment-tx-confirmed": "Your payment transaction was successful and {zerpmonName} has been ascended.",
-    "confirm-ascend": "Are you sure you want to ascend {zerpmonName} ?"
+    "confirm-ascend": "Are you sure you want to ascend {zerpmonName} ?",
+    "purchase-and-spin": "Purchase and Spin",
+    "pay-with-xaman": "Pay with Xaman"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",

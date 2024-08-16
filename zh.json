@@ -218,7 +218,9 @@
     "trainer-spec-payment-confirmed": "您的付款交易已成功，{trainer} 现已获取 {buffType}。",
     "buy-confirmation-message": "您确定要购买{item}吗？",
     "ascend-payment-tx-confirmed": "您的付款交易已成功，并且 {zerpmonName} 已提升。",
-    "confirm-ascend": "您确定要提升 {zerpmonName} 吗？"
+    "confirm-ascend": "您确定要提升 {zerpmonName} 吗？",
+    "purchase-and-spin": "购买和旋转",
+    "pay-with-xaman": "使用 Xaman 支付"
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

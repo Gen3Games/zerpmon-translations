@@ -878,7 +878,9 @@
     "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
     "variants": "Varianten",
     "xrp-store": "XRP-winkel",
-    "zrp-store": "ZRP-winkel"
+    "zrp-store": "ZRP-winkel",
+    "purchase-and-spin": "Kopen en draaien",
+    "pay-with-xaman": "Betaal met Xaman"
   },
   "test": {
     "test": "dit is een test"
