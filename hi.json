@@ -797,7 +797,13 @@
     "you-have-won-zerpmon": "आपने एक यादृच्छिक ज़र्पमोन जीता है",
     "zerpmon": "ज़र्पमोन",
     "zrp-earned-from-jackpot": "आपने जैकपॉट जीत लिया! \nZRP ने जैकपॉट से कमाई की",
-    "zrp-sent-to-jackpot": "ZRP को जैकपॉट में भेजा गया"
+    "zrp-sent-to-jackpot": "ZRP को जैकपॉट में भेजा गया",
+    "zerpboxes": "ज़र्पबॉक्स",
+    "zerpboxes-description-line-1": "नोट: ये प्रत्येक ज़र्पबॉक्स में प्रति स्पून पंक्ति की संभावनाएँ हैं",
+    "zerpboxes-description-line-2": "प्रत्येक ज़र्पबॉक्स में पुरस्कारों की 3 पंक्तियाँ होती हैं।",
+    "select": "चुनना",
+    "see-potential-rewards": "संभावित पुरस्कार देखें",
+    "potential-rewards": "संभावित पुरस्कार"
   },
   "settings": {
     "gameplay": "गेमप्ले",

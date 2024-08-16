@@ -400,7 +400,13 @@
     "rewards-table-chance-3-rolls": "Posibilidad por 3 rollos",
     "rewards-table-chance-1-roll-short": "CP1",
     "rewards-table-chance-3-rolls-short": "CP3",
-    "rewards-table-value-xrp": "Valor en XRP"
+    "rewards-table-value-xrp": "Valor en XRP",
+    "zerpboxes": "Zerpboxes",
+    "zerpboxes-description-line-1": "Nota: Estas son las posibilidades por fila hilada en cada Zerpbox",
+    "zerpboxes-description-line-2": "Cada Zerpbox contiene 3 filas de recompensas.",
+    "select": "Seleccionar",
+    "see-potential-rewards": "Ver recompensas potenciales",
+    "potential-rewards": "Recompensas potenciales"
   },
   "battle": {
     "title": "Batalla",

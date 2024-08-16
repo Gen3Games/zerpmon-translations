@@ -797,7 +797,13 @@
     "you-have-won-zerpmon": "Je hebt een willekeurige Zerpmon gewonnen",
     "zerpmon": "Zerpmon",
     "zrp-earned-from-jackpot": "Jij hebt de jackpot gewonnen! \nZRP verdiend met jackpot",
-    "zrp-sent-to-jackpot": "ZRP Verzonden naar Jackpot"
+    "zrp-sent-to-jackpot": "ZRP Verzonden naar Jackpot",
+    "zerpboxes": "Zerpboxes",
+    "zerpboxes-description-line-1": "Let op: Dit zijn de kansen per gedraaide rij in elke Zerpbox",
+    "zerpboxes-description-line-2": "Elke Zerpbox bevat 3 rijen beloningen.",
+    "select": "Selecteer",
+    "see-potential-rewards": "Zie Potentiële beloningen",
+    "potential-rewards": "Potentiële beloningen"
   },
   "settings": {
     "gameplay": "Gameplay",

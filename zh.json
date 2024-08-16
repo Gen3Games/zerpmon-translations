@@ -400,7 +400,13 @@
     "rewards-table-chance-3-rolls": "每 3 卷的几率",
     "rewards-table-chance-1-roll-short": "CP1",
     "rewards-table-chance-3-rolls-short": "CP3",
-    "rewards-table-value-xrp": "瑞波币价值"
+    "rewards-table-value-xrp": "瑞波币价值",
+    "zerpboxes": "泽普盒子",
+    "zerpboxes-description-line-1": "注意：这些是每个 Zerpbox 中每个旋转行的机会",
+    "zerpboxes-description-line-2": "每个 Zerpbox 包含 3 行奖励。",
+    "select": "选择",
+    "see-potential-rewards": "查看潜在奖励",
+    "potential-rewards": "潜在的回报"
   },
   "battle": {
     "title": "战斗",

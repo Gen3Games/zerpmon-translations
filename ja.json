@@ -400,7 +400,13 @@
     "rewards-table-chance-3-rolls": "3 ロールごとのチャンス",
     "rewards-table-chance-1-roll-short": "CP1",
     "rewards-table-chance-3-rolls-short": "CP3",
-    "rewards-table-value-xrp": "XRPでの価値"
+    "rewards-table-value-xrp": "XRPでの価値",
+    "zerpboxes": "ゼルプボックス",
+    "zerpboxes-description-line-1": "注: これらは、各 Zerpbox のスピン列ごとの確率です。",
+    "zerpboxes-description-line-2": "各 Zerpbox には 3 行の報酬が含まれています。",
+    "select": "選択",
+    "see-potential-rewards": "潜在的な報酬を確認する",
+    "potential-rewards": "潜在的な報酬"
   },
   "battle": {
     "title": "バトル",

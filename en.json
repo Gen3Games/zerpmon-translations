@@ -400,7 +400,13 @@
     "rewards-table-chance-3-rolls": "Chance Per 3 Rolls",
     "rewards-table-chance-1-roll-short": "CP1",
     "rewards-table-chance-3-rolls-short": "CP3",
-    "rewards-table-value-xrp": "Value in XRP"
+    "rewards-table-value-xrp": "Value in XRP",
+    "zerpboxes": "Zerpboxes",
+    "zerpboxes-description-line-1": "Note: These are the chances per spun row in each Zerpbox",
+    "zerpboxes-description-line-2": "Each Zerpbox contains 3 rows of rewards.",
+    "select": "Select",
+    "see-potential-rewards": "See Potential Rewards",
+    "potential-rewards": "Potential Rewards"
   },
   "battle": {
     "title": "Battle",

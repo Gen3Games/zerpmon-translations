@@ -400,7 +400,13 @@
     "rewards-table-chance-3-rolls": "Chance bei 3 Versuchen",
     "rewards-table-chance-1-roll-short": "CP1",
     "rewards-table-chance-3-rolls-short": "CP3",
-    "rewards-table-value-xrp": "Wert in XRP"
+    "rewards-table-value-xrp": "Wert in XRP",
+    "zerpboxes": "Zerpboxes",
+    "zerpboxes-description-line-1": "Hinweis: Dies sind die Chancen pro gedrehter Reihe in jeder Zerpbox",
+    "zerpboxes-description-line-2": "Jede Zerpbox enthält 3 Reihen mit Belohnungen.",
+    "select": "Wählen",
+    "see-potential-rewards": "Siehe Mögliche Belohnungen",
+    "potential-rewards": "Mögliche Belohnungen"
   },
   "battle": {
     "title": "Arena",
@@ -569,7 +575,9 @@
     "dmg-done": "DMG erledigt:",
     "level": "Ebene",
     "trial-rush": "Proberausch",
-    "battle-for-free": "Kämpfe kostenlos"
+    "battle-for-free": "Kämpfe kostenlos",
+    "already-battled": "",
+    "back": ""
   },
   "test": {
     "test": "Dies ist ein Test"
