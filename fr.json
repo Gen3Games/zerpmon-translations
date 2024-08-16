@@ -710,7 +710,8 @@
     "store": "Magasin",
     "forge": "Forger",
     "mint": "menthe",
-    "hide-sidebar": "Cacher"
+    "hide-sidebar": "Cacher",
+    "Zerpboxes": ""
   },
   "sign-in": {
     "button-label": "Se connecter",
