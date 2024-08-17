@@ -71,7 +71,8 @@
     "xrpl-social": "XRPL 소셜",
     "xrpl-social-description": "Kaiju Wallet을 통한 Web2 XRPL 로그인",
     "the-root-network": "루트 네트워크",
-    "the-root-network-description": "Futurepass 제공"
+    "the-root-network-description": "Futurepass 제공",
+    "futurepass-is-coming-soon": "Futurepass가 곧 Zermon에 출시됩니다."
   },
   "user-profile": {
     "trainers": "트레이너",

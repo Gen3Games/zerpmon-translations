@@ -864,7 +864,8 @@
     "xrpl-social": "XRPL sociaal",
     "xrpl-social-description": "Web2 XRPL-login door Kaiju Wallet",
     "the-root-network": "Het rootnetwerk",
-    "the-root-network-description": "Mogelijk gemaakt door Futurepass"
+    "the-root-network-description": "Mogelijk gemaakt door Futurepass",
+    "futurepass-is-coming-soon": "Futurepass komt binnenkort naar Zerpmon"
   },
   "store": {
     "ascend-payment-tx-confirmed": "Je betalingstransactie is succesvol verlopen en {zerpmonName} is gestegen.",
