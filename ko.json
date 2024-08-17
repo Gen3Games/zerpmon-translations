@@ -64,7 +64,14 @@
     "sign-in-with-xaman": "Xaman으로 로그인",
     "signed-in-using-kaiju-wallet": "방금 Kaiju Wallet에 로그인하셨습니다.",
     "twitter": "엑스(트위터)",
-    "facebook": "페이스북"
+    "facebook": "페이스북",
+    "signin-to-zerpmon": "Zermon에 로그인",
+    "xrpl-wallets": "XRPL 지갑",
+    "xrpl-wallets-description": "XRP Ledger의 자체 보관 지갑",
+    "xrpl-social": "XRPL 소셜",
+    "xrpl-social-description": "Kaiju Wallet이 제공하는 XRPL의 관리형 소셜 로그인",
+    "the-root-network": "루트 네트워크",
+    "the-root-network-description": "Futurepass"
   },
   "user-profile": {
     "trainers": "트레이너",

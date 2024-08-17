@@ -64,7 +64,14 @@
     "sign-in-with-xaman": "Iniciar sesión con Xaman",
     "signed-in-using-kaiju-wallet": "Acabas de iniciar sesión en Kaiju Wallet",
     "twitter": "X (Twitter)",
-    "facebook": "Facebook"
+    "facebook": "Facebook",
+    "signin-to-zerpmon": "Iniciar sesión en Zerpmon",
+    "xrpl-wallets": "Carteras XRPL",
+    "xrpl-wallets-description": "Carteras de autocustodia en XRP Ledger",
+    "xrpl-social": "XRPL Sociales",
+    "xrpl-social-description": "Inicios de sesión sociales de custodia en XRPL con tecnología de Kaiju Wallet",
+    "the-root-network": "La red raíz",
+    "the-root-network-description": "Futurepass"
   },
   "user-profile": {
     "trainers": "Entrenadores",

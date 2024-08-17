@@ -64,7 +64,14 @@
     "sign-in-with-xaman": "使用 Xaman 登录",
     "signed-in-using-kaiju-wallet": "您刚刚使用 Kaiju 钱包登录",
     "twitter": "X（推特）",
-    "facebook": "Facebook"
+    "facebook": "Facebook",
+    "signin-to-zerpmon": "登录泽拉兽",
+    "xrpl-wallets": "XRPL 钱包",
+    "xrpl-wallets-description": "XRP Ledger 上的自助钱包",
+    "xrpl-social": "XRPL 社交",
+    "xrpl-social-description": "由 Kaiju 钱包支持的 XRPL 上的托管社交登录",
+    "the-root-network": "根网络",
+    "the-root-network-description": "Futurepass"
   },
   "user-profile": {
     "trainers": "训练师",

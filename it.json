@@ -856,7 +856,14 @@
     "xumm": "Xaman",
     "xumm-qr-modal-title": "Scansiona il codice QR con Xaman",
     "xumm-sign-in-failed": "Impossibile accedere con il portafoglio Xaman. \nControlla l'app Xaman.",
-    "xumm-sign-in-success": "Hai effettuato l'accesso con Xaman con successo"
+    "xumm-sign-in-success": "Hai effettuato l'accesso con Xaman con successo",
+    "signin-to-zerpmon": "Accedi a Zerpmon",
+    "xrpl-wallets": "Portafogli XRPL",
+    "xrpl-wallets-description": "Portafogli di autocustodia su XRP Ledger",
+    "xrpl-social": "XRPL sociale",
+    "xrpl-social-description": "Accessi sociali custodiali su XRPL forniti da Kaiju Wallet",
+    "the-root-network": "La rete delle radici",
+    "the-root-network-description": "Futurepass"
   },
   "store": {
     "ascend-payment-tx-confirmed": "La tua transazione di pagamento è andata a buon fine e {zerpmonName} è stato elevato.",

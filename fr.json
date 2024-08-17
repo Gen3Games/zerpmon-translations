@@ -737,7 +737,14 @@
     "sign-in-with-xaman": "Connectez-vous avec Xaman",
     "signed-in-using-kaiju-wallet": "Vous venez de vous connecter avec Kaiju Wallet",
     "twitter": "X (Twitter)",
-    "facebook": "Facebook"
+    "facebook": "Facebook",
+    "signin-to-zerpmon": "Connectez-vous à Zerpmon",
+    "xrpl-wallets": "Portefeuilles XRPL",
+    "xrpl-wallets-description": "Portefeuilles de garde autonome sur XRP Ledger",
+    "xrpl-social": "XRPL Social",
+    "xrpl-social-description": "Connexions sociales de garde sur XRPL optimisées par Kaiju Wallet",
+    "the-root-network": "Le réseau racine",
+    "the-root-network-description": "Futurepass"
   },
   "store": {
     "buy-now": "Acheter maintenant",
