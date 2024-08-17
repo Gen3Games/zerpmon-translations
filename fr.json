@@ -461,7 +461,8 @@
     "used-revive-potion": "Vous avez utilisé avec succès la potion de réanimation",
     "zerpmon-maxed-out": "Zerpmon est déjà au maximum",
     "level-30": "Niveau 30",
-    "level": "Niveau"
+    "level": "Niveau",
+    "go-to-zerpbox": ""
   },
   "leaderboard-table": {
     "close": "Fermer",

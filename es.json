@@ -369,7 +369,8 @@
     "gym-refill-active": "Esto desperdiciaría una poción de repuesto para el gimnasio.",
     "no-double-xp-potion": "No se encontró ninguna poción de doble XP entre tus posesiones.",
     "level-30": "Nivel 30",
-    "level": "Nivel"
+    "level": "Nivel",
+    "go-to-zerpbox": ""
   },
   "safari": {
     "title": "Safari",

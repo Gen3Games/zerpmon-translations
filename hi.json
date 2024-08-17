@@ -565,7 +565,8 @@
     "used-revive-potion": "आपने रिवाइव पोशन का सफलतापूर्वक उपयोग किया है",
     "zerpmon-maxed-out": "ज़र्पमोन पहले ही अधिकतम हो चुका है",
     "level-30": "स्तर 30",
-    "level": "स्तर"
+    "level": "स्तर",
+    "go-to-zerpbox": ""
   },
   "leaderboard-table": {
     "close": "बंद करना",

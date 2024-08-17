@@ -565,7 +565,8 @@
     "used-revive-potion": "Je hebt Revive Potion met succes gebruikt",
     "zerpmon-maxed-out": "Zerpmon is al op zijn maximum",
     "level-30": "Niveau 30",
-    "level": "Niveau"
+    "level": "Niveau",
+    "go-to-zerpbox": ""
   },
   "leaderboard-table": {
     "close": "Dichtbij",

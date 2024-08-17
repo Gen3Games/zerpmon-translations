@@ -369,7 +369,8 @@
     "gym-refill-active": "这会浪费健身房补充药水",
     "no-double-xp-potion": "在您的藏品下找不到双倍经验药水",
     "level-30": "30级",
-    "level": "等级"
+    "level": "等级",
+    "go-to-zerpbox": ""
   },
   "safari": {
     "title": "Safari探险",

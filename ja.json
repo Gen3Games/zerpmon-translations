@@ -369,7 +369,8 @@
     "gym-refill-active": "これではジムの補充ポーションが無駄になります",
     "no-double-xp-potion": "所持品の下にダブル XP ポーションが見つかりません",
     "level-30": "レベル30",
-    "level": "レベル"
+    "level": "レベル",
+    "go-to-zerpbox": ""
   },
   "safari": {
     "title": "サファリ",

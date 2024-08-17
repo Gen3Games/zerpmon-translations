@@ -565,7 +565,8 @@
     "used-revive-potion": "Hai utilizzato con successo la pozione rivitalizzante",
     "zerpmon-maxed-out": "Zerpmon è già al limite",
     "level-30": "Livello 30",
-    "level": "Livello"
+    "level": "Livello",
+    "go-to-zerpbox": ""
   },
   "leaderboard-table": {
     "close": "Vicino",
