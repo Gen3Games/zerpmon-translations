@@ -369,7 +369,8 @@
     "gym-refill-active": "이것은 체육관 리필 물약을 낭비하는 것입니다",
     "no-double-xp-potion": "귀하의 소유물에서 두 배의 경험치 물약을 찾을 수 없습니다.",
     "level-30": "레벨 30",
-    "level": "수준"
+    "level": "수준",
+    "go-to-zerpbox": ""
   },
   "safari": {
     "title": "사파리",

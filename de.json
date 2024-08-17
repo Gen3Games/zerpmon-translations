@@ -369,7 +369,8 @@
     "gym-refill-active": "Die Verwendung würde einen Trainings-Nachfülltrank verschwenden",
     "no-double-xp-potion": "Keinen EP-Verdopplungstrank in deinem Bestand gefunden",
     "level-30": "Stufe 30",
-    "level": "Ebene"
+    "level": "Ebene",
+    "go-to-zerpbox": ""
   },
   "safari": {
     "title": "Safari",
