@@ -742,9 +742,9 @@
     "xrpl-wallets": "Portefeuilles XRPL",
     "xrpl-wallets-description": "Portefeuilles de garde autonome sur XRP Ledger",
     "xrpl-social": "XRPL Social",
-    "xrpl-social-description": "Connexions sociales de garde sur XRPL optimisées par Kaiju Wallet",
+    "xrpl-social-description": "Connexion Web2 XRPL par Kaiju Wallet",
     "the-root-network": "Le réseau racine",
-    "the-root-network-description": "Futurepass"
+    "the-root-network-description": "Propulsé par Futurepass"
   },
   "store": {
     "buy-now": "Acheter maintenant",

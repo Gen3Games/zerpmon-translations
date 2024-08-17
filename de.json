@@ -69,9 +69,9 @@
     "xrpl-wallets": "XRPL-Geldbörsen",
     "xrpl-wallets-description": "Selbstverwahrende Wallets auf XRP Ledger",
     "xrpl-social": "XRPL Social",
-    "xrpl-social-description": "Verwahrte soziale Anmeldungen auf XRPL, unterstützt von Kaiju Wallet",
+    "xrpl-social-description": "Web2 XRPL-Anmeldung über Kaiju Wallet",
     "the-root-network": "Das Root-Netzwerk",
-    "the-root-network-description": "Futurepass"
+    "the-root-network-description": "Unterstützt von Futurepass"
   },
   "user-profile": {
     "trainers": "Trainer",

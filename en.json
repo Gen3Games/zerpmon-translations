@@ -69,9 +69,9 @@
     "xrpl-wallets": "XRPL Wallets",
     "xrpl-wallets-description": "Self-custody wallets on XRP Ledger",
     "xrpl-social": "XRPL Social",
-    "xrpl-social-description": "Custodial social logins on XRPL powered by Kaiju Wallet",
+    "xrpl-social-description": "Web2 XRPL login by Kaiju Wallet",
     "the-root-network": "The Root Network",
-    "the-root-network-description": "Futurepass"
+    "the-root-network-description": "Powered by Futurepass"
   },
   "user-profile": {
     "trainers": "Trainers",

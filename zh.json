@@ -69,9 +69,9 @@
     "xrpl-wallets": "XRPL 钱包",
     "xrpl-wallets-description": "XRP Ledger 上的自助钱包",
     "xrpl-social": "XRPL 社交",
-    "xrpl-social-description": "由 Kaiju 钱包支持的 XRPL 上的托管社交登录",
+    "xrpl-social-description": "通过 Kaiju Wallet 登录 Web2 XRPL",
     "the-root-network": "根网络",
-    "the-root-network-description": "Futurepass"
+    "the-root-network-description": "由 Futurepass 提供支持"
   },
   "user-profile": {
     "trainers": "训练师",

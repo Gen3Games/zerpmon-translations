@@ -69,9 +69,9 @@
     "xrpl-wallets": "XRPLウォレット",
     "xrpl-wallets-description": "XRP Ledgerのセルフカストディウォレット",
     "xrpl-social": "XRPLソーシャル",
-    "xrpl-social-description": "Kaiju Wallet を利用した XRPL での保管ソーシャル ログイン",
+    "xrpl-social-description": "Kaiju Wallet による Web2 XRPL ログイン",
     "the-root-network": "ルートネットワーク",
-    "the-root-network-description": "Futurepass"
+    "the-root-network-description": "フューチャーパス搭載"
   },
   "user-profile": {
     "trainers": "トレーナー",

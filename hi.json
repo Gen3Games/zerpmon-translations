@@ -861,9 +861,9 @@
     "xrpl-wallets": "एक्सआरपीएल वॉलेट",
     "xrpl-wallets-description": "एक्सआरपी लेजर पर स्व-अभिरक्षा वॉलेट",
     "xrpl-social": "एक्सआरपीएल सोशल",
-    "xrpl-social-description": "काइजू वॉलेट द्वारा संचालित एक्सआरपीएल पर कस्टोडियल सोशल लॉगिन",
+    "xrpl-social-description": "काइजू वॉलेट द्वारा वेब2 एक्सआरपीएल लॉगिन",
     "the-root-network": "रूट नेटवर्क",
-    "the-root-network-description": "Futurepass"
+    "the-root-network-description": "फ़्यूचरपास द्वारा संचालित"
   },
   "store": {
     "ascend-payment-tx-confirmed": "आपका भुगतान लेनदेन सफल रहा और {zerpmonName} चढ़ गया है।",

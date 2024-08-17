@@ -69,9 +69,9 @@
     "xrpl-wallets": "Carteras XRPL",
     "xrpl-wallets-description": "Carteras de autocustodia en XRP Ledger",
     "xrpl-social": "XRPL Sociales",
-    "xrpl-social-description": "Inicios de sesión sociales de custodia en XRPL con tecnología de Kaiju Wallet",
+    "xrpl-social-description": "Inicio de sesión Web2 XRPL mediante Kaiju Wallet",
     "the-root-network": "La red raíz",
-    "the-root-network-description": "Futurepass"
+    "the-root-network-description": "Desarrollado por Futurepass"
   },
   "user-profile": {
     "trainers": "Entrenadores",

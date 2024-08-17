@@ -861,9 +861,9 @@
     "xrpl-wallets": "Portafogli XRPL",
     "xrpl-wallets-description": "Portafogli di autocustodia su XRP Ledger",
     "xrpl-social": "XRPL sociale",
-    "xrpl-social-description": "Accessi sociali custodiali su XRPL forniti da Kaiju Wallet",
+    "xrpl-social-description": "Accesso Web2 XRPL da Kaiju Wallet",
     "the-root-network": "La rete delle radici",
-    "the-root-network-description": "Futurepass"
+    "the-root-network-description": "Alimentato da Futurepass"
   },
   "store": {
     "ascend-payment-tx-confirmed": "La tua transazione di pagamento è andata a buon fine e {zerpmonName} è stato elevato.",
