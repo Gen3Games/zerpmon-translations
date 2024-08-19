@@ -431,7 +431,13 @@
     "zerpboxes-description-line-2": "각 Zerpbox에는 3줄의 보상이 포함되어 있습니다.",
     "select": "선택하다",
     "see-potential-rewards": "잠재적인 보상 보기",
-    "potential-rewards": "잠재적인 보상"
+    "potential-rewards": "잠재적인 보상",
+    "your-recent-safari-winnings": "",
+    "no-safari-winnings": "",
+    "box-type": "",
+    "winnings-col": "",
+    "zrp-won": "",
+    "spin-time": ""
   },
   "battle": {
     "title": "배틀",

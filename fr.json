@@ -693,7 +693,13 @@
     "zerpboxes-description-line-2": "Chaque Zerpbox contient 3 rangées de récompenses.",
     "select": "Sélectionner",
     "see-potential-rewards": "Voir les récompenses potentielles",
-    "potential-rewards": "Récompenses potentielles"
+    "potential-rewards": "Récompenses potentielles",
+    "your-recent-safari-winnings": "",
+    "no-safari-winnings": "",
+    "box-type": "",
+    "winnings-col": "",
+    "zrp-won": "",
+    "spin-time": ""
   },
   "sidebar": {
     "analytics": "Analytique",

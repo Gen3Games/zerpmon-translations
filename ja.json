@@ -431,7 +431,13 @@
     "zerpboxes-description-line-2": "各 Zerpbox には 3 行の報酬が含まれています。",
     "select": "選択",
     "see-potential-rewards": "潜在的な報酬を確認する",
-    "potential-rewards": "潜在的な報酬"
+    "potential-rewards": "潜在的な報酬",
+    "your-recent-safari-winnings": "",
+    "no-safari-winnings": "",
+    "box-type": "",
+    "winnings-col": "",
+    "zrp-won": "",
+    "spin-time": ""
   },
   "battle": {
     "title": "バトル",

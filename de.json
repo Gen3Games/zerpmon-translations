@@ -431,7 +431,13 @@
     "zerpboxes-description-line-2": "Jede Zerpbox enthält 3 Reihen mit Belohnungen.",
     "select": "Wählen",
     "see-potential-rewards": "Siehe Mögliche Belohnungen",
-    "potential-rewards": "Mögliche Belohnungen"
+    "potential-rewards": "Mögliche Belohnungen",
+    "your-recent-safari-winnings": "",
+    "no-safari-winnings": "",
+    "box-type": "",
+    "winnings-col": "",
+    "zrp-won": "",
+    "spin-time": ""
   },
   "battle": {
     "title": "Arena",

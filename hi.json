@@ -804,7 +804,13 @@
     "zerpboxes-description-line-2": "प्रत्येक ज़र्पबॉक्स में पुरस्कारों की 3 पंक्तियाँ होती हैं।",
     "select": "चुनना",
     "see-potential-rewards": "संभावित पुरस्कार देखें",
-    "potential-rewards": "संभावित पुरस्कार"
+    "potential-rewards": "संभावित पुरस्कार",
+    "your-recent-safari-winnings": "",
+    "no-safari-winnings": "",
+    "box-type": "",
+    "winnings-col": "",
+    "zrp-won": "",
+    "spin-time": ""
   },
   "settings": {
     "gameplay": "गेमप्ले",

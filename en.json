@@ -431,7 +431,13 @@
     "zerpboxes-description-line-2": "Each Zerpbox contains 3 rows of rewards.",
     "select": "Select",
     "see-potential-rewards": "See Potential Rewards",
-    "potential-rewards": "Potential Rewards"
+    "potential-rewards": "Potential Rewards",
+    "your-recent-safari-winnings": "Your recent Safari Box winnings",
+    "no-safari-winnings": "Could not find any Safari winnings",
+    "box-type": "Box Type",
+    "winnings-col": "Winnings",
+    "zrp-won": "ZRP won",
+    "spin-time": "Time"
   },
   "battle": {
     "title": "Battle",

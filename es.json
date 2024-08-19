@@ -431,7 +431,13 @@
     "zerpboxes-description-line-2": "Cada Zerpbox contiene 3 filas de recompensas.",
     "select": "Seleccionar",
     "see-potential-rewards": "Ver recompensas potenciales",
-    "potential-rewards": "Recompensas potenciales"
+    "potential-rewards": "Recompensas potenciales",
+    "your-recent-safari-winnings": "",
+    "no-safari-winnings": "",
+    "box-type": "",
+    "winnings-col": "",
+    "zrp-won": "",
+    "spin-time": ""
   },
   "battle": {
     "title": "Batalla",
