@@ -790,7 +790,10 @@
     "linked-wallet": "Portefeuille lié",
     "address-copied": "Adresse copiée dans le presse-papiers",
     "copy-address": "Copier l'adresse",
-    "unlink-wallet": "Dissocier le portefeuille"
+    "unlink-wallet": "Dissocier le portefeuille",
+    "unlink-wallet-description": "Vous êtes sur le point de dissocier le portefeuille avec l'adresse {address}. \nVoulez-vous continuer ?",
+    "wallet-unlinked": "Portefeuille dissocié",
+    "cancel": "Annuler"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

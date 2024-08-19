@@ -89,7 +89,10 @@
     "linked-wallet": "联动钱包",
     "address-copied": "地址已复制到剪贴板",
     "copy-address": "复制地址",
-    "unlink-wallet": "解除钱包链接"
+    "unlink-wallet": "解除钱包链接",
+    "unlink-wallet-description": "您即将取消钱包与地址 {address} 的链接。\n您想继续吗？",
+    "wallet-unlinked": "钱包未关联",
+    "cancel": "取消"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",

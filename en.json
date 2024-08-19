@@ -89,7 +89,10 @@
     "linked-wallet": "Linked Wallet",
     "address-copied": "Address copied to clipboard",
     "copy-address": "Copy Address",
-    "unlink-wallet": "Unlink Wallet"
+    "unlink-wallet": "Unlink Wallet",
+    "unlink-wallet-description": "You are about to unlink wallet with address {address}. Do you want to continue?",
+    "wallet-unlinked": "Wallet unlinked",
+    "cancel": "Cancel"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

@@ -909,7 +909,10 @@
     "linked-wallet": "लिंक्ड वॉलेट",
     "address-copied": "पता क्लिपबोर्ड पर कॉपी किया गया",
     "copy-address": "पता कॉपी करें",
-    "unlink-wallet": "वॉलेट अनलिंक करें"
+    "unlink-wallet": "वॉलेट अनलिंक करें",
+    "unlink-wallet-description": "आप पते {address} वाले वॉलेट को अनलिंक करने वाले हैं। \nक्या आप जारी रखना चाहते हैं?",
+    "wallet-unlinked": "वॉलेट अनलिंक किया गया",
+    "cancel": "रद्द करना"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",

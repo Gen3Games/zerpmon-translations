@@ -89,7 +89,10 @@
     "linked-wallet": "Verknüpftes Wallet",
     "address-copied": "Adresse in die Zwischenablage kopiert",
     "copy-address": "Adresse kopieren",
-    "unlink-wallet": "Verknüpfung mit Wallet aufheben"
+    "unlink-wallet": "Verknüpfung mit Wallet aufheben",
+    "unlink-wallet-description": "Sie sind dabei, die Verknüpfung der Brieftasche mit der Adresse {address} aufzuheben. \nMöchten Sie fortfahren?",
+    "wallet-unlinked": "Wallet nicht verknüpft",
+    "cancel": "Stornieren"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",

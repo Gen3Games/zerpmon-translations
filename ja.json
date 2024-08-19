@@ -89,7 +89,10 @@
     "linked-wallet": "リンクされたウォレット",
     "address-copied": "アドレスをクリップボードにコピーしました",
     "copy-address": "アドレスをコピーする",
-    "unlink-wallet": "ウォレットのリンクを解除する"
+    "unlink-wallet": "ウォレットのリンクを解除する",
+    "unlink-wallet-description": "アドレス {address} のウォレットのリンクを解除しようとしています。\n続けますか?",
+    "wallet-unlinked": "ウォレットのリンクが解除されました",
+    "cancel": "キャンセル"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",

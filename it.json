@@ -909,7 +909,10 @@
     "linked-wallet": "Portafoglio collegato",
     "address-copied": "Indirizzo copiato negli appunti",
     "copy-address": "Copia indirizzo",
-    "unlink-wallet": "Scollega Portafoglio"
+    "unlink-wallet": "Scollega Portafoglio",
+    "unlink-wallet-description": "Stai per scollegare il portafoglio con l'indirizzo {address}. \nVuoi continuare?",
+    "wallet-unlinked": "Portafoglio scollegato",
+    "cancel": "Cancellare"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",

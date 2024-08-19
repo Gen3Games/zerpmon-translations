@@ -909,7 +909,10 @@
     "linked-wallet": "Gekoppelde portemonnee",
     "address-copied": "Adres gekopieerd naar klembord",
     "copy-address": "Kopieer adres",
-    "unlink-wallet": "Portefeuille ontkoppelen"
+    "unlink-wallet": "Portefeuille ontkoppelen",
+    "unlink-wallet-description": "U staat op het punt de portemonnee met adres {address} te ontkoppelen. \nWil je doorgaan?",
+    "wallet-unlinked": "Portemonnee ontkoppeld",
+    "cancel": "Annuleren"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",
