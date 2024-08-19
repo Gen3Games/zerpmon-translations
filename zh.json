@@ -93,7 +93,8 @@
     "unlink-wallet-description": "您即将取消钱包与地址 {address} 的链接。\n您想继续吗？",
     "wallet-unlinked": "钱包未关联",
     "cancel": "取消",
-    "unlink-wallet-error": "无法取消钱包链接"
+    "unlink-wallet-error": "无法取消钱包链接",
+    "wallets": "钱包"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",

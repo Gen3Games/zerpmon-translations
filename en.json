@@ -93,7 +93,8 @@
     "unlink-wallet-description": "You are about to unlink wallet with address {address}. Do you want to continue?",
     "wallet-unlinked": "Wallet unlinked",
     "cancel": "Cancel",
-    "unlink-wallet-error": "Could not unlink wallet"
+    "unlink-wallet-error": "Could not unlink wallet",
+    "wallets": "Wallets"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

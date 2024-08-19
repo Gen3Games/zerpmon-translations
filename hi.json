@@ -913,7 +913,8 @@
     "unlink-wallet-description": "आप पते {address} वाले वॉलेट को अनलिंक करने वाले हैं। \nक्या आप जारी रखना चाहते हैं?",
     "wallet-unlinked": "वॉलेट अनलिंक किया गया",
     "cancel": "रद्द करना",
-    "unlink-wallet-error": "वॉलेट को अनलिंक नहीं किया जा सका"
+    "unlink-wallet-error": "वॉलेट को अनलिंक नहीं किया जा सका",
+    "wallets": "पर्स"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",
