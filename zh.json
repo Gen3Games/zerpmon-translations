@@ -82,7 +82,9 @@
     "edit-profile": "编辑资料",
     "refresh-nfts": "刷新NFTs",
     "favourite-cards": "最喜欢的卡片",
-    "link-wallets": "链接钱包"
+    "link-wallets": "链接钱包",
+    "your-wallets": "链接钱包",
+    "linked-wallets": "链接钱包"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",

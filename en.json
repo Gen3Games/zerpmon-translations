@@ -82,7 +82,9 @@
     "edit-profile": "Edit Profile",
     "refresh-nfts": "Refresh NFTs",
     "favourite-cards": "Favorite Cards",
-    "link-wallets": "Link Wallets"
+    "link-wallets": "Link Wallets",
+    "your-wallets": "Linked Wallets",
+    "linked-wallets": "Linked Wallets"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

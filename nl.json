@@ -902,7 +902,9 @@
     "trainers": "Sneakers",
     "zerpmons": "Zerpmon",
     "favourite-cards": "Favoriete kaarten",
-    "link-wallets": "Portefeuilles koppelen"
+    "link-wallets": "Portefeuilles koppelen",
+    "your-wallets": "Gekoppelde portemonnees",
+    "linked-wallets": "Gekoppelde portemonnees"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",

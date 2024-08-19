@@ -82,7 +82,9 @@
     "edit-profile": "Profil bearbeiten",
     "refresh-nfts": "NFT's erneut laden",
     "favourite-cards": "Lieblingskarten",
-    "link-wallets": "Link-Wallets"
+    "link-wallets": "Link-Wallets",
+    "your-wallets": "Verknüpfte Geldbörsen",
+    "linked-wallets": "Verknüpfte Geldbörsen"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",

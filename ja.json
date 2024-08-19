@@ -82,7 +82,9 @@
     "edit-profile": "プロフィールを編集",
     "refresh-nfts": "NFTをリフレッシュする",
     "favourite-cards": "お気に入りのカード",
-    "link-wallets": "ウォレットをリンクする"
+    "link-wallets": "ウォレットをリンクする",
+    "your-wallets": "リンクされたウォレット",
+    "linked-wallets": "リンクされたウォレット"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",

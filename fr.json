@@ -783,7 +783,9 @@
     "trainers": "Formateurs",
     "zerpmons": "Zerpmon",
     "favourite-cards": "Cartes préférées",
-    "link-wallets": "Lier les portefeuilles"
+    "link-wallets": "Lier les portefeuilles",
+    "your-wallets": "Portefeuilles liés",
+    "linked-wallets": "Portefeuilles liés"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

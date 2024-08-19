@@ -902,7 +902,9 @@
     "trainers": "प्रशिक्षकों",
     "zerpmons": "ज़र्पमोन",
     "favourite-cards": "पसंदीदा कार्ड",
-    "link-wallets": "लिंक वॉलेट"
+    "link-wallets": "लिंक वॉलेट",
+    "your-wallets": "लिंक्ड वॉलेट",
+    "linked-wallets": "लिंक्ड वॉलेट"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",

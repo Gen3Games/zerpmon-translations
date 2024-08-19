@@ -902,7 +902,9 @@
     "trainers": "Formatori",
     "zerpmons": "Zerpmon",
     "favourite-cards": "Carte preferite",
-    "link-wallets": "Collega portafogli"
+    "link-wallets": "Collega portafogli",
+    "your-wallets": "Portafogli collegati",
+    "linked-wallets": "Portafogli collegati"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",

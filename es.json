@@ -82,7 +82,9 @@
     "edit-profile": "Editar Perfil",
     "refresh-nfts": "Actualizar NFTs",
     "favourite-cards": "Tarjetas favoritas",
-    "link-wallets": "Carteras de enlaces"
+    "link-wallets": "Carteras de enlaces",
+    "your-wallets": "Carteras vinculadas",
+    "linked-wallets": "Carteras vinculadas"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",
