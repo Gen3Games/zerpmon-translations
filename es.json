@@ -92,7 +92,8 @@
     "unlink-wallet": "Desvincular billetera",
     "unlink-wallet-description": "Estás a punto de desvincular la billetera con la dirección {address}. \n¿Quieres continuar?",
     "wallet-unlinked": "Cartera desvinculada",
-    "cancel": "Cancelar"
+    "cancel": "Cancelar",
+    "unlink-wallet-error": "No se pudo desvincular la billetera"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",

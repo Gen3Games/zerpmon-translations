@@ -793,7 +793,8 @@
     "unlink-wallet": "Dissocier le portefeuille",
     "unlink-wallet-description": "Vous êtes sur le point de dissocier le portefeuille avec l'adresse {address}. \nVoulez-vous continuer ?",
     "wallet-unlinked": "Portefeuille dissocié",
-    "cancel": "Annuler"
+    "cancel": "Annuler",
+    "unlink-wallet-error": "Impossible de dissocier le portefeuille"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

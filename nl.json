@@ -912,7 +912,8 @@
     "unlink-wallet": "Portefeuille ontkoppelen",
     "unlink-wallet-description": "U staat op het punt de portemonnee met adres {address} te ontkoppelen. \nWil je doorgaan?",
     "wallet-unlinked": "Portemonnee ontkoppeld",
-    "cancel": "Annuleren"
+    "cancel": "Annuleren",
+    "unlink-wallet-error": "Kan portemonnee niet ontkoppelen"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",

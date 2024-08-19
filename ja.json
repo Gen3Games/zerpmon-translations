@@ -92,7 +92,8 @@
     "unlink-wallet": "ウォレットのリンクを解除する",
     "unlink-wallet-description": "アドレス {address} のウォレットのリンクを解除しようとしています。\n続けますか?",
     "wallet-unlinked": "ウォレットのリンクが解除されました",
-    "cancel": "キャンセル"
+    "cancel": "キャンセル",
+    "unlink-wallet-error": "ウォレットのリンクを解除できませんでした"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",

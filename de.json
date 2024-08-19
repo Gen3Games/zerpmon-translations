@@ -92,7 +92,8 @@
     "unlink-wallet": "Verknüpfung mit Wallet aufheben",
     "unlink-wallet-description": "Sie sind dabei, die Verknüpfung der Brieftasche mit der Adresse {address} aufzuheben. \nMöchten Sie fortfahren?",
     "wallet-unlinked": "Wallet nicht verknüpft",
-    "cancel": "Stornieren"
+    "cancel": "Stornieren",
+    "unlink-wallet-error": "Die Verknüpfung mit der Brieftasche konnte nicht aufgehoben werden"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",

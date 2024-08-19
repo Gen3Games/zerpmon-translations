@@ -92,7 +92,8 @@
     "unlink-wallet": "월렛 연결 해제",
     "unlink-wallet-description": "주소가 {address}인 지갑을 연결 해제하려고 합니다. \n계속하시겠습니까?",
     "wallet-unlinked": "월렛이 연결 해제되었습니다.",
-    "cancel": "취소"
+    "cancel": "취소",
+    "unlink-wallet-error": "지갑 연결을 해제할 수 없습니다."
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",

@@ -912,7 +912,8 @@
     "unlink-wallet": "Scollega Portafoglio",
     "unlink-wallet-description": "Stai per scollegare il portafoglio con l'indirizzo {address}. \nVuoi continuare?",
     "wallet-unlinked": "Portafoglio scollegato",
-    "cancel": "Cancellare"
+    "cancel": "Cancellare",
+    "unlink-wallet-error": "Impossibile scollegare il portafoglio"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",
