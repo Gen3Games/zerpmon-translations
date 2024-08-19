@@ -81,7 +81,8 @@
     "bio": "소개",
     "edit-profile": "프로필 편집",
     "refresh-nfts": "NFT 새로 고침",
-    "favourite-cards": "좋아하는 카드"
+    "favourite-cards": "좋아하는 카드",
+    "link-wallets": "지갑 연결"
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",

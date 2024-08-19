@@ -81,7 +81,8 @@
     "bio": "自己紹介",
     "edit-profile": "プロフィールを編集",
     "refresh-nfts": "NFTをリフレッシュする",
-    "favourite-cards": "お気に入りのカード"
+    "favourite-cards": "お気に入りのカード",
+    "link-wallets": "ウォレットをリンクする"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",
