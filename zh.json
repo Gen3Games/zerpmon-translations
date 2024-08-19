@@ -84,7 +84,12 @@
     "favourite-cards": "最喜欢的卡片",
     "link-wallets": "链接钱包",
     "your-wallets": "链接钱包",
-    "linked-wallets": "链接钱包"
+    "linked-wallets": "链接钱包",
+    "primary-wallet": "主钱包",
+    "linked-wallet": "联动钱包",
+    "address-copied": "地址已复制到剪贴板",
+    "copy-address": "复制地址",
+    "unlink-wallet": "解除钱包链接"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",

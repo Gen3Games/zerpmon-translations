@@ -904,7 +904,12 @@
     "favourite-cards": "Carte preferite",
     "link-wallets": "Collega portafogli",
     "your-wallets": "Portafogli collegati",
-    "linked-wallets": "Portafogli collegati"
+    "linked-wallets": "Portafogli collegati",
+    "primary-wallet": "Portafoglio principale",
+    "linked-wallet": "Portafoglio collegato",
+    "address-copied": "Indirizzo copiato negli appunti",
+    "copy-address": "Copia indirizzo",
+    "unlink-wallet": "Scollega Portafoglio"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",

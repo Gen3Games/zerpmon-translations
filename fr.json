@@ -785,7 +785,12 @@
     "favourite-cards": "Cartes préférées",
     "link-wallets": "Lier les portefeuilles",
     "your-wallets": "Portefeuilles liés",
-    "linked-wallets": "Portefeuilles liés"
+    "linked-wallets": "Portefeuilles liés",
+    "primary-wallet": "Portefeuille principal",
+    "linked-wallet": "Portefeuille lié",
+    "address-copied": "Adresse copiée dans le presse-papiers",
+    "copy-address": "Copier l'adresse",
+    "unlink-wallet": "Dissocier le portefeuille"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

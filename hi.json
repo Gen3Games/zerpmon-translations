@@ -904,7 +904,12 @@
     "favourite-cards": "पसंदीदा कार्ड",
     "link-wallets": "लिंक वॉलेट",
     "your-wallets": "लिंक्ड वॉलेट",
-    "linked-wallets": "लिंक्ड वॉलेट"
+    "linked-wallets": "लिंक्ड वॉलेट",
+    "primary-wallet": "प्राथमिक बटुआ",
+    "linked-wallet": "लिंक्ड वॉलेट",
+    "address-copied": "पता क्लिपबोर्ड पर कॉपी किया गया",
+    "copy-address": "पता कॉपी करें",
+    "unlink-wallet": "वॉलेट अनलिंक करें"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",

@@ -84,7 +84,12 @@
     "favourite-cards": "좋아하는 카드",
     "link-wallets": "지갑 연결",
     "your-wallets": "연결된 지갑",
-    "linked-wallets": "연결된 지갑"
+    "linked-wallets": "연결된 지갑",
+    "primary-wallet": "기본 지갑",
+    "linked-wallet": "연결된 지갑",
+    "address-copied": "주소가 클립보드에 복사되었습니다.",
+    "copy-address": "주소 복사",
+    "unlink-wallet": "월렛 연결 해제"
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",

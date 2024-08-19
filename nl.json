@@ -904,7 +904,12 @@
     "favourite-cards": "Favoriete kaarten",
     "link-wallets": "Portefeuilles koppelen",
     "your-wallets": "Gekoppelde portemonnees",
-    "linked-wallets": "Gekoppelde portemonnees"
+    "linked-wallets": "Gekoppelde portemonnees",
+    "primary-wallet": "Primaire portemonnee",
+    "linked-wallet": "Gekoppelde portemonnee",
+    "address-copied": "Adres gekopieerd naar klembord",
+    "copy-address": "Kopieer adres",
+    "unlink-wallet": "Portefeuille ontkoppelen"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",

@@ -84,7 +84,12 @@
     "favourite-cards": "Favorite Cards",
     "link-wallets": "Link Wallets",
     "your-wallets": "Linked Wallets",
-    "linked-wallets": "Linked Wallets"
+    "linked-wallets": "Linked Wallets",
+    "primary-wallet": "Primary Wallet",
+    "linked-wallet": "Linked Wallet",
+    "address-copied": "Address copied to clipboard",
+    "copy-address": "Copy Address",
+    "unlink-wallet": "Unlink Wallet"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

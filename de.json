@@ -84,7 +84,12 @@
     "favourite-cards": "Lieblingskarten",
     "link-wallets": "Link-Wallets",
     "your-wallets": "Verknüpfte Geldbörsen",
-    "linked-wallets": "Verknüpfte Geldbörsen"
+    "linked-wallets": "Verknüpfte Geldbörsen",
+    "primary-wallet": "Primäre Wallet",
+    "linked-wallet": "Verknüpftes Wallet",
+    "address-copied": "Adresse in die Zwischenablage kopiert",
+    "copy-address": "Adresse kopieren",
+    "unlink-wallet": "Verknüpfung mit Wallet aufheben"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",

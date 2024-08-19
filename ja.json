@@ -84,7 +84,12 @@
     "favourite-cards": "お気に入りのカード",
     "link-wallets": "ウォレットをリンクする",
     "your-wallets": "リンクされたウォレット",
-    "linked-wallets": "リンクされたウォレット"
+    "linked-wallets": "リンクされたウォレット",
+    "primary-wallet": "プライマリウォレット",
+    "linked-wallet": "リンクされたウォレット",
+    "address-copied": "アドレスをクリップボードにコピーしました",
+    "copy-address": "アドレスをコピーする",
+    "unlink-wallet": "ウォレットのリンクを解除する"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",
