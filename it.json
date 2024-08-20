@@ -871,7 +871,8 @@
     "xrpl-social-description": "Accesso Web2 XRPL da Kaiju Wallet",
     "the-root-network": "La rete delle radici",
     "the-root-network-description": "Alimentato da Futurepass",
-    "futurepass-is-coming-soon": "Futurepass arriverà presto su Zerpmon"
+    "futurepass-is-coming-soon": "Futurepass arriverà presto su Zerpmon",
+    "xumm-link-wallet-success": "Hai collegato con successo il tuo portafoglio tramite Xaman"
   },
   "store": {
     "ascend-payment-tx-confirmed": "La tua transazione di pagamento è andata a buon fine e {zerpmonName} è stato elevato.",

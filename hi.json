@@ -871,7 +871,8 @@
     "xrpl-social-description": "काइजू वॉलेट द्वारा वेब2 एक्सआरपीएल लॉगिन",
     "the-root-network": "रूट नेटवर्क",
     "the-root-network-description": "फ़्यूचरपास द्वारा संचालित",
-    "futurepass-is-coming-soon": "फ़्यूचरपास जल्द ही ज़ेरपमोन में आ रहा है"
+    "futurepass-is-coming-soon": "फ़्यूचरपास जल्द ही ज़ेरपमोन में आ रहा है",
+    "xumm-link-wallet-success": "आपने Xaman के माध्यम से अपना वॉलेट सफलतापूर्वक लिंक कर लिया है"
   },
   "store": {
     "ascend-payment-tx-confirmed": "आपका भुगतान लेनदेन सफल रहा और {zerpmonName} चढ़ गया है।",

@@ -72,7 +72,8 @@
     "xrpl-social-description": "Kaiju Wallet による Web2 XRPL ログイン",
     "the-root-network": "ルートネットワーク",
     "the-root-network-description": "フューチャーパス搭載",
-    "futurepass-is-coming-soon": "フューチャーパスが間もなくゼルモンに登場します"
+    "futurepass-is-coming-soon": "フューチャーパスが間もなくゼルモンに登場します",
+    "xumm-link-wallet-success": "Xaman 経由でウォレットが正常にリンクされました。"
   },
   "user-profile": {
     "trainers": "トレーナー",
