@@ -73,7 +73,8 @@
     "the-root-network": "루트 네트워크",
     "the-root-network-description": "Futurepass 제공",
     "futurepass-is-coming-soon": "Futurepass가 곧 Zermon에 출시됩니다.",
-    "xumm-link-wallet-success": "Xaman을 통해 지갑을 성공적으로 연결했습니다."
+    "xumm-link-wallet-success": "Xaman을 통해 지갑을 성공적으로 연결했습니다.",
+    "crossmark-link-success": "Crossmark를 통해 지갑을 성공적으로 연결했습니다."
   },
   "user-profile": {
     "trainers": "트레이너",

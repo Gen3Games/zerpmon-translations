@@ -872,7 +872,8 @@
     "the-root-network": "La rete delle radici",
     "the-root-network-description": "Alimentato da Futurepass",
     "futurepass-is-coming-soon": "Futurepass arriverà presto su Zerpmon",
-    "xumm-link-wallet-success": "Hai collegato con successo il tuo portafoglio tramite Xaman"
+    "xumm-link-wallet-success": "Hai collegato con successo il tuo portafoglio tramite Xaman",
+    "crossmark-link-success": "Hai collegato con successo il tuo portafoglio tramite Crossmark"
   },
   "store": {
     "ascend-payment-tx-confirmed": "La tua transazione di pagamento è andata a buon fine e {zerpmonName} è stato elevato.",

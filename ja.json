@@ -73,7 +73,8 @@
     "the-root-network": "ルートネットワーク",
     "the-root-network-description": "フューチャーパス搭載",
     "futurepass-is-coming-soon": "フューチャーパスが間もなくゼルモンに登場します",
-    "xumm-link-wallet-success": "Xaman 経由でウォレットが正常にリンクされました。"
+    "xumm-link-wallet-success": "Xaman 経由でウォレットが正常にリンクされました。",
+    "crossmark-link-success": "Crossmark 経由でウォレットが正常にリンクされました"
   },
   "user-profile": {
     "trainers": "トレーナー",

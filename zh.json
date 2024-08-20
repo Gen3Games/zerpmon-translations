@@ -73,7 +73,8 @@
     "the-root-network": "根网络",
     "the-root-network-description": "由 Futurepass 提供支持",
     "futurepass-is-coming-soon": "Futurepass 即将登陆泽拉蒙",
-    "xumm-link-wallet-success": "您已通过 Xaman 成功链接您的钱包"
+    "xumm-link-wallet-success": "您已通过 Xaman 成功链接您的钱包",
+    "crossmark-link-success": "您已成功通过 Crossmark 链接您的钱包"
   },
   "user-profile": {
     "trainers": "训练师",
