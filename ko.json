@@ -217,7 +217,9 @@
     "previous-5-slots": "이전 5개 슬롯",
     "next-5-slots": "다음 5개 슬롯",
     "set-pvp-deck": "PvP 덱으로 설정",
-    "set-pvp-deck-success": "PvP 덱 설정에 성공했습니다!"
+    "set-pvp-deck-success": "PvP 덱 설정에 성공했습니다!",
+    "equipment-already-in-main-deck": "",
+    "zerpmon-already-in-main-deck": ""
   },
   "store": {
     "title": "스토어",
@@ -608,7 +610,8 @@
     "trial-rush": "시험 러쉬",
     "battle-for-free": "무료 전투",
     "already-battled": "이미 전투를 벌였습니다",
-    "back": "뒤쪽에"
+    "back": "뒤쪽에",
+    "bench-zerpmon-slot": ""
   },
   "test": {
     "test": "테스트입니다."

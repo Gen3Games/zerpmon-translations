@@ -217,7 +217,9 @@
     "previous-5-slots": "前 5 个槽位",
     "next-5-slots": "接下来 5 个插槽",
     "set-pvp-deck": "设置为 PvP 牌组",
-    "set-pvp-deck-success": "成功设置为 PvP 套牌！"
+    "set-pvp-deck-success": "成功设置为 PvP 套牌！",
+    "equipment-already-in-main-deck": "",
+    "zerpmon-already-in-main-deck": ""
   },
   "store": {
     "title": "商店",
@@ -608,7 +610,8 @@
     "dmg-done": "DMG 完成：",
     "level": "等级",
     "trial-rush": "试炼冲刺",
-    "battle-for-free": "免费战斗"
+    "battle-for-free": "免费战斗",
+    "bench-zerpmon-slot": ""
   },
   "test": {
     "test": "这是个测试"

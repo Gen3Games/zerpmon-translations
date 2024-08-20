@@ -263,7 +263,8 @@
     "trial-rush": "Corsa di prova",
     "battle-for-free": "Combatti gratuitamente",
     "already-battled": "Già combattuto",
-    "back": "Indietro"
+    "back": "Indietro",
+    "bench-zerpmon-slot": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -444,7 +445,9 @@
     "previous-5-slots": "5 slot precedenti",
     "next-5-slots": "Prossimi 5 slot",
     "set-pvp-deck": "Impostato come mazzo PvP",
-    "set-pvp-deck-success": "Impostato con successo come mazzo PvP!"
+    "set-pvp-deck-success": "Impostato con successo come mazzo PvP!",
+    "equipment-already-in-main-deck": "",
+    "zerpmon-already-in-main-deck": ""
   },
   "edit-profile": {
     "basic-info": "Informazioni basilari",
