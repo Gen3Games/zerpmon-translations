@@ -72,7 +72,9 @@
     "xrpl-social-description": "Kaiju Wallet을 통한 Web2 XRPL 로그인",
     "the-root-network": "루트 네트워크",
     "the-root-network-description": "Futurepass 제공",
-    "futurepass-is-coming-soon": "Futurepass가 곧 Zermon에 출시됩니다."
+    "futurepass-is-coming-soon": "Futurepass가 곧 Zermon에 출시됩니다.",
+    "xumm-link-wallet-success": "Xaman을 통해 지갑을 성공적으로 연결했습니다.",
+    "crossmark-link-success": "Crossmark를 통해 지갑을 성공적으로 연결했습니다."
   },
   "user-profile": {
     "trainers": "트레이너",
@@ -94,7 +96,8 @@
     "wallet-unlinked": "월렛이 연결 해제되었습니다.",
     "cancel": "취소",
     "unlink-wallet-error": "지갑 연결을 해제할 수 없습니다.",
-    "wallets": "지갑"
+    "wallets": "지갑",
+    "link-another-wallet": "다른 지갑 연결"
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",

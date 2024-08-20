@@ -72,7 +72,9 @@
     "xrpl-social-description": "Web2 XRPL-Anmeldung über Kaiju Wallet",
     "the-root-network": "Das Root-Netzwerk",
     "the-root-network-description": "Unterstützt von Futurepass",
-    "futurepass-is-coming-soon": "Futurepass kommt bald nach Zerpmon"
+    "futurepass-is-coming-soon": "Futurepass kommt bald nach Zerpmon",
+    "xumm-link-wallet-success": "Sie haben Ihr Wallet erfolgreich über Xaman verknüpft",
+    "crossmark-link-success": "Sie haben Ihr Wallet erfolgreich über Crossmark verknüpft"
   },
   "user-profile": {
     "trainers": "Trainer",
@@ -94,7 +96,8 @@
     "wallet-unlinked": "Wallet nicht verknüpft",
     "cancel": "Stornieren",
     "unlink-wallet-error": "Die Verknüpfung mit der Brieftasche konnte nicht aufgehoben werden",
-    "wallets": "Geldbörsen"
+    "wallets": "Geldbörsen",
+    "link-another-wallet": "Verknüpfen Sie eine andere Wallet"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",

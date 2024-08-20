@@ -874,7 +874,9 @@
     "xrpl-social-description": "Web2 XRPL-login door Kaiju Wallet",
     "the-root-network": "Het rootnetwerk",
     "the-root-network-description": "Mogelijk gemaakt door Futurepass",
-    "futurepass-is-coming-soon": "Futurepass komt binnenkort naar Zerpmon"
+    "futurepass-is-coming-soon": "Futurepass komt binnenkort naar Zerpmon",
+    "xumm-link-wallet-success": "U heeft uw portemonnee succesvol gekoppeld via Xaman",
+    "crossmark-link-success": "U heeft uw portemonnee succesvol gekoppeld via Crossmark"
   },
   "store": {
     "ascend-payment-tx-confirmed": "Je betalingstransactie is succesvol verlopen en {zerpmonName} is gestegen.",
@@ -923,7 +925,8 @@
     "wallet-unlinked": "Portemonnee ontkoppeld",
     "cancel": "Annuleren",
     "unlink-wallet-error": "Kan portemonnee niet ontkoppelen",
-    "wallets": "Portefeuilles"
+    "wallets": "Portefeuilles",
+    "link-another-wallet": "Koppel een andere portemonnee"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",

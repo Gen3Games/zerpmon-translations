@@ -72,7 +72,9 @@
     "xrpl-social-description": "Inicio de sesión Web2 XRPL mediante Kaiju Wallet",
     "the-root-network": "La red raíz",
     "the-root-network-description": "Desarrollado por Futurepass",
-    "futurepass-is-coming-soon": "Futurepass llegará pronto a Zerpmon"
+    "futurepass-is-coming-soon": "Futurepass llegará pronto a Zerpmon",
+    "xumm-link-wallet-success": "Has vinculado exitosamente tu billetera a través de Xaman",
+    "crossmark-link-success": "Ha vinculado exitosamente su billetera a través de Crossmark"
   },
   "user-profile": {
     "trainers": "Entrenadores",
@@ -94,7 +96,8 @@
     "wallet-unlinked": "Cartera desvinculada",
     "cancel": "Cancelar",
     "unlink-wallet-error": "No se pudo desvincular la billetera",
-    "wallets": "Carteras"
+    "wallets": "Carteras",
+    "link-another-wallet": "Vincular otra billetera"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",
