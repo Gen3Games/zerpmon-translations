@@ -97,7 +97,8 @@
     "cancel": "Cancelar",
     "unlink-wallet-error": "No se pudo desvincular la billetera",
     "wallets": "Carteras",
-    "link-another-wallet": "Vincular otra billetera"
+    "link-another-wallet": "Vincular otra billetera",
+    "unlink-wallet-futurepass-warning": "Esto eliminará las billeteras vinculadas a FuturePass y EOA."
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",

@@ -97,7 +97,8 @@
     "cancel": "キャンセル",
     "unlink-wallet-error": "ウォレットのリンクを解除できませんでした",
     "wallets": "財布",
-    "link-another-wallet": "別のウォレットをリンクする"
+    "link-another-wallet": "別のウォレットをリンクする",
+    "unlink-wallet-futurepass-warning": "これにより、FuturePass と EOA にリンクされたウォレットの両方が削除されます"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",

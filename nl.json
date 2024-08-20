@@ -923,7 +923,8 @@
     "cancel": "Annuleren",
     "unlink-wallet-error": "Kan portemonnee niet ontkoppelen",
     "wallets": "Portefeuilles",
-    "link-another-wallet": "Koppel een andere portemonnee"
+    "link-another-wallet": "Koppel een andere portemonnee",
+    "unlink-wallet-futurepass-warning": "Hiermee worden zowel FuturePass- als EOA-gekoppelde portemonnees verwijderd"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",

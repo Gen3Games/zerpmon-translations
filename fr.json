@@ -804,7 +804,8 @@
     "cancel": "Annuler",
     "unlink-wallet-error": "Impossible de dissocier le portefeuille",
     "wallets": "Portefeuilles",
-    "link-another-wallet": "Lier un autre portefeuille"
+    "link-another-wallet": "Lier un autre portefeuille",
+    "unlink-wallet-futurepass-warning": "Cela supprimera les portefeuilles liés FuturePass et EOA."
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

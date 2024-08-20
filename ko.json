@@ -97,7 +97,8 @@
     "cancel": "취소",
     "unlink-wallet-error": "지갑 연결을 해제할 수 없습니다.",
     "wallets": "지갑",
-    "link-another-wallet": "다른 지갑 연결"
+    "link-another-wallet": "다른 지갑 연결",
+    "unlink-wallet-futurepass-warning": "이렇게 하면 FuturePass와 EOA 연결 지갑이 모두 제거됩니다."
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",

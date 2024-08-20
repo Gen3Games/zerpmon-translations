@@ -97,7 +97,8 @@
     "cancel": "Cancel",
     "unlink-wallet-error": "Could not unlink wallet",
     "wallets": "Wallets",
-    "link-another-wallet": "Link Another Wallet"
+    "link-another-wallet": "Link Another Wallet",
+    "unlink-wallet-futurepass-warning": "This will remove both FuturePass and EOA linked wallets"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

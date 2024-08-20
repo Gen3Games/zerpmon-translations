@@ -97,7 +97,8 @@
     "cancel": "Stornieren",
     "unlink-wallet-error": "Die Verknüpfung mit der Brieftasche konnte nicht aufgehoben werden",
     "wallets": "Geldbörsen",
-    "link-another-wallet": "Verknüpfen Sie eine andere Wallet"
+    "link-another-wallet": "Verknüpfen Sie eine andere Wallet",
+    "unlink-wallet-futurepass-warning": "Dadurch werden sowohl mit FuturePass als auch mit EOA verknüpfte Wallets entfernt"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",
