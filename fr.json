@@ -208,7 +208,8 @@
     "trial-rush": "Rush d'essai",
     "battle-for-free": "Combattez gratuitement",
     "already-battled": "Déjà combattu",
-    "back": "Dos"
+    "back": "Dos",
+    "bench-zerpmon-slot": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -368,7 +369,9 @@
     "previous-5-slots": "5 emplacements précédents",
     "next-5-slots": "5 emplacements suivants",
     "set-pvp-deck": "Définir comme deck PvP",
-    "set-pvp-deck-success": "Définir avec succès comme deck PvP !"
+    "set-pvp-deck-success": "Définir avec succès comme deck PvP !",
+    "equipment-already-in-main-deck": "",
+    "zerpmon-already-in-main-deck": ""
   },
   "edit-profile": {
     "basic-info": "Informations de base",

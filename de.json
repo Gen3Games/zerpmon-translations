@@ -221,7 +221,9 @@
     "previous-5-slots": "Vorherige 5 Slots",
     "next-5-slots": "Nächste 5 Slots",
     "set-pvp-deck": "Als PvP-Deck festlegen",
-    "set-pvp-deck-success": "Erfolgreich als PvP-Deck eingestellt!"
+    "set-pvp-deck-success": "Erfolgreich als PvP-Deck eingestellt!",
+    "equipment-already-in-main-deck": "",
+    "zerpmon-already-in-main-deck": ""
   },
   "store": {
     "title": "Shop",
@@ -612,7 +614,8 @@
     "trial-rush": "Proberausch",
     "battle-for-free": "Kämpfe kostenlos",
     "already-battled": "Bereits gekämpft",
-    "back": "Zurück"
+    "back": "Zurück",
+    "bench-zerpmon-slot": ""
   },
   "test": {
     "test": "Dies ist ein Test"

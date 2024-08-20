@@ -221,7 +221,9 @@
     "previous-5-slots": "5 espacios anteriores",
     "next-5-slots": "Siguientes 5 espacios",
     "set-pvp-deck": "Establecer como mazo PvP",
-    "set-pvp-deck-success": "¡Configurado correctamente como mazo PvP!"
+    "set-pvp-deck-success": "¡Configurado correctamente como mazo PvP!",
+    "equipment-already-in-main-deck": "",
+    "zerpmon-already-in-main-deck": ""
   },
   "store": {
     "title": "Tienda",
@@ -612,7 +614,8 @@
     "trial-rush": "Fiebre de prueba",
     "battle-for-free": "Batalla gratis",
     "already-battled": "Ya luché",
-    "back": "Atrás"
+    "back": "Atrás",
+    "bench-zerpmon-slot": ""
   },
   "test": {
     "test": "esto es un test"

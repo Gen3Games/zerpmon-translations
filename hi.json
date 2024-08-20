@@ -168,7 +168,8 @@
     "trial-rush": "ट्रायल रश",
     "battle-for-free": "मुफ़्त में लड़ाई",
     "already-battled": "पहले ही युद्ध कर चुके हैं",
-    "back": "पीछे"
+    "back": "पीछे",
+    "bench-zerpmon-slot": ""
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
@@ -444,7 +445,9 @@
     "previous-5-slots": "पिछले 5 स्लॉट",
     "next-5-slots": "अगले 5 स्लॉट",
     "set-pvp-deck": "PvP डेक के रूप में सेट करें",
-    "set-pvp-deck-success": "PvP डेक के रूप में सफलतापूर्वक सेट!"
+    "set-pvp-deck-success": "PvP डेक के रूप में सफलतापूर्वक सेट!",
+    "equipment-already-in-main-deck": "",
+    "zerpmon-already-in-main-deck": ""
   },
   "edit-profile": {
     "basic-info": "बुनियादी जानकारी",

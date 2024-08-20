@@ -263,7 +263,8 @@
     "trial-rush": "Proefdruk",
     "battle-for-free": "Strijd gratis",
     "already-battled": "Al gevochten",
-    "back": "Rug"
+    "back": "Rug",
+    "bench-zerpmon-slot": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -444,7 +445,9 @@
     "previous-5-slots": "Vorige 5 slots",
     "next-5-slots": "Volgende 5 slots",
     "set-pvp-deck": "Instellen als PvP-deck",
-    "set-pvp-deck-success": "Succesvol ingezet als PvP-deck!"
+    "set-pvp-deck-success": "Succesvol ingezet als PvP-deck!",
+    "equipment-already-in-main-deck": "",
+    "zerpmon-already-in-main-deck": ""
   },
   "edit-profile": {
     "basic-info": "Basis informatie",

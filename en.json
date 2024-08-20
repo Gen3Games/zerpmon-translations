@@ -221,7 +221,9 @@
     "play": "Play",
     "previous-5-slots": "Previous 5 Slots",
     "previous-deck": "Previous Deck",
-    "waiting-for-player-b": "Waiting for Player B"
+    "waiting-for-player-b": "Waiting for Player B",
+    "equipment-already-in-main-deck": "Duplicate equipment not allowed in Bench",
+    "zerpmon-already-in-main-deck": "Duplicate zerpmon not allowed in Bench"
   },
   "store": {
     "title": "Store",
@@ -612,7 +614,8 @@
     "dmg-done": "DMG Done:",
     "level": "Level",
     "trial-rush": "Trial Rush",
-    "battle-for-free": "Battle For Free"
+    "battle-for-free": "Battle For Free",
+    "bench-zerpmon-slot": "Bench Zerpmon Slot"
   },
   "test": {
     "test": "this is a test"
