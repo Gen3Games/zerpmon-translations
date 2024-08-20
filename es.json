@@ -94,7 +94,8 @@
     "wallet-unlinked": "Cartera desvinculada",
     "cancel": "Cancelar",
     "unlink-wallet-error": "No se pudo desvincular la billetera",
-    "wallets": "Carteras"
+    "wallets": "Carteras",
+    "link-another-wallet": "Vincular otra billetera"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",

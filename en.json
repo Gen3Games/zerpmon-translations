@@ -94,7 +94,8 @@
     "wallet-unlinked": "Wallet unlinked",
     "cancel": "Cancel",
     "unlink-wallet-error": "Could not unlink wallet",
-    "wallets": "Wallets"
+    "wallets": "Wallets",
+    "link-another-wallet": "Link Another Wallet"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

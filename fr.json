@@ -801,7 +801,8 @@
     "wallet-unlinked": "Portefeuille dissocié",
     "cancel": "Annuler",
     "unlink-wallet-error": "Impossible de dissocier le portefeuille",
-    "wallets": "Portefeuilles"
+    "wallets": "Portefeuilles",
+    "link-another-wallet": "Lier un autre portefeuille"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

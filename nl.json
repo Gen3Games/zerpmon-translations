@@ -920,7 +920,8 @@
     "wallet-unlinked": "Portemonnee ontkoppeld",
     "cancel": "Annuleren",
     "unlink-wallet-error": "Kan portemonnee niet ontkoppelen",
-    "wallets": "Portefeuilles"
+    "wallets": "Portefeuilles",
+    "link-another-wallet": "Koppel een andere portemonnee"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",

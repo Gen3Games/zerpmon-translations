@@ -94,7 +94,8 @@
     "wallet-unlinked": "Wallet nicht verknüpft",
     "cancel": "Stornieren",
     "unlink-wallet-error": "Die Verknüpfung mit der Brieftasche konnte nicht aufgehoben werden",
-    "wallets": "Geldbörsen"
+    "wallets": "Geldbörsen",
+    "link-another-wallet": "Verknüpfen Sie eine andere Wallet"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",

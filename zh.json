@@ -94,7 +94,8 @@
     "wallet-unlinked": "钱包未关联",
     "cancel": "取消",
     "unlink-wallet-error": "无法取消钱包链接",
-    "wallets": "钱包"
+    "wallets": "钱包",
+    "link-another-wallet": "链接另一个钱包"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",
