@@ -281,7 +281,8 @@
     "world-boss": "월드보스",
     "discord": "불화",
     "store": "가게",
-    "get-zrp": "ZRP 받기"
+    "get-zrp": "ZRP 받기",
+    "custodial-wallet-balance": ""
   },
   "leaderboard": {
     "title": "리더보드",

@@ -281,7 +281,8 @@
     "world-boss": "Weltenherrscher",
     "discord": "Zwietracht",
     "store": "Speichern",
-    "get-zrp": "Holen Sie sich ZRP"
+    "get-zrp": "Holen Sie sich ZRP",
+    "custodial-wallet-balance": ""
   },
   "leaderboard": {
     "title": "Bestenliste",

@@ -281,7 +281,8 @@
     "world-boss": "ワールドボス",
     "discord": "不和",
     "store": "店",
-    "get-zrp": "ZRPを入手"
+    "get-zrp": "ZRPを入手",
+    "custodial-wallet-balance": ""
   },
   "leaderboard": {
     "title": "リーダーボード",

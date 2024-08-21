@@ -523,7 +523,8 @@
     "world-boss": "Wereld baas",
     "discord": "Meningsverschil",
     "store": "Winkel",
-    "get-zrp": "Ontvang ZRP"
+    "get-zrp": "Ontvang ZRP",
+    "custodial-wallet-balance": ""
   },
   "inventory": {
     "candy-active": "Zerpmon heeft al een soortgelijk soort snoep actief",

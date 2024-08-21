@@ -281,7 +281,8 @@
     "world-boss": "Mundo Jefe",
     "discord": "Discordia",
     "store": "Almacenar",
-    "get-zrp": "Obtener ZRP"
+    "get-zrp": "Obtener ZRP",
+    "custodial-wallet-balance": ""
   },
   "leaderboard": {
     "title": "Clasificación",

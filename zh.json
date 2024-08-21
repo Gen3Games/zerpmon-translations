@@ -281,7 +281,8 @@
     "world-boss": "世界老大",
     "discord": "不和谐",
     "store": "店铺",
-    "get-zrp": "获取ZRP"
+    "get-zrp": "获取ZRP",
+    "custodial-wallet-balance": ""
   },
   "leaderboard": {
     "title": "排行榜",

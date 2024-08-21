@@ -281,7 +281,8 @@
     "world-boss": "World Boss",
     "get-zrp": "Get ZRP",
     "discord": "Discord",
-    "store": "Store"
+    "store": "Store",
+    "custodial-wallet-balance": "Custodial wallet balance"
   },
   "leaderboard": {
     "title": "Leaderboard",

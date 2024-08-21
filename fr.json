@@ -419,7 +419,8 @@
     "world-boss": "Patron du monde",
     "discord": "Discorde",
     "store": "Magasin",
-    "get-zrp": "Obtenez le ZRP"
+    "get-zrp": "Obtenez le ZRP",
+    "custodial-wallet-balance": ""
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",
