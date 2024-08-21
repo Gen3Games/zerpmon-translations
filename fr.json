@@ -722,7 +722,8 @@
     "forge": "Forger",
     "mint": "menthe",
     "hide-sidebar": "Cacher",
-    "Zerpboxes": "Zerboxes"
+    "Zerpboxes": "Zerboxes",
+    "zerp-wallet": ""
   },
   "sign-in": {
     "button-label": "Se connecter",

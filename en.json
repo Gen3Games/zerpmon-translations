@@ -38,7 +38,8 @@
     "forge": "Forge",
     "mint": "Mint",
     "hide-sidebar": "Hide",
-    "Zerpboxes": "Zerpboxes"
+    "Zerpboxes": "Zerpboxes",
+    "zerp-wallet": "ZerpWallet"
   },
   "sign-in": {
     "button-label": "Sign In",

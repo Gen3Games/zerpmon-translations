@@ -841,7 +841,8 @@
     "sign-out-success": "Ti sei disconnesso con successo.",
     "stats": "Statistiche",
     "store": "Negozio",
-    "Zerpboxes": "Zerboxes"
+    "Zerpboxes": "Zerboxes",
+    "zerp-wallet": ""
   },
   "sign-in": {
     "button-label": "Registrazione",
