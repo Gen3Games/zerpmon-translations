@@ -1153,6 +1153,12 @@
     "copy": "コピー",
     "address-copied": "アドレスをコピーしました",
     "deposit-warning": "必ず最低金額を入金してください。\n最低額を下回る金額は残高に反映されません。",
-    "xrpl-trustline-warning": "{currency} へのトラストラインが設定されていることを確認してください。トラストラインが設定されていない場合、トランザクションは失敗します。"
+    "xrpl-trustline-warning": "{currency} へのトラストラインが設定されていることを確認してください。トラストラインが設定されていない場合、トランザクションは失敗します。",
+    "recent-transactions": "",
+    "hash": "",
+    "from": "",
+    "to": "",
+    "amount": "",
+    "date": ""
   }
 }

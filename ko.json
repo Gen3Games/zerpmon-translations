@@ -1153,6 +1153,12 @@
     "copy": "복사",
     "address-copied": "주소가 복사되었습니다",
     "deposit-warning": "최소 금액을 입금하시기 바랍니다. \n최소 금액보다 낮은 금액은 잔액에 반영되지 않습니다.",
-    "xrpl-trustline-warning": "{currency}에 대한 신뢰선이 설정되어 있는지 확인하세요. trustline이 설정되지 않으면 거래가 실패합니다."
+    "xrpl-trustline-warning": "{currency}에 대한 신뢰선이 설정되어 있는지 확인하세요. trustline이 설정되지 않으면 거래가 실패합니다.",
+    "recent-transactions": "",
+    "hash": "",
+    "from": "",
+    "to": "",
+    "amount": "",
+    "date": ""
   }
 }

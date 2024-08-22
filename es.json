@@ -1153,6 +1153,12 @@
     "copy": "Copiar",
     "address-copied": "Dirección copiada",
     "deposit-warning": "Asegúrese de depositar la cantidad mínima. \nCualquier monto por debajo del mínimo no se reflejará en su saldo.",
-    "xrpl-trustline-warning": "Asegúrese de que su línea de confianza con {currency} esté activa. La transacción fallará si no se establece la línea de confianza."
+    "xrpl-trustline-warning": "Asegúrese de que su línea de confianza con {currency} esté activa. La transacción fallará si no se establece la línea de confianza.",
+    "recent-transactions": "",
+    "hash": "",
+    "from": "",
+    "to": "",
+    "amount": "",
+    "date": ""
   }
 }

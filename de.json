@@ -1153,6 +1153,12 @@
     "copy": "Kopie",
     "address-copied": "Adresse kopiert",
     "deposit-warning": "Bitte stellen Sie sicher, dass Sie den Mindestbetrag einzahlen. \nEin Betrag, der unter dem Mindestbetrag liegt, wird nicht in Ihrem Guthaben berücksichtigt.",
-    "xrpl-trustline-warning": "Bitte stellen Sie sicher, dass Ihre Trustline zu {currency} vorhanden ist. Die Transaktion schlägt fehl, wenn die Trustline nicht festgelegt ist."
+    "xrpl-trustline-warning": "Bitte stellen Sie sicher, dass Ihre Trustline zu {currency} vorhanden ist. Die Transaktion schlägt fehl, wenn die Trustline nicht festgelegt ist.",
+    "recent-transactions": "",
+    "hash": "",
+    "from": "",
+    "to": "",
+    "amount": "",
+    "date": ""
   }
 }

@@ -1153,6 +1153,12 @@
     "copy": "Kopiëren",
     "address-copied": "Adres gekopieerd",
     "deposit-warning": "Zorg ervoor dat u het minimumbedrag stort. \nElk bedrag onder het minimum wordt niet weergegeven in uw saldo.",
-    "xrpl-trustline-warning": "Zorg ervoor dat uw vertrouwenslijn naar {currency} actief is. De transactie mislukt als de trustline niet is ingesteld."
+    "xrpl-trustline-warning": "Zorg ervoor dat uw vertrouwenslijn naar {currency} actief is. De transactie mislukt als de trustline niet is ingesteld.",
+    "recent-transactions": "",
+    "hash": "",
+    "from": "",
+    "to": "",
+    "amount": "",
+    "date": ""
   }
 }

@@ -1153,6 +1153,12 @@
     "copy": "Copy",
     "address-copied": "Address Copied",
     "deposit-warning": "Please make sure you deposit the minimum amount. Any amount below the minimum will not be reflected in your balance.",
-    "xrpl-trustline-warning": "Please make sure your trustline to {currency} is in place. Transaction will fail if trustline is not set."
+    "xrpl-trustline-warning": "Please make sure your trustline to {currency} is in place. Transaction will fail if trustline is not set.",
+    "recent-transactions": "Recent transactions",
+    "hash": "Hash",
+    "from": "From",
+    "to": "To",
+    "amount": "Amount",
+    "date": "Date"
   }
 }

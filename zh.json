@@ -1153,6 +1153,12 @@
     "copy": "复制",
     "address-copied": "地址已复制",
     "deposit-warning": "请确保您存入最低金额。\n任何低于最低金额的金额都不会反映在您的余额中。",
-    "xrpl-trustline-warning": "请确保您对 {currency} 的信任线已到位。如果未设置 trustline，交易将失败。"
+    "xrpl-trustline-warning": "请确保您对 {currency} 的信任线已到位。如果未设置 trustline，交易将失败。",
+    "recent-transactions": "",
+    "hash": "",
+    "from": "",
+    "to": "",
+    "amount": "",
+    "date": ""
   }
 }
