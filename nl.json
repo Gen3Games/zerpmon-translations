@@ -524,7 +524,8 @@
     "discord": "Meningsverschil",
     "store": "Winkel",
     "get-zrp": "Ontvang ZRP",
-    "custodial-wallet-balance": ""
+    "custodial-wallet-balance": "",
+    "zerpwallet": "ZerpWallet"
   },
   "inventory": {
     "candy-active": "Zerpmon heeft al een soortgelijk soort snoep actief",

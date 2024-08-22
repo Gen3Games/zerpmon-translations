@@ -283,7 +283,8 @@
     "discord": "Discordia",
     "store": "Almacenar",
     "get-zrp": "Obtener ZRP",
-    "custodial-wallet-balance": ""
+    "custodial-wallet-balance": "",
+    "zerpwallet": "ZerpWallet"
   },
   "leaderboard": {
     "title": "Clasificación",

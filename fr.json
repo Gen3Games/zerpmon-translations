@@ -420,7 +420,8 @@
     "discord": "Discorde",
     "store": "Magasin",
     "get-zrp": "Obtenez le ZRP",
-    "custodial-wallet-balance": ""
+    "custodial-wallet-balance": "",
+    "zerpwallet": "ZerpWallet"
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",

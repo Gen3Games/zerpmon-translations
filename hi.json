@@ -524,7 +524,8 @@
     "discord": "कलह",
     "store": "इकट्ठा करना",
     "get-zrp": "ZRP प्राप्त करें",
-    "custodial-wallet-balance": ""
+    "custodial-wallet-balance": "",
+    "zerpwallet": "ZerpWallet"
   },
   "inventory": {
     "candy-active": "ज़र्पमोन के पास पहले से ही इसी प्रकार की कैंडी सक्रिय है",

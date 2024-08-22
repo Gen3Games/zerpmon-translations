@@ -283,7 +283,8 @@
     "discord": "不和谐",
     "store": "店铺",
     "get-zrp": "获取ZRP",
-    "custodial-wallet-balance": ""
+    "custodial-wallet-balance": "",
+    "zerpwallet": "ZerpWallet"
   },
   "leaderboard": {
     "title": "排行榜",

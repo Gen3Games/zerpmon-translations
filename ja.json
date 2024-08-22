@@ -283,7 +283,8 @@
     "discord": "不和",
     "store": "店",
     "get-zrp": "ZRPを入手",
-    "custodial-wallet-balance": ""
+    "custodial-wallet-balance": "",
+    "zerpwallet": "ZerpWallet"
   },
   "leaderboard": {
     "title": "リーダーボード",

@@ -524,7 +524,8 @@
     "discord": "Discordia",
     "store": "Negozio",
     "get-zrp": "Ottieni ZRP",
-    "custodial-wallet-balance": ""
+    "custodial-wallet-balance": "",
+    "zerpwallet": "ZerpWallet"
   },
   "inventory": {
     "candy-active": "Zerpmon ha già attivo un tipo di caramella simile",

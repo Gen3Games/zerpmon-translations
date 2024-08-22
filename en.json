@@ -283,7 +283,8 @@
     "get-zrp": "Get ZRP",
     "discord": "Discord",
     "store": "Store",
-    "custodial-wallet-balance": "Custodial wallet balance"
+    "custodial-wallet-balance": "Custodial wallet balance",
+    "zerpwallet": "ZerpWallet"
   },
   "leaderboard": {
     "title": "Leaderboard",

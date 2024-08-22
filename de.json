@@ -283,7 +283,8 @@
     "discord": "Zwietracht",
     "store": "Speichern",
     "get-zrp": "Holen Sie sich ZRP",
-    "custodial-wallet-balance": ""
+    "custodial-wallet-balance": "",
+    "zerpwallet": "ZerpWallet"
   },
   "leaderboard": {
     "title": "Bestenliste",

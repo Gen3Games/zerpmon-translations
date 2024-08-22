@@ -283,7 +283,8 @@
     "discord": "불화",
     "store": "가게",
     "get-zrp": "ZRP 받기",
-    "custodial-wallet-balance": ""
+    "custodial-wallet-balance": "",
+    "zerpwallet": "ZerpWallet"
   },
   "leaderboard": {
     "title": "리더보드",
