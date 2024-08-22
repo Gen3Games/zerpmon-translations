@@ -1152,6 +1152,7 @@
     "withdrew-recently": "You have withdrawn within the last 15 minutes. You cannot withdraw more than once every 15 minutes.",
     "copy": "Copy",
     "address-copied": "Address Copied",
-    "deposit-warning": "Please make sure you deposit the minimum amount. Any amount below the minimum will not be reflected in your balance."
+    "deposit-warning": "Please make sure you deposit the minimum amount. Any amount below the minimum will not be reflected in your balance.",
+    "xrpl-trustline-warning": "Please make sure your trustline to {currency} is in place. Transaction will fail if trustline is not set."
   }
 }

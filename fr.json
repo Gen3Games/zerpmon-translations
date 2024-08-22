@@ -1152,6 +1152,7 @@
     "withdrew-recently": "Vous vous êtes retiré au cours des 15 dernières minutes. \nVous ne pouvez pas retirer plus d'une fois toutes les 15 minutes.",
     "copy": "Copie",
     "address-copied": "Adresse copiée",
-    "deposit-warning": "Veuillez vous assurer de déposer le montant minimum. \nTout montant inférieur au minimum ne sera pas reflété sur votre solde."
+    "deposit-warning": "Veuillez vous assurer de déposer le montant minimum. \nTout montant inférieur au minimum ne sera pas reflété sur votre solde.",
+    "xrpl-trustline-warning": "Veuillez vous assurer que votre ligne de confiance vers {currency} est en place. La transaction échouera si la ligne de confiance n'est pas définie."
   }
 }

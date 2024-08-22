@@ -1152,6 +1152,7 @@
     "withdrew-recently": "您在过去 15 分钟内退出了。\n每 15 分钟取款次数不得超过一次。",
     "copy": "复制",
     "address-copied": "地址已复制",
-    "deposit-warning": "请确保您存入最低金额。\n任何低于最低金额的金额都不会反映在您的余额中。"
+    "deposit-warning": "请确保您存入最低金额。\n任何低于最低金额的金额都不会反映在您的余额中。",
+    "xrpl-trustline-warning": "请确保您对 {currency} 的信任线已到位。如果未设置 trustline，交易将失败。"
   }
 }

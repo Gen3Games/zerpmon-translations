@@ -1152,6 +1152,7 @@
     "withdrew-recently": "Sie haben sich innerhalb der letzten 15 Minuten zurückgezogen. \nSie können nicht mehr als einmal alle 15 Minuten abheben.",
     "copy": "Kopie",
     "address-copied": "Adresse kopiert",
-    "deposit-warning": "Bitte stellen Sie sicher, dass Sie den Mindestbetrag einzahlen. \nEin Betrag, der unter dem Mindestbetrag liegt, wird nicht in Ihrem Guthaben berücksichtigt."
+    "deposit-warning": "Bitte stellen Sie sicher, dass Sie den Mindestbetrag einzahlen. \nEin Betrag, der unter dem Mindestbetrag liegt, wird nicht in Ihrem Guthaben berücksichtigt.",
+    "xrpl-trustline-warning": "Bitte stellen Sie sicher, dass Ihre Trustline zu {currency} vorhanden ist. Die Transaktion schlägt fehl, wenn die Trustline nicht festgelegt ist."
   }
 }

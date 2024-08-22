@@ -1152,6 +1152,7 @@
     "withdrew-recently": "Te has retirado en los últimos 15 minutos. \nNo puedes retirar más de una vez cada 15 minutos.",
     "copy": "Copiar",
     "address-copied": "Dirección copiada",
-    "deposit-warning": "Asegúrese de depositar la cantidad mínima. \nCualquier monto por debajo del mínimo no se reflejará en su saldo."
+    "deposit-warning": "Asegúrese de depositar la cantidad mínima. \nCualquier monto por debajo del mínimo no se reflejará en su saldo.",
+    "xrpl-trustline-warning": "Asegúrese de que su línea de confianza con {currency} esté activa. La transacción fallará si no se establece la línea de confianza."
   }
 }
