@@ -1112,7 +1112,7 @@
   "wallet": {
     "zerpwallet": "ZerpWallet",
     "managed-wallet": "Managed Wallet",
-    "managed-wallet-warning": "This wallet is managed by the Zerpmon Team. Please do not use this wallet for your personal holdings and transactions.",
+    "managed-wallet-warning": "This wallet is managed by Zerpmon. Please do not use this wallet for your personal holdings and transactions.",
     "xrp-balance": "XRP Balance",
     "zrp-balance": "ZRP Balance",
     "wallet-details": "Wallet Details",

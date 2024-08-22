@@ -1112,7 +1112,7 @@
   "wallet": {
     "zerpwallet": "ZerpWallet",
     "managed-wallet": "Monedero administrado",
-    "managed-wallet-warning": "Esta billetera es administrada por el equipo Zerpmon. \nNo utilice esta billetera para sus tenencias y transacciones personales.",
+    "managed-wallet-warning": "Esta billetera está administrada por Zerpmon. No utilice esta billetera para sus tenencias y transacciones personales.",
     "xrp-balance": "Saldo XRP",
     "zrp-balance": "Saldo ZRP",
     "wallet-details": "Detalles de la billetera",

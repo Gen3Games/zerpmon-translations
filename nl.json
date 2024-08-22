@@ -1112,7 +1112,7 @@
   "wallet": {
     "zerpwallet": "ZerpWallet",
     "managed-wallet": "Beheerde portemonnee",
-    "managed-wallet-warning": "Deze portemonnee wordt beheerd door het Zerpmon-team. \nGebruik deze portemonnee alstublieft niet voor uw persoonlijke bezittingen en transacties.",
+    "managed-wallet-warning": "Deze portemonnee wordt beheerd door Zerpmon. \nGebruik deze portemonnee alstublieft niet voor uw persoonlijke bezittingen en transacties.",
     "xrp-balance": "XRP-saldo",
     "zrp-balance": "ZRP-saldo",
     "wallet-details": "Portemonneegegevens",

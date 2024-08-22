@@ -1112,7 +1112,7 @@
   "wallet": {
     "zerpwallet": "Zerp월렛",
     "managed-wallet": "관리형 지갑",
-    "managed-wallet-warning": "이 지갑은 Zermon 팀에서 관리합니다. \n개인소유 및 거래용으로 이 지갑을 사용하지 마십시오.",
+    "managed-wallet-warning": "이 지갑은 Zermon에서 관리합니다. 개인소유 및 거래용으로 이 지갑을 사용하지 마십시오.",
     "xrp-balance": "XRP 잔액",
     "zrp-balance": "ZRP 잔액",
     "wallet-details": "지갑 세부정보",

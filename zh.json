@@ -1112,7 +1112,7 @@
   "wallet": {
     "zerpwallet": "泽普钱包",
     "managed-wallet": "托管钱包",
-    "managed-wallet-warning": "这个钱包由Zerpmon团队管理。\n请不要使用此钱包进行您的个人持有和交易。",
+    "managed-wallet-warning": "这个钱包由Zerpmon管理。请不要使用此钱包进行您的个人持有和交易。",
     "xrp-balance": "瑞波币余额",
     "zrp-balance": "ZRP余额",
     "wallet-details": "钱包详情",

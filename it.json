@@ -1112,7 +1112,7 @@
   "wallet": {
     "zerpwallet": "ZerpWallet",
     "managed-wallet": "Portafoglio gestito",
-    "managed-wallet-warning": "Questo portafoglio è gestito dal Team Zerpmon. \nSi prega di non utilizzare questo portafoglio per i propri averi e transazioni personali.",
+    "managed-wallet-warning": "Questo portafoglio è gestito da Zerpmon. Si prega di non utilizzare questo portafoglio per i propri averi e transazioni personali.",
     "xrp-balance": "Saldo XRP",
     "zrp-balance": "Saldo ZRP",
     "wallet-details": "Dettagli del portafoglio",
