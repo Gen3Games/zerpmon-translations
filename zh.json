@@ -1149,6 +1149,9 @@
     "withdrawal-failed": "提现失败",
     "withdrawal-request-failed": "提款请求提交失败",
     "withdrawal-request-success": "提款请求已成功提交。\n您的资金将很快被处理并转移到您的目的地钱包。",
-    "withdrew-recently": "您在过去 15 分钟内退出了。\n每 15 分钟取款次数不得超过一次。"
+    "withdrew-recently": "您在过去 15 分钟内退出了。\n每 15 分钟取款次数不得超过一次。",
+    "copy": "复制",
+    "address-copied": "地址已复制",
+    "deposit-warning": "请确保您存入最低金额。\n任何低于最低金额的金额都不会反映在您的余额中。"
   }
 }

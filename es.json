@@ -1149,6 +1149,9 @@
     "refresh": "Refrescar",
     "pending-withdrawal": "Aún tienes un retiro pendiente. Espere a que se complete antes de enviar otra solicitud de retiro",
     "invalid-amount": "Cantidad no válida. \nEl monto mínimo de retiro es 1.",
-    "withdrew-recently": "Te has retirado en los últimos 15 minutos. \nNo puedes retirar más de una vez cada 15 minutos."
+    "withdrew-recently": "Te has retirado en los últimos 15 minutos. \nNo puedes retirar más de una vez cada 15 minutos.",
+    "copy": "Copiar",
+    "address-copied": "Dirección copiada",
+    "deposit-warning": "Asegúrese de depositar la cantidad mínima. \nCualquier monto por debajo del mínimo no se reflejará en su saldo."
   }
 }

@@ -1149,6 +1149,9 @@
     "refresh": "Vernieuwen",
     "pending-withdrawal": "Er is nog steeds een uitbetaling in behandeling. Wacht tot dit is voltooid voordat u opnieuw een opnameverzoek indient",
     "invalid-amount": "Ongeldig bedrag. \nHet minimale opnamebedrag is 1.",
-    "withdrew-recently": "Je hebt je in de afgelopen 15 minuten teruggetrokken. \nU kunt niet vaker dan één keer per 15 minuten opnemen."
+    "withdrew-recently": "Je hebt je in de afgelopen 15 minuten teruggetrokken. \nU kunt niet vaker dan één keer per 15 minuten opnemen.",
+    "copy": "Kopiëren",
+    "address-copied": "Adres gekopieerd",
+    "deposit-warning": "Zorg ervoor dat u het minimumbedrag stort. \nElk bedrag onder het minimum wordt niet weergegeven in uw saldo."
   }
 }

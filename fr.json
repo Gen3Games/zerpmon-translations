@@ -1149,6 +1149,9 @@
     "refresh": "Rafraîchir",
     "pending-withdrawal": "Vous avez toujours un retrait en attente. Veuillez attendre qu'il soit terminé avant de soumettre une autre demande de retrait",
     "invalid-amount": "Montant invalide. \nLe montant minimum de retrait est de 1.",
-    "withdrew-recently": "Vous vous êtes retiré au cours des 15 dernières minutes. \nVous ne pouvez pas retirer plus d'une fois toutes les 15 minutes."
+    "withdrew-recently": "Vous vous êtes retiré au cours des 15 dernières minutes. \nVous ne pouvez pas retirer plus d'une fois toutes les 15 minutes.",
+    "copy": "Copie",
+    "address-copied": "Adresse copiée",
+    "deposit-warning": "Veuillez vous assurer de déposer le montant minimum. \nTout montant inférieur au minimum ne sera pas reflété sur votre solde."
   }
 }

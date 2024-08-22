@@ -1149,6 +1149,9 @@
     "refresh": "Aktualisieren",
     "pending-withdrawal": "Sie haben noch eine ausstehende Auszahlung. Bitte warten Sie, bis der Vorgang abgeschlossen ist, bevor Sie eine weitere Auszahlungsanforderung einreichen",
     "invalid-amount": "Ungültiger Betrag. \nDer Mindestauszahlungsbetrag beträgt 1.",
-    "withdrew-recently": "Sie haben sich innerhalb der letzten 15 Minuten zurückgezogen. \nSie können nicht mehr als einmal alle 15 Minuten abheben."
+    "withdrew-recently": "Sie haben sich innerhalb der letzten 15 Minuten zurückgezogen. \nSie können nicht mehr als einmal alle 15 Minuten abheben.",
+    "copy": "Kopie",
+    "address-copied": "Adresse kopiert",
+    "deposit-warning": "Bitte stellen Sie sicher, dass Sie den Mindestbetrag einzahlen. \nEin Betrag, der unter dem Mindestbetrag liegt, wird nicht in Ihrem Guthaben berücksichtigt."
   }
 }

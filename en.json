@@ -1149,6 +1149,9 @@
     "refresh": "Refresh",
     "pending-withdrawal": "You still have a pending withdrawal. Please wait for it to complete before submitting another withdrawal request",
     "invalid-amount": "Invalid amount. Minimum withdrawal amount is 1.",
-    "withdrew-recently": "You have withdrawn within the last 15 minutes. You cannot withdraw more than once every 15 minutes."
+    "withdrew-recently": "You have withdrawn within the last 15 minutes. You cannot withdraw more than once every 15 minutes.",
+    "copy": "Copy",
+    "address-copied": "Address Copied",
+    "deposit-warning": "Please make sure you deposit the minimum amount. Any amount below the minimum will not be reflected in your balance."
   }
 }

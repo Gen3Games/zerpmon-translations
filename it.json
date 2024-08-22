@@ -1149,6 +1149,9 @@
     "refresh": "Aggiorna",
     "pending-withdrawal": "Hai ancora un prelievo in sospeso. Attendi il completamento prima di inviare un'altra richiesta di prelievo",
     "invalid-amount": "Importo non valido. \nL'importo minimo di prelievo è 1.",
-    "withdrew-recently": "Ti sei ritirato negli ultimi 15 minuti. \nNon puoi prelevare più di una volta ogni 15 minuti."
+    "withdrew-recently": "Ti sei ritirato negli ultimi 15 minuti. \nNon puoi prelevare più di una volta ogni 15 minuti.",
+    "copy": "Copia",
+    "address-copied": "Indirizzo copiato",
+    "deposit-warning": "Assicurati di depositare l'importo minimo. \nQualsiasi importo inferiore al minimo non si rifletterà nel tuo saldo."
   }
 }
