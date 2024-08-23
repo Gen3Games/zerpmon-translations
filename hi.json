@@ -525,7 +525,8 @@
     "store": "इकट्ठा करना",
     "get-zrp": "ZRP प्राप्त करें",
     "custodial-wallet-balance": "",
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "visit-kaiju-wallet": ""
   },
   "inventory": {
     "candy-active": "ज़र्पमोन के पास पहले से ही इसी प्रकार की कैंडी सक्रिय है",

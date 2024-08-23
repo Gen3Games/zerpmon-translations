@@ -284,7 +284,8 @@
     "store": "店",
     "get-zrp": "ZRPを入手",
     "custodial-wallet-balance": "",
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "visit-kaiju-wallet": ""
   },
   "leaderboard": {
     "title": "リーダーボード",

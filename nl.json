@@ -525,7 +525,8 @@
     "store": "Winkel",
     "get-zrp": "Ontvang ZRP",
     "custodial-wallet-balance": "",
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "visit-kaiju-wallet": ""
   },
   "inventory": {
     "candy-active": "Zerpmon heeft al een soortgelijk soort snoep actief",

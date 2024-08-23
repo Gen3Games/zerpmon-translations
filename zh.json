@@ -284,7 +284,8 @@
     "store": "店铺",
     "get-zrp": "获取ZRP",
     "custodial-wallet-balance": "",
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "visit-kaiju-wallet": ""
   },
   "leaderboard": {
     "title": "排行榜",

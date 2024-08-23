@@ -525,7 +525,8 @@
     "store": "Negozio",
     "get-zrp": "Ottieni ZRP",
     "custodial-wallet-balance": "",
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "visit-kaiju-wallet": ""
   },
   "inventory": {
     "candy-active": "Zerpmon ha già attivo un tipo di caramella simile",

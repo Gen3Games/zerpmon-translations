@@ -421,7 +421,8 @@
     "store": "Magasin",
     "get-zrp": "Obtenez le ZRP",
     "custodial-wallet-balance": "",
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "visit-kaiju-wallet": ""
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",

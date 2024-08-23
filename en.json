@@ -284,7 +284,8 @@
     "discord": "Discord",
     "store": "Store",
     "custodial-wallet-balance": "Custodial wallet balance",
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "visit-kaiju-wallet": "Visit Kaiju Wallet"
   },
   "leaderboard": {
     "title": "Leaderboard",

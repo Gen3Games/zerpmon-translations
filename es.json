@@ -284,7 +284,8 @@
     "store": "Almacenar",
     "get-zrp": "Obtener ZRP",
     "custodial-wallet-balance": "",
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "visit-kaiju-wallet": ""
   },
   "leaderboard": {
     "title": "Clasificación",

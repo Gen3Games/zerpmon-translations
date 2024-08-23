@@ -284,7 +284,8 @@
     "store": "Speichern",
     "get-zrp": "Holen Sie sich ZRP",
     "custodial-wallet-balance": "",
-    "zerpwallet": "ZerpWallet"
+    "zerpwallet": "ZerpWallet",
+    "visit-kaiju-wallet": ""
   },
   "leaderboard": {
     "title": "Bestenliste",
