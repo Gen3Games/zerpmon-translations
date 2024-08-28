@@ -698,7 +698,10 @@
     "loan-equipment": "Equipo",
     "loaned-by": "Prestado por: {usuario}",
     "no-sell-offers": "No hay oferta de venta para este NFT",
-    "loan-payment-transaction-success": "Pago para aceptar préstamo enviado exitosamente"
+    "loan-payment-transaction-success": "Pago para aceptar préstamo enviado exitosamente",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "not-enough-xrp-balance": ""
   },
   "manage-listing": {
     "title": "Mis NFT",

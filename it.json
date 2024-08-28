@@ -735,7 +735,10 @@
     "successful-loan": "Hai prestato con successo {zerpmonName}",
     "title": "Mercato",
     "trading": "Commercio",
-    "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi."
+    "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi.",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "not-enough-xrp-balance": ""
   },
   "mint": {
     "days": "giorni",

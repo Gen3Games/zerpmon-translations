@@ -735,7 +735,10 @@
     "successful-loan": "Je hebt {zerpmonName} succesvol uitgeleend",
     "title": "Marktplaats",
     "trading": "Handel",
-    "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw."
+    "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "not-enough-xrp-balance": ""
   },
   "mint": {
     "days": "dagen",

@@ -698,7 +698,10 @@
     "loan-equipment": "Equipment",
     "loaned-by": "Loaned by: {user}",
     "no-sell-offers": "There is no sell offer for this NFT",
-    "loan-payment-transaction-success": "Payment for accept loan successfully sent"
+    "loan-payment-transaction-success": "Payment for accept loan successfully sent",
+    "user-tag-not-found": "Could not find user tag",
+    "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
+    "not-enough-xrp-balance": "Not enough XRP balance in ZerpWallet"
   },
   "manage-listing": {
     "title": "My NFTs",

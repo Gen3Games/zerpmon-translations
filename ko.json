@@ -698,7 +698,10 @@
     "loan-equipment": "장비",
     "loaned-by": "대여자: {user}",
     "no-sell-offers": "이 NFT에는 판매 제안이 없습니다.",
-    "loan-payment-transaction-success": "대출 수락에 대한 결제가 성공적으로 전송되었습니다."
+    "loan-payment-transaction-success": "대출 수락에 대한 결제가 성공적으로 전송되었습니다.",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "not-enough-xrp-balance": ""
   },
   "manage-listing": {
     "title": "내 NFT",

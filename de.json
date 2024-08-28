@@ -698,7 +698,10 @@
     "loan-equipment": "Ausrüstung",
     "loaned-by": "Ausgeliehen von {user}",
     "no-sell-offers": "Für dieses NFT gibt es kein Angebot",
-    "loan-payment-transaction-success": "Zahlung für die Bestätigung des Leihangebotes erfolgreich gesendet"
+    "loan-payment-transaction-success": "Zahlung für die Bestätigung des Leihangebotes erfolgreich gesendet",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "not-enough-xrp-balance": ""
   },
   "manage-listing": {
     "title": "Meine NFT's",

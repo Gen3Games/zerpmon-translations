@@ -735,7 +735,10 @@
     "successful-loan": "आपने सफलतापूर्वक {zerpmonName} ऋण ले लिया है",
     "title": "बाजार",
     "trading": "व्यापार",
-    "tx-error-crossmark-msg": "क्रॉसमार्क वॉलेट में लेनदेन नहीं किया जा सका. \nकृपया बाद में पुन: प्रयास करें।"
+    "tx-error-crossmark-msg": "क्रॉसमार्क वॉलेट में लेनदेन नहीं किया जा सका. \nकृपया बाद में पुन: प्रयास करें।",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "not-enough-xrp-balance": ""
   },
   "mint": {
     "days": "दिन",

@@ -698,7 +698,10 @@
     "loan-equipment": "设备",
     "loaned-by": "借出者：{user}",
     "no-sell-offers": "该 NFT 没有卖价",
-    "loan-payment-transaction-success": "接受贷款付款已成功发送"
+    "loan-payment-transaction-success": "接受贷款付款已成功发送",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "not-enough-xrp-balance": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",

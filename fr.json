@@ -631,7 +631,10 @@
     "loan-equipment": "Équipement",
     "loan-trainers": "Formateurs",
     "loan-zerpmons": "Zerpmons",
-    "loan-payment-transaction-success": "Paiement pour accepter le prêt envoyé avec succès"
+    "loan-payment-transaction-success": "Paiement pour accepter le prêt envoyé avec succès",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "not-enough-xrp-balance": ""
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",
