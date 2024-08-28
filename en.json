@@ -620,7 +620,8 @@
     "trial-rush": "Trial Rush",
     "battle-for-free": "Battle For Free",
     "bench-zerpmon-slot": "Bench Zerpmon Slot",
-    "security-card-pick-msg": "Security Card has revealed a {equipmentName}!"
+    "security-card-pick-msg": "Security Card has revealed a {equipmentName}!",
+    "damage-till-ko-trigger-msg": "{zerpmonName}'s damage is {changeType} by {value} until KO!"
   },
   "test": {
     "test": "this is a test"

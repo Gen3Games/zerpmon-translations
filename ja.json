@@ -620,7 +620,8 @@
     "already-battled": "すでに戦闘済み",
     "back": "戻る",
     "bench-zerpmon-slot": "",
-    "security-card-pick-msg": ""
+    "security-card-pick-msg": "",
+    "damage-till-ko-trigger-msg": ""
   },
   "test": {
     "test": "これはテストです"

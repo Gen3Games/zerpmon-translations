@@ -170,7 +170,8 @@
     "already-battled": "पहले ही युद्ध कर चुके हैं",
     "back": "पीछे",
     "bench-zerpmon-slot": "",
-    "security-card-pick-msg": ""
+    "security-card-pick-msg": "",
+    "damage-till-ko-trigger-msg": ""
   },
   "analytics": {
     "analytics": "एनालिटिक्स",

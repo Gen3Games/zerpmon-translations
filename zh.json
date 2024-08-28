@@ -620,7 +620,8 @@
     "trial-rush": "试炼冲刺",
     "battle-for-free": "免费战斗",
     "bench-zerpmon-slot": "",
-    "security-card-pick-msg": ""
+    "security-card-pick-msg": "",
+    "damage-till-ko-trigger-msg": ""
   },
   "test": {
     "test": "这是个测试"

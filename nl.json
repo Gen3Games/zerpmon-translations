@@ -265,7 +265,8 @@
     "already-battled": "Al gevochten",
     "back": "Rug",
     "bench-zerpmon-slot": "",
-    "security-card-pick-msg": ""
+    "security-card-pick-msg": "",
+    "damage-till-ko-trigger-msg": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
