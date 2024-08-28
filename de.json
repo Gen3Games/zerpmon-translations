@@ -634,13 +634,13 @@
     "invalid-signature-error": "Du hast dich mit ungültigen Daten angemeldet. Bitte stelle sicher, dass du ein Crossmark-Wallet verwendest",
     "verify-button-label": "Verifiziere dein Crossmark-Wallet Adresse",
     "signin-request-missing": "Der angeforderte Link ist ungültig oder existiert nicht",
-    "check-for-crossmark-description": "Ihre Crossmark Wallet- und Discord-Konten sind jetzt verknüpft. Bitte überprüfen Sie Discord zur Bestätigung",
-    "connect-to-crossmark": "Sie sind dabei, Ihre Crossmark-Adresse {address}{''} mit Ihrem Discord-Konto zu verknüpfen. \nBitte stellen Sie sicher, dass diese Angaben korrekt sind."
+    "check-for-crossmark-description": "Deine Crossmark Wallet- und Discord-Konten sind jetzt verknüpft. Bitte überprüfe Discord zur Bestätigung",
+    "connect-to-crossmark": "Du bist dabei, deine Crossmark-Adresse {address}{''} mit deinem Discord-Konto zu verknüpfen. Bitte stelle sicher, dass diese Angaben korrekt sind."
   },
   "zerpmon-types-damage-table": {
     "strong": "Stark",
     "weak": "Schwach",
-    "useless": "Fürchterlich",
+    "useless": "Chancenlos",
     "no-change": "Keine Veränderung",
     "simple-view": "Einfache Ansicht",
     "attacking-tooltip": "Ausgeteilter Schaden",
@@ -665,7 +665,7 @@
     "edit-listing-title": "NFT Angebot bearbeiten",
     "edit-listing-description": "Bearbeite die Einzelheiten deines NFT Angebots unten",
     "edit-listing-update": "Angebot aktualisieren",
-    "loan-loanability": "Leihbarkeit",
+    "loan-loanability": "Status",
     "loan-loanable": "Leihbar",
     "loan-loaned": "Verliehen",
     "loan-all": "Alle",
@@ -701,9 +701,9 @@
     "loaned-by": "Ausgeliehen von {user}",
     "no-sell-offers": "Für dieses NFT gibt es kein Angebot",
     "loan-payment-transaction-success": "Zahlung für die Bestätigung des Leihangebotes erfolgreich gesendet",
-    "user-tag-not-found": "",
-    "not-enough-zrp-balance": "",
-    "not-enough-xrp-balance": ""
+    "user-tag-not-found": "Benutzerangaben nicht gefunden",
+    "not-enough-zrp-balance": "Nicht genug ZRP-Guthaben im Zerp-Wallet",
+    "not-enough-xrp-balance": "Nicht genug XRP-Guthaben im Zerp-Wallet"
   },
   "manage-listing": {
     "title": "Meine NFT's",
