@@ -619,7 +619,8 @@
     "battle-for-free": "Batalla gratis",
     "already-battled": "Ya luché",
     "back": "Atrás",
-    "bench-zerpmon-slot": ""
+    "bench-zerpmon-slot": "",
+    "security-card-pick-msg": ""
   },
   "test": {
     "test": "esto es un test"

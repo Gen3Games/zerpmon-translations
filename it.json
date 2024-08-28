@@ -264,7 +264,8 @@
     "battle-for-free": "Combatti gratuitamente",
     "already-battled": "Già combattuto",
     "back": "Indietro",
-    "bench-zerpmon-slot": ""
+    "bench-zerpmon-slot": "",
+    "security-card-pick-msg": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

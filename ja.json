@@ -619,7 +619,8 @@
     "battle-for-free": "無料でバトル",
     "already-battled": "すでに戦闘済み",
     "back": "戻る",
-    "bench-zerpmon-slot": ""
+    "bench-zerpmon-slot": "",
+    "security-card-pick-msg": ""
   },
   "test": {
     "test": "これはテストです"

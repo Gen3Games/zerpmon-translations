@@ -264,7 +264,8 @@
     "battle-for-free": "Strijd gratis",
     "already-battled": "Al gevochten",
     "back": "Rug",
-    "bench-zerpmon-slot": ""
+    "bench-zerpmon-slot": "",
+    "security-card-pick-msg": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

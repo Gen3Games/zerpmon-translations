@@ -619,7 +619,8 @@
     "battle-for-free": "Kämpfe kostenlos",
     "already-battled": "Bereits gekämpft",
     "back": "Zurück",
-    "bench-zerpmon-slot": ""
+    "bench-zerpmon-slot": "",
+    "security-card-pick-msg": ""
   },
   "test": {
     "test": "Dies ist ein Test"

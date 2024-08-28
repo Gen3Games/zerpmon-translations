@@ -209,7 +209,8 @@
     "battle-for-free": "Combattez gratuitement",
     "already-battled": "Déjà combattu",
     "back": "Dos",
-    "bench-zerpmon-slot": ""
+    "bench-zerpmon-slot": "",
+    "security-card-pick-msg": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

@@ -619,7 +619,8 @@
     "battle-for-free": "무료 전투",
     "already-battled": "이미 전투를 벌였습니다",
     "back": "뒤쪽에",
-    "bench-zerpmon-slot": ""
+    "bench-zerpmon-slot": "",
+    "security-card-pick-msg": ""
   },
   "test": {
     "test": "테스트입니다."

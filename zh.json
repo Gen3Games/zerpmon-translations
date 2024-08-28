@@ -619,7 +619,8 @@
     "level": "等级",
     "trial-rush": "试炼冲刺",
     "battle-for-free": "免费战斗",
-    "bench-zerpmon-slot": ""
+    "bench-zerpmon-slot": "",
+    "security-card-pick-msg": ""
   },
   "test": {
     "test": "这是个测试"

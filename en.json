@@ -619,7 +619,8 @@
     "level": "Level",
     "trial-rush": "Trial Rush",
     "battle-for-free": "Battle For Free",
-    "bench-zerpmon-slot": "Bench Zerpmon Slot"
+    "bench-zerpmon-slot": "Bench Zerpmon Slot",
+    "security-card-pick-msg": "Security Card has revealed a {equipmentName}!"
   },
   "test": {
     "test": "this is a test"
