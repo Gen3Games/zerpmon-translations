@@ -619,9 +619,9 @@
     "battle-for-free": "Kämpfe kostenlos",
     "already-battled": "Bereits gekämpft",
     "back": "Zurück",
-    "bench-zerpmon-slot": "",
-    "security-card-pick-msg": "",
-    "damage-till-ko-trigger-msg": ""
+    "bench-zerpmon-slot": "Reserve Zerpmon Slot",
+    "security-card-pick-msg": "Eine Security card hat {equipmentName} enthüllt",
+    "damage-till-ko-trigger-msg": "{zerpmonName}'s Schaden ist {changeType} in Höhe von {value} bis zum KO!"
   },
   "test": {
     "test": "Dies ist ein Test"
