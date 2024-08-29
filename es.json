@@ -622,7 +622,8 @@
     "bench-zerpmon-slot": "",
     "security-card-pick-msg": "",
     "damage-till-ko-trigger-msg": "",
-    "inc-multiple-move-percents": ""
+    "inc-multiple-move-percents": "",
+    "high-dmg-ko-msg": ""
   },
   "test": {
     "test": "esto es un test"

@@ -622,7 +622,8 @@
     "bench-zerpmon-slot": "Bench Zerpmon Slot",
     "security-card-pick-msg": "Security Card has revealed a {equipmentName}!",
     "damage-till-ko-trigger-msg": "{zerpmonName}'s damage is {changeType} by {value} until KO!",
-    "inc-multiple-move-percents": "{zerpmonName}'s {moveColor}  each ⬆️ {change}%"
+    "inc-multiple-move-percents": "{zerpmonName}'s {moveColor}  each ⬆️ {change}%",
+    "high-dmg-ko-msg": "{loser} was just obliterated into pieces by (winner) and all thats left is red dust."
   },
   "test": {
     "test": "this is a test"

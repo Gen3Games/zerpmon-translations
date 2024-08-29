@@ -622,7 +622,8 @@
     "bench-zerpmon-slot": "Reserve Zerpmon Slot",
     "security-card-pick-msg": "Eine Security card hat {equipmentName} enthüllt",
     "damage-till-ko-trigger-msg": "{zerpmonName}'s Schaden ist {changeType} in Höhe von {value} bis zum KO!",
-    "inc-multiple-move-percents": ""
+    "inc-multiple-move-percents": "",
+    "high-dmg-ko-msg": ""
   },
   "test": {
     "test": "Dies ist ein Test"
