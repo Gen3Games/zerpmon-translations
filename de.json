@@ -395,7 +395,7 @@
     "level-30": "Stufe 30",
     "level": "Level",
     "go-to-zerpbox": "Gehe zur Zerp-Box"
-    },
+  },
   "safari": {
     "title": "Safari",
     "tickets-owned": "Du besitzt {ticketCount} Safari-Ticket(s)",
@@ -621,7 +621,8 @@
     "back": "Zurück",
     "bench-zerpmon-slot": "Reserve Zerpmon Slot",
     "security-card-pick-msg": "Eine Security card hat {equipmentName} enthüllt",
-    "damage-till-ko-trigger-msg": "{zerpmonName}'s Schaden ist {changeType} in Höhe von {value} bis zum KO!"
+    "damage-till-ko-trigger-msg": "{zerpmonName}'s Schaden ist {changeType} in Höhe von {value} bis zum KO!",
+    "inc-multiple-move-percents": ""
   },
   "test": {
     "test": "Dies ist ein Test"

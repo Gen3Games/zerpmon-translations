@@ -621,7 +621,8 @@
     "battle-for-free": "Battle For Free",
     "bench-zerpmon-slot": "Bench Zerpmon Slot",
     "security-card-pick-msg": "Security Card has revealed a {equipmentName}!",
-    "damage-till-ko-trigger-msg": "{zerpmonName}'s damage is {changeType} by {value} until KO!"
+    "damage-till-ko-trigger-msg": "{zerpmonName}'s damage is {changeType} by {value} until KO!",
+    "inc-multiple-move-percents": "{zerpmonName}'s {moveColor}  each ⬆️ {change}%"
   },
   "test": {
     "test": "this is a test"

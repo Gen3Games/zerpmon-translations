@@ -621,7 +621,8 @@
     "back": "戻る",
     "bench-zerpmon-slot": "",
     "security-card-pick-msg": "",
-    "damage-till-ko-trigger-msg": ""
+    "damage-till-ko-trigger-msg": "",
+    "inc-multiple-move-percents": ""
   },
   "test": {
     "test": "これはテストです"
