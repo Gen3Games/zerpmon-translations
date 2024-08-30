@@ -685,7 +685,10 @@
     "title": "I miei NFT",
     "transaction-failed": "La transazione di annullamento dell'offerta di vendita NFT non è riuscita. \nPer favore riprova più tardi.",
     "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi.",
-    "unlist": "Non elencare"
+    "unlist": "Non elencare",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "could-not-find-nft-category": ""
   },
   "marketplace": {
     "accept-loan": "Prestito",

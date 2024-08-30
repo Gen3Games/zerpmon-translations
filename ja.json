@@ -758,7 +758,10 @@
     "min": "分",
     "max": "マックス",
     "loaned": "貸し出しました",
-    "remaining": "残り"
+    "remaining": "残り",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "could-not-find-nft-category": ""
   },
   "create-listing": {
     "not-signed-in": "ログインしていない",

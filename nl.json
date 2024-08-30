@@ -685,7 +685,10 @@
     "title": "Mijn NFT's",
     "transaction-failed": "Uw annuleringstransactie voor het NFT-verkoopaanbod is mislukt. \nProbeer het later opnieuw.",
     "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
-    "unlist": "Lijst opheffen"
+    "unlist": "Lijst opheffen",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "could-not-find-nft-category": ""
   },
   "marketplace": {
     "accept-loan": "Lening",

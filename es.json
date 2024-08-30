@@ -758,7 +758,10 @@
     "min": "mín.",
     "max": "máx.",
     "loaned": "Prestado",
-    "remaining": "Restante"
+    "remaining": "Restante",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "could-not-find-nft-category": ""
   },
   "create-listing": {
     "not-signed-in": "Sin iniciar sesión",

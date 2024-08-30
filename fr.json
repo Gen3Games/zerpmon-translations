@@ -581,7 +581,10 @@
     "min": "Min.",
     "max": "Max.",
     "loaned": "Prêté",
-    "remaining": "Restant"
+    "remaining": "Restant",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "could-not-find-nft-category": ""
   },
   "marketplace": {
     "accept-loan": "Prêt",

@@ -758,7 +758,10 @@
     "min": "最小",
     "max": "最大限度",
     "loaned": "借用",
-    "remaining": "其余的"
+    "remaining": "其余的",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "could-not-find-nft-category": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",

@@ -758,7 +758,10 @@
     "min": "Min",
     "max": "Max",
     "loaned": "Loaned",
-    "remaining": "Remaining"
+    "remaining": "Remaining",
+    "user-tag-not-found": "Could not find user tag",
+    "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
+    "could-not-find-nft-category": "Could not find Zerpmon NFT category"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",

@@ -758,7 +758,10 @@
     "min": "Minimum",
     "max": "Maximum",
     "loaned": "Verleihdauer",
-    "remaining": "Verbleibend"
+    "remaining": "Verbleibend",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "could-not-find-nft-category": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",

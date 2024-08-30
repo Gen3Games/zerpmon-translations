@@ -685,7 +685,10 @@
     "title": "मेरे एनएफटी",
     "transaction-failed": "आपका एनएफटी विक्रय प्रस्ताव रद्दीकरण लेनदेन विफल हो गया है। \nकृपया बाद में पुन: प्रयास करें।",
     "tx-error-crossmark-msg": "क्रॉसमार्क वॉलेट में लेनदेन नहीं किया जा सका. \nकृपया बाद में पुन: प्रयास करें।",
-    "unlist": "असूचीबद्ध"
+    "unlist": "असूचीबद्ध",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": "",
+    "could-not-find-nft-category": ""
   },
   "marketplace": {
     "accept-loan": "ऋृण",
