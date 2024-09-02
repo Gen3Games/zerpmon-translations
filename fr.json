@@ -264,7 +264,9 @@
     "loan-updated-successfully": "Prêt mis à jour avec succès",
     "loan-update": "Mise à jour",
     "legend-gryll-trainer-loan-error": "Les entraîneurs Legend ou Gryll Master ne peuvent pas être prêtés",
-    "sell-offer-success": "Offre de vente créée avec succès"
+    "sell-offer-success": "Offre de vente créée avec succès",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": ""
   },
   "decks": {
     "add-battle-deck": "Ajouter un deck de combat",

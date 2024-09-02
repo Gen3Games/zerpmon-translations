@@ -812,7 +812,9 @@
     "loan-updated-successfully": "Angebot erfolgreich aktualisiert",
     "loan-update": "Aktualisierung",
     "legend-gryll-trainer-loan-error": "Legends- oder Gryll Master-Trainer können nicht verliehen werden",
-    "sell-offer-success": "Verkaufsangebot erfolgreich erstellt"
+    "sell-offer-success": "Verkaufsangebot erfolgreich erstellt",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": ""
   },
   "notifications": {
     "notifications": "Benachrichtigungen",

@@ -340,7 +340,9 @@
     "sell-offer-transaction-not-validated": "विक्रय प्रस्ताव लेनदेन मान्य नहीं है",
     "successful-listing": "आपने ऋण देने के लिए {nftName} को सफलतापूर्वक सूचीबद्ध कर लिया है",
     "transaction-failed": "आपका एनएफटी विक्रय प्रस्ताव लेनदेन विफल हो गया है। \nकृपया बाद में पुन: प्रयास करें।",
-    "tx-error-crossmark-msg": "क्रॉसमार्क वॉलेट में लेनदेन नहीं किया जा सका. \nकृपया बाद में पुन: प्रयास करें।"
+    "tx-error-crossmark-msg": "क्रॉसमार्क वॉलेट में लेनदेन नहीं किया जा सका. \nकृपया बाद में पुन: प्रयास करें।",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": ""
   },
   "decks": {
     "add-battle-deck": "बैटल डेक जोड़ें",

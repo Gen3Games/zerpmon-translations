@@ -812,7 +812,9 @@
     "loan-updated-successfully": "Loan updated successfully",
     "loan-update": "Update",
     "legend-gryll-trainer-loan-error": "Legend or Gryll Master trainers cannot be loaned",
-    "sell-offer-success": "Sell offer successfully created"
+    "sell-offer-success": "Sell offer successfully created",
+    "user-tag-not-found": "Could not find user tag",
+    "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet"
   },
   "notifications": {
     "notifications": "Notifications",

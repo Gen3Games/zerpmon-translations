@@ -340,7 +340,9 @@
     "sell-offer-transaction-not-validated": "Transactie met verkoopbod is niet geldig",
     "successful-listing": "U heeft {nftName} succesvol vermeld voor uitlening",
     "transaction-failed": "Uw NFT-verkoopaanbiedingstransactie is mislukt. \nProbeer het later opnieuw.",
-    "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw."
+    "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": ""
   },
   "decks": {
     "add-battle-deck": "Voeg gevechtsdek toe",

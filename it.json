@@ -340,7 +340,9 @@
     "sell-offer-transaction-not-validated": "La transazione dell'offerta di vendita non è valida",
     "successful-listing": "Hai elencato con successo {nftName} per il prestito",
     "transaction-failed": "La transazione dell'offerta di vendita NFT non è riuscita. \nPer favore riprova più tardi.",
-    "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi."
+    "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi.",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": ""
   },
   "decks": {
     "add-battle-deck": "Aggiungi mazzo da battaglia",

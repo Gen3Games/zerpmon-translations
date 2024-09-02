@@ -812,7 +812,9 @@
     "loan-updated-successfully": "Préstamo actualizado exitosamente",
     "loan-update": "Actualizar",
     "legend-gryll-trainer-loan-error": "No se pueden prestar entrenadores Legend o Gryll Master",
-    "sell-offer-success": "Oferta de venta creada correctamente"
+    "sell-offer-success": "Oferta de venta creada correctamente",
+    "user-tag-not-found": "",
+    "not-enough-zrp-balance": ""
   },
   "notifications": {
     "notifications": "Notificaciones",
