@@ -748,7 +748,8 @@
     "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
-    "not-enough-xrp-balance": ""
+    "not-enough-xrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "mint": {
     "days": "dagen",

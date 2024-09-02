@@ -748,7 +748,8 @@
     "tx-error-crossmark-msg": "क्रॉसमार्क वॉलेट में लेनदेन नहीं किया जा सका. \nकृपया बाद में पुन: प्रयास करें।",
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
-    "not-enough-xrp-balance": ""
+    "not-enough-xrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "mint": {
     "days": "दिन",

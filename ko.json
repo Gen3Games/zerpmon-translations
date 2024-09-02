@@ -706,7 +706,8 @@
     "loan-payment-transaction-success": "대출 수락에 대한 결제가 성공적으로 전송되었습니다.",
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
-    "not-enough-xrp-balance": ""
+    "not-enough-xrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "manage-listing": {
     "title": "내 NFT",

@@ -706,7 +706,8 @@
     "loan-payment-transaction-success": "ローン承認の支払いが正常に送信されました",
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
-    "not-enough-xrp-balance": ""
+    "not-enough-xrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "manage-listing": {
     "title": "私のNFT",

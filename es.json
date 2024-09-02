@@ -706,7 +706,8 @@
     "loan-payment-transaction-success": "Pago para aceptar préstamo enviado exitosamente",
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
-    "not-enough-xrp-balance": ""
+    "not-enough-xrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "manage-listing": {
     "title": "Mis NFT",

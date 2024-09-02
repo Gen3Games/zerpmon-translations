@@ -706,7 +706,8 @@
     "loan-payment-transaction-success": "接受贷款付款已成功发送",
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
-    "not-enough-xrp-balance": ""
+    "not-enough-xrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",
