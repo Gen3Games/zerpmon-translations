@@ -623,7 +623,8 @@
     "security-card-pick-msg": "",
     "damage-till-ko-trigger-msg": "",
     "inc-multiple-move-percents": "",
-    "high-dmg-ko-msg": ""
+    "high-dmg-ko-msg": "",
+    "blue-change-prevented": ""
   },
   "test": {
     "test": "테스트입니다."

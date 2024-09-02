@@ -623,7 +623,8 @@
     "security-card-pick-msg": "Eine Security card hat {equipmentName} enthüllt",
     "damage-till-ko-trigger-msg": "{zerpmonName}'s Schaden ist {changeType} in Höhe von {value} bis zum KO!",
     "inc-multiple-move-percents": "",
-    "high-dmg-ko-msg": ""
+    "high-dmg-ko-msg": "",
+    "blue-change-prevented": ""
   },
   "test": {
     "test": "Dies ist ein Test"
