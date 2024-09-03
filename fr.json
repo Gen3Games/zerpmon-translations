@@ -588,7 +588,9 @@
     "remaining": "Restant",
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
-    "could-not-find-nft-category": ""
+    "could-not-find-nft-category": "",
+    "zerp-wallet-pending-withdrawal": "",
+    "cancellation-payment-from-zerpwallet": ""
   },
   "marketplace": {
     "accept-loan": "Prêt",
@@ -646,7 +648,8 @@
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
     "not-enough-xrp-balance": "",
-    "zerp-wallet-pending-withdrawal": ""
+    "zerp-wallet-pending-withdrawal": "",
+    "payment-from-zerpwallet": ""
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",

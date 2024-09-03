@@ -708,7 +708,8 @@
     "user-tag-not-found": "Could not find user tag",
     "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
     "not-enough-xrp-balance": "Not enough XRP balance in ZerpWallet",
-    "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed"
+    "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed",
+    "payment-from-zerpwallet": "Payment for accepting loan will be taken from your ZerpWallet"
   },
   "manage-listing": {
     "title": "My NFTs",
@@ -764,7 +765,9 @@
     "remaining": "Remaining",
     "user-tag-not-found": "Could not find user tag",
     "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
-    "could-not-find-nft-category": "Could not find Zerpmon NFT category"
+    "could-not-find-nft-category": "Could not find Zerpmon NFT category",
+    "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed",
+    "cancellation-payment-from-zerpwallet": "Payment for cancelling loan will be taken from your ZerpWallet"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",

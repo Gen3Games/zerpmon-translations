@@ -708,7 +708,8 @@
     "user-tag-not-found": "Benutzerangaben nicht gefunden",
     "not-enough-zrp-balance": "Nicht genug ZRP-Guthaben im Zerp-Wallet",
     "not-enough-xrp-balance": "Nicht genug XRP-Guthaben im Zerp-Wallet",
-    "zerp-wallet-pending-withdrawal": ""
+    "zerp-wallet-pending-withdrawal": "",
+    "payment-from-zerpwallet": ""
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -764,7 +765,9 @@
     "remaining": "Verbleibend",
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
-    "could-not-find-nft-category": ""
+    "could-not-find-nft-category": "",
+    "zerp-wallet-pending-withdrawal": "",
+    "cancellation-payment-from-zerpwallet": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",

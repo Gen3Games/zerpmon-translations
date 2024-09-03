@@ -708,7 +708,8 @@
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
     "not-enough-xrp-balance": "",
-    "zerp-wallet-pending-withdrawal": ""
+    "zerp-wallet-pending-withdrawal": "",
+    "payment-from-zerpwallet": ""
   },
   "manage-listing": {
     "title": "私のNFT",
@@ -764,7 +765,9 @@
     "remaining": "残り",
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
-    "could-not-find-nft-category": ""
+    "could-not-find-nft-category": "",
+    "zerp-wallet-pending-withdrawal": "",
+    "cancellation-payment-from-zerpwallet": ""
   },
   "create-listing": {
     "not-signed-in": "ログインしていない",
