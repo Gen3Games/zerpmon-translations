@@ -763,7 +763,8 @@
     "remaining": "Remaining",
     "user-tag-not-found": "Could not find user tag",
     "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
-    "could-not-find-nft-category": "Could not find Zerpmon NFT category"
+    "could-not-find-nft-category": "Could not find Zerpmon NFT category",
+    "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",

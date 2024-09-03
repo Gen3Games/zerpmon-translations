@@ -587,7 +587,8 @@
     "remaining": "Restant",
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
-    "could-not-find-nft-category": ""
+    "could-not-find-nft-category": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "marketplace": {
     "accept-loan": "Prêt",
