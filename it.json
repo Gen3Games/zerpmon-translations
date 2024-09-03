@@ -692,7 +692,8 @@
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
     "could-not-find-nft-category": "",
-    "zerp-wallet-pending-withdrawal": ""
+    "zerp-wallet-pending-withdrawal": "",
+    "cancellation-payment-from-zerpwallet": ""
   },
   "marketplace": {
     "accept-loan": "Prestito",
@@ -750,7 +751,8 @@
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
     "not-enough-xrp-balance": "",
-    "zerp-wallet-pending-withdrawal": ""
+    "zerp-wallet-pending-withdrawal": "",
+    "payment-from-zerpwallet": ""
   },
   "mint": {
     "days": "giorni",

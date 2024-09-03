@@ -707,7 +707,8 @@
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
     "not-enough-xrp-balance": "",
-    "zerp-wallet-pending-withdrawal": ""
+    "zerp-wallet-pending-withdrawal": "",
+    "payment-from-zerpwallet": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",
@@ -764,7 +765,8 @@
     "user-tag-not-found": "",
     "not-enough-zrp-balance": "",
     "could-not-find-nft-category": "",
-    "zerp-wallet-pending-withdrawal": ""
+    "zerp-wallet-pending-withdrawal": "",
+    "cancellation-payment-from-zerpwallet": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",
