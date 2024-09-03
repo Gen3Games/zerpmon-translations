@@ -624,7 +624,8 @@
     "damage-till-ko-trigger-msg": "{zerpmonName}'s Schaden ist {changeType} in Höhe von {value} bis zum KO!",
     "inc-multiple-move-percents": "",
     "high-dmg-ko-msg": "",
-    "blue-change-prevented": ""
+    "blue-change-prevented": "",
+    "dec-party-percent-trigger-msg": ""
   },
   "test": {
     "test": "Dies ist ein Test"
