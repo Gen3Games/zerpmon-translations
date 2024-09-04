@@ -248,7 +248,10 @@
     "ascend-payment-tx-confirmed": "Deine Zahlung war erfolgreich, und {zerpmonName} wurde hochgestuft",
     "confirm-ascend": "Bist du sicher, dass du {zerpmonName} hochstufen möchtest?",
     "purchase-and-spin": "Kaufen und drehen",
-    "pay-with-xaman": "Bezahle mit Xaman"
+    "pay-with-xaman": "Bezahle mit Xaman",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": ""
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",

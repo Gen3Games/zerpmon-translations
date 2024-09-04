@@ -248,7 +248,10 @@
     "ascend-payment-tx-confirmed": "Your payment transaction was successful and {zerpmonName} has been ascended.",
     "confirm-ascend": "Are you sure you want to ascend {zerpmonName} ?",
     "purchase-and-spin": "Purchase and Spin",
-    "pay-with-xaman": "Pay with Xaman"
+    "pay-with-xaman": "Pay with Xaman",
+    "zerp-wallet-balance-low": "ZerpWallet is running low on balance",
+    "zerp-wallet-pending-txn": "Failed to make the purchase when there's a pending withdrawal request",
+    "payment-from-zerpwallet": "Payment will be taken from your ZerpWallet"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",

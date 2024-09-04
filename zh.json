@@ -248,7 +248,10 @@
     "ascend-payment-tx-confirmed": "您的付款交易已成功，并且 {zerpmonName} 已提升。",
     "confirm-ascend": "您确定要提升 {zerpmonName} 吗？",
     "purchase-and-spin": "购买和旋转",
-    "pay-with-xaman": "使用 Xaman 支付"
+    "pay-with-xaman": "使用 Xaman 支付",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": ""
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

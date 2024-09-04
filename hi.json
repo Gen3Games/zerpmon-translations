@@ -922,7 +922,10 @@
     "xrp-store": "एक्सआरपी स्टोर",
     "zrp-store": "जेडआरपी स्टोर",
     "purchase-and-spin": "खरीदो और घुमाओ",
-    "pay-with-xaman": "ज़मान के साथ भुगतान करें"
+    "pay-with-xaman": "ज़मान के साथ भुगतान करें",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": ""
   },
   "test": {
     "test": "यह टेस्ट है"

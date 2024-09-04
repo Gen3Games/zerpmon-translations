@@ -803,7 +803,10 @@
     "ascend-payment-tx-confirmed": "Votre transaction de paiement a réussi et {zerpmonName} a été remonté.",
     "confirm-ascend": "Etes-vous sûr de vouloir monter sur {zerpmonName} ?",
     "purchase-and-spin": "Acheter et faire tourner",
-    "pay-with-xaman": "Payer avec Xaman"
+    "pay-with-xaman": "Payer avec Xaman",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": ""
   },
   "test": {
     "test": "c'est un test"

@@ -922,7 +922,10 @@
     "xrp-store": "Negozio XRP",
     "zrp-store": "Negozio ZRP",
     "purchase-and-spin": "Acquista e gira",
-    "pay-with-xaman": "Paga con Xaman"
+    "pay-with-xaman": "Paga con Xaman",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": ""
   },
   "test": {
     "test": "questa è una prova"

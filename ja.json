@@ -248,7 +248,10 @@
     "ascend-payment-tx-confirmed": "あなたの支払い取引は成功し、{zerpmonName} は昇格しました。",
     "confirm-ascend": "本当に {zerpmonName} を昇格させますか?",
     "purchase-and-spin": "購入してスピンする",
-    "pay-with-xaman": "ザマンで支払う"
+    "pay-with-xaman": "ザマンで支払う",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": ""
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",

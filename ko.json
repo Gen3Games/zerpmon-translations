@@ -248,7 +248,10 @@
     "ascend-payment-tx-confirmed": "귀하의 결제 거래가 성공적으로 이루어졌으며 {zerpmonName}이(가) 승격되었습니다.",
     "confirm-ascend": "정말로 {zerpmonName} 을(를) 오르시겠습니까?",
     "purchase-and-spin": "구매 및 회전",
-    "pay-with-xaman": "Xaman으로 결제"
+    "pay-with-xaman": "Xaman으로 결제",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": ""
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",
