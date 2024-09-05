@@ -92,7 +92,11 @@
     "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
     "you-have-been-outbid": "Je bent overboden en krijgt je geld terug",
     "zerpmon-auctions": "Zerpmon-veilingen",
-    "bid-not-enough-starting": "Uw bod is lager dan de vanafprijs"
+    "bid-not-enough-starting": "Uw bod is lager dan de vanafprijs",
+    "zerp-wallet-pending-withdrawal": "",
+    "not-enough-xrp-balance": "",
+    "not-enough-zrp-balance": "",
+    "bid-payment-from-zerpwallet": ""
   },
   "battle": {
     "battle-failed": "De strijd is mislukt",

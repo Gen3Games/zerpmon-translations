@@ -907,7 +907,11 @@
     "pay-nft-bid": "NFT入札の支払い",
     "confirm-bid-popup-title": "{nftName} の入札",
     "confirm-bid-popup-message": "{nftName} に {amount} {currency} を入札してもよろしいですか?",
-    "bid-not-enough-starting": "入札額が開始価格よりも低いです"
+    "bid-not-enough-starting": "入札額が開始価格よりも低いです",
+    "zerp-wallet-pending-withdrawal": "",
+    "not-enough-xrp-balance": "",
+    "not-enough-zrp-balance": "",
+    "bid-payment-from-zerpwallet": ""
   },
   "forge": {
     "title": "フォージ",
