@@ -251,7 +251,7 @@
     "pay-with-xaman": "Pay with Xaman",
     "zerp-wallet-balance-low": "ZerpWallet is running low on balance",
     "zerp-wallet-pending-txn": "Failed to make the purchase when there's a pending withdrawal request",
-    "payment-from-zerpwallet": "Payment will be taken from your ZerpWallet"
+    "payment-from-zerpwallet": "Payment will be taken from your ZerpWallet ({amount})"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",
