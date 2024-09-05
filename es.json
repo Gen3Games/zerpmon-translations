@@ -907,7 +907,11 @@
     "pay-nft-bid": "Pagar por la oferta NFT",
     "confirm-bid-popup-title": "Oferta por {nftName}",
     "confirm-bid-popup-message": "¿Está seguro de que desea ofertar {cantidad} {moneda} por {nftName}?",
-    "bid-not-enough-starting": "Su oferta es inferior al precio inicial"
+    "bid-not-enough-starting": "Su oferta es inferior al precio inicial",
+    "zerp-wallet-pending-withdrawal": "",
+    "not-enough-xrp-balance": "",
+    "not-enough-zrp-balance": "",
+    "bid-payment-from-zerpwallet": ""
   },
   "forge": {
     "title": "Fragua",

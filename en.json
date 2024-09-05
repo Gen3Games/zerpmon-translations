@@ -907,7 +907,11 @@
     "pay-nft-bid": "Pay for NFT Bid",
     "confirm-bid-popup-title": "Bid for {nftName}",
     "confirm-bid-popup-message": "Are you sure want to bid {amount} {currency} for {nftName} ?",
-    "bid-not-enough-starting": "Your bid is lower than the starting price"
+    "bid-not-enough-starting": "Your bid is lower than the starting price",
+    "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed",
+    "not-enough-xrp-balance": "Not enough XRP balance in ZerpWallet",
+    "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
+    "bid-payment-from-zerpwallet": "Payment for the bid will be taken from your ZerpWallet"
   },
   "forge": {
     "title": "Forge",

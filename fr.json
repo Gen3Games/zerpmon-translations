@@ -907,7 +907,11 @@
     "pay-nft-bid": "Payer l'offre NFT",
     "confirm-bid-popup-title": "Enchérir sur {nftName}",
     "confirm-bid-popup-message": "Êtes-vous sûr de vouloir enchérir de {amount} {currency} pour {nftName} ?",
-    "bid-not-enough-starting": "Votre enchère est inférieure au prix de départ"
+    "bid-not-enough-starting": "Votre enchère est inférieure au prix de départ",
+    "zerp-wallet-pending-withdrawal": "",
+    "not-enough-xrp-balance": "",
+    "not-enough-zrp-balance": "",
+    "bid-payment-from-zerpwallet": ""
   },
   "forge": {
     "title": "Forger",

@@ -907,7 +907,11 @@
     "pay-nft-bid": "NFT 입찰 비용 지불",
     "confirm-bid-popup-title": "{nftName}에 대한 입찰",
     "confirm-bid-popup-message": "정말로 {nftName}에 대해 {amount} {currency}에 입찰하시겠습니까?",
-    "bid-not-enough-starting": "입찰가가 시작 가격보다 낮습니다."
+    "bid-not-enough-starting": "입찰가가 시작 가격보다 낮습니다.",
+    "zerp-wallet-pending-withdrawal": "",
+    "not-enough-xrp-balance": "",
+    "not-enough-zrp-balance": "",
+    "bid-payment-from-zerpwallet": ""
   },
   "forge": {
     "title": "노",

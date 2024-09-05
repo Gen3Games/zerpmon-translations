@@ -907,7 +907,11 @@
     "pay-nft-bid": "支付NFT出价",
     "confirm-bid-popup-title": "出价 {nftName}",
     "confirm-bid-popup-message": "您确定要出价 {amount} {currency} 购买 {nftName} 吗？",
-    "bid-not-enough-starting": "您的出价低于起拍价"
+    "bid-not-enough-starting": "您的出价低于起拍价",
+    "zerp-wallet-pending-withdrawal": "",
+    "not-enough-xrp-balance": "",
+    "not-enough-zrp-balance": "",
+    "bid-payment-from-zerpwallet": ""
   },
   "forge": {
     "title": "锻造",

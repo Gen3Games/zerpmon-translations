@@ -270,7 +270,11 @@
     "tx-error-crossmark-msg": "क्रॉसमार्क वॉलेट में लेनदेन नहीं किया जा सका. \nकृपया बाद में पुन: प्रयास करें।",
     "you-have-been-outbid": "आपकी बोली अधिक लगाई गई है और आपको वापस कर दिया जाएगा",
     "zerpmon-auctions": "ज़र्पमोन नीलामी",
-    "bid-not-enough-starting": "आपकी बोली शुरुआती कीमत से कम है"
+    "bid-not-enough-starting": "आपकी बोली शुरुआती कीमत से कम है",
+    "zerp-wallet-pending-withdrawal": "",
+    "not-enough-xrp-balance": "",
+    "not-enough-zrp-balance": "",
+    "bid-payment-from-zerpwallet": ""
   },
   "buy-zerpmon": {
     "already-bought": "आपने पहले ही एक ज़र्पमोन खरीद लिया है",

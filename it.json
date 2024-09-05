@@ -92,7 +92,11 @@
     "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi.",
     "you-have-been-outbid": "La tua offerta è stata superata e sarai rimborsato",
     "zerpmon-auctions": "Aste di Zerpmon",
-    "bid-not-enough-starting": "La tua offerta è inferiore al prezzo iniziale"
+    "bid-not-enough-starting": "La tua offerta è inferiore al prezzo iniziale",
+    "zerp-wallet-pending-withdrawal": "",
+    "not-enough-xrp-balance": "",
+    "not-enough-zrp-balance": "",
+    "bid-payment-from-zerpwallet": ""
   },
   "battle": {
     "battle-failed": "La battaglia fallì",
