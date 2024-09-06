@@ -1185,6 +1185,22 @@
     "from": "",
     "to": "",
     "amount": "",
-    "date": ""
-  }
+    "date": "",
+    "transactions-history": "",
+    "transaction-history-desc": "",
+    "type": "",
+    "time-stamp": "",
+    "incoming": "",
+    "outgoing": "",
+    "withdrawal-card-title": "",
+    "withdrawal-card-description": "",
+    "status": "",
+    "successful": "",
+    "pending": "",
+    "failed": "",
+    "zerpwallet-history": "",
+    "withdrawal-requests": "",
+    "see-all-transactions": ""
+  },
+  "transaction-history-description": ""
 }

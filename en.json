@@ -1185,6 +1185,21 @@
     "from": "From",
     "to": "To",
     "amount": "Amount",
-    "date": "Date"
+    "date": "Date",
+    "transactions-history": "Transactions History",
+    "transaction-history-desc": "On-chain record of incoming and outgoing XRP and ZRP transactions",
+    "type": "Type",
+    "time-stamp": "Timestamp",
+    "incoming": "Incoming",
+    "outgoing": " Outgoing",
+    "withdrawal-card-title": "Withdrawal Request History",
+    "withdrawal-card-description": "Record of user's withdrawal requests",
+    "status": "Status",
+    "successful": "Successful",
+    "pending": "Pending",
+    "failed": "Failed",
+    "zerpwallet-history": "ZerpWallet History",
+    "withdrawal-requests": "Withdrawal Requests",
+    "see-all-transactions": " See All History Transactions"
   }
 }
