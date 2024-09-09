@@ -1202,6 +1202,7 @@
     "failed": "Failed",
     "zerpwallet-history": "ZerpWallet History",
     "withdrawal-requests": "Withdrawal Requests",
-    "see-all-transactions": " See All History Transactions"
+    "see-all-transactions": " See All History Transactions",
+    "load-more": "Load more"
   }
 }

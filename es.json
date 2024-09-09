@@ -1202,7 +1202,8 @@
     "failed": "",
     "zerpwallet-history": "",
     "withdrawal-requests": "",
-    "see-all-transactions": ""
+    "see-all-transactions": "",
+    "load-more": ""
   },
   "transaction-history-description": ""
 }
