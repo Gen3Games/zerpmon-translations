@@ -251,7 +251,9 @@
     "pay-with-xaman": "ザマンで支払う",
     "zerp-wallet-balance-low": "",
     "zerp-wallet-pending-txn": "",
-    "payment-from-zerpwallet": ""
+    "payment-from-zerpwallet": "",
+    "confirm-evolve": "",
+    "evolve-success": ""
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",

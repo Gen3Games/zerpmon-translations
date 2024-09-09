@@ -251,7 +251,9 @@
     "pay-with-xaman": "Paga con Xaman",
     "zerp-wallet-balance-low": "",
     "zerp-wallet-pending-txn": "",
-    "payment-from-zerpwallet": ""
+    "payment-from-zerpwallet": "",
+    "confirm-evolve": "",
+    "evolve-success": ""
   },
   "home": {
     "catch-your-zerpmon-now": "¡Atrapa tu Zerpmon ahora!",

@@ -929,7 +929,9 @@
     "pay-with-xaman": "ज़मान के साथ भुगतान करें",
     "zerp-wallet-balance-low": "",
     "zerp-wallet-pending-txn": "",
-    "payment-from-zerpwallet": ""
+    "payment-from-zerpwallet": "",
+    "confirm-evolve": "",
+    "evolve-success": ""
   },
   "test": {
     "test": "यह टेस्ट है"

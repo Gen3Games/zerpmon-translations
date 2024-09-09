@@ -251,7 +251,9 @@
     "pay-with-xaman": "使用 Xaman 支付",
     "zerp-wallet-balance-low": "",
     "zerp-wallet-pending-txn": "",
-    "payment-from-zerpwallet": ""
+    "payment-from-zerpwallet": "",
+    "confirm-evolve": "",
+    "evolve-success": ""
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",
