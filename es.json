@@ -941,7 +941,8 @@
     "xscape-xblade": "XSCAPE XBLADE",
     "claim-equipment": "Equipo de reclamo",
     "equipment-claimed": "¡Has reclamado con éxito un equipo!",
-    "select-xblade-nft": "Seleccione Xblade NFT con 5 o más puntos"
+    "select-xblade-nft": "Seleccione Xblade NFT con 5 o más puntos",
+    "xblade-successfully-claimed": ""
   },
   "buy-zerpmon": {
     "already-bought": "Ya has comprado un zerpmon",

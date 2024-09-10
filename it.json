@@ -501,7 +501,8 @@
     "xscape-xblade": "XSCAPE XBLADE",
     "claim-equipment": "Rivendicare l'attrezzatura",
     "equipment-claimed": "Hai rivendicato con successo un equipaggiamento!",
-    "select-xblade-nft": "Seleziona NFT Xblade con 5 o più punti"
+    "select-xblade-nft": "Seleziona NFT Xblade con 5 o più punti",
+    "xblade-successfully-claimed": ""
   },
   "home": {
     "analytics": "Analitica",

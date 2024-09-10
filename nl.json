@@ -501,7 +501,8 @@
     "xscape-xblade": "XSCAPE XBLADE",
     "claim-equipment": "Apparatuur claimen",
     "equipment-claimed": "Je hebt met succes een uitrusting geclaimd!",
-    "select-xblade-nft": "Selecteer Xblade NFT's met 5 of meer punten"
+    "select-xblade-nft": "Selecteer Xblade NFT's met 5 of meer punten",
+    "xblade-successfully-claimed": ""
   },
   "home": {
     "analytics": "Analyse",

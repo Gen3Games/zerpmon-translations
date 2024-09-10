@@ -941,7 +941,8 @@
     "xscape-xblade": "XSケープ エクスブレード",
     "claim-equipment": "機器の請求",
     "equipment-claimed": "装備の獲得に成功しました!",
-    "select-xblade-nft": "5点以上のXblade NFTを選択してください"
+    "select-xblade-nft": "5点以上のXblade NFTを選択してください",
+    "xblade-successfully-claimed": ""
   },
   "buy-zerpmon": {
     "already-bought": "すでにゼルプモンを購入しています",

@@ -501,7 +501,8 @@
     "xscape-xblade": "एक्सस्केप एक्सब्लेड",
     "claim-equipment": "दावा उपकरण",
     "equipment-claimed": "आपने एक उपकरण पर सफलतापूर्वक दावा कर लिया है!",
-    "select-xblade-nft": "5 या अधिक अंकों वाले एक्सब्लेड एनएफटी का चयन करें"
+    "select-xblade-nft": "5 या अधिक अंकों वाले एक्सब्लेड एनएफटी का चयन करें",
+    "xblade-successfully-claimed": ""
   },
   "home": {
     "analytics": "एनालिटिक्स",

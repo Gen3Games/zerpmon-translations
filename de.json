@@ -941,7 +941,8 @@
     "xscape-xblade": "XSCAPE XBLADE",
     "claim-equipment": "Fordern Sie Ausrüstung an",
     "equipment-claimed": "Sie haben erfolgreich eine Ausrüstung beansprucht!",
-    "select-xblade-nft": "Wählen Sie Xblade NFTs mit 5 oder mehr Punkten"
+    "select-xblade-nft": "Wählen Sie Xblade NFTs mit 5 oder mehr Punkten",
+    "xblade-successfully-claimed": ""
   },
   "buy-zerpmon": {
     "already-bought": "Du hast bereits ein Zerpmon gekauft",

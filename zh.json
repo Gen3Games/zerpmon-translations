@@ -941,7 +941,8 @@
     "xscape-xblade": "XSCAPE X刀片",
     "claim-equipment": "领取装备",
     "equipment-claimed": "您已成功领取装备！",
-    "select-xblade-nft": "选择具有 5 个或更多积分的 Xblade NFT"
+    "select-xblade-nft": "选择具有 5 个或更多积分的 Xblade NFT",
+    "xblade-successfully-claimed": ""
   },
   "buy-zerpmon": {
     "already-bought": "您已经购买了一只泽普蒙",
