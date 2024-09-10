@@ -175,7 +175,8 @@
     "inc-multiple-move-percents": "",
     "high-dmg-ko-msg": "",
     "blue-change-prevented": "",
-    "dec-party-percent-trigger-msg": ""
+    "dec-party-percent-trigger-msg": "",
+    "exhaustion-ko-msg": ""
   },
   "analytics": {
     "analytics": "एनालिटिक्स",

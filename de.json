@@ -630,7 +630,8 @@
     "inc-multiple-move-percents": "",
     "high-dmg-ko-msg": "",
     "blue-change-prevented": "",
-    "dec-party-percent-trigger-msg": ""
+    "dec-party-percent-trigger-msg": "",
+    "exhaustion-ko-msg": ""
   },
   "test": {
     "test": "Dies ist ein Test"

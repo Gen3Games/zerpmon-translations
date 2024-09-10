@@ -215,7 +215,8 @@
     "inc-multiple-move-percents": "",
     "high-dmg-ko-msg": "",
     "blue-change-prevented": "",
-    "dec-party-percent-trigger-msg": ""
+    "dec-party-percent-trigger-msg": "",
+    "exhaustion-ko-msg": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
