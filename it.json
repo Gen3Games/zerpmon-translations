@@ -349,7 +349,8 @@
     "transaction-failed": "La transazione dell'offerta di vendita NFT non è riuscita. \nPer favore riprova più tardi.",
     "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi.",
     "user-tag-not-found": "",
-    "not-enough-zrp-balance": ""
+    "not-enough-zrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "decks": {
     "add-battle-deck": "Aggiungi mazzo da battaglia",

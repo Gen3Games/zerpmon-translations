@@ -826,7 +826,8 @@
     "legend-gryll-trainer-loan-error": "传奇或格里尔大师训练师不能借用",
     "sell-offer-success": "销售报价已成功创建",
     "user-tag-not-found": "",
-    "not-enough-zrp-balance": ""
+    "not-enough-zrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "notifications": {
     "notifications": "通告",
