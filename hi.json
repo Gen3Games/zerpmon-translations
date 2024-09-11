@@ -353,7 +353,8 @@
     "transaction-failed": "आपका एनएफटी विक्रय प्रस्ताव लेनदेन विफल हो गया है। \nकृपया बाद में पुन: प्रयास करें।",
     "tx-error-crossmark-msg": "क्रॉसमार्क वॉलेट में लेनदेन नहीं किया जा सका. \nकृपया बाद में पुन: प्रयास करें।",
     "user-tag-not-found": "",
-    "not-enough-zrp-balance": ""
+    "not-enough-zrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "decks": {
     "add-battle-deck": "बैटल डेक जोड़ें",

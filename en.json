@@ -826,7 +826,8 @@
     "legend-gryll-trainer-loan-error": "Legend or Gryll Master trainers cannot be loaned",
     "sell-offer-success": "Sell offer successfully created",
     "user-tag-not-found": "Could not find user tag",
-    "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet"
+    "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
+    "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed"
   },
   "notifications": {
     "notifications": "Notifications",

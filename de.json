@@ -826,7 +826,8 @@
     "legend-gryll-trainer-loan-error": "Legends- oder Gryll Master-Trainer können nicht verliehen werden",
     "sell-offer-success": "Verkaufsangebot erfolgreich erstellt",
     "user-tag-not-found": "",
-    "not-enough-zrp-balance": ""
+    "not-enough-zrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "notifications": {
     "notifications": "Benachrichtigungen",

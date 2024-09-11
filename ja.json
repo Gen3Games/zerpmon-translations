@@ -826,7 +826,8 @@
     "legend-gryll-trainer-loan-error": "レジェンドまたはグリルマスターのトレーナーはレンタルできません",
     "sell-offer-success": "販売オファーが正常に作成されました",
     "user-tag-not-found": "",
-    "not-enough-zrp-balance": ""
+    "not-enough-zrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "notifications": {
     "notifications": "通知",

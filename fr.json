@@ -269,7 +269,8 @@
     "legend-gryll-trainer-loan-error": "Les entraîneurs Legend ou Gryll Master ne peuvent pas être prêtés",
     "sell-offer-success": "Offre de vente créée avec succès",
     "user-tag-not-found": "",
-    "not-enough-zrp-balance": ""
+    "not-enough-zrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "decks": {
     "add-battle-deck": "Ajouter un deck de combat",

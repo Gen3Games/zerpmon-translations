@@ -826,7 +826,8 @@
     "legend-gryll-trainer-loan-error": "Legend 또는 Gryll Master 트레이너는 대여할 수 없습니다.",
     "sell-offer-success": "판매 제안이 성공적으로 생성되었습니다.",
     "user-tag-not-found": "",
-    "not-enough-zrp-balance": ""
+    "not-enough-zrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "notifications": {
     "notifications": "알림",

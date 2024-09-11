@@ -353,7 +353,8 @@
     "transaction-failed": "Uw NFT-verkoopaanbiedingstransactie is mislukt. \nProbeer het later opnieuw.",
     "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
     "user-tag-not-found": "",
-    "not-enough-zrp-balance": ""
+    "not-enough-zrp-balance": "",
+    "zerp-wallet-pending-withdrawal": ""
   },
   "decks": {
     "add-battle-deck": "Voeg gevechtsdek toe",
