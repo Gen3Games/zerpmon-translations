@@ -631,7 +631,15 @@
     "high-dmg-ko-msg": "",
     "blue-change-prevented": "",
     "dec-party-percent-trigger-msg": "",
-    "exhaustion-ko-msg": ""
+    "exhaustion-ko-msg": "",
+    "battle-royale-limit": "",
+    "joined-the-br": "",
+    "no-active-br": "",
+    "players-joined": "",
+    "br-begin-players": "",
+    "joined": "",
+    "join": "",
+    "already-entered-br": ""
   },
   "test": {
     "test": "Dies ist ein Test"

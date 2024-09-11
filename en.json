@@ -631,7 +631,15 @@
     "high-dmg-ko-msg": "{loser} was just obliterated into pieces by (winner) and all thats left is red dust.",
     "blue-change-prevented": "{equipmentName} prevents Blue Move chance from {change}!",
     "dec-party-percent-trigger-msg": "{zerpmonName}'s party {moveType} ⬇️ {change}%",
-    "exhaustion-ko-msg": "{loserName} is unable to battle and has fallen due to exhaustion! {winnerName} wins the round!"
+    "exhaustion-ko-msg": "{loserName} is unable to battle and has fallen due to exhaustion! {winnerName} wins the round!",
+    "battle-royale-limit": "Battle Royale Limit Reached",
+    "joined-the-br": "Joined the Battle Royale",
+    "no-active-br": "No active Battle Royales",
+    "players-joined": "Players Joined : ",
+    "br-begin-players": "Battle royale will begin when the total number of players reach {brPlayerLimit}",
+    "joined": "Joined",
+    "join": "Join",
+    "already-entered-br": "Already entered Battle Royale"
   },
   "test": {
     "test": "this is a test"
