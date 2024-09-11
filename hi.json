@@ -296,7 +296,11 @@
     "tx-error-crossmark-msg": "क्रॉसमार्क वॉलेट में लेनदेन नहीं किया जा सका. \nकृपया बाद में पुन: प्रयास करें।",
     "unexpected-error": "कुछ गलत हो गया।",
     "back": "पीछे",
-    "rewards-recieved": "पुरस्कार प्राप्त हुआ"
+    "rewards-recieved": "पुरस्कार प्राप्त हुआ",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": "",
+    "buy-confirmation-message": ""
   },
   "create-listing": {
     "confim-relist-nft": "क्या आप वाकई {nftName} को पुनः सूचीबद्ध करना चाहते हैं",

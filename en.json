@@ -964,7 +964,11 @@
     "mint": "Mint",
     "refund-initiated": "Sorry but we're all out of Zerpmon. Your refund will be sent to you shortly.",
     "back": "Back",
-    "rewards-recieved": "Rewards Received"
+    "rewards-recieved": "Rewards Received",
+    "zerp-wallet-balance-low": "ZerpWallet is running low on balance",
+    "zerp-wallet-pending-txn": "Failed to make the purchase when there's a pending withdrawal request",
+    "payment-from-zerpwallet": "Payment will be taken from your ZerpWallet ({amount})",
+    "buy-confirmation-message": "Are you sure you want to mint a new Zerpmon ?"
   },
   "mint": {
     "mint-opens-in": "Mint Opens In",

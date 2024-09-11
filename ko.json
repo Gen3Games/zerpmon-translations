@@ -964,7 +964,11 @@
     "mint": "주조하다",
     "refund-initiated": "미안하지만 우리는 모두 Zermon에서 벗어났습니다. \n환불 금액이 곧 전송될 것입니다.",
     "back": "뒤쪽에",
-    "rewards-recieved": "받은 보상"
+    "rewards-recieved": "받은 보상",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": "",
+    "buy-confirmation-message": ""
   },
   "mint": {
     "mint-opens-in": "민트가 열립니다",

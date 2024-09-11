@@ -964,7 +964,11 @@
     "mint": "Acuñar",
     "refund-initiated": "Lo sentimos, pero ya no tenemos Zerpmon. \nSu reembolso le será enviado en breve.",
     "back": "Atrás",
-    "rewards-recieved": "Recompensas recibidas"
+    "rewards-recieved": "Recompensas recibidas",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": "",
+    "buy-confirmation-message": ""
   },
   "mint": {
     "mint-opens-in": "La Casa de la Moneda abre en",

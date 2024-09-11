@@ -964,7 +964,11 @@
     "mint": "Frapper",
     "refund-initiated": "Désolé mais nous n'avons plus de Zerpmon. \nVotre remboursement vous sera envoyé sous peu.",
     "back": "Dos",
-    "rewards-recieved": "Récompenses reçues"
+    "rewards-recieved": "Récompenses reçues",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": "",
+    "buy-confirmation-message": ""
   },
   "mint": {
     "mint-opens-in": "La menthe ouvre ses portes",

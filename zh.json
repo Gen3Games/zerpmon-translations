@@ -964,7 +964,11 @@
     "mint": "铸造",
     "refund-initiated": "对不起，我们的泽普蒙已售罄。您的退款将很快发给您。",
     "back": "后退",
-    "rewards-recieved": "收到的奖励"
+    "rewards-recieved": "收到的奖励",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": "",
+    "buy-confirmation-message": ""
   },
   "mint": {
     "mint-opens-in": "铸造开启于",

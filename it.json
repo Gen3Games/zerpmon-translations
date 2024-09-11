@@ -296,7 +296,11 @@
     "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi.",
     "unexpected-error": "Qualcosa è andato storto.",
     "back": "Indietro",
-    "rewards-recieved": "Premi ricevuti"
+    "rewards-recieved": "Premi ricevuti",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": "",
+    "buy-confirmation-message": ""
   },
   "create-listing": {
     "confim-relist-nft": "Sei sicuro di voler rimettere in vendita {nftName}",

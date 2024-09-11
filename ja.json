@@ -964,7 +964,11 @@
     "mint": "鋳造する",
     "refund-initiated": "申し訳ありませんが、ゼルモンはもう終わりです。\n返金は間もなくお送りいたします。",
     "back": "戻る",
-    "rewards-recieved": "受け取った報酬"
+    "rewards-recieved": "受け取った報酬",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": "",
+    "buy-confirmation-message": ""
   },
   "mint": {
     "mint-opens-in": "ミントが開く",

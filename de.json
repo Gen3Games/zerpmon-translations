@@ -964,7 +964,11 @@
     "mint": "Mint",
     "refund-initiated": "Sorry, aber alle Zerpmon sind ausverkauft. Die Rückerstattung wird in Kürze an dein Wallet gesendet.",
     "back": "Zurück",
-    "rewards-recieved": "Belohnungen erhalten"
+    "rewards-recieved": "Belohnungen erhalten",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": "",
+    "buy-confirmation-message": ""
   },
   "mint": {
     "days": "Tage",

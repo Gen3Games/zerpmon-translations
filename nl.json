@@ -296,7 +296,11 @@
     "mint": "Munten",
     "refund-initiated": "Sorry, maar we hebben geen Zerpmon meer. \nUw terugbetaling wordt binnenkort naar u verzonden.",
     "back": "Rug",
-    "rewards-recieved": "Ontvangen beloningen"
+    "rewards-recieved": "Ontvangen beloningen",
+    "zerp-wallet-balance-low": "",
+    "zerp-wallet-pending-txn": "",
+    "payment-from-zerpwallet": "",
+    "buy-confirmation-message": ""
   },
   "create-listing": {
     "confim-relist-nft": "Weet u zeker dat u {nftName} opnieuw wilt aanbieden",
