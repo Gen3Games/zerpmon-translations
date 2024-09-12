@@ -253,7 +253,8 @@
     "zerp-wallet-pending-txn": "",
     "payment-from-zerpwallet": "",
     "confirm-evolve": "",
-    "evolve-success": ""
+    "evolve-success": "",
+    "ascend-tx-confirmed": ""
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",

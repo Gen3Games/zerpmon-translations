@@ -253,7 +253,8 @@
     "zerp-wallet-pending-txn": "Failed to make the purchase when there's a pending withdrawal request",
     "payment-from-zerpwallet": "Payment will be taken from your ZerpWallet ({amount})",
     "confirm-evolve": "Are you sure you want to evolve {zerpmonName} ?",
-    "evolve-success": "You have successfully evolved your {zerpmonName}!"
+    "evolve-success": "You have successfully evolved your {zerpmonName}!",
+    "ascend-tx-confirmed": "{zerpmonName} has been ascended successfully"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",

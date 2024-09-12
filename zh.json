@@ -253,7 +253,8 @@
     "zerp-wallet-pending-txn": "",
     "payment-from-zerpwallet": "",
     "confirm-evolve": "",
-    "evolve-success": ""
+    "evolve-success": "",
+    "ascend-tx-confirmed": ""
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

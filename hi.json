@@ -946,7 +946,8 @@
     "zerp-wallet-pending-txn": "",
     "payment-from-zerpwallet": "",
     "confirm-evolve": "",
-    "evolve-success": ""
+    "evolve-success": "",
+    "ascend-tx-confirmed": ""
   },
   "test": {
     "test": "यह टेस्ट है"
