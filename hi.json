@@ -949,7 +949,9 @@
     "evolve-success": "",
     "ascend-tx-confirmed": "",
     "zerp-wallet-pending-withdrawal": "",
-    "not-enough-zrp-balance": ""
+    "not-enough-zrp-balance": "",
+    "user-tag-not-found": "",
+    "failed-to-fetch-zrp-price": ""
   },
   "test": {
     "test": "यह टेस्ट है"

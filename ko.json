@@ -256,7 +256,9 @@
     "evolve-success": "",
     "ascend-tx-confirmed": "",
     "zerp-wallet-pending-withdrawal": "",
-    "not-enough-zrp-balance": ""
+    "not-enough-zrp-balance": "",
+    "user-tag-not-found": "",
+    "failed-to-fetch-zrp-price": ""
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",
