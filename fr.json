@@ -819,7 +819,9 @@
     "payment-from-zerpwallet": "",
     "confirm-evolve": "",
     "evolve-success": "",
-    "ascend-tx-confirmed": ""
+    "ascend-tx-confirmed": "",
+    "zerp-wallet-pending-withdrawal": "",
+    "not-enough-zrp-balance": ""
   },
   "test": {
     "test": "c'est un test"

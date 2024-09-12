@@ -254,7 +254,9 @@
     "payment-from-zerpwallet": "",
     "confirm-evolve": "",
     "evolve-success": "",
-    "ascend-tx-confirmed": ""
+    "ascend-tx-confirmed": "",
+    "zerp-wallet-pending-withdrawal": "",
+    "not-enough-zrp-balance": ""
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",

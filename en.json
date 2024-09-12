@@ -254,7 +254,9 @@
     "payment-from-zerpwallet": "Payment will be taken from your ZerpWallet ({amount})",
     "confirm-evolve": "Are you sure you want to evolve {zerpmonName} ?",
     "evolve-success": "You have successfully evolved your {zerpmonName}!",
-    "ascend-tx-confirmed": "{zerpmonName} has been ascended successfully"
+    "ascend-tx-confirmed": "{zerpmonName} has been ascended successfully",
+    "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed",
+    "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",
