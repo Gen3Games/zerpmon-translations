@@ -184,7 +184,9 @@
     "br-begin-players": "",
     "joined": "",
     "join": "",
-    "already-entered-br": ""
+    "already-entered-br": "",
+    "mission-cooldown-active": "",
+    "gym-cooldown-active": ""
   },
   "analytics": {
     "analytics": "एनालिटिक्स",

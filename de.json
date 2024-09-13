@@ -644,7 +644,9 @@
     "br-begin-players": "",
     "joined": "",
     "join": "",
-    "already-entered-br": ""
+    "already-entered-br": "",
+    "mission-cooldown-active": "",
+    "gym-cooldown-active": ""
   },
   "test": {
     "test": "Dies ist ein Test"

@@ -283,7 +283,9 @@
     "br-begin-players": "",
     "joined": "",
     "join": "",
-    "already-entered-br": ""
+    "already-entered-br": "",
+    "mission-cooldown-active": "",
+    "gym-cooldown-active": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

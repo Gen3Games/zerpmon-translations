@@ -644,7 +644,9 @@
     "br-begin-players": "Battle royale will begin when the total number of players reach {brPlayerLimit}",
     "joined": "Joined",
     "join": "Join",
-    "already-entered-br": "Already entered Battle Royale"
+    "already-entered-br": "Already entered Battle Royale",
+    "mission-cooldown-active": "Mission cooldown is active, please wait a few more seconds",
+    "gym-cooldown-active": "Gym cooldown is active, please wait a little more"
   },
   "test": {
     "test": "this is a test"

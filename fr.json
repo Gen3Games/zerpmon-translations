@@ -224,7 +224,9 @@
     "br-begin-players": "",
     "joined": "",
     "join": "",
-    "already-entered-br": ""
+    "already-entered-br": "",
+    "mission-cooldown-active": "",
+    "gym-cooldown-active": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
