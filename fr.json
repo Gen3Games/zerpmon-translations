@@ -226,7 +226,9 @@
     "join": "",
     "already-entered-br": "",
     "mission-cooldown-active": "",
-    "gym-cooldown-active": ""
+    "gym-cooldown-active": "",
+    "white-dmg-till-ko-trigger-msg": "",
+    "gold-dmg-till-ko-trigger-msg": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

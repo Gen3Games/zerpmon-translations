@@ -646,7 +646,9 @@
     "join": "Join",
     "already-entered-br": "Already entered Battle Royale",
     "mission-cooldown-active": "Mission cooldown is active, please wait a few more seconds",
-    "gym-cooldown-active": "Gym cooldown is active, please wait a little more"
+    "gym-cooldown-active": "Gym cooldown is active, please wait a little more",
+    "white-dmg-till-ko-trigger-msg": "{zerpmonName}'s White move damage is {changeType} by {value} until KO!",
+    "gold-dmg-till-ko-trigger-msg": "{zerpmonName}'s Gold move damage is {changeType} by {value} until KO!"
   },
   "test": {
     "test": "this is a test"
