@@ -726,9 +726,9 @@
     "rewards-table-chance-1-roll-short": "CP1",
     "rewards-table-chance-3-rolls-short": "CP3",
     "rewards-table-value-xrp": "Valeur en XRP",
-    "zerpboxes": "Zerpboxes",
-    "zerpboxes-description-line-1": "Remarque : ce sont les chances par ligne filée dans chaque Zerpbox",
-    "zerpboxes-description-line-2": "Chaque Zerpbox contient 3 rangées de récompenses.",
+    "zerpboxes": "ZerpBoxes",
+    "zerpboxes-description-line-1": "Remarque : ce sont les chances par ligne filée dans chaque ZerpBox",
+    "zerpboxes-description-line-2": "Chaque ZerpBox contient 3 rangées de récompenses.",
     "select": "Sélectionner",
     "see-potential-rewards": "Voir les récompenses potentielles",
     "potential-rewards": "Récompenses potentielles",
@@ -756,7 +756,7 @@
     "forge": "Forger",
     "mint": "menthe",
     "hide-sidebar": "Cacher",
-    "Zerpboxes": "Zerboxes",
+    "Zerpboxes": "ZerpBoxes",
     "zerp-wallet": ""
   },
   "sign-in": {

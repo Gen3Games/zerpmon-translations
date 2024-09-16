@@ -846,9 +846,9 @@
     "zerpmon": "Zerpmon",
     "zrp-earned-from-jackpot": "Hai vinto il jackpot! \nZRP guadagnati dal jackpot",
     "zrp-sent-to-jackpot": "ZRP inviato al jackpot",
-    "zerpboxes": "Zerpboxes",
-    "zerpboxes-description-line-1": "Nota: queste sono le probabilità per riga girata in ogni Zerpbox",
-    "zerpboxes-description-line-2": "Ogni Zerpbox contiene 3 file di ricompense.",
+    "zerpboxes": "ZerpBoxes",
+    "zerpboxes-description-line-1": "Nota: queste sono le probabilità per riga girata in ogni ZerpBox",
+    "zerpboxes-description-line-2": "Ogni ZerpBox contiene 3 file di ricompense.",
     "select": "Selezionare",
     "see-potential-rewards": "Vedi premi potenziali",
     "potential-rewards": "Potenziali ricompense",
@@ -884,7 +884,7 @@
     "sign-out-success": "Ti sei disconnesso con successo.",
     "stats": "Statistiche",
     "store": "Negozio",
-    "Zerpboxes": "Zerboxes",
+    "Zerpboxes": "ZerpBoxes",
     "zerp-wallet": ""
   },
   "sign-in": {

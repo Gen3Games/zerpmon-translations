@@ -38,7 +38,7 @@
     "forge": "Forge",
     "mint": "Mint",
     "hide-sidebar": "Hide",
-    "Zerpboxes": "Zerpboxes",
+    "Zerpboxes": "ZerpBoxes",
     "zerp-wallet": "ZerpWallet"
   },
   "sign-in": {
@@ -405,7 +405,7 @@
     "no-double-xp-potion": "No double xp potion found under your holdings",
     "level": "Level",
     "level-30": "Level 30",
-    "go-to-zerpbox": "Got to Zerpbox"
+    "go-to-zerpbox": "Got to ZerpBox"
   },
   "safari": {
     "title": "Safari",
@@ -447,9 +447,9 @@
     "rewards-table-chance-1-roll-short": "CP1",
     "rewards-table-chance-3-rolls-short": "CP3",
     "rewards-table-value-xrp": "Value in XRP",
-    "zerpboxes": "Zerpboxes",
-    "zerpboxes-description-line-1": "Note: These are the chances per spun row in each Zerpbox",
-    "zerpboxes-description-line-2": "Each Zerpbox contains 3 rows of rewards.",
+    "zerpboxes": "ZerpBoxes",
+    "zerpboxes-description-line-1": "Note: These are the chances per spun row in each ZerpBox",
+    "zerpboxes-description-line-2": "Each ZerpBox contains 3 rows of rewards.",
     "select": "Select",
     "see-potential-rewards": "See Potential Rewards",
     "potential-rewards": "Potential Rewards",
