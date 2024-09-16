@@ -827,7 +827,8 @@
     "zerp-wallet-pending-withdrawal": "",
     "not-enough-zrp-balance": "",
     "user-tag-not-found": "",
-    "failed-to-fetch-zrp-price": ""
+    "failed-to-fetch-zrp-price": "",
+    "half-price-on-first-item-daily": "moitié prix sur le premier article par jour"
   },
   "test": {
     "test": "c'est un test"
@@ -1033,9 +1034,6 @@
   "local-admin": {
     "local-admin": "Administrateur local",
     "sync-xrpl-sales-nft-data": "Synchroniser les données NFT des ventes XRPL"
-  },
-  "srore": {
-    "half-price-on-first-item-daily": "moitié prix sur le premier article par jour"
   },
   "privacy-policy": {
     "privacy-policy-for-zerpmon": "Politique de confidentialité pour Zerpmon",

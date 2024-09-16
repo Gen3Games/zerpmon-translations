@@ -258,7 +258,8 @@
     "zerp-wallet-pending-withdrawal": "",
     "not-enough-zrp-balance": "",
     "user-tag-not-found": "",
-    "failed-to-fetch-zrp-price": ""
+    "failed-to-fetch-zrp-price": "",
+    "half-price-on-first-item-daily": "매일 첫 번째 품목의 절반 가격"
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",
@@ -1033,9 +1034,6 @@
   "local-admin": {
     "local-admin": "로컬 관리자",
     "sync-xrpl-sales-nft-data": "XRPL 판매 NFT 데이터 동기화"
-  },
-  "srore": {
-    "half-price-on-first-item-daily": "매일 첫 번째 품목의 절반 가격"
   },
   "privacy-policy": {
     "privacy-policy-for-zerpmon": "Zermon 개인정보 보호정책",

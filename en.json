@@ -258,7 +258,8 @@
     "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed",
     "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
     "user-tag-not-found": "Could not find user tag",
-    "failed-to-fetch-zrp-price": "Failed to fetch ZRP price, please try again later"
+    "failed-to-fetch-zrp-price": "Failed to fetch ZRP price, please try again later",
+    "half-price-on-first-item-daily": "half price on first item daily"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",
@@ -1033,9 +1034,6 @@
   "local-admin": {
     "local-admin": "Local Admin",
     "sync-xrpl-sales-nft-data": "Sync XRPL Sales NFT Data"
-  },
-  "srore": {
-    "half-price-on-first-item-daily": "half price on first item daily"
   },
   "privacy-policy": {
     "privacy-policy-for-zerpmon": "Privacy Policy for Zerpmon",

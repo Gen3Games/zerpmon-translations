@@ -955,7 +955,8 @@
     "zerp-wallet-pending-withdrawal": "",
     "not-enough-zrp-balance": "",
     "user-tag-not-found": "",
-    "failed-to-fetch-zrp-price": ""
+    "failed-to-fetch-zrp-price": "",
+    "half-price-on-first-item-daily": "प्रतिदिन पहली वस्तु पर आधी कीमत"
   },
   "test": {
     "test": "यह टेस्ट है"
@@ -1033,9 +1034,6 @@
   "local-admin": {
     "local-admin": "स्थानीय प्रशासन",
     "sync-xrpl-sales-nft-data": "एक्सआरपीएल बिक्री एनएफटी डेटा सिंक करें"
-  },
-  "srore": {
-    "half-price-on-first-item-daily": "प्रतिदिन पहली वस्तु पर आधी कीमत"
   },
   "privacy-policy": {
     "privacy-policy-for-zerpmon": "ज़र्पमोन के लिए गोपनीयता नीति",
