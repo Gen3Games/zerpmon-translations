@@ -393,7 +393,11 @@
     "set-pvp-deck": "Définir comme deck PvP",
     "set-pvp-deck-success": "Définir avec succès comme deck PvP !",
     "equipment-already-in-main-deck": "",
-    "zerpmon-already-in-main-deck": ""
+    "zerpmon-already-in-main-deck": "",
+    "boss-deck": "",
+    "add-boss-deck": "",
+    "rename-boss-deck": "",
+    "clear-boss-deck": ""
   },
   "edit-profile": {
     "basic-info": "Informations de base",

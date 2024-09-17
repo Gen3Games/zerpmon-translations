@@ -477,7 +477,11 @@
     "set-pvp-deck": "PvP डेक के रूप में सेट करें",
     "set-pvp-deck-success": "PvP डेक के रूप में सफलतापूर्वक सेट!",
     "equipment-already-in-main-deck": "",
-    "zerpmon-already-in-main-deck": ""
+    "zerpmon-already-in-main-deck": "",
+    "boss-deck": "",
+    "add-boss-deck": "",
+    "rename-boss-deck": "",
+    "clear-boss-deck": ""
   },
   "edit-profile": {
     "basic-info": "बुनियादी जानकारी",

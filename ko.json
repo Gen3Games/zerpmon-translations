@@ -224,7 +224,11 @@
     "set-pvp-deck": "PvP 덱으로 설정",
     "set-pvp-deck-success": "PvP 덱 설정에 성공했습니다!",
     "equipment-already-in-main-deck": "",
-    "zerpmon-already-in-main-deck": ""
+    "zerpmon-already-in-main-deck": "",
+    "boss-deck": "",
+    "add-boss-deck": "",
+    "rename-boss-deck": "",
+    "clear-boss-deck": ""
   },
   "store": {
     "title": "스토어",

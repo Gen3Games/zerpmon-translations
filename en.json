@@ -224,7 +224,11 @@
     "previous-deck": "Previous Deck",
     "waiting-for-player-b": "Waiting for Player B",
     "equipment-already-in-main-deck": "Duplicate equipment not allowed in Bench",
-    "zerpmon-already-in-main-deck": "Duplicate zerpmon not allowed in Bench"
+    "zerpmon-already-in-main-deck": "Duplicate zerpmon not allowed in Bench",
+    "boss-deck": "World Boss Deck",
+    "add-boss-deck": "Add World Boss Deck",
+    "rename-boss-deck": "Rename World Boss Deck",
+    "clear-boss-deck": "Clear World Boss Deck"
   },
   "store": {
     "title": "Store",
