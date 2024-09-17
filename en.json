@@ -458,7 +458,10 @@
     "box-type": "Box Type",
     "winnings-col": "Winnings",
     "zrp-won": "ZRP won",
-    "spin-time": "Time"
+    "spin-time": "Time",
+    "daily-zerpbox-reward": "Daily ZerpBox Reward",
+    "claim": "Claim",
+    "claimed": "Claimed"
   },
   "battle": {
     "title": "Battle",

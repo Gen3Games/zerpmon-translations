@@ -737,7 +737,10 @@
     "box-type": "",
     "winnings-col": "",
     "zrp-won": "",
-    "spin-time": ""
+    "spin-time": "",
+    "daily-zerpbox-reward": "",
+    "claim": "",
+    "claimed": ""
   },
   "sidebar": {
     "analytics": "Analytique",
