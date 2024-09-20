@@ -1232,6 +1232,15 @@
     "zerpwallet-history": "ZerpWallet History",
     "withdrawal-requests": "Withdrawal Requests",
     "see-all-transactions": " See All History Transactions",
-    "load-more": "Load more"
+    "load-more": "Load more",
+    "confirm-swap": "Are you sure you want to swap {amountString} ?",
+    "swap-recently": "You cannot swap more than once every {limitString}.",
+    "swap-request-failed": "Swap request submission failed",
+    "swap-request-success": "Swap request submitted successfully. Your funds will be processed and transferred to your ZerpWallet shortly.",
+    "swap-limit-not-met": "Swap amount should be greater than {amount}",
+    "swap": "Swap",
+    "swap-dialog-title": "Enter Amount",
+    "swap-send": "Send",
+    "swap-receive": "Receive"
   }
 }

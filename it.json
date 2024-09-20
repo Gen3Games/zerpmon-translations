@@ -1232,7 +1232,16 @@
     "zerpwallet-history": "",
     "withdrawal-requests": "",
     "see-all-transactions": "",
-    "load-more": ""
+    "load-more": "",
+    "confirm-swap": "",
+    "swap-recently": "",
+    "swap-request-failed": "",
+    "swap-request-success": "",
+    "swap-limit-not-met": "",
+    "swap": "",
+    "swap-dialog-title": "",
+    "swap-send": "",
+    "swap-receive": ""
   },
   "transaction-history-description": ""
 }
