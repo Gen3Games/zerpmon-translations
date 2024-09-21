@@ -287,7 +287,11 @@
     "mission-cooldown-active": "",
     "gym-cooldown-active": "",
     "white-dmg-till-ko-trigger-msg": "",
-    "gold-dmg-till-ko-trigger-msg": ""
+    "gold-dmg-till-ko-trigger-msg": "",
+    "join-all-br-mode": "",
+    "enter-lobby": "",
+    "previous-br-winner": "",
+    "br-title": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

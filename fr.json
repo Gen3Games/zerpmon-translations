@@ -228,7 +228,11 @@
     "mission-cooldown-active": "",
     "gym-cooldown-active": "",
     "white-dmg-till-ko-trigger-msg": "",
-    "gold-dmg-till-ko-trigger-msg": ""
+    "gold-dmg-till-ko-trigger-msg": "",
+    "join-all-br-mode": "",
+    "enter-lobby": "",
+    "previous-br-winner": "",
+    "br-title": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

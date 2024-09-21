@@ -656,7 +656,11 @@
     "mission-cooldown-active": "Mission cooldown is active, please wait a few more seconds",
     "gym-cooldown-active": "Gym cooldown is active, please wait a little more",
     "white-dmg-till-ko-trigger-msg": "{zerpmonName}'s White move damage is {changeType} by {value} until KO!",
-    "gold-dmg-till-ko-trigger-msg": "{zerpmonName}'s Gold move damage is {changeType} by {value} until KO!"
+    "gold-dmg-till-ko-trigger-msg": "{zerpmonName}'s Gold move damage is {changeType} by {value} until KO!",
+    "join-all-br-mode": "Join all Battle Royale modes by exploring the Lobby",
+    "enter-lobby": "Enter Lobby",
+    "previous-br-winner": "Previous Winner :",
+    "br-title": "Battle Royale Lobby"
   },
   "test": {
     "test": "this is a test"

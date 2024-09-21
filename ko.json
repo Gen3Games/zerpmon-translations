@@ -656,7 +656,11 @@
     "mission-cooldown-active": "",
     "gym-cooldown-active": "",
     "white-dmg-till-ko-trigger-msg": "",
-    "gold-dmg-till-ko-trigger-msg": ""
+    "gold-dmg-till-ko-trigger-msg": "",
+    "join-all-br-mode": "",
+    "enter-lobby": "",
+    "previous-br-winner": "",
+    "br-title": ""
   },
   "test": {
     "test": "테스트입니다."
