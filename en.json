@@ -300,7 +300,8 @@
     "store": "Store",
     "custodial-wallet-balance": "Custodial wallet balance",
     "zerpwallet": "ZerpWallet",
-    "visit-kaiju-wallet": "Visit Kaiju Wallet"
+    "visit-kaiju-wallet": "Visit Kaiju Wallet",
+    "zerpmon-knocked-out": "Zerpmon Knocked Out"
   },
   "leaderboard": {
     "title": "Leaderboard",
@@ -1246,5 +1247,6 @@
     "swap-dialog-title": "Enter Amount",
     "swap-send": "Send",
     "swap-receive": "Receive"
-  }
+  },
+  "transaction-history-description": ""
 }

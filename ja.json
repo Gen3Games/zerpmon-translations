@@ -300,7 +300,8 @@
     "get-zrp": "ZRPを入手",
     "custodial-wallet-balance": "",
     "zerpwallet": "ZerpWallet",
-    "visit-kaiju-wallet": ""
+    "visit-kaiju-wallet": "",
+    "zerpmon-knocked-out": "ゼルモンがノックアウトされました"
   },
   "leaderboard": {
     "title": "リーダーボード",

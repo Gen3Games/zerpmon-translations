@@ -300,7 +300,8 @@
     "get-zrp": "获取ZRP",
     "custodial-wallet-balance": "",
     "zerpwallet": "ZerpWallet",
-    "visit-kaiju-wallet": ""
+    "visit-kaiju-wallet": "",
+    "zerpmon-knocked-out": "泽拉普兽被击倒"
   },
   "leaderboard": {
     "title": "排行榜",

@@ -565,7 +565,8 @@
     "get-zrp": "Ottieni ZRP",
     "custodial-wallet-balance": "",
     "zerpwallet": "ZerpWallet",
-    "visit-kaiju-wallet": ""
+    "visit-kaiju-wallet": "",
+    "zerpmon-knocked-out": "Zerpmon messo KO"
   },
   "inventory": {
     "candy-active": "Zerpmon ha già attivo un tipo di caramella simile",

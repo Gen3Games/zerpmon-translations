@@ -300,7 +300,8 @@
     "get-zrp": "Hole dir ZRP",
     "custodial-wallet-balance": "Kontostand des Hauptwallets",
     "zerpwallet": "ZerpWallet",
-    "visit-kaiju-wallet": "Besuche die Kaiju-Wallet"
+    "visit-kaiju-wallet": "Besuche die Kaiju-Wallet",
+    "zerpmon-knocked-out": "Zerpmon ausgeschaltet"
   },
   "leaderboard": {
     "title": "Bestenliste",

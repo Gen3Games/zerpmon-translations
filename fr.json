@@ -452,7 +452,8 @@
     "get-zrp": "Obtenez le ZRP",
     "custodial-wallet-balance": "",
     "zerpwallet": "ZerpWallet",
-    "visit-kaiju-wallet": ""
+    "visit-kaiju-wallet": "",
+    "zerpmon-knocked-out": "Zerpmon éliminé"
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",
