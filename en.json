@@ -1246,7 +1246,10 @@
     "swap": "Swap",
     "swap-dialog-title": "Enter Amount",
     "swap-send": "Send",
-    "swap-receive": "Receive"
+    "swap-receive": "Receive",
+    "swap-requests": "Swap Requests",
+    "from-amount": "From  amount",
+    "to-amount": "To amount"
   },
   "transaction-history-description": ""
 }

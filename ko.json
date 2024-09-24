@@ -1246,7 +1246,10 @@
     "swap": "",
     "swap-dialog-title": "",
     "swap-send": "",
-    "swap-receive": ""
+    "swap-receive": "",
+    "swap-requests": "",
+    "from-amount": "",
+    "to-amount": ""
   },
   "transaction-history-description": ""
 }
