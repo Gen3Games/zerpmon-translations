@@ -75,7 +75,9 @@
     "the-root-network-description": "Futurepass 제공",
     "futurepass-is-coming-soon": "Futurepass가 곧 Zermon에 출시됩니다.",
     "xumm-link-wallet-success": "Xaman을 통해 지갑을 성공적으로 연결했습니다.",
-    "crossmark-link-success": "Crossmark를 통해 지갑을 성공적으로 연결했습니다."
+    "crossmark-link-success": "Crossmark를 통해 지갑을 성공적으로 연결했습니다.",
+    "sign-in": "로그인",
+    "link-wallet": "지갑 연결"
   },
   "user-profile": {
     "trainers": "트레이너",

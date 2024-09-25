@@ -75,7 +75,9 @@
     "the-root-network-description": "フューチャーパス搭載",
     "futurepass-is-coming-soon": "フューチャーパスが間もなくゼルモンに登場します",
     "xumm-link-wallet-success": "Xaman 経由でウォレットが正常にリンクされました。",
-    "crossmark-link-success": "Crossmark 経由でウォレットが正常にリンクされました"
+    "crossmark-link-success": "Crossmark 経由でウォレットが正常にリンクされました",
+    "sign-in": "サインイン",
+    "link-wallet": "リンクウォレット"
   },
   "user-profile": {
     "trainers": "トレーナー",

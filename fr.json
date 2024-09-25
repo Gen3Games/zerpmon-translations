@@ -805,7 +805,9 @@
     "the-root-network-description": "Propulsé par Futurepass",
     "futurepass-is-coming-soon": "Futurepass arrive bientôt sur Zerpmon",
     "xumm-link-wallet-success": "Vous avez lié avec succès votre portefeuille via Xaman",
-    "crossmark-link-success": "Vous avez lié avec succès votre portefeuille via Crossmark"
+    "crossmark-link-success": "Vous avez lié avec succès votre portefeuille via Crossmark",
+    "sign-in": "Se connecter",
+    "link-wallet": "Lien Portefeuille"
   },
   "store": {
     "buy-now": "Acheter maintenant",

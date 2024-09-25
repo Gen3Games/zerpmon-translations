@@ -933,7 +933,9 @@
     "the-root-network-description": "Mogelijk gemaakt door Futurepass",
     "futurepass-is-coming-soon": "Futurepass komt binnenkort naar Zerpmon",
     "xumm-link-wallet-success": "U heeft uw portemonnee succesvol gekoppeld via Xaman",
-    "crossmark-link-success": "U heeft uw portemonnee succesvol gekoppeld via Crossmark"
+    "crossmark-link-success": "U heeft uw portemonnee succesvol gekoppeld via Crossmark",
+    "sign-in": "Inloggen",
+    "link-wallet": "Portemonnee koppelen"
   },
   "store": {
     "ascend-payment-tx-confirmed": "Je betalingstransactie is succesvol verlopen en {zerpmonName} is gestegen.",

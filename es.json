@@ -75,7 +75,9 @@
     "the-root-network-description": "Desarrollado por Futurepass",
     "futurepass-is-coming-soon": "Futurepass llegará pronto a Zerpmon",
     "xumm-link-wallet-success": "Has vinculado exitosamente tu billetera a través de Xaman",
-    "crossmark-link-success": "Ha vinculado exitosamente su billetera a través de Crossmark"
+    "crossmark-link-success": "Ha vinculado exitosamente su billetera a través de Crossmark",
+    "sign-in": "Iniciar sesión",
+    "link-wallet": "Cartera de enlace"
   },
   "user-profile": {
     "trainers": "Entrenadores",
