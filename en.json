@@ -1250,6 +1250,5 @@
     "swap-requests": "Swap Requests",
     "from-amount": "From  amount",
     "to-amount": "To amount"
-  },
-  "transaction-history-description": ""
+  }
 }
