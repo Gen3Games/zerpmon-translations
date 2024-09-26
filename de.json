@@ -663,7 +663,9 @@
     "join-all-br-mode": "",
     "enter-lobby": "",
     "previous-br-winner": "",
-    "br-title": ""
+    "br-title": "",
+    "select-deck": "",
+    "battle": ""
   },
   "test": {
     "test": "Dies ist ein Test"

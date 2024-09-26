@@ -663,7 +663,9 @@
     "join-all-br-mode": "Únete a todos los modos Battle Royale explorando el lobby",
     "enter-lobby": "Ingresar al lobby",
     "previous-br-winner": "Ganador anterior:",
-    "br-title": "Vestíbulo de batalla real"
+    "br-title": "Vestíbulo de batalla real",
+    "select-deck": "",
+    "battle": ""
   },
   "test": {
     "test": "esto es un test"

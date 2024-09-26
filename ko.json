@@ -663,7 +663,9 @@
     "join-all-br-mode": "로비를 탐색하여 모든 배틀 로얄 모드에 참여하세요",
     "enter-lobby": "로비에 입장",
     "previous-br-winner": "이전 우승자:",
-    "br-title": "배틀로얄 로비"
+    "br-title": "배틀로얄 로비",
+    "select-deck": "",
+    "battle": ""
   },
   "test": {
     "test": "테스트입니다."
