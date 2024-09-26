@@ -871,7 +871,10 @@
     "spin-time": "Tempo",
     "daily-zerpbox-reward": "Premio ZerpBox giornaliero",
     "claim": "Reclamo",
-    "claimed": "Reclamato"
+    "claimed": "Reclamato",
+    "no-linked-wallet": "",
+    "fp-wallet-not-linked": "",
+    "xrpl-wallet-not-linked": ""
   },
   "settings": {
     "gameplay": "Gioco",

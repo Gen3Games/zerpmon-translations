@@ -871,7 +871,10 @@
     "spin-time": "Tijd",
     "daily-zerpbox-reward": "Dagelijkse ZerpBox-beloning",
     "claim": "Claim",
-    "claimed": "Geclaimd"
+    "claimed": "Geclaimd",
+    "no-linked-wallet": "",
+    "fp-wallet-not-linked": "",
+    "xrpl-wallet-not-linked": ""
   },
   "settings": {
     "gameplay": "Gameplay",

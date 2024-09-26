@@ -468,7 +468,10 @@
     "spin-time": "时间",
     "daily-zerpbox-reward": "每日ZerpBox奖励",
     "claim": "宣称",
-    "claimed": "声称"
+    "claimed": "声称",
+    "no-linked-wallet": "",
+    "fp-wallet-not-linked": "",
+    "xrpl-wallet-not-linked": ""
   },
   "battle": {
     "title": "战斗",

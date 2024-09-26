@@ -468,7 +468,10 @@
     "spin-time": "Zeit",
     "daily-zerpbox-reward": "",
     "claim": "",
-    "claimed": ""
+    "claimed": "",
+    "no-linked-wallet": "",
+    "fp-wallet-not-linked": "",
+    "xrpl-wallet-not-linked": ""
   },
   "battle": {
     "title": "Battle Arena",

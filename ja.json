@@ -468,7 +468,10 @@
     "spin-time": "時間",
     "daily-zerpbox-reward": "毎日のZerpBox報酬",
     "claim": "請求",
-    "claimed": "主張した"
+    "claimed": "主張した",
+    "no-linked-wallet": "",
+    "fp-wallet-not-linked": "",
+    "xrpl-wallet-not-linked": ""
   },
   "battle": {
     "title": "バトル",

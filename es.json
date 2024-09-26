@@ -468,7 +468,10 @@
     "spin-time": "Tiempo",
     "daily-zerpbox-reward": "Recompensa diaria de ZerpBox",
     "claim": "Afirmar",
-    "claimed": "Reclamado"
+    "claimed": "Reclamado",
+    "no-linked-wallet": "",
+    "fp-wallet-not-linked": "",
+    "xrpl-wallet-not-linked": ""
   },
   "battle": {
     "title": "Batalla",

@@ -871,7 +871,10 @@
     "spin-time": "समय",
     "daily-zerpbox-reward": "दैनिक ज़र्पबॉक्स पुरस्कार",
     "claim": "दावा",
-    "claimed": "दावा किया"
+    "claimed": "दावा किया",
+    "no-linked-wallet": "",
+    "fp-wallet-not-linked": "",
+    "xrpl-wallet-not-linked": ""
   },
   "settings": {
     "gameplay": "गेमप्ले",

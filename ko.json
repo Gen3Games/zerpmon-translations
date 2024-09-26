@@ -468,7 +468,10 @@
     "spin-time": "시간",
     "daily-zerpbox-reward": "일일 ZerpBox 보상",
     "claim": "주장하다",
-    "claimed": "청구됨"
+    "claimed": "청구됨",
+    "no-linked-wallet": "",
+    "fp-wallet-not-linked": "",
+    "xrpl-wallet-not-linked": ""
   },
   "battle": {
     "title": "배틀",

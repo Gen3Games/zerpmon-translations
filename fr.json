@@ -751,7 +751,10 @@
     "spin-time": "Temps",
     "daily-zerpbox-reward": "Récompense ZerpBox quotidienne",
     "claim": "Réclamer",
-    "claimed": "Réclamé"
+    "claimed": "Réclamé",
+    "no-linked-wallet": "",
+    "fp-wallet-not-linked": "",
+    "xrpl-wallet-not-linked": ""
   },
   "sidebar": {
     "analytics": "Analytique",

@@ -468,7 +468,10 @@
     "spin-time": "Time",
     "daily-zerpbox-reward": "Daily ZerpBox Reward",
     "claim": "Claim",
-    "claimed": "Claimed"
+    "claimed": "Claimed",
+    "no-linked-wallet": "You don't have any linked wallet",
+    "fp-wallet-not-linked": "You don't have a linked FuturePass Wallet",
+    "xrpl-wallet-not-linked": "You don't have a linked XRPL Wallet"
   },
   "battle": {
     "title": "Battle",
