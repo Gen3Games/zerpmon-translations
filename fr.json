@@ -232,7 +232,9 @@
     "join-all-br-mode": "Rejoignez tous les modes Battle Royale en explorant le lobby",
     "enter-lobby": "Entrez dans le hall",
     "previous-br-winner": "Gagnant précédent :",
-    "br-title": "Hall de la bataille royale"
+    "br-title": "Hall de la bataille royale",
+    "select-deck": "",
+    "battle": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

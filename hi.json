@@ -192,7 +192,9 @@
     "join-all-br-mode": "लॉबी की खोज करके सभी बैटल रॉयल मोड में शामिल हों",
     "enter-lobby": "लॉबी में प्रवेश करें",
     "previous-br-winner": "पिछला विजेता:",
-    "br-title": "बैटल रॉयल लॉबी"
+    "br-title": "बैटल रॉयल लॉबी",
+    "select-deck": "",
+    "battle": ""
   },
   "analytics": {
     "analytics": "एनालिटिक्स",

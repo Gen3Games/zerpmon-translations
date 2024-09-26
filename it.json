@@ -291,7 +291,9 @@
     "join-all-br-mode": "Unisciti a tutte le modalità Battle Royale esplorando la lobby",
     "enter-lobby": "Entra nella lobby",
     "previous-br-winner": "Vincitore precedente:",
-    "br-title": "Lobby della Battaglia reale"
+    "br-title": "Lobby della Battaglia reale",
+    "select-deck": "",
+    "battle": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

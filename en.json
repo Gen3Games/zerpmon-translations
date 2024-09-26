@@ -663,7 +663,9 @@
     "join-all-br-mode": "Join all Battle Royale modes by exploring the Lobby",
     "enter-lobby": "Enter Lobby",
     "previous-br-winner": "Previous Winner :",
-    "br-title": "Battle Royale Lobby"
+    "br-title": "Battle Royale Lobby",
+    "select-deck": "Select Deck",
+    "battle": "Battle"
   },
   "test": {
     "test": "this is a test"

@@ -663,7 +663,9 @@
     "join-all-br-mode": "通过探索大厅加入所有大逃杀模式",
     "enter-lobby": "进入大厅",
     "previous-br-winner": "上届获奖者：",
-    "br-title": "大逃杀大厅"
+    "br-title": "大逃杀大厅",
+    "select-deck": "",
+    "battle": ""
   },
   "test": {
     "test": "这是个测试"

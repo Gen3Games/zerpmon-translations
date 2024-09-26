@@ -663,7 +663,9 @@
     "join-all-br-mode": "ロビーを探索してすべてのバトル ロイヤル モードに参加しましょう",
     "enter-lobby": "ロビーに入る",
     "previous-br-winner": "前回の優勝者 :",
-    "br-title": "バトルロイヤルロビー"
+    "br-title": "バトルロイヤルロビー",
+    "select-deck": "",
+    "battle": ""
   },
   "test": {
     "test": "これはテストです"
