@@ -1251,6 +1251,7 @@
     "swap-receive": "Receive",
     "swap-requests": "Swap Requests",
     "from-amount": "From  amount",
-    "to-amount": "To amount"
+    "to-amount": "To amount",
+    "cross-chain-withdraw-note": "Cross-chain transaction processing could take several minutes."
   }
 }

@@ -1251,6 +1251,7 @@
     "swap-receive": "收到",
     "swap-requests": "交换请求",
     "from-amount": "从金额",
-    "to-amount": "至金额"
+    "to-amount": "至金额",
+    "cross-chain-withdraw-note": ""
   }
 }

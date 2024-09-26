@@ -1251,6 +1251,7 @@
     "swap-receive": "प्राप्त करें",
     "swap-requests": "स्वैप अनुरोध",
     "from-amount": "राशि से",
-    "to-amount": "राशि के लिए"
+    "to-amount": "राशि के लिए",
+    "cross-chain-withdraw-note": ""
   }
 }

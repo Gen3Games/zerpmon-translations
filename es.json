@@ -1251,6 +1251,7 @@
     "swap-receive": "Recibir",
     "swap-requests": "Solicitudes de intercambio",
     "from-amount": "De cantidad",
-    "to-amount": "a cantidad"
+    "to-amount": "a cantidad",
+    "cross-chain-withdraw-note": ""
   }
 }

@@ -1251,6 +1251,7 @@
     "swap-receive": "",
     "swap-requests": "",
     "from-amount": "",
-    "to-amount": ""
+    "to-amount": "",
+    "cross-chain-withdraw-note": ""
   }
 }

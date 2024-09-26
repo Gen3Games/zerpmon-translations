@@ -1251,6 +1251,7 @@
     "swap-receive": "Ontvangen",
     "swap-requests": "Wisselverzoeken",
     "from-amount": "Vanaf bedrag",
-    "to-amount": "Naar bedrag"
+    "to-amount": "Naar bedrag",
+    "cross-chain-withdraw-note": ""
   }
 }
