@@ -668,7 +668,14 @@
     "previous-br-winner": "Ganador anterior:",
     "br-title": "Vestíbulo de batalla real",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "aura-cancelled-out": "",
+    "tremble-effect": "",
+    "blue-disabled": "",
+    "purple-aura-effect": "",
+    "white-dmg-aura-effect": "",
+    "gold-dmg-aura-effect": "",
+    "aura-triggered": ""
   },
   "test": {
     "test": "esto es un test"

@@ -668,7 +668,14 @@
     "previous-br-winner": "이전 우승자:",
     "br-title": "배틀로얄 로비",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "aura-cancelled-out": "",
+    "tremble-effect": "",
+    "blue-disabled": "",
+    "purple-aura-effect": "",
+    "white-dmg-aura-effect": "",
+    "gold-dmg-aura-effect": "",
+    "aura-triggered": ""
   },
   "test": {
     "test": "테스트입니다."

@@ -293,7 +293,14 @@
     "previous-br-winner": "Vorige winnaar:",
     "br-title": "Battle Royale-lobby",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "aura-cancelled-out": "",
+    "tremble-effect": "",
+    "blue-disabled": "",
+    "purple-aura-effect": "",
+    "white-dmg-aura-effect": "",
+    "gold-dmg-aura-effect": "",
+    "aura-triggered": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

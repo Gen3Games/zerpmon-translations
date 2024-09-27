@@ -668,7 +668,14 @@
     "previous-br-winner": "上届获奖者：",
     "br-title": "大逃杀大厅",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "aura-cancelled-out": "",
+    "tremble-effect": "",
+    "blue-disabled": "",
+    "purple-aura-effect": "",
+    "white-dmg-aura-effect": "",
+    "gold-dmg-aura-effect": "",
+    "aura-triggered": ""
   },
   "test": {
     "test": "这是个测试"

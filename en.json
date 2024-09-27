@@ -668,7 +668,14 @@
     "previous-br-winner": "Previous Winner :",
     "br-title": "Battle Royale Lobby",
     "select-deck": "Select Deck",
-    "battle": "Battle"
+    "battle": "Battle",
+    "aura-cancelled-out": "Both Zerpmon's auras are cancelling eachother out!",
+    "tremble-effect": "{opponent} is trembling",
+    "blue-disabled": "{opponent} can no longer defend itself using Blue Moves",
+    "purple-aura-effect": "{opponent}'s Purple Abilities are reduced by {change} star",
+    "white-dmg-aura-effect": "{opponent}'s White Attacks are reduced by {change} damage",
+    "gold-dmg-aura-effect": "{opponent}'s Gold Attacks are reduced by {change} damage",
+    "aura-triggered": "{zerpmon} is giving off an intimidating aura and {opponent}'s stats are being reduced."
   },
   "test": {
     "test": "this is a test"

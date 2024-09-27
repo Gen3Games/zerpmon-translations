@@ -293,7 +293,14 @@
     "previous-br-winner": "Vincitore precedente:",
     "br-title": "Lobby della Battaglia reale",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "aura-cancelled-out": "",
+    "tremble-effect": "",
+    "blue-disabled": "",
+    "purple-aura-effect": "",
+    "white-dmg-aura-effect": "",
+    "gold-dmg-aura-effect": "",
+    "aura-triggered": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
