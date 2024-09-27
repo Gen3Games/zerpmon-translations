@@ -201,7 +201,9 @@
     "purple-aura-effect": "",
     "white-dmg-aura-effect": "",
     "gold-dmg-aura-effect": "",
-    "aura-triggered": ""
+    "aura-triggered": "",
+    "gym-info": "",
+    "gym-lose-streak": ""
   },
   "analytics": {
     "analytics": "एनालिटिक्स",

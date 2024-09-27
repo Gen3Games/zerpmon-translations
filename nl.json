@@ -300,7 +300,9 @@
     "purple-aura-effect": "",
     "white-dmg-aura-effect": "",
     "gold-dmg-aura-effect": "",
-    "aura-triggered": ""
+    "aura-triggered": "",
+    "gym-info": "",
+    "gym-lose-streak": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

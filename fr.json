@@ -241,7 +241,9 @@
     "purple-aura-effect": "",
     "white-dmg-aura-effect": "",
     "gold-dmg-aura-effect": "",
-    "aura-triggered": ""
+    "aura-triggered": "",
+    "gym-info": "",
+    "gym-lose-streak": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

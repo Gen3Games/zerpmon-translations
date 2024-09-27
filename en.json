@@ -675,7 +675,9 @@
     "purple-aura-effect": "{opponent}'s Purple Abilities are reduced by {change} star",
     "white-dmg-aura-effect": "{opponent}'s White Attacks are reduced by {change} damage",
     "gold-dmg-aura-effect": "{opponent}'s Gold Attacks are reduced by {change} damage",
-    "aura-triggered": "{zerpmon} is giving off an intimidating aura and {opponent}'s stats are being reduced."
+    "aura-triggered": "{zerpmon} is giving off an intimidating aura and {opponent}'s stats are being reduced.",
+    "gym-info": "Gym Info",
+    "gym-lose-streak": "Lose Streak"
   },
   "test": {
     "test": "this is a test"
