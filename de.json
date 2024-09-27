@@ -668,7 +668,9 @@
     "previous-br-winner": "",
     "br-title": "",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "gym-info": "",
+    "gym-lose-streak": ""
   },
   "test": {
     "test": "Dies ist ein Test"

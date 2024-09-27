@@ -668,7 +668,9 @@
     "previous-br-winner": "이전 우승자:",
     "br-title": "배틀로얄 로비",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "gym-info": "",
+    "gym-lose-streak": ""
   },
   "test": {
     "test": "테스트입니다."

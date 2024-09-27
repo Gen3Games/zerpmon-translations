@@ -293,7 +293,9 @@
     "previous-br-winner": "Vincitore precedente:",
     "br-title": "Lobby della Battaglia reale",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "gym-info": "",
+    "gym-lose-streak": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

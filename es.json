@@ -668,7 +668,9 @@
     "previous-br-winner": "Ganador anterior:",
     "br-title": "Vestíbulo de batalla real",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "gym-info": "",
+    "gym-lose-streak": ""
   },
   "test": {
     "test": "esto es un test"

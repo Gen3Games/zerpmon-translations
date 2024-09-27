@@ -194,7 +194,9 @@
     "previous-br-winner": "पिछला विजेता:",
     "br-title": "बैटल रॉयल लॉबी",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "gym-info": "",
+    "gym-lose-streak": ""
   },
   "analytics": {
     "analytics": "एनालिटिक्स",

@@ -668,7 +668,9 @@
     "previous-br-winner": "Previous Winner :",
     "br-title": "Battle Royale Lobby",
     "select-deck": "Select Deck",
-    "battle": "Battle"
+    "battle": "Battle",
+    "gym-info": "Gym Info",
+    "gym-lose-streak": "Lose Streak"
   },
   "test": {
     "test": "this is a test"

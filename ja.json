@@ -668,7 +668,9 @@
     "previous-br-winner": "前回の優勝者 :",
     "br-title": "バトルロイヤルロビー",
     "select-deck": "",
-    "battle": ""
+    "battle": "",
+    "gym-info": "",
+    "gym-lose-streak": ""
   },
   "test": {
     "test": "これはテストです"
