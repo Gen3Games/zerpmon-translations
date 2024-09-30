@@ -685,7 +685,15 @@
     "not-enough-zrp-balance": "Pas assez de solde ZRP dans ZerpWallet",
     "not-enough-xrp-balance": "Pas assez de solde XRP dans ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Veuillez réessayer une fois votre demande de retrait en attente terminée.",
-    "payment-from-zerpwallet": "Le paiement pour l'acceptation du prêt sera prélevé sur votre ZerpWallet"
+    "payment-from-zerpwallet": "Le paiement pour l'acceptation du prêt sera prélevé sur votre ZerpWallet",
+    "trade-amount-on-hold-note": "",
+    "confirm-trade-offer": "",
+    "create-trade-offer-success": "",
+    "create-trade-offer-failed": "",
+    "confirm-remove-trade-offer": "",
+    "trade-offer-expired": "",
+    "trade-successful": "",
+    "confirm-offer-accept": ""
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",

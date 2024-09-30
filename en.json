@@ -763,7 +763,15 @@
     "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
     "not-enough-xrp-balance": "Not enough XRP balance in ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed",
-    "payment-from-zerpwallet": "Payment for accepting loan will be taken from your ZerpWallet"
+    "payment-from-zerpwallet": "Payment for accepting loan will be taken from your ZerpWallet",
+    "trade-amount-on-hold-note": "The amount will be put on hold until the trade is completed.",
+    "confirm-trade-offer": "Are you sure you want to create this offer listing ?",
+    "create-trade-offer-success": "Offer successfully created!",
+    "create-trade-offer-failed": "Failed, something went wrong",
+    "confirm-remove-trade-offer": "Are you sure you want to remove this offer listing?",
+    "trade-offer-expired": "Sorry, this offer has already expired",
+    "trade-successful": "Successfully completed the trade, please check your inventory for the received items",
+    "confirm-offer-accept": "Are you sure you want to accept this offer from {offerCreator} ?"
   },
   "manage-listing": {
     "title": "My NFTs",

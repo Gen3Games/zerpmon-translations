@@ -763,7 +763,15 @@
     "not-enough-zrp-balance": "No hay suficiente saldo de ZRP en ZerpWallet",
     "not-enough-xrp-balance": "No hay suficiente saldo de XRP en ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Inténtelo de nuevo después de que se haya completado su solicitud de retiro pendiente.",
-    "payment-from-zerpwallet": "El pago por aceptar el préstamo se cobrará de su ZerpWallet"
+    "payment-from-zerpwallet": "El pago por aceptar el préstamo se cobrará de su ZerpWallet",
+    "trade-amount-on-hold-note": "",
+    "confirm-trade-offer": "",
+    "create-trade-offer-success": "",
+    "create-trade-offer-failed": "",
+    "confirm-remove-trade-offer": "",
+    "trade-offer-expired": "",
+    "trade-successful": "",
+    "confirm-offer-accept": ""
   },
   "manage-listing": {
     "title": "Mis NFT",

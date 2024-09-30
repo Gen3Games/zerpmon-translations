@@ -763,7 +763,15 @@
     "not-enough-zrp-balance": "ZerpWallet에 ZRP 잔액이 충분하지 않습니다.",
     "not-enough-xrp-balance": "ZerpWallet에 XRP 잔액이 충분하지 않습니다.",
     "zerp-wallet-pending-withdrawal": "보류 중인 출금 요청이 완료된 후 다시 시도하십시오.",
-    "payment-from-zerpwallet": "대출 수락에 대한 지불은 ZerpWallet에서 이루어집니다."
+    "payment-from-zerpwallet": "대출 수락에 대한 지불은 ZerpWallet에서 이루어집니다.",
+    "trade-amount-on-hold-note": "",
+    "confirm-trade-offer": "",
+    "create-trade-offer-success": "",
+    "create-trade-offer-failed": "",
+    "confirm-remove-trade-offer": "",
+    "trade-offer-expired": "",
+    "trade-successful": "",
+    "confirm-offer-accept": ""
   },
   "manage-listing": {
     "title": "내 NFT",

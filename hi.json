@@ -798,7 +798,15 @@
     "not-enough-zrp-balance": "ZerpWallet में पर्याप्त ZRP बैलेंस नहीं है",
     "not-enough-xrp-balance": "ZerpWallet में पर्याप्त XRP बैलेंस नहीं है",
     "zerp-wallet-pending-withdrawal": "कृपया आपका लंबित निकासी अनुरोध पूरा होने के बाद पुनः प्रयास करें",
-    "payment-from-zerpwallet": "ऋण स्वीकार करने के लिए भुगतान आपके ZerpWallet से लिया जाएगा"
+    "payment-from-zerpwallet": "ऋण स्वीकार करने के लिए भुगतान आपके ZerpWallet से लिया जाएगा",
+    "trade-amount-on-hold-note": "",
+    "confirm-trade-offer": "",
+    "create-trade-offer-success": "",
+    "create-trade-offer-failed": "",
+    "confirm-remove-trade-offer": "",
+    "trade-offer-expired": "",
+    "trade-successful": "",
+    "confirm-offer-accept": ""
   },
   "mint": {
     "days": "दिन",

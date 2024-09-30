@@ -763,7 +763,15 @@
     "not-enough-zrp-balance": "ZerpWalletのZRP残高が足りません",
     "not-enough-xrp-balance": "ZerpWalletのXRP残高が不足しています",
     "zerp-wallet-pending-withdrawal": "保留中の出金リクエストが完了してからもう一度お試しください",
-    "payment-from-zerpwallet": "ローンを受け入れるための支払いはZerpWalletから引き落とされます"
+    "payment-from-zerpwallet": "ローンを受け入れるための支払いはZerpWalletから引き落とされます",
+    "trade-amount-on-hold-note": "",
+    "confirm-trade-offer": "",
+    "create-trade-offer-success": "",
+    "create-trade-offer-failed": "",
+    "confirm-remove-trade-offer": "",
+    "trade-offer-expired": "",
+    "trade-successful": "",
+    "confirm-offer-accept": ""
   },
   "manage-listing": {
     "title": "私のNFT",

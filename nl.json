@@ -798,7 +798,15 @@
     "not-enough-zrp-balance": "Niet genoeg ZRP-saldo in ZerpWallet",
     "not-enough-xrp-balance": "Niet genoeg XRP-saldo in ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Probeer het opnieuw nadat uw lopende opnameverzoek is voltooid",
-    "payment-from-zerpwallet": "De betaling voor het accepteren van een lening wordt van uw ZerpWallet afgeschreven"
+    "payment-from-zerpwallet": "De betaling voor het accepteren van een lening wordt van uw ZerpWallet afgeschreven",
+    "trade-amount-on-hold-note": "",
+    "confirm-trade-offer": "",
+    "create-trade-offer-success": "",
+    "create-trade-offer-failed": "",
+    "confirm-remove-trade-offer": "",
+    "trade-offer-expired": "",
+    "trade-successful": "",
+    "confirm-offer-accept": ""
   },
   "mint": {
     "days": "dagen",

@@ -798,7 +798,15 @@
     "not-enough-zrp-balance": "Saldo ZRP insufficiente in ZerpWallet",
     "not-enough-xrp-balance": "Saldo XRP insufficiente in ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Riprova una volta completata la richiesta di prelievo in sospeso",
-    "payment-from-zerpwallet": "Il pagamento per l'accettazione del prestito verrà prelevato dal tuo ZerpWallet"
+    "payment-from-zerpwallet": "Il pagamento per l'accettazione del prestito verrà prelevato dal tuo ZerpWallet",
+    "trade-amount-on-hold-note": "",
+    "confirm-trade-offer": "",
+    "create-trade-offer-success": "",
+    "create-trade-offer-failed": "",
+    "confirm-remove-trade-offer": "",
+    "trade-offer-expired": "",
+    "trade-successful": "",
+    "confirm-offer-accept": ""
   },
   "mint": {
     "days": "giorni",

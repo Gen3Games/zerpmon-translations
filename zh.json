@@ -763,7 +763,15 @@
     "not-enough-zrp-balance": "ZerpWallet 中的 ZRP 余额不足",
     "not-enough-xrp-balance": "ZerpWallet 中的 XRP 余额不足",
     "zerp-wallet-pending-withdrawal": "请在待处理的提款请求完成后重试",
-    "payment-from-zerpwallet": "接受贷款的付款将从您的 ZerpWallet 中扣除"
+    "payment-from-zerpwallet": "接受贷款的付款将从您的 ZerpWallet 中扣除",
+    "trade-amount-on-hold-note": "",
+    "confirm-trade-offer": "",
+    "create-trade-offer-success": "",
+    "create-trade-offer-failed": "",
+    "confirm-remove-trade-offer": "",
+    "trade-offer-expired": "",
+    "trade-successful": "",
+    "confirm-offer-accept": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",
