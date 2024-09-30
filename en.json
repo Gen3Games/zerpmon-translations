@@ -677,7 +677,8 @@
     "gold-dmg-aura-effect": "{opponent}'s Gold Attacks are reduced by {change} damage",
     "aura-triggered": "{zerpmon} is giving off an intimidating aura and {opponent}'s stats are being reduced.",
     "gym-info": "Gym Info",
-    "gym-lose-streak": "Lose Streak"
+    "gym-lose-streak": "Lose Streak",
+    "tremble-trigger-msg": "{zerpmonName}  ({typeString})  is Trembling 🟥 ({movePercent}%)"
   },
   "test": {
     "test": "this is a test"

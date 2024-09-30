@@ -243,7 +243,8 @@
     "gold-dmg-aura-effect": "",
     "aura-triggered": "",
     "gym-info": "",
-    "gym-lose-streak": ""
+    "gym-lose-streak": "",
+    "tremble-trigger-msg": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

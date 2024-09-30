@@ -302,7 +302,8 @@
     "gold-dmg-aura-effect": "",
     "aura-triggered": "",
     "gym-info": "",
-    "gym-lose-streak": ""
+    "gym-lose-streak": "",
+    "tremble-trigger-msg": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
