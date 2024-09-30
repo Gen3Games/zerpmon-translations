@@ -348,7 +348,8 @@
     "highest-level-short": "Hi Lv",
     "gym-points": "道館分",
     "gym-points-short": "GP",
-    "gym-tier": "层"
+    "gym-tier": "层",
+    "mp": ""
   },
   "analytics": {
     "analytics": "分析",

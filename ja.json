@@ -348,7 +348,8 @@
     "highest-level-short": "こんにちはLv",
     "gym-points": "ジムポイント",
     "gym-points-short": "GP",
-    "gym-tier": "階層"
+    "gym-tier": "階層",
+    "mp": ""
   },
   "analytics": {
     "analytics": "分析",

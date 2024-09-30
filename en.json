@@ -348,7 +348,8 @@
     "highest-level-short": "Hi Lv",
     "gym-points": "Gym Points",
     "gym-points-short": "GP",
-    "gym-tier": "Tier"
+    "gym-tier": "Tier",
+    "mp": "Mastery Points"
   },
   "analytics": {
     "analytics": "Analytics",

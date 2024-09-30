@@ -659,7 +659,8 @@
     "win-rate": "Winstpercentage",
     "wins": "wint",
     "zerpmon-not-set": "Zerpmon",
-    "zerpmons": "Zerpmon"
+    "zerpmons": "Zerpmon",
+    "mp": ""
   },
   "leaderboard": {
     "dropdown-mission": "Missie aller tijden",

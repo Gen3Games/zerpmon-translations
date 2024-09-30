@@ -659,7 +659,8 @@
     "win-rate": "Tasso di vincita",
     "wins": "Vince",
     "zerpmon-not-set": "Zerpmon",
-    "zerpmons": "Zerpmon"
+    "zerpmons": "Zerpmon",
+    "mp": ""
   },
   "leaderboard": {
     "dropdown-mission": "Missione di tutti i tempi",

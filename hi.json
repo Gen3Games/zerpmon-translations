@@ -659,7 +659,8 @@
     "win-rate": "जीत की दर",
     "wins": "जीत",
     "zerpmon-not-set": "ज़र्पमोन",
-    "zerpmons": "ज़र्पमोन"
+    "zerpmons": "ज़र्पमोन",
+    "mp": ""
   },
   "leaderboard": {
     "dropdown-mission": "सर्वकालिक मिशन",

@@ -348,7 +348,8 @@
     "highest-level-short": "안녕 레벨",
     "gym-points": "체육관 포인트",
     "gym-points-short": "GP",
-    "gym-tier": "층"
+    "gym-tier": "층",
+    "mp": ""
   },
   "analytics": {
     "analytics": "분석",

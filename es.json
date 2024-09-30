@@ -348,7 +348,8 @@
     "highest-level-short": "Nvl Al",
     "gym-points": "Puntos de gimnasio",
     "gym-points-short": "médico de cabecera",
-    "gym-tier": "Nivel"
+    "gym-tier": "Nivel",
+    "mp": ""
   },
   "analytics": {
     "analytics": "Análisis",

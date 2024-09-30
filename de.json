@@ -348,7 +348,8 @@
     "highest-level-short": "Hö. Lvl.",
     "gym-points": "Gym-Punkte",
     "gym-points-short": "TP",
-    "gym-tier": "Stufe"
+    "gym-tier": "Stufe",
+    "mp": ""
   },
   "analytics": {
     "analytics": "Auswertung",
