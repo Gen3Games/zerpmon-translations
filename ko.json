@@ -829,7 +829,12 @@
     "not-enough-zrp-balance": "ZerpWallet에 ZRP 잔액이 충분하지 않습니다.",
     "could-not-find-nft-category": "Zermon NFT 카테고리를 찾을 수 없습니다",
     "zerp-wallet-pending-withdrawal": "보류 중인 출금 요청이 완료된 후 다시 시도하십시오.",
-    "cancellation-payment-from-zerpwallet": "대출 취소에 대한 결제는 ZerpWallet에서 이루어집니다."
+    "cancellation-payment-from-zerpwallet": "대출 취소에 대한 결제는 ZerpWallet에서 이루어집니다.",
+    "user-listing-details": "",
+    "accepted-by": "",
+    "loan-duration": "",
+    "loan-price": "",
+    "loan-expires-in": ""
   },
   "create-listing": {
     "not-signed-in": "로그인하지 않았습니다",

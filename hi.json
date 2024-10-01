@@ -739,7 +739,12 @@
     "not-enough-zrp-balance": "ZerpWallet में पर्याप्त ZRP बैलेंस नहीं है",
     "could-not-find-nft-category": "ज़र्पमोन एनएफटी श्रेणी नहीं मिल सकी",
     "zerp-wallet-pending-withdrawal": "कृपया आपका लंबित निकासी अनुरोध पूरा होने के बाद पुनः प्रयास करें",
-    "cancellation-payment-from-zerpwallet": "ऋण रद्द करने का भुगतान आपके ZerpWallet से लिया जाएगा"
+    "cancellation-payment-from-zerpwallet": "ऋण रद्द करने का भुगतान आपके ZerpWallet से लिया जाएगा",
+    "user-listing-details": "",
+    "accepted-by": "",
+    "loan-duration": "",
+    "loan-price": "",
+    "loan-expires-in": ""
   },
   "marketplace": {
     "accept-loan": "ऋृण",

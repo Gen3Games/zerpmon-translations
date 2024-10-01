@@ -829,7 +829,12 @@
     "not-enough-zrp-balance": "ZerpWalletのZRP残高が足りません",
     "could-not-find-nft-category": "Zerpmon NFT カテゴリが見つかりませんでした",
     "zerp-wallet-pending-withdrawal": "保留中の出金リクエストが完了してからもう一度お試しください",
-    "cancellation-payment-from-zerpwallet": "ローンキャンセルの支払いはZerpWalletから引き落とされます"
+    "cancellation-payment-from-zerpwallet": "ローンキャンセルの支払いはZerpWalletから引き落とされます",
+    "user-listing-details": "",
+    "accepted-by": "",
+    "loan-duration": "",
+    "loan-price": "",
+    "loan-expires-in": ""
   },
   "create-listing": {
     "not-signed-in": "ログインしていない",

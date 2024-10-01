@@ -829,7 +829,12 @@
     "not-enough-zrp-balance": "",
     "could-not-find-nft-category": "",
     "zerp-wallet-pending-withdrawal": "",
-    "cancellation-payment-from-zerpwallet": ""
+    "cancellation-payment-from-zerpwallet": "",
+    "user-listing-details": "",
+    "accepted-by": "",
+    "loan-duration": "",
+    "loan-price": "",
+    "loan-expires-in": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",

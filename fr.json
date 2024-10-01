@@ -626,7 +626,12 @@
     "not-enough-zrp-balance": "Pas assez de solde ZRP dans ZerpWallet",
     "could-not-find-nft-category": "Impossible de trouver la catégorie Zerpmon NFT",
     "zerp-wallet-pending-withdrawal": "Veuillez réessayer une fois votre demande de retrait en attente terminée.",
-    "cancellation-payment-from-zerpwallet": "Le paiement pour l'annulation du prêt sera prélevé sur votre ZerpWallet"
+    "cancellation-payment-from-zerpwallet": "Le paiement pour l'annulation du prêt sera prélevé sur votre ZerpWallet",
+    "user-listing-details": "",
+    "accepted-by": "",
+    "loan-duration": "",
+    "loan-price": "",
+    "loan-expires-in": ""
   },
   "marketplace": {
     "accept-loan": "Prêt",

@@ -829,7 +829,12 @@
     "not-enough-zrp-balance": "ZerpWallet 中的 ZRP 余额不足",
     "could-not-find-nft-category": "找不到 Zerpmon NFT 类别",
     "zerp-wallet-pending-withdrawal": "请在待处理的提款请求完成后重试",
-    "cancellation-payment-from-zerpwallet": "取消贷款的付款将从您的 ZerpWallet 中扣除"
+    "cancellation-payment-from-zerpwallet": "取消贷款的付款将从您的 ZerpWallet 中扣除",
+    "user-listing-details": "",
+    "accepted-by": "",
+    "loan-duration": "",
+    "loan-price": "",
+    "loan-expires-in": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",

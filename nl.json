@@ -739,7 +739,12 @@
     "not-enough-zrp-balance": "Niet genoeg ZRP-saldo in ZerpWallet",
     "could-not-find-nft-category": "Kon de Zerpmon NFT-categorie niet vinden",
     "zerp-wallet-pending-withdrawal": "Probeer het opnieuw nadat uw lopende opnameverzoek is voltooid",
-    "cancellation-payment-from-zerpwallet": "De betaling voor het annuleren van de lening wordt van uw ZerpWallet afgeschreven"
+    "cancellation-payment-from-zerpwallet": "De betaling voor het annuleren van de lening wordt van uw ZerpWallet afgeschreven",
+    "user-listing-details": "",
+    "accepted-by": "",
+    "loan-duration": "",
+    "loan-price": "",
+    "loan-expires-in": ""
   },
   "marketplace": {
     "accept-loan": "Lening",

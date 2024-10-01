@@ -829,7 +829,12 @@
     "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
     "could-not-find-nft-category": "Could not find Zerpmon NFT category",
     "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed",
-    "cancellation-payment-from-zerpwallet": "Payment for cancelling loan will be taken from your ZerpWallet"
+    "cancellation-payment-from-zerpwallet": "Payment for cancelling loan will be taken from your ZerpWallet",
+    "user-listing-details": "Listing Details",
+    "accepted-by": "Accepted By",
+    "loan-duration": "Loan Duration : {days} days",
+    "loan-price": "Loan Price : {price} ZRP per day",
+    "loan-expires-in": "Loan Expires In : {days} days"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",
