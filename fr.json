@@ -511,7 +511,8 @@
     "zerpmon-maxed-out": "Zerpmon est déjà au maximum",
     "level-30": "Niveau 30",
     "level": "Niveau",
-    "go-to-zerpbox": "Je suis arrivé à ZerpBox"
+    "go-to-zerpbox": "Je suis arrivé à ZerpBox",
+    "evolve": "Évoluer"
   },
   "leaderboard-table": {
     "close": "Fermer",
@@ -872,7 +873,8 @@
     "user-tag-not-found": "Impossible de trouver le tag utilisateur",
     "failed-to-fetch-zrp-price": "Échec de la récupération du prix ZRP, veuillez réessayer plus tard",
     "half-price-on-first-item-daily": "moitié prix sur le premier article par jour",
-    "evolution-completed": "Évolution terminée"
+    "evolution-completed": "Évolution terminée",
+    "ascend": "Monter"
   },
   "test": {
     "test": "c'est un test"

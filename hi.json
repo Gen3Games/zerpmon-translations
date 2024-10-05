@@ -624,7 +624,8 @@
     "zerpmon-maxed-out": "ज़र्पमोन पहले ही अधिकतम हो चुका है",
     "level-30": "स्तर 30",
     "level": "स्तर",
-    "go-to-zerpbox": "ZerpBox पर पहुँच गया"
+    "go-to-zerpbox": "ZerpBox पर पहुँच गया",
+    "evolve": "विकसित होना"
   },
   "leaderboard-table": {
     "close": "बंद करना",
@@ -1000,7 +1001,8 @@
     "user-tag-not-found": "उपयोगकर्ता टैग नहीं मिल सका",
     "failed-to-fetch-zrp-price": "ZRP मूल्य प्राप्त करने में विफल, कृपया बाद में पुनः प्रयास करें",
     "half-price-on-first-item-daily": "प्रतिदिन पहली वस्तु पर आधी कीमत",
-    "evolution-completed": "विकास पूरा हुआ"
+    "evolution-completed": "विकास पूरा हुआ",
+    "ascend": "Ascend"
   },
   "test": {
     "test": "यह टेस्ट है"

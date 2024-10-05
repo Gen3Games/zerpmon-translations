@@ -266,7 +266,8 @@
     "user-tag-not-found": "",
     "failed-to-fetch-zrp-price": "",
     "half-price-on-first-item-daily": "Halber Preis für den ersten Artikel täglich",
-    "evolution-completed": "Evolution abgeschlossen"
+    "evolution-completed": "Evolution abgeschlossen",
+    "ascend": "Aufsteigen"
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",
@@ -414,7 +415,8 @@
     "no-double-xp-potion": "Keinen EP-Verdopplungstrank in deinem Bestand gefunden",
     "level-30": "Stufe 30",
     "level": "Level",
-    "go-to-zerpbox": "Gehe zur Zerp-Box"
+    "go-to-zerpbox": "Gehe zur Zerp-Box",
+    "evolve": "Evolve"
   },
   "safari": {
     "title": "Safari",

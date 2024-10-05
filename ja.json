@@ -266,7 +266,8 @@
     "user-tag-not-found": "ユーザータグが見つかりませんでした",
     "failed-to-fetch-zrp-price": "ZRP 価格の取得に失敗しました。後でもう一度お試しください。",
     "half-price-on-first-item-daily": "毎日最初の商品が半額",
-    "evolution-completed": "進化完了"
+    "evolution-completed": "進化完了",
+    "ascend": "昇る"
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",
@@ -414,7 +415,8 @@
     "no-double-xp-potion": "所持品の下にダブル XP ポーションが見つかりません",
     "level-30": "レベル30",
     "level": "レベル",
-    "go-to-zerpbox": "ZerpBoxに行きました"
+    "go-to-zerpbox": "ZerpBoxに行きました",
+    "evolve": "進化"
   },
   "safari": {
     "title": "サファリ",

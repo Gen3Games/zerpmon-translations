@@ -266,7 +266,8 @@
     "user-tag-not-found": "No se pudo encontrar la etiqueta de usuario",
     "failed-to-fetch-zrp-price": "No se pudo obtener el precio ZRP, inténtelo de nuevo más tarde",
     "half-price-on-first-item-daily": "mitad de precio en el primer artículo diariamente",
-    "evolution-completed": "Evolución completada"
+    "evolution-completed": "Evolución completada",
+    "ascend": "Ascender"
   },
   "home": {
     "catch-your-zerpmon-now": "¡Atrapa tu Zerpmon ahora!",
@@ -414,7 +415,8 @@
     "no-double-xp-potion": "No se encontró ninguna poción de doble XP entre tus posesiones.",
     "level-30": "Nivel 30",
     "level": "Nivel",
-    "go-to-zerpbox": "Llegué a ZerpBox"
+    "go-to-zerpbox": "Llegué a ZerpBox",
+    "evolve": "Evolucionar"
   },
   "safari": {
     "title": "Safari",

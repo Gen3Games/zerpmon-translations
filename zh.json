@@ -266,7 +266,8 @@
     "user-tag-not-found": "找不到用户标签",
     "failed-to-fetch-zrp-price": "获取ZRP价格失败，请稍后重试",
     "half-price-on-first-item-daily": "每日第一件商品半价",
-    "evolution-completed": "进化完成"
+    "evolution-completed": "进化完成",
+    "ascend": "登高"
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",
@@ -414,7 +415,8 @@
     "no-double-xp-potion": "在您的藏品下找不到双倍经验药水",
     "level-30": "30级",
     "level": "等级",
-    "go-to-zerpbox": "到达ZerpBox"
+    "go-to-zerpbox": "到达ZerpBox",
+    "evolve": "发展"
   },
   "safari": {
     "title": "Safari探险",

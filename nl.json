@@ -624,7 +624,8 @@
     "zerpmon-maxed-out": "Zerpmon is al op zijn maximum",
     "level-30": "Niveau 30",
     "level": "Niveau",
-    "go-to-zerpbox": "Ik ben bij ZerpBox geweest"
+    "go-to-zerpbox": "Ik ben bij ZerpBox geweest",
+    "evolve": "Ontwikkelen"
   },
   "leaderboard-table": {
     "close": "Dichtbij",
@@ -1000,7 +1001,8 @@
     "user-tag-not-found": "Kan gebruikerstag niet vinden",
     "failed-to-fetch-zrp-price": "Kan de ZRP-prijs niet ophalen. Probeer het later opnieuw",
     "half-price-on-first-item-daily": "halve prijs per dag op het eerste artikel",
-    "evolution-completed": "Evolutie voltooid"
+    "evolution-completed": "Evolutie voltooid",
+    "ascend": "Stijgen"
   },
   "test": {
     "test": "dit is een test"
