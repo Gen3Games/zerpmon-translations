@@ -999,7 +999,8 @@
     "not-enough-zrp-balance": "Saldo ZRP insufficiente in ZerpWallet",
     "user-tag-not-found": "Impossibile trovare il tag utente",
     "failed-to-fetch-zrp-price": "Impossibile recuperare il prezzo ZRP, riprova più tardi",
-    "half-price-on-first-item-daily": "metà prezzo sul primo articolo giornaliero"
+    "half-price-on-first-item-daily": "metà prezzo sul primo articolo giornaliero",
+    "evolution-completed": "Evoluzione completata"
   },
   "test": {
     "test": "questa è una prova"

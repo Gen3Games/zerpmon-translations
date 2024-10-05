@@ -265,7 +265,8 @@
     "not-enough-zrp-balance": "No hay suficiente saldo de ZRP en ZerpWallet",
     "user-tag-not-found": "No se pudo encontrar la etiqueta de usuario",
     "failed-to-fetch-zrp-price": "No se pudo obtener el precio ZRP, inténtelo de nuevo más tarde",
-    "half-price-on-first-item-daily": "mitad de precio en el primer artículo diariamente"
+    "half-price-on-first-item-daily": "mitad de precio en el primer artículo diariamente",
+    "evolution-completed": "Evolución completada"
   },
   "home": {
     "catch-your-zerpmon-now": "¡Atrapa tu Zerpmon ahora!",

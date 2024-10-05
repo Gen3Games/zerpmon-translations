@@ -999,7 +999,8 @@
     "not-enough-zrp-balance": "ZerpWallet में पर्याप्त ZRP बैलेंस नहीं है",
     "user-tag-not-found": "उपयोगकर्ता टैग नहीं मिल सका",
     "failed-to-fetch-zrp-price": "ZRP मूल्य प्राप्त करने में विफल, कृपया बाद में पुनः प्रयास करें",
-    "half-price-on-first-item-daily": "प्रतिदिन पहली वस्तु पर आधी कीमत"
+    "half-price-on-first-item-daily": "प्रतिदिन पहली वस्तु पर आधी कीमत",
+    "evolution-completed": "विकास पूरा हुआ"
   },
   "test": {
     "test": "यह टेस्ट है"

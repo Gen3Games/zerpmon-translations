@@ -265,7 +265,8 @@
     "not-enough-zrp-balance": "",
     "user-tag-not-found": "",
     "failed-to-fetch-zrp-price": "",
-    "half-price-on-first-item-daily": "Halber Preis für den ersten Artikel täglich"
+    "half-price-on-first-item-daily": "Halber Preis für den ersten Artikel täglich",
+    "evolution-completed": "Evolution abgeschlossen"
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",

@@ -999,7 +999,8 @@
     "not-enough-zrp-balance": "Niet genoeg ZRP-saldo in ZerpWallet",
     "user-tag-not-found": "Kan gebruikerstag niet vinden",
     "failed-to-fetch-zrp-price": "Kan de ZRP-prijs niet ophalen. Probeer het later opnieuw",
-    "half-price-on-first-item-daily": "halve prijs per dag op het eerste artikel"
+    "half-price-on-first-item-daily": "halve prijs per dag op het eerste artikel",
+    "evolution-completed": "Evolutie voltooid"
   },
   "test": {
     "test": "dit is een test"
