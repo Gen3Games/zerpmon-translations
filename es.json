@@ -1033,7 +1033,8 @@
     "zerp-wallet-balance-low": "ZerpWallet se está quedando sin saldo",
     "zerp-wallet-pending-txn": "No se pudo realizar la compra cuando hay una solicitud de retiro pendiente",
     "payment-from-zerpwallet": "El pago se cobrará de su ZerpWallet ({amount})",
-    "buy-confirmation-message": "¿Estás seguro de que quieres crear un nuevo Zerpmon?"
+    "buy-confirmation-message": "¿Estás seguro de que quieres crear un nuevo Zerpmon?",
+    "xrpl-wallet-not-linked": ""
   },
   "mint": {
     "mint-opens-in": "La Casa de la Moneda abre en",

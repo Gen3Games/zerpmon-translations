@@ -1033,7 +1033,8 @@
     "zerp-wallet-balance-low": "ZerpWallet 余额不足",
     "zerp-wallet-pending-txn": "有待处理的提款请求时无法进行购买",
     "payment-from-zerpwallet": "将从您的 ZerpWallet 中扣除付款 ({amount})",
-    "buy-confirmation-message": "您确定要铸造新的泽拉兽吗？"
+    "buy-confirmation-message": "您确定要铸造新的泽拉兽吗？",
+    "xrpl-wallet-not-linked": ""
   },
   "mint": {
     "mint-opens-in": "铸造开启于",

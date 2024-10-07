@@ -328,7 +328,8 @@
     "zerp-wallet-balance-low": "ZerpWallet is per saldo bijna leeg",
     "zerp-wallet-pending-txn": "De aankoop kan niet worden gedaan terwijl er een opnameverzoek in behandeling is",
     "payment-from-zerpwallet": "De betaling wordt afgeschreven van uw ZerpWallet ({amount})",
-    "buy-confirmation-message": "Weet je zeker dat je een nieuwe Zerpmon wilt slaan?"
+    "buy-confirmation-message": "Weet je zeker dat je een nieuwe Zerpmon wilt slaan?",
+    "xrpl-wallet-not-linked": ""
   },
   "create-listing": {
     "confim-relist-nft": "Weet u zeker dat u {nftName} opnieuw wilt aanbieden",

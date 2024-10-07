@@ -328,7 +328,8 @@
     "zerp-wallet-balance-low": "ZerpWallet का बैलेंस कम चल रहा है",
     "zerp-wallet-pending-txn": "निकासी अनुरोध लंबित होने पर खरीदारी करने में विफल",
     "payment-from-zerpwallet": "भुगतान आपके ZerpWallet से लिया जाएगा ({राशि})",
-    "buy-confirmation-message": "क्या आप वाकई एक नया ज़र्पमोन बनाना चाहते हैं?"
+    "buy-confirmation-message": "क्या आप वाकई एक नया ज़र्पमोन बनाना चाहते हैं?",
+    "xrpl-wallet-not-linked": ""
   },
   "create-listing": {
     "confim-relist-nft": "क्या आप वाकई {nftName} को पुनः सूचीबद्ध करना चाहते हैं",

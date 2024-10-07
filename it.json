@@ -328,7 +328,8 @@
     "zerp-wallet-balance-low": "ZerpWallet sta per esaurire il saldo",
     "zerp-wallet-pending-txn": "Impossibile effettuare l'acquisto quando c'è una richiesta di prelievo in sospeso",
     "payment-from-zerpwallet": "Il pagamento verrà prelevato dal tuo ZerpWallet ({amount})",
-    "buy-confirmation-message": "Sei sicuro di voler coniare un nuovo Zerpmon?"
+    "buy-confirmation-message": "Sei sicuro di voler coniare un nuovo Zerpmon?",
+    "xrpl-wallet-not-linked": ""
   },
   "create-listing": {
     "confim-relist-nft": "Sei sicuro di voler rimettere in vendita {nftName}",

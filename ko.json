@@ -1033,7 +1033,8 @@
     "zerp-wallet-balance-low": "ZerpWallet의 잔액이 부족합니다",
     "zerp-wallet-pending-txn": "보류 중인 출금 요청이 있는 경우 구매에 실패했습니다.",
     "payment-from-zerpwallet": "귀하의 ZerpWallet에서 결제가 이루어집니다({amount}).",
-    "buy-confirmation-message": "정말로 새로운 Zermon을 만들고 싶나요?"
+    "buy-confirmation-message": "정말로 새로운 Zermon을 만들고 싶나요?",
+    "xrpl-wallet-not-linked": ""
   },
   "mint": {
     "mint-opens-in": "민트가 열립니다",

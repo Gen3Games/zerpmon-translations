@@ -1033,7 +1033,8 @@
     "zerp-wallet-balance-low": "ZerpWallet の残高が少なくなってきています",
     "zerp-wallet-pending-txn": "保留中の出金リクエストがあるときに購入できませんでした",
     "payment-from-zerpwallet": "支払いは ZerpWallet から行われます ({金額})",
-    "buy-confirmation-message": "新しいゼルモンを鋳造してもよろしいですか?"
+    "buy-confirmation-message": "新しいゼルモンを鋳造してもよろしいですか?",
+    "xrpl-wallet-not-linked": ""
   },
   "mint": {
     "mint-opens-in": "ミントが開く",

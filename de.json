@@ -1033,7 +1033,8 @@
     "zerp-wallet-balance-low": "",
     "zerp-wallet-pending-txn": "",
     "payment-from-zerpwallet": "",
-    "buy-confirmation-message": ""
+    "buy-confirmation-message": "",
+    "xrpl-wallet-not-linked": ""
   },
   "mint": {
     "days": "Tage",

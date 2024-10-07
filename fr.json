@@ -1033,7 +1033,8 @@
     "zerp-wallet-balance-low": "ZerpWallet est presque épuisé",
     "zerp-wallet-pending-txn": "Échec de l'achat alors qu'il y a une demande de retrait en attente",
     "payment-from-zerpwallet": "Le paiement sera prélevé sur votre ZerpWallet ({amount})",
-    "buy-confirmation-message": "Etes-vous sûr de vouloir créer un nouveau Zerpmon ?"
+    "buy-confirmation-message": "Etes-vous sûr de vouloir créer un nouveau Zerpmon ?",
+    "xrpl-wallet-not-linked": ""
   },
   "mint": {
     "mint-opens-in": "La menthe ouvre ses portes",
