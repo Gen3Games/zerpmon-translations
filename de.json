@@ -76,8 +76,8 @@
     "futurepass-is-coming-soon": "Futurepass kommt bald nach Zerpmon",
     "xumm-link-wallet-success": "Du hast dein Wallet erfolgreich über Xaman verknüpft",
     "crossmark-link-success": "Du hast dein Wallet erfolgreich über Crossmark verknüpft",
-    "sign-in": "",
-    "link-wallet": ""
+    "sign-in": "Einloggen",
+    "link-wallet": "Wallet verbinden"
   },
   "user-profile": {
     "trainers": "Trainer",
@@ -227,10 +227,10 @@
     "set-pvp-deck-success": "Erfolgreich als PvP-Deck eingestellt!",
     "equipment-already-in-main-deck": "Doppelte Nutzung von Equipment-Karten ist nicht zulässig",
     "zerpmon-already-in-main-deck": "Doppelte Nutzung von Zerpmons ist nicht zulässig",
-    "boss-deck": "",
-    "add-boss-deck": "",
-    "rename-boss-deck": "",
-    "clear-boss-deck": ""
+    "boss-deck": "World Boss-Deck",
+    "add-boss-deck": "World Boss-Deck hinzufügen",
+    "rename-boss-deck": "World Boss-Deck umbenennen",
+    "clear-boss-deck": "World Boss-Deck löschen"
   },
   "store": {
     "title": "Shop",
@@ -255,12 +255,12 @@
     "confirm-ascend": "Bist du sicher, dass du {zerpmonName} hochstufen möchtest?",
     "purchase-and-spin": "Kaufen und drehen",
     "pay-with-xaman": "Bezahle mit Xaman",
-    "zerp-wallet-balance-low": "",
-    "zerp-wallet-pending-txn": "",
-    "payment-from-zerpwallet": "",
-    "confirm-evolve": "",
-    "evolve-success": "",
-    "ascend-tx-confirmed": "",
+    "zerp-wallet-balance-low": "Dein Zerp-Wallet hat fast kein Guthaben mehr",
+    "zerp-wallet-pending-txn": "Kauf kann nicht durchgeführt werden, solange noch eine Auszahlung in der Warteschlange ist",
+    "payment-from-zerpwallet": "Die Summe von ({amount}) wird von deinem Zerp-Wallet abgezogen ",
+    "confirm-evolve": "Bist du sicher, dass du {zerpmonName} weiterentwickeln möchtest?",
+    "evolve-success": "Kaufen und Drehen",
+    "ascend-tx-confirmed": "{zerpmonName} wurde erfolgreich weiterentwickelt",
     "zerp-wallet-pending-withdrawal": "",
     "not-enough-zrp-balance": "",
     "user-tag-not-found": "",
