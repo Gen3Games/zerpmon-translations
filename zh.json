@@ -1285,6 +1285,7 @@
     "swap-requests": "交换请求",
     "from-amount": "从金额",
     "to-amount": "至金额",
-    "cross-chain-withdraw-note": ""
+    "cross-chain-withdraw-note": "",
+    "withdrawals-disabled": ""
   }
 }

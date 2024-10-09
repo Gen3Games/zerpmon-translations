@@ -1285,6 +1285,7 @@
     "swap-requests": "Swap-Anfragen",
     "from-amount": "Von Summe",
     "to-amount": "Zu Summe",
-    "cross-chain-withdraw-note": "Cross-chain Transaktion können mehrere Minuten dauern. Bitte habe etwas Geduld"
+    "cross-chain-withdraw-note": "Cross-chain Transaktion können mehrere Minuten dauern. Bitte habe etwas Geduld",
+    "withdrawals-disabled": ""
   }
 }

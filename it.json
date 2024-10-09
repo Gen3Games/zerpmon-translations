@@ -1285,6 +1285,7 @@
     "swap-requests": "Richieste di scambio",
     "from-amount": "Dall'importo",
     "to-amount": "Per importo",
-    "cross-chain-withdraw-note": ""
+    "cross-chain-withdraw-note": "",
+    "withdrawals-disabled": ""
   }
 }

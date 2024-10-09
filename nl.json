@@ -1285,6 +1285,7 @@
     "swap-requests": "Wisselverzoeken",
     "from-amount": "Vanaf bedrag",
     "to-amount": "Naar bedrag",
-    "cross-chain-withdraw-note": ""
+    "cross-chain-withdraw-note": "",
+    "withdrawals-disabled": ""
   }
 }

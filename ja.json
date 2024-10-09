@@ -1285,6 +1285,7 @@
     "swap-requests": "スワップリクエスト",
     "from-amount": "金額から",
     "to-amount": "金額に",
-    "cross-chain-withdraw-note": ""
+    "cross-chain-withdraw-note": "",
+    "withdrawals-disabled": ""
   }
 }

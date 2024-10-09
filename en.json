@@ -1285,6 +1285,7 @@
     "swap-requests": "Swap Requests",
     "from-amount": "From  amount",
     "to-amount": "To amount",
-    "cross-chain-withdraw-note": "Cross-chain transaction processing could take several minutes."
+    "cross-chain-withdraw-note": "Cross-chain transaction processing could take several minutes.",
+    "withdrawals-disabled": "ZerpWallet withdrawals have been disabled, please open a ticket in our official discord"
   }
 }

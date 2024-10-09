@@ -1285,6 +1285,7 @@
     "swap-requests": "교환 요청",
     "from-amount": "금액부터",
     "to-amount": "금액까지",
-    "cross-chain-withdraw-note": ""
+    "cross-chain-withdraw-note": "",
+    "withdrawals-disabled": ""
   }
 }
