@@ -1286,6 +1286,6 @@
     "from-amount": "Von Summe",
     "to-amount": "Zu Summe",
     "cross-chain-withdraw-note": "Cross-chain Transaktion können mehrere Minuten dauern. Bitte habe etwas Geduld",
-    "withdrawals-disabled": ""
+    "withdrawals-disabled": "Auszahlungen vom ZerpWallet wurden deaktiviert, bitte eröffne ein Ticket in unserem offiziellen Discord"
   }
 }
