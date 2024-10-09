@@ -976,10 +976,10 @@
     "confirm-bid-popup-title": "Gebot für {nftName}",
     "confirm-bid-popup-message": "Bist du sicher, dass du für {nftName} {amount} {currency} bieten möchtest?",
     "bid-not-enough-starting": "Dein Gebot liegt unter dem Startpreis",
-    "zerp-wallet-pending-withdrawal": "",
-    "not-enough-xrp-balance": "",
-    "not-enough-zrp-balance": "",
-    "bid-payment-from-zerpwallet": ""
+    "zerp-wallet-pending-withdrawal": "Bitte versuche es noch einmal, sobald deine austehende Auszahlungsanfrage abgeschlossen ist",
+    "not-enough-xrp-balance": "Nicht ausreichendes XRP-Guthaben im ZerpWallet",
+    "not-enough-zrp-balance": "Nicht ausreichendes ZRP-Guthaben im ZerpWallet",
+    "bid-payment-from-zerpwallet": "Die Zahlung für dein Gebot wird über dein ZerpWallet abgewickelt"
   },
   "forge": {
     "title": "Schmiede",
@@ -1008,7 +1008,7 @@
     "claim-equipment": "Fordern Sie Ausrüstung an",
     "equipment-claimed": "Sie haben erfolgreich eine Ausrüstung beansprucht!",
     "select-xblade-nft": "Wählen Sie Xblade NFTs mit 5 oder mehr Punkten",
-    "xblade-successfully-claimed": ""
+    "xblade-successfully-claimed": "XBlade erfolgreich beansprucht"
   },
   "buy-zerpmon": {
     "already-bought": "Du hast bereits ein Zerpmon gekauft",
