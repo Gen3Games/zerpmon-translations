@@ -1053,13 +1053,13 @@
     "zrp-share": "ZRP-Anteil"
   },
   "nft-details-popup": {
-    "level": "Ebene"
+    "level": "Level"
   },
   "hardware-requirements": {
     "hardware-requirements": "Hardware-Anforderungen",
     "laptops-and-desktops": "Laptops und Desktops",
     "hardware-requirements-description": "Die Mindestanforderungen an die Hardware für Laptops und Desktops sind wie folgt:",
-    "latest-browsers-recommended": "Neueste Browser empfohlen",
+    "latest-browsers-recommended": "Neuester Browser empfohlen",
     "mobile-devices": "Mobile Geräte",
     "windows-7-or-later": "Windows 7 oder höher",
     "macos-10-4-or-later": "macOS 10.4 oder höher",
@@ -1075,12 +1075,12 @@
     }
   },
   "header": {
-    "dashboard": "Armaturenbrett",
-    "events": "Veranstaltungen"
+    "dashboard": "Übersicht",
+    "events": "Events"
   },
   "local-admin": {
     "local-admin": "Lokaler Administrator",
-    "sync-xrpl-sales-nft-data": "Synchronisieren Sie XRPL-Verkaufs-NFT-Daten"
+    "sync-xrpl-sales-nft-data": "Synchronisiere deine XRPL-Verkaufs-NFT-Daten"
   },
   "privacy-policy": {
     "privacy-policy-for-zerpmon": "Datenschutzrichtlinie für Zerpmon",
