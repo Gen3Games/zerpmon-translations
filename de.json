@@ -1030,11 +1030,11 @@
     "refund-initiated": "Sorry, aber alle Zerpmon sind ausverkauft. Die Rückerstattung wird in Kürze an dein Wallet gesendet.",
     "back": "Zurück",
     "rewards-recieved": "Belohnungen erhalten",
-    "zerp-wallet-balance-low": "",
-    "zerp-wallet-pending-txn": "",
-    "payment-from-zerpwallet": "",
-    "buy-confirmation-message": "",
-    "xrpl-wallet-not-linked": ""
+    "zerp-wallet-balance-low": "Dein ZerpWallet hat fast kein Guthaben mehr",
+    "zerp-wallet-pending-txn": "Kauf kann nicht abgeschlossen werden, solange eine Auszahlungsanfrage besteht",
+    "payment-from-zerpwallet": "Die Zahlung wird über dein ZerpWallet abgewickelt ({amount})",
+    "buy-confirmation-message": "Bist du sicher, dass du ein neues Zerpmon minten möchtest?",
+    "xrpl-wallet-not-linked": "Bitte verbinde ein XRPL-Wallet, um ein neues Zerpmon zu minten"
   },
   "mint": {
     "days": "Tage",
