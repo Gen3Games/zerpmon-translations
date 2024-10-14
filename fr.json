@@ -699,7 +699,8 @@
     "confirm-remove-trade-offer": "",
     "trade-offer-expired": "",
     "trade-successful": "",
-    "confirm-offer-accept": ""
+    "confirm-offer-accept": "",
+    "trade-items-not-added": ""
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",

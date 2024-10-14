@@ -774,7 +774,8 @@
     "confirm-remove-trade-offer": "Are you sure you want to remove this offer listing?",
     "trade-offer-expired": "Sorry, this offer has already expired",
     "trade-successful": "Successfully completed the trade, please check your inventory for the received items",
-    "confirm-offer-accept": "Are you sure you want to accept this offer from {offerCreator} ?"
+    "confirm-offer-accept": "Are you sure you want to accept this offer from {offerCreator} ?",
+    "trade-items-not-added": "No trade items provided, add them by pressing the + button"
   },
   "manage-listing": {
     "title": "My NFTs",

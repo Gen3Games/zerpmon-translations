@@ -774,7 +774,8 @@
     "confirm-remove-trade-offer": "",
     "trade-offer-expired": "",
     "trade-successful": "",
-    "confirm-offer-accept": ""
+    "confirm-offer-accept": "",
+    "trade-items-not-added": ""
   },
   "manage-listing": {
     "title": "我的 NFTs",

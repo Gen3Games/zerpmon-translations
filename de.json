@@ -774,7 +774,8 @@
     "confirm-remove-trade-offer": "Bist du sicher, dass du dieses Angebot entfernen möchtest",
     "trade-offer-expired": "Dieses Angebot ist leider schon beendet",
     "trade-successful": "Handel erfolgreich abgeschlossen, bitte überprüfe dein Inventar für die erhaltenen Objekte",
-    "confirm-offer-accept": "Bist du sicher, dass du das Angebot von {offerCreator} annehmen möchtest?"
+    "confirm-offer-accept": "Bist du sicher, dass du das Angebot von {offerCreator} annehmen möchtest?",
+    "trade-items-not-added": ""
   },
   "manage-listing": {
     "title": "Meine NFT's",
