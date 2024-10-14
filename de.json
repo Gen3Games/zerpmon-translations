@@ -1004,11 +1004,11 @@
     "nft-trainer-is-available": "Dieses NFT ist berechtigt, einen Trainer anzufordern",
     "go-back-to-forge": "Zurück zur Schmiede",
     "check-nft-claim-status": "Prüfe den NFT-Anforderungsstatus",
-    "xblade-claimed": "Mit diesem XBlade-NFT wurde bereits ein Ausrüstungsobjekt angefordert",
+    "xblade-claimed": "Mit diesem XBlade-NFT wurde bereits ein Equipment angefordert",
     "invalid-xblades-selected": "Ungültiges XBlade-NFT ausgewählt",
     "xscape-xblade": "XSCAPE XBLADE",
     "claim-equipment": "Fordern Sie Ausrüstung an",
-    "equipment-claimed": "Sie haben erfolgreich eine Ausrüstung beansprucht!",
+    "equipment-claimed": "Sie haben erfolgreich ein Equipment beansprucht!",
     "select-xblade-nft": "Wählen Sie Xblade NFTs mit 5 oder mehr Punkten",
     "xblade-successfully-claimed": "XBlade erfolgreich beansprucht"
   },
