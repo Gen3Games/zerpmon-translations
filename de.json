@@ -471,8 +471,8 @@
     "zrp-won": "Gewonnene ZRP",
     "spin-time": "Zeit",
     "daily-zerpbox-reward": "Tägliche ZerpBox Belohnung",
-    "claim": "Beanspruchen",
-    "claimed": "Beansprucht",
+    "claim": "ZerpBox Belohnung abholen",
+    "claimed": "ZerpBox Belohnung erfolgreich abgeholt",
     "no-linked-wallet": "Du hast kein verbundenes Wallet",
     "fp-wallet-not-linked": "Du hast kein verbundenes FuturePass-Wallet",
     "xrpl-wallet-not-linked": "Du hast kein verbundenes XRPL-Wallet"
