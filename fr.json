@@ -244,7 +244,8 @@
     "aura-triggered": "",
     "gym-info": "",
     "gym-lose-streak": "",
-    "tremble-trigger-msg": ""
+    "tremble-trigger-msg": "",
+    "no-opponents-found-deck-invalid": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

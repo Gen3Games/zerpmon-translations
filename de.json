@@ -682,7 +682,8 @@
     "aura-triggered": "{zerpmon} teilt eine furchteinflößende Aura aus und reduziert {opponent}'s Stats.",
     "gym-info": "Gym Info",
     "gym-lose-streak": "Loserstraße",
-    "tremble-trigger-msg": "{zerpmonName}  ({typeString})  ist am Zittern 🟥 ({movePercent}%)"
+    "tremble-trigger-msg": "{zerpmonName}  ({typeString})  ist am Zittern 🟥 ({movePercent}%)",
+    "no-opponents-found-deck-invalid": ""
   },
   "test": {
     "test": "Dies ist ein Test"

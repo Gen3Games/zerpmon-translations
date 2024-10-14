@@ -682,7 +682,8 @@
     "aura-triggered": "{zerpmon} is giving off an intimidating aura and {opponent}'s stats are being reduced.",
     "gym-info": "Gym Info",
     "gym-lose-streak": "Lose Streak",
-    "tremble-trigger-msg": "{zerpmonName}  ({typeString})  is Trembling 🟥 ({movePercent}%)"
+    "tremble-trigger-msg": "{zerpmonName}  ({typeString})  is Trembling 🟥 ({movePercent}%)",
+    "no-opponents-found-deck-invalid": "No opponents found, please make sure your deck is setup correctly"
   },
   "test": {
     "test": "this is a test"

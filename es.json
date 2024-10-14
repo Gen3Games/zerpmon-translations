@@ -682,7 +682,8 @@
     "aura-triggered": "",
     "gym-info": "",
     "gym-lose-streak": "",
-    "tremble-trigger-msg": ""
+    "tremble-trigger-msg": "",
+    "no-opponents-found-deck-invalid": ""
   },
   "test": {
     "test": "esto es un test"

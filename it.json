@@ -303,7 +303,8 @@
     "aura-triggered": "",
     "gym-info": "",
     "gym-lose-streak": "",
-    "tremble-trigger-msg": ""
+    "tremble-trigger-msg": "",
+    "no-opponents-found-deck-invalid": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
