@@ -683,7 +683,7 @@
     "gym-info": "Gym Info",
     "gym-lose-streak": "Loserstraße",
     "tremble-trigger-msg": "{zerpmonName}  ({typeString})  ist am Zittern 🟥 ({movePercent}%)",
-    "no-opponents-found-deck-invalid": ""
+    "no-opponents-found-deck-invalid": "Keine Gegner gefunden. Stelle bitte sicher, dass dein Deck korrekt aufgestellt ist"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -776,7 +776,7 @@
     "trade-offer-expired": "Dieses Angebot ist leider schon beendet",
     "trade-successful": "Handel erfolgreich abgeschlossen, bitte überprüfe dein Inventar für die erhaltenen Objekte",
     "confirm-offer-accept": "Bist du sicher, dass du das Angebot von {offerCreator} annehmen möchtest?",
-    "trade-items-not-added": ""
+    "trade-items-not-added": "Keine Objekte zum Handeln gefunden. Füge welche hinzu, indem du den + Button drückst"
   },
   "manage-listing": {
     "title": "Meine NFT's",
