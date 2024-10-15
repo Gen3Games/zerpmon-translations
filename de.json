@@ -683,7 +683,7 @@
     "gym-info": "Gym Info",
     "gym-lose-streak": "Loserstraße",
     "tremble-trigger-msg": "{zerpmonName}  ({typeString})  ist am Zittern 🟥 ({movePercent}%)",
-    "confirm-forfeit": "",
+    "confirm-forfeit": "Wenn du aufgibst, wird das Battle automatisch als Niederlage gewertet. Bist du sicher?",
     "no-opponents-found-deck-invalid": "Keine Gegner gefunden. Stelle bitte sicher, dass dein Deck korrekt aufgestellt ist"
   },
   "test": {
