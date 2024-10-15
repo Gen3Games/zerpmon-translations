@@ -471,8 +471,8 @@
     "zrp-won": "Gewonnene ZRP",
     "spin-time": "Zeit",
     "daily-zerpbox-reward": "Tägliche ZerpBox Belohnung",
-    "claim": "Beanspruchen",
-    "claimed": "Beansprucht",
+    "claim": "ZerpBox Belohnung abholen",
+    "claimed": "ZerpBox Belohnung erfolgreich abgeholt",
     "no-linked-wallet": "Du hast kein verbundenes Wallet",
     "fp-wallet-not-linked": "Du hast kein verbundenes FuturePass-Wallet",
     "xrpl-wallet-not-linked": "Du hast kein verbundenes XRPL-Wallet"
@@ -683,8 +683,8 @@
     "gym-info": "Gym Info",
     "gym-lose-streak": "Loserstraße",
     "tremble-trigger-msg": "{zerpmonName}  ({typeString})  ist am Zittern 🟥 ({movePercent}%)",
-    "no-opponents-found-deck-invalid": "",
-    "confirm-forfeit": ""
+    "confirm-forfeit": "",
+    "no-opponents-found-deck-invalid": "Keine Gegner gefunden. Stelle bitte sicher, dass dein Deck korrekt aufgestellt ist"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -777,7 +777,7 @@
     "trade-offer-expired": "Dieses Angebot ist leider schon beendet",
     "trade-successful": "Handel erfolgreich abgeschlossen, bitte überprüfe dein Inventar für die erhaltenen Objekte",
     "confirm-offer-accept": "Bist du sicher, dass du das Angebot von {offerCreator} annehmen möchtest?",
-    "trade-items-not-added": ""
+    "trade-items-not-added": "Keine Objekte zum Handeln gefunden. Füge welche hinzu, indem du den + Button drückst"
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -1005,11 +1005,11 @@
     "nft-trainer-is-available": "Dieses NFT ist berechtigt, einen Trainer anzufordern",
     "go-back-to-forge": "Zurück zur Schmiede",
     "check-nft-claim-status": "Prüfe den NFT-Anforderungsstatus",
-    "xblade-claimed": "Mit diesem XBlade-NFT wurde bereits ein Ausrüstungsobjekt angefordert",
+    "xblade-claimed": "Mit diesem XBlade-NFT wurde bereits ein Equipment angefordert",
     "invalid-xblades-selected": "Ungültiges XBlade-NFT ausgewählt",
     "xscape-xblade": "XSCAPE XBLADE",
     "claim-equipment": "Fordern Sie Ausrüstung an",
-    "equipment-claimed": "Sie haben erfolgreich eine Ausrüstung beansprucht!",
+    "equipment-claimed": "Sie haben erfolgreich ein Equipment beansprucht!",
     "select-xblade-nft": "Wählen Sie Xblade NFTs mit 5 oder mehr Punkten",
     "xblade-successfully-claimed": "XBlade erfolgreich beansprucht"
   },
