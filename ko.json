@@ -683,7 +683,8 @@
     "gym-info": "",
     "gym-lose-streak": "",
     "tremble-trigger-msg": "",
-    "no-opponents-found-deck-invalid": ""
+    "no-opponents-found-deck-invalid": "",
+    "confirm-forfeit": ""
   },
   "test": {
     "test": "테스트입니다."

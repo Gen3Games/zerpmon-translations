@@ -683,7 +683,8 @@
     "gym-info": "Gym Info",
     "gym-lose-streak": "Loserstraße",
     "tremble-trigger-msg": "{zerpmonName}  ({typeString})  ist am Zittern 🟥 ({movePercent}%)",
-    "no-opponents-found-deck-invalid": ""
+    "no-opponents-found-deck-invalid": "",
+    "confirm-forfeit": ""
   },
   "test": {
     "test": "Dies ist ein Test"
