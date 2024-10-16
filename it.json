@@ -629,7 +629,13 @@
     "level": "Livello",
     "go-to-zerpbox": "Sono arrivato a ZerpBox",
     "evolve": "Evolvi",
-    "recycle": ""
+    "recycle": "",
+    "xp-gain": "",
+    "xp-waste": "",
+    "current-zerpmon-level": "",
+    "level-after-recycle": "",
+    "fee": "",
+    "require-ascend": ""
   },
   "leaderboard-table": {
     "close": "Vicino",

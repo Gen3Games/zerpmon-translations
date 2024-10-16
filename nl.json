@@ -629,7 +629,13 @@
     "level": "Niveau",
     "go-to-zerpbox": "Ik ben bij ZerpBox geweest",
     "evolve": "Ontwikkelen",
-    "recycle": ""
+    "recycle": "",
+    "xp-gain": "",
+    "xp-waste": "",
+    "current-zerpmon-level": "",
+    "level-after-recycle": "",
+    "fee": "",
+    "require-ascend": ""
   },
   "leaderboard-table": {
     "close": "Dichtbij",

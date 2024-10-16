@@ -515,7 +515,13 @@
     "level": "Niveau",
     "go-to-zerpbox": "Je suis arrivé à ZerpBox",
     "evolve": "Évoluer",
-    "recycle": ""
+    "recycle": "",
+    "xp-gain": "",
+    "xp-waste": "",
+    "current-zerpmon-level": "",
+    "level-after-recycle": "",
+    "fee": "",
+    "require-ascend": ""
   },
   "leaderboard-table": {
     "close": "Fermer",

@@ -629,7 +629,13 @@
     "level": "स्तर",
     "go-to-zerpbox": "ZerpBox पर पहुँच गया",
     "evolve": "विकसित होना",
-    "recycle": ""
+    "recycle": "",
+    "xp-gain": "",
+    "xp-waste": "",
+    "current-zerpmon-level": "",
+    "level-after-recycle": "",
+    "fee": "",
+    "require-ascend": ""
   },
   "leaderboard-table": {
     "close": "बंद करना",

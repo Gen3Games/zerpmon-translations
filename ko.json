@@ -417,7 +417,13 @@
     "level": "수준",
     "go-to-zerpbox": "ZerpBox에 도착했습니다.",
     "evolve": "진화하다",
-    "recycle": ""
+    "recycle": "",
+    "xp-gain": "",
+    "xp-waste": "",
+    "current-zerpmon-level": "",
+    "level-after-recycle": "",
+    "fee": "",
+    "require-ascend": ""
   },
   "safari": {
     "title": "사파리",

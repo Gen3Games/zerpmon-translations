@@ -417,7 +417,13 @@
     "level": "レベル",
     "go-to-zerpbox": "ZerpBoxに行きました",
     "evolve": "進化",
-    "recycle": ""
+    "recycle": "",
+    "xp-gain": "",
+    "xp-waste": "",
+    "current-zerpmon-level": "",
+    "level-after-recycle": "",
+    "fee": "",
+    "require-ascend": ""
   },
   "safari": {
     "title": "サファリ",

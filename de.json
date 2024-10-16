@@ -417,7 +417,13 @@
     "level": "Level",
     "go-to-zerpbox": "Gehe zur ZerpBox",
     "evolve": "Evolve",
-    "recycle": ""
+    "recycle": "",
+    "xp-gain": "",
+    "xp-waste": "",
+    "current-zerpmon-level": "",
+    "level-after-recycle": "",
+    "fee": "",
+    "require-ascend": ""
   },
   "safari": {
     "title": "Safari",

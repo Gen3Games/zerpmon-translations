@@ -417,7 +417,13 @@
     "level": "等级",
     "go-to-zerpbox": "到达ZerpBox",
     "evolve": "发展",
-    "recycle": ""
+    "recycle": "",
+    "xp-gain": "",
+    "xp-waste": "",
+    "current-zerpmon-level": "",
+    "level-after-recycle": "",
+    "fee": "",
+    "require-ascend": ""
   },
   "safari": {
     "title": "Safari探险",
