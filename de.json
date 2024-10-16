@@ -417,13 +417,13 @@
     "level": "Level",
     "go-to-zerpbox": "Gehe zur ZerpBox",
     "evolve": "Evolve",
-    "recycle": "",
-    "xp-gain": "",
-    "xp-waste": "",
-    "current-zerpmon-level": "",
-    "level-after-recycle": "",
-    "fee": "",
-    "require-ascend": ""
+    "recycle": "Recyceln",
+    "xp-gain": "XP Gewinn",
+    "xp-waste": "XP Verlust",
+    "current-zerpmon-level": "Aktuelles Zerpmon-Level",
+    "level-after-recycle": "Zerpmon-Level nach dem Recyceln",
+    "fee": "Gebühr",
+    "require-ascend": "Erfordert das Hochstufen deines Zerpmons"
   },
   "safari": {
     "title": "Safari",
