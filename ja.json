@@ -416,7 +416,8 @@
     "level-30": "レベル30",
     "level": "レベル",
     "go-to-zerpbox": "ZerpBoxに行きました",
-    "evolve": "進化"
+    "evolve": "進化",
+    "recycle": ""
   },
   "safari": {
     "title": "サファリ",

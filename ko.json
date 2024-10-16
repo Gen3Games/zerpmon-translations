@@ -416,7 +416,8 @@
     "level-30": "레벨 30",
     "level": "수준",
     "go-to-zerpbox": "ZerpBox에 도착했습니다.",
-    "evolve": "진화하다"
+    "evolve": "진화하다",
+    "recycle": ""
   },
   "safari": {
     "title": "사파리",

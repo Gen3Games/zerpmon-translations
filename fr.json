@@ -514,7 +514,8 @@
     "level-30": "Niveau 30",
     "level": "Niveau",
     "go-to-zerpbox": "Je suis arrivé à ZerpBox",
-    "evolve": "Évoluer"
+    "evolve": "Évoluer",
+    "recycle": ""
   },
   "leaderboard-table": {
     "close": "Fermer",

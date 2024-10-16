@@ -416,7 +416,8 @@
     "level-30": "Stufe 30",
     "level": "Level",
     "go-to-zerpbox": "Gehe zur ZerpBox",
-    "evolve": "Evolve"
+    "evolve": "Evolve",
+    "recycle": ""
   },
   "safari": {
     "title": "Safari",
