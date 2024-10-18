@@ -767,7 +767,7 @@
     "loan-all-categories": "Alle Kategorien",
     "loan-trainers": "Trainer",
     "loan-zerpmons": "Zerpmons",
-    "loan-equipment": "Ausrüstung",
+    "loan-equipment": "Equipment",
     "loaned-by": "Ausgeliehen von {user}",
     "no-sell-offers": "Für dieses NFT gibt es kein Angebot",
     "loan-payment-transaction-success": "Zahlung für die Bestätigung des Leihangebotes erfolgreich gesendet",
@@ -993,7 +993,7 @@
   },
   "forge": {
     "title": "Schmiede",
-    "forge-equipment": "Geschmiedete Ausrüstung",
+    "forge-equipment": "Geschmiedetes Equipment",
     "empower-your-nfts": "Verstärke deine NFT's",
     "claim-trainer": "Trainer anfordern",
     "select-collection-nft": "Wähle ein {collectionName} NFT",
@@ -1015,7 +1015,7 @@
     "xblade-claimed": "Mit diesem XBlade-NFT wurde bereits ein Equipment angefordert",
     "invalid-xblades-selected": "Ungültiges XBlade-NFT ausgewählt",
     "xscape-xblade": "XSCAPE XBLADE",
-    "claim-equipment": "Fordern Sie Ausrüstung an",
+    "claim-equipment": "Fordern Sie Equipment an",
     "equipment-claimed": "Sie haben erfolgreich ein Equipment beansprucht!",
     "select-xblade-nft": "Wählen Sie Xblade NFTs mit 5 oder mehr Punkten",
     "xblade-successfully-claimed": "XBlade erfolgreich beansprucht"
