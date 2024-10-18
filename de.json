@@ -986,7 +986,7 @@
     "confirm-bid-popup-title": "Gebot für {nftName}",
     "confirm-bid-popup-message": "Bist du sicher, dass du für {nftName} {amount} {currency} bieten möchtest?",
     "bid-not-enough-starting": "Dein Gebot liegt unter dem Startpreis",
-    "zerp-wallet-pending-withdrawal": "Bitte versuche es noch einmal, sobald deine austehende Auszahlungsanfrage abgeschlossen ist",
+    "zerp-wallet-pending-withdrawal": "Bitte versuche es noch einmal, sobald deine ausstehende Auszahlungsanfrage abgeschlossen ist",
     "not-enough-xrp-balance": "Nicht ausreichendes XRP-Guthaben im ZerpWallet",
     "not-enough-zrp-balance": "Nicht ausreichendes ZRP-Guthaben im ZerpWallet",
     "bid-payment-from-zerpwallet": "Die Zahlung für dein Gebot wird über dein ZerpWallet abgewickelt"
