@@ -521,7 +521,10 @@
     "current-zerpmon-level": "",
     "level-after-recycle": "",
     "fee": "",
-    "require-ascend": ""
+    "require-ascend": "",
+    "white-candy-buff-info": "",
+    "gold-candy-buff-info": "",
+    "purple-candy-buff-info": ""
   },
   "leaderboard-table": {
     "close": "Fermer",

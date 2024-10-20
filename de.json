@@ -423,7 +423,10 @@
     "current-zerpmon-level": "Aktuelles Zerpmon-Level",
     "level-after-recycle": "Zerpmon-Level nach dem Recyceln",
     "fee": "Gebühr",
-    "require-ascend": "Erfordert das Hochstufen deines Zerpmons"
+    "require-ascend": "Erfordert das Hochstufen deines Zerpmons",
+    "white-candy-buff-info": "",
+    "gold-candy-buff-info": "",
+    "purple-candy-buff-info": ""
   },
   "safari": {
     "title": "Safari",
