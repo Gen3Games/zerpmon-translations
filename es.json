@@ -426,7 +426,8 @@
     "require-ascend": "",
     "white-candy-buff-info": "",
     "gold-candy-buff-info": "",
-    "purple-candy-buff-info": ""
+    "purple-candy-buff-info": "",
+    "used-lvl-candy": ""
   },
   "safari": {
     "title": "Safari",

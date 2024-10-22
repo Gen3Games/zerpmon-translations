@@ -426,7 +426,8 @@
     "require-ascend": "Require Ascend",
     "white-candy-buff-info": "Increase Zerpmon's White Attack damage by ({percent}%)",
     "gold-candy-buff-info": "Increase Zerpmon's Gold Attack damage by ({percent}%)",
-    "purple-candy-buff-info": "Increase Zerpmon's Purple Ability stars by (1 star)"
+    "purple-candy-buff-info": "Increase Zerpmon's Purple Ability stars by (1 star)",
+    "used-lvl-candy": "You have successfully used {candyName} on {zerpmonName}. It is now level {lvl}!"
   },
   "safari": {
     "title": "Safari",
