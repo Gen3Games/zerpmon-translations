@@ -267,7 +267,8 @@
     "failed-to-fetch-zrp-price": "ZRP 가격을 가져오지 못했습니다. 나중에 다시 시도해 주세요.",
     "half-price-on-first-item-daily": "매일 첫 번째 품목의 절반 가격",
     "evolution-completed": "진화 완료",
-    "ascend": "오르다"
+    "ascend": "오르다",
+    "payment-from-zerpwallet-volatile": ""
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",

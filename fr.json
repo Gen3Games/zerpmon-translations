@@ -888,7 +888,8 @@
     "failed-to-fetch-zrp-price": "Échec de la récupération du prix ZRP, veuillez réessayer plus tard",
     "half-price-on-first-item-daily": "moitié prix sur le premier article par jour",
     "evolution-completed": "Évolution terminée",
-    "ascend": "Monter"
+    "ascend": "Monter",
+    "payment-from-zerpwallet-volatile": ""
   },
   "test": {
     "test": "c'est un test"

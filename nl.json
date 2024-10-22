@@ -1017,7 +1017,8 @@
     "failed-to-fetch-zrp-price": "Kan de ZRP-prijs niet ophalen. Probeer het later opnieuw",
     "half-price-on-first-item-daily": "halve prijs per dag op het eerste artikel",
     "evolution-completed": "Evolutie voltooid",
-    "ascend": "Stijgen"
+    "ascend": "Stijgen",
+    "payment-from-zerpwallet-volatile": ""
   },
   "test": {
     "test": "dit is een test"

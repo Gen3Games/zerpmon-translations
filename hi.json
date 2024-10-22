@@ -1017,7 +1017,8 @@
     "failed-to-fetch-zrp-price": "ZRP मूल्य प्राप्त करने में विफल, कृपया बाद में पुनः प्रयास करें",
     "half-price-on-first-item-daily": "प्रतिदिन पहली वस्तु पर आधी कीमत",
     "evolution-completed": "विकास पूरा हुआ",
-    "ascend": "Ascend"
+    "ascend": "Ascend",
+    "payment-from-zerpwallet-volatile": ""
   },
   "test": {
     "test": "यह टेस्ट है"

@@ -267,7 +267,8 @@
     "failed-to-fetch-zrp-price": "Failed to fetch ZRP price, please try again later",
     "half-price-on-first-item-daily": "half price on first item daily",
     "evolution-completed": "Evolution Completed",
-    "ascend": "Ascend"
+    "ascend": "Ascend",
+    "payment-from-zerpwallet-volatile": "Payment will be taken from your ZerpWallet ({amount}) {finalAmount} (at last checked moment, could change if not accepted for a period of time)"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",

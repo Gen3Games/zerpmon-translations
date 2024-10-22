@@ -267,7 +267,8 @@
     "failed-to-fetch-zrp-price": "ZRP 価格の取得に失敗しました。後でもう一度お試しください。",
     "half-price-on-first-item-daily": "毎日最初の商品が半額",
     "evolution-completed": "進化完了",
-    "ascend": "昇る"
+    "ascend": "昇る",
+    "payment-from-zerpwallet-volatile": ""
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",

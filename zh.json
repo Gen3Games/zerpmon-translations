@@ -267,7 +267,8 @@
     "failed-to-fetch-zrp-price": "获取ZRP价格失败，请稍后重试",
     "half-price-on-first-item-daily": "每日第一件商品半价",
     "evolution-completed": "进化完成",
-    "ascend": "登高"
+    "ascend": "登高",
+    "payment-from-zerpwallet-volatile": ""
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

@@ -267,7 +267,8 @@
     "failed-to-fetch-zrp-price": "Der ZRP Preis konnte nicht ermittelt werden, bitte versuche es später noch einmal",
     "half-price-on-first-item-daily": "Halber Preis für den ersten Artikel täglich",
     "evolution-completed": "Evolution abgeschlossen",
-    "ascend": "Hochstufen"
+    "ascend": "Hochstufen",
+    "payment-from-zerpwallet-volatile": ""
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",
