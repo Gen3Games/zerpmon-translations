@@ -793,7 +793,8 @@
     "claimed": "Réclamé",
     "no-linked-wallet": "",
     "fp-wallet-not-linked": "",
-    "xrpl-wallet-not-linked": ""
+    "xrpl-wallet-not-linked": "",
+    "login-to-claim": ""
   },
   "sidebar": {
     "analytics": "Analytique",

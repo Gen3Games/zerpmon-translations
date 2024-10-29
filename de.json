@@ -487,7 +487,8 @@
     "claimed": "ZerpBox erfolgreich abgeholt",
     "no-linked-wallet": "Du hast kein verbundenes Wallet",
     "fp-wallet-not-linked": "Du hast kein verbundenes FuturePass-Wallet",
-    "xrpl-wallet-not-linked": "Du hast kein verbundenes XRPL-Wallet"
+    "xrpl-wallet-not-linked": "Du hast kein verbundenes XRPL-Wallet",
+    "login-to-claim": ""
   },
   "battle": {
     "title": "Battle Arena",

@@ -914,7 +914,8 @@
     "claimed": "Geclaimd",
     "no-linked-wallet": "",
     "fp-wallet-not-linked": "",
-    "xrpl-wallet-not-linked": ""
+    "xrpl-wallet-not-linked": "",
+    "login-to-claim": ""
   },
   "settings": {
     "gameplay": "Gameplay",

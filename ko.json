@@ -487,7 +487,8 @@
     "claimed": "청구됨",
     "no-linked-wallet": "",
     "fp-wallet-not-linked": "",
-    "xrpl-wallet-not-linked": ""
+    "xrpl-wallet-not-linked": "",
+    "login-to-claim": ""
   },
   "battle": {
     "title": "배틀",
