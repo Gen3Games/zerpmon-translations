@@ -488,7 +488,7 @@
     "no-linked-wallet": "Du hast kein verbundenes Wallet",
     "fp-wallet-not-linked": "Du hast kein verbundenes FuturePass-Wallet",
     "xrpl-wallet-not-linked": "Du hast kein verbundenes XRPL-Wallet",
-    "login-to-claim": ""
+    "login-to-claim": "Zum Abholen einloggen"
   },
   "battle": {
     "title": "Battle Arena",
