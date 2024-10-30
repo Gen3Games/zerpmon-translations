@@ -268,7 +268,7 @@
     "half-price-on-first-item-daily": "Halber Preis für den ersten Artikel täglich",
     "evolution-completed": "Evolution abgeschlossen",
     "ascend": "Hochstufen",
-    "payment-from-zerpwallet-volatile": ""
+    "payment-from-zerpwallet-volatile": "Die Bezahlung erfolgt über dein ZerpWallet ({amount}) {finalAmount} (Stand nach letzter Überprüfung. Kann abweichen, wenn lange nicht aktualisiert)"
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",
@@ -425,10 +425,10 @@
     "level-after-recycle": "Zerpmon-Level nach dem Recyceln",
     "fee": "Gebühr",
     "require-ascend": "Erfordert das Hochstufen deines Zerpmons",
-    "white-candy-buff-info": "",
-    "gold-candy-buff-info": "",
-    "purple-candy-buff-info": "",
-    "used-lvl-candy": ""
+    "white-candy-buff-info": "Erhöht Zerpmon's White Attack Schaden um ({percent}%)",
+    "gold-candy-buff-info": "Erhöht Zerpmon's Gold Attack Schaden um({percent}%)",
+    "purple-candy-buff-info": "Erhöht Zerpmon's Purple Ability Sterne um (1 star)",
+    "used-lvl-candy": "Du hast erfolgreich {candyName} auf {zerpmonName} angewendet. Es hat jetzt Level {lvl}!"
   },
   "safari": {
     "title": "Safari",
