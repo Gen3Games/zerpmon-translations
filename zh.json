@@ -306,7 +306,8 @@
     "custodial-wallet-balance": "托管钱包余额",
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "访问 Kaiju 钱包",
-    "zerpmon-knocked-out": "泽拉普兽被击倒"
+    "zerpmon-knocked-out": "泽拉普兽被击倒",
+    "confirm-use-potion": ""
   },
   "leaderboard": {
     "title": "排行榜",
@@ -1066,7 +1067,8 @@
     "week-damage": "本周的伤害",
     "world-boss-total-damage": "所有时间伤害",
     "hp-remaining": "剩余生命值",
-    "zrp-share": "中荣股份"
+    "zrp-share": "中荣股份",
+    "battle": ""
   },
   "nft-details-popup": {
     "level": "等级"

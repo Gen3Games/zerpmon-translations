@@ -306,7 +306,8 @@
     "custodial-wallet-balance": "Custodial wallet balance",
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Visit Kaiju Wallet",
-    "zerpmon-knocked-out": "Zerpmon Knocked Out"
+    "zerpmon-knocked-out": "Zerpmon Knocked Out",
+    "confirm-use-potion": "Are you sure you want to use a {inventoryItem} ?"
   },
   "leaderboard": {
     "title": "Leaderboard",
@@ -1066,7 +1067,8 @@
     "week-damage": "This Week's Damage",
     "world-boss-total-damage": "All Time Damage",
     "hp-remaining": "HP Remaining",
-    "zrp-share": "ZRP Share"
+    "zrp-share": "ZRP Share",
+    "battle": "Battle"
   },
   "nft-details-popup": {
     "level": "Level"

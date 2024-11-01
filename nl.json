@@ -581,7 +581,8 @@
     "custodial-wallet-balance": "Bewaard portemonnee-saldo",
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Bezoek Kaiju-portemonnee",
-    "zerpmon-knocked-out": "Zerpmon is uitgeschakeld"
+    "zerpmon-knocked-out": "Zerpmon is uitgeschakeld",
+    "confirm-use-potion": ""
   },
   "inventory": {
     "candy-active": "Zerpmon heeft al een soortgelijk soort snoep actief",
@@ -1066,7 +1067,8 @@
     "week-damage": "De schade van deze week",
     "world-boss-total-damage": "Schade van alle tijden",
     "hp-remaining": "HP resterend",
-    "zrp-share": "ZRP-aandeel"
+    "zrp-share": "ZRP-aandeel",
+    "battle": ""
   },
   "nft-details-popup": {
     "level": "Niveau"

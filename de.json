@@ -306,7 +306,8 @@
     "custodial-wallet-balance": "Kontostand des Hauptwallets",
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Besuche das Kaiju-Wallet",
-    "zerpmon-knocked-out": "Zerpmon ausgeschaltet"
+    "zerpmon-knocked-out": "Zerpmon ausgeschaltet",
+    "confirm-use-potion": ""
   },
   "leaderboard": {
     "title": "Bestenliste",
@@ -1066,7 +1067,8 @@
     "week-damage": "Schaden dieser Woche",
     "world-boss-total-damage": "Allzeitschaden",
     "hp-remaining": "Verbleibende HP",
-    "zrp-share": "ZRP-Anteil"
+    "zrp-share": "ZRP-Anteil",
+    "battle": ""
   },
   "nft-details-popup": {
     "level": "Level"

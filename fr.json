@@ -467,7 +467,8 @@
     "custodial-wallet-balance": "Solde du portefeuille de garde",
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Visitez le portefeuille Kaiju",
-    "zerpmon-knocked-out": "Zerpmon éliminé"
+    "zerpmon-knocked-out": "Zerpmon éliminé",
+    "confirm-use-potion": ""
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",
@@ -1066,7 +1067,8 @@
     "week-damage": "Les dégâts de cette semaine",
     "world-boss-total-damage": "Dégâts de tous les temps",
     "hp-remaining": "PV restants",
-    "zrp-share": "Partager ZRP"
+    "zrp-share": "Partager ZRP",
+    "battle": ""
   },
   "nft-details-popup": {
     "level": "Niveau"

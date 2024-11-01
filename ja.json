@@ -306,7 +306,8 @@
     "custodial-wallet-balance": "保管ウォレット残高",
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Kaiju ウォレットにアクセス",
-    "zerpmon-knocked-out": "ゼルモンがノックアウトされました"
+    "zerpmon-knocked-out": "ゼルモンがノックアウトされました",
+    "confirm-use-potion": ""
   },
   "leaderboard": {
     "title": "リーダーボード",
@@ -1066,7 +1067,8 @@
     "week-damage": "今週のダメージ",
     "world-boss": "ワールドボス",
     "world-boss-total-damage": "オールタイムダメージ",
-    "zrp-share": "ZRPシェア"
+    "zrp-share": "ZRPシェア",
+    "battle": ""
   },
   "nft-details-popup": {
     "level": "レベル"

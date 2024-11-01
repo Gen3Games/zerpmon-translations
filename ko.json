@@ -306,7 +306,8 @@
     "custodial-wallet-balance": "보관 지갑 잔액",
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "카이주 지갑 방문하기",
-    "zerpmon-knocked-out": "저르몬이 쓰러졌다"
+    "zerpmon-knocked-out": "저르몬이 쓰러졌다",
+    "confirm-use-potion": ""
   },
   "leaderboard": {
     "title": "리더보드",
@@ -1066,7 +1067,8 @@
     "week-damage": "이번주의 피해",
     "world-boss": "월드보스",
     "world-boss-total-damage": "올타임 데미지",
-    "zrp-share": "ZRP 공유"
+    "zrp-share": "ZRP 공유",
+    "battle": ""
   },
   "nft-details-popup": {
     "level": "수준"

@@ -581,7 +581,8 @@
     "custodial-wallet-balance": "कस्टोडियल वॉलेट बैलेंस",
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "काइजू वॉलेट पर जाएँ",
-    "zerpmon-knocked-out": "ज़र्पमोन नॉक आउट"
+    "zerpmon-knocked-out": "ज़र्पमोन नॉक आउट",
+    "confirm-use-potion": ""
   },
   "inventory": {
     "candy-active": "ज़र्पमोन के पास पहले से ही इसी प्रकार की कैंडी सक्रिय है",
@@ -1055,7 +1056,8 @@
     "week-damage": "इस सप्ताह का नुकसान",
     "world-boss": "विश्व बॉस",
     "world-boss-total-damage": "सर्वकालिक क्षति",
-    "zrp-share": "जेआरपी शेयर"
+    "zrp-share": "जेआरपी शेयर",
+    "battle": ""
   },
   "zerpmon-types-damage-table": {
     "attacking": "हमला",

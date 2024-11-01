@@ -306,7 +306,8 @@
     "custodial-wallet-balance": "Saldo de billetera custodiada",
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Visita la billetera Kaiju",
-    "zerpmon-knocked-out": "Zerpmon noqueado"
+    "zerpmon-knocked-out": "Zerpmon noqueado",
+    "confirm-use-potion": ""
   },
   "leaderboard": {
     "title": "Clasificación",
@@ -1066,7 +1067,8 @@
     "week-damage": "El daño de esta semana",
     "world-boss-total-damage": "Daño de todos los tiempos",
     "hp-remaining": "HP restantes",
-    "zrp-share": "Compartir ZRP"
+    "zrp-share": "Compartir ZRP",
+    "battle": ""
   },
   "nft-details-popup": {
     "level": "Nivel"

@@ -581,7 +581,8 @@
     "custodial-wallet-balance": "Saldo del portafoglio custodiale",
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Visita il Portafoglio Kaiju",
-    "zerpmon-knocked-out": "Zerpmon messo KO"
+    "zerpmon-knocked-out": "Zerpmon messo KO",
+    "confirm-use-potion": ""
   },
   "inventory": {
     "candy-active": "Zerpmon ha già attivo un tipo di caramella simile",
@@ -1055,7 +1056,8 @@
     "week-damage": "I danni di questa settimana",
     "world-boss": "Boss del mondo",
     "world-boss-total-damage": "Danni di tutti i tempi",
-    "zrp-share": "Condivisione ZRP"
+    "zrp-share": "Condivisione ZRP",
+    "battle": ""
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaccare",
