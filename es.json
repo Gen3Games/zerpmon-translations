@@ -19,7 +19,9 @@
     "zerpmon": "Zerpmon",
     "equipment": "Equipo",
     "trainer": "Entrenadores",
-    "users": "Usuarios"
+    "users": "Usuarios",
+    "sign-out-success": "Has cerrado sesión",
+    "sign-out": "Desconectar"
   },
   "sidebar": {
     "home": "Inicio",
@@ -101,7 +103,9 @@
     "unlink-wallet-error": "No se pudo desvincular la billetera",
     "wallets": "Carteras",
     "link-another-wallet": "Vincular otra billetera",
-    "unlink-wallet-futurepass-warning": "Esto eliminará las billeteras vinculadas a FuturePass y EOA."
+    "unlink-wallet-futurepass-warning": "Esto eliminará las billeteras vinculadas a FuturePass y EOA.",
+    "profile": "Perfil",
+    "sign-out": "Desconectar"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",

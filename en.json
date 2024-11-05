@@ -19,7 +19,9 @@
     "zerpmon": "Zerpmon",
     "equipment": "Equipment",
     "trainer": "Trainers",
-    "users": "Users"
+    "users": "Users",
+    "sign-out-success": "You have signed out",
+    "sign-out": "Sign Out"
   },
   "sidebar": {
     "home": "Home",
@@ -101,7 +103,9 @@
     "unlink-wallet-error": "Could not unlink wallet",
     "wallets": "Wallets",
     "link-another-wallet": "Link Another Wallet",
-    "unlink-wallet-futurepass-warning": "This will remove both FuturePass and EOA linked wallets"
+    "unlink-wallet-futurepass-warning": "This will remove both FuturePass and EOA linked wallets",
+    "profile": "Profile",
+    "sign-out": "Sign Out"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

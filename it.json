@@ -37,7 +37,9 @@
     "zerpmon": "Zerpmon",
     "equipment": "Attrezzatura",
     "trainer": "Formatori",
-    "users": "Utenti"
+    "users": "Utenti",
+    "sign-out-success": "Ti sei disconnesso",
+    "sign-out": "Disconnessione"
   },
   "auctions": {
     "auction-ended": "L'asta per questo NFT è terminata",
@@ -1047,7 +1049,9 @@
     "unlink-wallet-error": "Impossibile scollegare il portafoglio",
     "wallets": "Portafogli",
     "link-another-wallet": "Collega un altro portafoglio",
-    "unlink-wallet-futurepass-warning": "Ciò rimuoverà sia i portafogli collegati FuturePass che quelli EOA"
+    "unlink-wallet-futurepass-warning": "Ciò rimuoverà sia i portafogli collegati FuturePass che quelli EOA",
+    "profile": "Profilo",
+    "sign-out": "Disconnessione"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",

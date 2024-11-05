@@ -37,7 +37,9 @@
     "zerpmon": "Zerpmon",
     "equipment": "Équipement",
     "trainer": "Formateurs",
-    "users": "Utilisateurs"
+    "users": "Utilisateurs",
+    "sign-out-success": "Vous vous êtes déconnecté",
+    "sign-out": "Se déconnecter"
   },
   "battle": {
     "battle-failed": "La bataille a échoué",
@@ -918,7 +920,9 @@
     "unlink-wallet-error": "Impossible de dissocier le portefeuille",
     "wallets": "Portefeuilles",
     "link-another-wallet": "Lier un autre portefeuille",
-    "unlink-wallet-futurepass-warning": "Cela supprimera les portefeuilles liés FuturePass et EOA."
+    "unlink-wallet-futurepass-warning": "Cela supprimera les portefeuilles liés FuturePass et EOA.",
+    "profile": "Profil",
+    "sign-out": "Se déconnecter"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

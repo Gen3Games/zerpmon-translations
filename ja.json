@@ -19,7 +19,9 @@
     "zerpmon": "ゼルモン",
     "equipment": "装置",
     "trainer": "トレーナー",
-    "users": "ユーザー"
+    "users": "ユーザー",
+    "sign-out-success": "サインアウトしました",
+    "sign-out": "サインアウト"
   },
   "sidebar": {
     "home": "ホーム",
@@ -101,7 +103,9 @@
     "unlink-wallet-error": "ウォレットのリンクを解除できませんでした",
     "wallets": "財布",
     "link-another-wallet": "別のウォレットをリンクする",
-    "unlink-wallet-futurepass-warning": "これにより、FuturePass と EOA にリンクされたウォレットの両方が削除されます"
+    "unlink-wallet-futurepass-warning": "これにより、FuturePass と EOA にリンクされたウォレットの両方が削除されます",
+    "profile": "プロフィール",
+    "sign-out": "サインアウト"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",

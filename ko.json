@@ -19,7 +19,9 @@
     "zerpmon": "제르몬",
     "equipment": "장비",
     "trainer": "트레이너",
-    "users": "사용자"
+    "users": "사용자",
+    "sign-out-success": "로그아웃했습니다.",
+    "sign-out": "로그아웃"
   },
   "sidebar": {
     "home": "홈",
@@ -101,7 +103,9 @@
     "unlink-wallet-error": "지갑 연결을 해제할 수 없습니다.",
     "wallets": "지갑",
     "link-another-wallet": "다른 지갑 연결",
-    "unlink-wallet-futurepass-warning": "이렇게 하면 FuturePass와 EOA 연결 지갑이 모두 제거됩니다."
+    "unlink-wallet-futurepass-warning": "이렇게 하면 FuturePass와 EOA 연결 지갑이 모두 제거됩니다.",
+    "profile": "윤곽",
+    "sign-out": "로그아웃"
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",

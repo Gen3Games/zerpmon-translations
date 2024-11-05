@@ -246,7 +246,9 @@
     "zerpmon": "ज़र्पमोन",
     "equipment": "उपकरण",
     "trainer": "प्रशिक्षकों",
-    "users": "उपयोगकर्ताओं"
+    "users": "उपयोगकर्ताओं",
+    "sign-out-success": "आपने साइन आउट कर दिया है",
+    "sign-out": "साइन आउट"
   },
   "auctions": {
     "auction-ended": "इस एनएफटी की नीलामी समाप्त हो गई है",
@@ -1047,7 +1049,9 @@
     "unlink-wallet-error": "वॉलेट को अनलिंक नहीं किया जा सका",
     "wallets": "पर्स",
     "link-another-wallet": "किसी अन्य वॉलेट को लिंक करें",
-    "unlink-wallet-futurepass-warning": "यह FuturePass और EOA लिंक्ड वॉलेट दोनों को हटा देगा"
+    "unlink-wallet-futurepass-warning": "यह FuturePass और EOA लिंक्ड वॉलेट दोनों को हटा देगा",
+    "profile": "प्रोफ़ाइल",
+    "sign-out": "साइन आउट"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",

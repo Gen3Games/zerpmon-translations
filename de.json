@@ -19,7 +19,9 @@
     "zerpmon": "Zerpmon",
     "equipment": "Eqwuipment",
     "trainer": "Trainer",
-    "users": "Benutzer"
+    "users": "Benutzer",
+    "sign-out-success": "Sie haben sich abgemeldet",
+    "sign-out": "Abmelden"
   },
   "sidebar": {
     "home": "Startseite",
@@ -101,7 +103,9 @@
     "unlink-wallet-error": "Die Verknüpfung mit der Wallet konnte nicht aufgehoben werden",
     "wallets": "Wallets",
     "link-another-wallet": "Verknüpfe eine andere Wallet",
-    "unlink-wallet-futurepass-warning": "Dadurch werden sowohl mit FuturePass als auch mit EOA verknüpfte Wallets entfernt"
+    "unlink-wallet-futurepass-warning": "Dadurch werden sowohl mit FuturePass als auch mit EOA verknüpfte Wallets entfernt",
+    "profile": "Profil",
+    "sign-out": "Abmelden"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",

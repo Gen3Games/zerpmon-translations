@@ -37,7 +37,9 @@
     "zerpmon": "Zerpmon",
     "equipment": "Apparatuur",
     "trainer": "Sneakers",
-    "users": "Gebruikers"
+    "users": "Gebruikers",
+    "sign-out-success": "Je bent uitgelogd",
+    "sign-out": "Uitloggen"
   },
   "auctions": {
     "auction-ended": "De veiling voor deze NFT is afgelopen",
@@ -1047,7 +1049,9 @@
     "unlink-wallet-error": "Kan portemonnee niet ontkoppelen",
     "wallets": "Portefeuilles",
     "link-another-wallet": "Koppel een andere portemonnee",
-    "unlink-wallet-futurepass-warning": "Hiermee worden zowel FuturePass- als EOA-gekoppelde portemonnees verwijderd"
+    "unlink-wallet-futurepass-warning": "Hiermee worden zowel FuturePass- als EOA-gekoppelde portemonnees verwijderd",
+    "profile": "Profiel",
+    "sign-out": "Uitloggen"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",
