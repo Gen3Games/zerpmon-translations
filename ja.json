@@ -79,7 +79,9 @@
     "xumm-link-wallet-success": "Xaman 経由でウォレットが正常にリンクされました。",
     "crossmark-link-success": "Crossmark 経由でウォレットが正常にリンクされました",
     "sign-in": "サインイン",
-    "link-wallet": "リンクウォレット"
+    "link-wallet": "リンクウォレット",
+    "connect-xrpl": "XRPLウォレットを接続する",
+    "connect-wallet": "ウォレットを接続する"
   },
   "user-profile": {
     "trainers": "トレーナー",

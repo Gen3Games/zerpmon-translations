@@ -79,7 +79,9 @@
     "xumm-link-wallet-success": "您已通过 Xaman 成功链接您的钱包",
     "crossmark-link-success": "您已成功通过 Crossmark 链接您的钱包",
     "sign-in": "登入",
-    "link-wallet": "链接钱包"
+    "link-wallet": "链接钱包",
+    "connect-xrpl": "连接XRPL钱包",
+    "connect-wallet": "连接钱包"
   },
   "user-profile": {
     "trainers": "训练师",

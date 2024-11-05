@@ -79,7 +79,9 @@
     "xumm-link-wallet-success": "You have successfully linked your wallet via Xaman",
     "crossmark-link-success": "You have successfully linked your wallet via Crossmark",
     "sign-in": "Sign In",
-    "link-wallet": "Link Wallet"
+    "link-wallet": "Link Wallet",
+    "connect-xrpl": "Connect XRPL Wallet",
+    "connect-wallet": "Connect Wallet"
   },
   "user-profile": {
     "trainers": "Trainers",

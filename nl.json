@@ -984,7 +984,9 @@
     "xumm-link-wallet-success": "U heeft uw portemonnee succesvol gekoppeld via Xaman",
     "crossmark-link-success": "U heeft uw portemonnee succesvol gekoppeld via Crossmark",
     "sign-in": "Inloggen",
-    "link-wallet": "Portemonnee koppelen"
+    "link-wallet": "Portemonnee koppelen",
+    "connect-xrpl": "Sluit XRPL Wallet aan",
+    "connect-wallet": "Verbind portemonnee"
   },
   "store": {
     "ascend-payment-tx-confirmed": "Je betalingstransactie is succesvol verlopen en {zerpmonName} is gestegen.",

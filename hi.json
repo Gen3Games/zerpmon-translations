@@ -984,7 +984,9 @@
     "xumm-link-wallet-success": "आपने Xaman के माध्यम से अपना वॉलेट सफलतापूर्वक लिंक कर लिया है",
     "crossmark-link-success": "आपने अपने वॉलेट को क्रॉसमार्क के माध्यम से सफलतापूर्वक लिंक कर लिया है",
     "sign-in": "दाखिल करना",
-    "link-wallet": "लिंक वॉलेट"
+    "link-wallet": "लिंक वॉलेट",
+    "connect-xrpl": "एक्सआरपीएल वॉलेट कनेक्ट करें",
+    "connect-wallet": "वॉलेट कनेक्ट करें"
   },
   "store": {
     "ascend-payment-tx-confirmed": "आपका भुगतान लेनदेन सफल रहा और {zerpmonName} चढ़ गया है।",

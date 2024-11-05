@@ -855,7 +855,9 @@
     "xumm-link-wallet-success": "Vous avez lié avec succès votre portefeuille via Xaman",
     "crossmark-link-success": "Vous avez lié avec succès votre portefeuille via Crossmark",
     "sign-in": "Se connecter",
-    "link-wallet": "Lien Portefeuille"
+    "link-wallet": "Lien Portefeuille",
+    "connect-xrpl": "Connecter le portefeuille XRPL",
+    "connect-wallet": "Connecter le portefeuille"
   },
   "store": {
     "buy-now": "Acheter maintenant",

@@ -79,7 +79,9 @@
     "xumm-link-wallet-success": "Xaman을 통해 지갑을 성공적으로 연결했습니다.",
     "crossmark-link-success": "Crossmark를 통해 지갑을 성공적으로 연결했습니다.",
     "sign-in": "로그인",
-    "link-wallet": "지갑 연결"
+    "link-wallet": "지갑 연결",
+    "connect-xrpl": "XRPL 지갑 연결",
+    "connect-wallet": "지갑 연결"
   },
   "user-profile": {
     "trainers": "트레이너",

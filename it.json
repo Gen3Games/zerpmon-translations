@@ -984,7 +984,9 @@
     "xumm-link-wallet-success": "Hai collegato con successo il tuo portafoglio tramite Xaman",
     "crossmark-link-success": "Hai collegato con successo il tuo portafoglio tramite Crossmark",
     "sign-in": "Registrazione",
-    "link-wallet": "Portafoglio di collegamento"
+    "link-wallet": "Portafoglio di collegamento",
+    "connect-xrpl": "Connetti il ​​portafoglio XRPL",
+    "connect-wallet": "Connetti il ​​portafoglio"
   },
   "store": {
     "ascend-payment-tx-confirmed": "La tua transazione di pagamento è andata a buon fine e {zerpmonName} è stato elevato.",
