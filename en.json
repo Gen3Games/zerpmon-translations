@@ -109,7 +109,9 @@
     "profile": "Profile",
     "sign-out": "Sign Out",
     "connect-xrpl": "Connect XRPL Wallet",
-    "connect-futurepass": "Connect FuturePass Wallet"
+    "connect-futurepass": "Connect FuturePass Wallet",
+    "futurepass-copied": "FuturePass address copied",
+    "xrpl-address-copied": "XRPL address copied"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

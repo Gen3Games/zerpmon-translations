@@ -1055,7 +1055,9 @@
     "profile": "Profilo",
     "sign-out": "Disconnessione",
     "connect-xrpl": "Connetti il ​​portafoglio XRPL",
-    "connect-futurepass": "Connetti il ​​portafoglio FuturePass"
+    "connect-futurepass": "Connetti il ​​portafoglio FuturePass",
+    "futurepass-copied": "Indirizzo FuturePass copiato",
+    "xrpl-address-copied": "Indirizzo XRPL copiato"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",

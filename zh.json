@@ -109,7 +109,9 @@
     "profile": "轮廓",
     "sign-out": "登出",
     "connect-xrpl": "连接XRPL钱包",
-    "connect-futurepass": "连接 FuturePass 钱包"
+    "connect-futurepass": "连接 FuturePass 钱包",
+    "futurepass-copied": "FuturePass 地址已复制",
+    "xrpl-address-copied": "已复制 XRPL 地址"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",

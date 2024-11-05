@@ -109,7 +109,9 @@
     "profile": "プロフィール",
     "sign-out": "サインアウト",
     "connect-xrpl": "XRPLウォレットを接続する",
-    "connect-futurepass": "FuturePass ウォレットを接続する"
+    "connect-futurepass": "FuturePass ウォレットを接続する",
+    "futurepass-copied": "FuturePass アドレスがコピーされました",
+    "xrpl-address-copied": "XRPLアドレスがコピーされました"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",

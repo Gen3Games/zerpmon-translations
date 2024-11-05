@@ -109,7 +109,9 @@
     "profile": "Perfil",
     "sign-out": "Desconectar",
     "connect-xrpl": "Conecte la billetera XRPL",
-    "connect-futurepass": "Conecte la billetera FuturePass"
+    "connect-futurepass": "Conecte la billetera FuturePass",
+    "futurepass-copied": "Dirección FuturePass copiada",
+    "xrpl-address-copied": "Dirección XRPL copiada"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",

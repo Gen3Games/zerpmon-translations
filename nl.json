@@ -1055,7 +1055,9 @@
     "profile": "Profiel",
     "sign-out": "Uitloggen",
     "connect-xrpl": "Sluit XRPL Wallet aan",
-    "connect-futurepass": "Sluit FuturePass-portemonnee aan"
+    "connect-futurepass": "Sluit FuturePass-portemonnee aan",
+    "futurepass-copied": "FuturePass-adres gekopieerd",
+    "xrpl-address-copied": "XRPL-adres gekopieerd"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",
