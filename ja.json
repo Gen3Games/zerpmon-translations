@@ -105,7 +105,9 @@
     "link-another-wallet": "別のウォレットをリンクする",
     "unlink-wallet-futurepass-warning": "これにより、FuturePass と EOA にリンクされたウォレットの両方が削除されます",
     "profile": "プロフィール",
-    "sign-out": "サインアウト"
+    "sign-out": "サインアウト",
+    "connect-xrpl": "XRPLウォレットを接続する",
+    "connect-futurepass": "FuturePass ウォレットを接続する"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",

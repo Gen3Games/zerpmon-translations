@@ -105,7 +105,9 @@
     "link-another-wallet": "다른 지갑 연결",
     "unlink-wallet-futurepass-warning": "이렇게 하면 FuturePass와 EOA 연결 지갑이 모두 제거됩니다.",
     "profile": "윤곽",
-    "sign-out": "로그아웃"
+    "sign-out": "로그아웃",
+    "connect-xrpl": "XRPL 지갑 연결",
+    "connect-futurepass": "FuturePass 지갑 연결"
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",

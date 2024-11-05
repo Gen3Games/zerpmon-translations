@@ -922,7 +922,9 @@
     "link-another-wallet": "Lier un autre portefeuille",
     "unlink-wallet-futurepass-warning": "Cela supprimera les portefeuilles liés FuturePass et EOA.",
     "profile": "Profil",
-    "sign-out": "Se déconnecter"
+    "sign-out": "Se déconnecter",
+    "connect-xrpl": "Connecter le portefeuille XRPL",
+    "connect-futurepass": "Connecter le portefeuille FuturePass"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

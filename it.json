@@ -1051,7 +1051,9 @@
     "link-another-wallet": "Collega un altro portafoglio",
     "unlink-wallet-futurepass-warning": "Ciò rimuoverà sia i portafogli collegati FuturePass che quelli EOA",
     "profile": "Profilo",
-    "sign-out": "Disconnessione"
+    "sign-out": "Disconnessione",
+    "connect-xrpl": "Connetti il ​​portafoglio XRPL",
+    "connect-futurepass": "Connetti il ​​portafoglio FuturePass"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",

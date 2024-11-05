@@ -105,7 +105,9 @@
     "link-another-wallet": "链接另一个钱包",
     "unlink-wallet-futurepass-warning": "这将删除 FuturePass 和 EOA 链接的钱包",
     "profile": "轮廓",
-    "sign-out": "登出"
+    "sign-out": "登出",
+    "connect-xrpl": "连接XRPL钱包",
+    "connect-futurepass": "连接 FuturePass 钱包"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",

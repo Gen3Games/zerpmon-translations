@@ -1051,7 +1051,9 @@
     "link-another-wallet": "किसी अन्य वॉलेट को लिंक करें",
     "unlink-wallet-futurepass-warning": "यह FuturePass और EOA लिंक्ड वॉलेट दोनों को हटा देगा",
     "profile": "प्रोफ़ाइल",
-    "sign-out": "साइन आउट"
+    "sign-out": "साइन आउट",
+    "connect-xrpl": "एक्सआरपीएल वॉलेट कनेक्ट करें",
+    "connect-futurepass": "फ़्यूचरपास वॉलेट कनेक्ट करें"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",

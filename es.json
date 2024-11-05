@@ -105,7 +105,9 @@
     "link-another-wallet": "Vincular otra billetera",
     "unlink-wallet-futurepass-warning": "Esto eliminará las billeteras vinculadas a FuturePass y EOA.",
     "profile": "Perfil",
-    "sign-out": "Desconectar"
+    "sign-out": "Desconectar",
+    "connect-xrpl": "Conecte la billetera XRPL",
+    "connect-futurepass": "Conecte la billetera FuturePass"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",

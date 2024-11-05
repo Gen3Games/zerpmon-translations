@@ -105,7 +105,9 @@
     "link-another-wallet": "Link Another Wallet",
     "unlink-wallet-futurepass-warning": "This will remove both FuturePass and EOA linked wallets",
     "profile": "Profile",
-    "sign-out": "Sign Out"
+    "sign-out": "Sign Out",
+    "connect-xrpl": "Connect XRPL Wallet",
+    "connect-futurepass": "Connect FuturePass Wallet"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

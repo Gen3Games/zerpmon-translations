@@ -1051,7 +1051,9 @@
     "link-another-wallet": "Koppel een andere portemonnee",
     "unlink-wallet-futurepass-warning": "Hiermee worden zowel FuturePass- als EOA-gekoppelde portemonnees verwijderd",
     "profile": "Profiel",
-    "sign-out": "Uitloggen"
+    "sign-out": "Uitloggen",
+    "connect-xrpl": "Sluit XRPL Wallet aan",
+    "connect-futurepass": "Sluit FuturePass-portemonnee aan"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",
