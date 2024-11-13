@@ -801,7 +801,13 @@
     "trade-offer-expired": "Dieses Angebot ist leider schon beendet",
     "trade-successful": "Handel erfolgreich abgeschlossen, bitte überprüfe dein Inventar für die erhaltenen Objekte",
     "confirm-offer-accept": "Bist du sicher, dass du das Angebot von {offerCreator} annehmen möchtest?",
-    "trade-items-not-added": "Keine Objekte zum Handeln gefunden. Füge welche hinzu, indem du den + Button drückst"
+    "trade-items-not-added": "Keine Objekte zum Handeln gefunden. Füge welche hinzu, indem du den + Button drückst",
+    "xrpcafe-collections": "",
+    "description": "",
+    "xrp-cafe": "",
+    "tradeverse": "",
+    "tradeverse-collections": "",
+    "description-tradeverse": ""
   },
   "manage-listing": {
     "title": "Meine NFT's",

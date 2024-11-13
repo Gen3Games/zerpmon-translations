@@ -801,7 +801,13 @@
     "trade-offer-expired": "Sorry, this offer has already expired",
     "trade-successful": "Successfully completed the trade, please check your inventory for the received items",
     "confirm-offer-accept": "Are you sure you want to accept this offer from {offerCreator} ?",
-    "trade-items-not-added": "No trade items provided, add them by pressing the + button"
+    "trade-items-not-added": "No trade items provided, add them by pressing the + button",
+    "xrpcafe-collections": "XRP Cafe Collections",
+    "description": "Explore the different collections available in XRP Cafe",
+    "xrp-cafe": "XRP Cafe",
+    "tradeverse": "Tradeverse",
+    "tradeverse-collections": "Tradeverse Collections",
+    "description-tradeverse": "Explore the different collections available in Tradeverse"
   },
   "manage-listing": {
     "title": "My NFTs",

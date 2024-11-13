@@ -801,7 +801,13 @@
     "trade-offer-expired": "",
     "trade-successful": "",
     "confirm-offer-accept": "",
-    "trade-items-not-added": ""
+    "trade-items-not-added": "",
+    "xrpcafe-collections": "",
+    "description": "",
+    "xrp-cafe": "",
+    "tradeverse": "",
+    "tradeverse-collections": "",
+    "description-tradeverse": ""
   },
   "manage-listing": {
     "title": "私のNFT",
