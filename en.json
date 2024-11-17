@@ -1254,7 +1254,7 @@
     "x-address-copied": "X-Address copied to clipboard",
     "deposit": "Deposit",
     "deposit-funds": "Deposit Funds",
-    "deposit-funds-description": "Send your XRP or ZRP to either classic or X-Address.",
+    "deposit-funds-description": "Send your XRP or ZRP to either classic or X-Address. Both address formats are the same destination address.",
     "withdraw": "Withdraw",
     "withdraw-funds": "Withdraw Funds",
     "available-to-withdraw": "Available to withdraw",
@@ -1320,6 +1320,11 @@
     "from-amount": "From  amount",
     "to-amount": "To amount",
     "cross-chain-withdraw-note": "Cross-chain transaction processing could take several minutes.",
-    "withdrawals-disabled": "ZerpWallet withdrawals have been disabled, please open a ticket in our official discord"
+    "withdrawals-disabled": "ZerpWallet withdrawals have been disabled, please open a ticket in our official discord",
+    "deposit-funds-description-trn": "Fill in the form below to deposit funds to your account",
+    "futurepass-not-connected": "Your FuturePass is not connected. Please connect your FuturePass to deposit funds.",
+    "trn-not-connected": "The Root Network API is either not connected or not yet ready",
+    "invalid-amount-deposit": "Invalid deposit amount. The minimum deposit amount is 0.001 XRP/ZRP.",
+    "bridge-notice": "Depositing funds from The Root Network to ZerpWallet uses a bridge. Bridging takes time and incurs a fee."
   }
 }

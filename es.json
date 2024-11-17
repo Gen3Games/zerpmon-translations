@@ -1254,7 +1254,7 @@
     "x-address-copied": "X-Address copiada al portapapeles",
     "deposit": "Depósito",
     "deposit-funds": "Fondos de depósito",
-    "deposit-funds-description": "Envíe su XRP o ZRP a Classic o X-Address.",
+    "deposit-funds-description": "Envíe su XRP o ZRP a Classic o X-Address. Ambos formatos de dirección son la misma dirección de destino.",
     "withdraw": "Retirar",
     "withdraw-funds": "Retirar fondos",
     "available-to-withdraw": "Disponible para retirar",
@@ -1320,6 +1320,11 @@
     "from-amount": "De cantidad",
     "to-amount": "a cantidad",
     "cross-chain-withdraw-note": "",
-    "withdrawals-disabled": ""
+    "withdrawals-disabled": "",
+    "deposit-funds-description-trn": "Complete el siguiente formulario para depositar fondos en su cuenta",
+    "futurepass-not-connected": "Tu FuturePass no está conectado. \nConecte su FuturePass para depositar fondos.",
+    "trn-not-connected": "La API de Root Network no está conectada o aún no está lista",
+    "invalid-amount-deposit": "Monto de depósito no válido. El monto mínimo de depósito es 0,001 XRP/ZRP.",
+    "bridge-notice": "El depósito de fondos de The Root Network a ZerpWallet utiliza un puente. El puente lleva tiempo e incurre en una tarifa."
   }
 }

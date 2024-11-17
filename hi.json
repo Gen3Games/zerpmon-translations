@@ -1254,7 +1254,7 @@
     "x-address-copied": "एक्स-एड्रेस क्लिपबोर्ड पर कॉपी किया गया",
     "deposit": "जमा",
     "deposit-funds": "निधि जमा करें",
-    "deposit-funds-description": "अपना एक्सआरपी या जेडआरपी क्लासिक या एक्स-पते पर भेजें।",
+    "deposit-funds-description": "अपना एक्सआरपी या जेडआरपी क्लासिक या एक्स-पते पर भेजें। दोनों पता प्रारूप एक ही गंतव्य पता हैं।",
     "withdraw": "निकालना",
     "withdraw-funds": "पैसे निकालने",
     "available-to-withdraw": "वापस लेने के लिए उपलब्ध है",
@@ -1320,6 +1320,11 @@
     "from-amount": "राशि से",
     "to-amount": "राशि के लिए",
     "cross-chain-withdraw-note": "",
-    "withdrawals-disabled": ""
+    "withdrawals-disabled": "",
+    "deposit-funds-description-trn": "अपने खाते में धनराशि जमा करने के लिए नीचे दिया गया फॉर्म भरें",
+    "futurepass-not-connected": "आपका FuturePass कनेक्ट नहीं है. \nकृपया धनराशि जमा करने के लिए अपना FuturePass कनेक्ट करें।",
+    "trn-not-connected": "रूट नेटवर्क एपीआई या तो कनेक्ट नहीं है या अभी तक तैयार नहीं है",
+    "invalid-amount-deposit": "अमान्य जमा राशि. न्यूनतम जमा राशि 0.001 XRP/ZRP है।",
+    "bridge-notice": "रूट नेटवर्क से ZerpWallet में धनराशि जमा करने के लिए एक ब्रिज का उपयोग किया जाता है। ब्रिजिंग में समय लगता है और शुल्क भी लगता है।"
   }
 }

@@ -1254,7 +1254,7 @@
     "x-address-copied": "X アドレスがクリップボードにコピーされました",
     "deposit": "デポジット",
     "deposit-funds": "預金資金",
-    "deposit-funds-description": "XRP または ZRP をクラシックまたは X-Address に送信します。",
+    "deposit-funds-description": "XRP または ZRP をクラシックまたは X-Address に送信します。どちらのアドレス形式も同じ宛先アドレスです。",
     "withdraw": "撤回する",
     "withdraw-funds": "資金を引き出す",
     "available-to-withdraw": "出金可能",
@@ -1320,6 +1320,11 @@
     "from-amount": "金額から",
     "to-amount": "金額に",
     "cross-chain-withdraw-note": "",
-    "withdrawals-disabled": ""
+    "withdrawals-disabled": "",
+    "deposit-funds-description-trn": "以下のフォームに記入してアカウントに資金を入金してください",
+    "futurepass-not-connected": "FuturePass が接続されていません。 \nFuturePass を接続して資金を入金してください。",
+    "trn-not-connected": "ルート ネットワーク API が接続されていないか、まだ準備ができていません。",
+    "invalid-amount-deposit": "入金額が無効です。最低入金額は0.001 XRP/ZRPです。",
+    "bridge-notice": "The Root Network から ZerpWallet への資金の入金にはブリッジが使用されます。ブリッジングには時間がかかり、料金もかかります。"
   }
 }

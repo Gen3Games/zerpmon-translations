@@ -1254,7 +1254,7 @@
     "x-address-copied": "X-adres gekopieerd naar klembord",
     "deposit": "Borg",
     "deposit-funds": "Stortingsfondsen",
-    "deposit-funds-description": "Stuur uw XRP of ZRP naar klassiek of X-Address.",
+    "deposit-funds-description": "Stuur uw XRP of ZRP naar klassiek of X-Address. Beide adresformaten zijn hetzelfde bestemmingsadres.",
     "withdraw": "Terugtrekken",
     "withdraw-funds": "Geld opnemen",
     "available-to-withdraw": "Beschikbaar om in te trekken",
@@ -1320,6 +1320,11 @@
     "from-amount": "Vanaf bedrag",
     "to-amount": "Naar bedrag",
     "cross-chain-withdraw-note": "",
-    "withdrawals-disabled": ""
+    "withdrawals-disabled": "",
+    "deposit-funds-description-trn": "Vul het onderstaande formulier in om geld op uw rekening te storten",
+    "futurepass-not-connected": "Uw FuturePass is niet verbonden. \nSluit uw FuturePass aan om geld te storten.",
+    "trn-not-connected": "De Root Network API is niet verbonden of nog niet gereed",
+    "invalid-amount-deposit": "Ongeldig stortingsbedrag. Het minimale stortingsbedrag is 0,001 XRP/ZRP.",
+    "bridge-notice": "Het storten van geld van The Root Network naar ZerpWallet maakt gebruik van een bridge. Het overbruggen kost tijd en brengt kosten met zich mee."
   }
 }

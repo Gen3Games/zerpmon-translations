@@ -1320,6 +1320,11 @@
     "from-amount": "Von Summe",
     "to-amount": "Zu Summe",
     "cross-chain-withdraw-note": "Cross-chain Transaktion können mehrere Minuten dauern. Bitte habe etwas Geduld",
-    "withdrawals-disabled": "Auszahlungen vom ZerpWallet wurden deaktiviert, bitte eröffne ein Ticket in unserem offiziellen Discord"
+    "withdrawals-disabled": "Auszahlungen vom ZerpWallet wurden deaktiviert, bitte eröffne ein Ticket in unserem offiziellen Discord",
+    "deposit-funds-description-trn": "Füllen Sie das untenstehende Formular aus, um Geld auf Ihr Konto einzuzahlen",
+    "futurepass-not-connected": "Ihr FuturePass ist nicht verbunden. \nBitte verbinden Sie Ihren FuturePass, um Geld einzuzahlen.",
+    "trn-not-connected": "Die Root-Netzwerk-API ist entweder nicht verbunden oder noch nicht bereit",
+    "invalid-amount-deposit": "Ungültiger Einzahlungsbetrag. Der Mindesteinzahlungsbetrag beträgt 0,001 XRP/ZRP.",
+    "bridge-notice": "Die Einzahlung von Geldern vom Root Network auf ZerpWallet erfolgt über eine Brücke. Die Überbrückung kostet Zeit und ist kostenpflichtig."
   }
 }

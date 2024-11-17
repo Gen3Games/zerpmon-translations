@@ -1254,7 +1254,7 @@
     "x-address-copied": "X-주소가 클립보드에 복사되었습니다.",
     "deposit": "보증금",
     "deposit-funds": "예금 자금",
-    "deposit-funds-description": "XRP 또는 ZRP를 클래식 또는 X-Address로 보내세요.",
+    "deposit-funds-description": "XRP 또는 ZRP를 클래식 또는 X-Address로 보내세요. 두 주소 형식 모두 동일한 대상 주소입니다.",
     "withdraw": "철회하다",
     "withdraw-funds": "자금 인출",
     "available-to-withdraw": "출금 가능",
@@ -1320,6 +1320,11 @@
     "from-amount": "금액부터",
     "to-amount": "금액까지",
     "cross-chain-withdraw-note": "",
-    "withdrawals-disabled": ""
+    "withdrawals-disabled": "",
+    "deposit-funds-description-trn": "귀하의 계좌에 자금을 입금하려면 아래 양식을 작성하십시오.",
+    "futurepass-not-connected": "귀하의 FuturePass가 연결되지 않았습니다. \n자금을 입금하려면 FuturePass를 연결하세요.",
+    "trn-not-connected": "루트 네트워크 API가 연결되지 않았거나 아직 준비되지 않았습니다.",
+    "invalid-amount-deposit": "입금액이 잘못되었습니다. 최소 입금액은 0.001 XRP/ZRP입니다.",
+    "bridge-notice": "루트 네트워크에서 ZerpWallet으로 자금을 입금하는 데는 브리지가 사용됩니다. 브리징에는 시간이 걸리고 수수료가 발생합니다."
   }
 }
