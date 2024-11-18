@@ -307,7 +307,8 @@
     "gym-lose-streak": "",
     "tremble-trigger-msg": "",
     "no-opponents-found-deck-invalid": "",
-    "confirm-forfeit": ""
+    "confirm-forfeit": "",
+    "mp-earned": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

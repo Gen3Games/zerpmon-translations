@@ -708,7 +708,8 @@
     "gym-lose-streak": "",
     "tremble-trigger-msg": "",
     "no-opponents-found-deck-invalid": "",
-    "confirm-forfeit": ""
+    "confirm-forfeit": "",
+    "mp-earned": ""
   },
   "test": {
     "test": "这是个测试"

@@ -708,7 +708,8 @@
     "gym-lose-streak": "Lose Streak",
     "tremble-trigger-msg": "{zerpmonName}  ({typeString})  is Trembling 🟥 ({movePercent}%)",
     "no-opponents-found-deck-invalid": "No opponents found, please make sure your deck is setup correctly",
-    "confirm-forfeit": "If you forfeit it will count as an automatic loss, are you sure?"
+    "confirm-forfeit": "If you forfeit it will count as an automatic loss, are you sure?",
+    "mp-earned": "MP Earned "
   },
   "test": {
     "test": "this is a test"
