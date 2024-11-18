@@ -294,21 +294,21 @@
     "enter-lobby": "Ga de lobby binnen",
     "previous-br-winner": "Vorige winnaar:",
     "br-title": "Battle Royale-lobby",
-    "select-deck": "",
-    "battle": "",
-    "aura-cancelled-out": "",
-    "tremble-effect": "",
-    "blue-disabled": "",
-    "purple-aura-effect": "",
-    "white-dmg-aura-effect": "",
-    "gold-dmg-aura-effect": "",
-    "aura-triggered": "",
-    "gym-info": "",
-    "gym-lose-streak": "",
-    "tremble-trigger-msg": "",
-    "no-opponents-found-deck-invalid": "",
-    "confirm-forfeit": "",
-    "mp-earned": ""
+    "select-deck": "Selecteer Dek",
+    "battle": "Strijd",
+    "aura-cancelled-out": "Beide aura's van Zerpmon heffen elkaar op!",
+    "tremble-effect": "{tegenstander} beeft",
+    "blue-disabled": "{tegenstander} kan zichzelf niet langer verdedigen met blauwe bewegingen",
+    "purple-aura-effect": "De paarse vaardigheden van {tegenstander} worden verminderd met {change} ster",
+    "white-dmg-aura-effect": "De witte aanvallen van {tegenstander} worden verminderd met {change} schade",
+    "gold-dmg-aura-effect": "De gouden aanvallen van {tegenstander} worden verminderd met {change} schade",
+    "aura-triggered": "{zerpmon} straalt een intimiderende uitstraling uit en de statistieken van {opponent} worden verlaagd.",
+    "gym-info": "Gym-info",
+    "gym-lose-streak": "Streepje verliezen",
+    "tremble-trigger-msg": "{zerpmonName} ({typeString}) trilt 🟥 ({movePercent}%)",
+    "no-opponents-found-deck-invalid": "Er zijn geen tegenstanders gevonden. Zorg ervoor dat je deck correct is ingesteld",
+    "confirm-forfeit": "Als u het verspeelt, telt het als een automatisch verlies. Weet u dat zeker?",
+    "mp-earned": "Kamerlid verdiend"
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -334,7 +334,7 @@
     "zerp-wallet-pending-txn": "De aankoop kan niet worden gedaan terwijl er een opnameverzoek in behandeling is",
     "payment-from-zerpwallet": "De betaling wordt afgeschreven van uw ZerpWallet ({amount})",
     "buy-confirmation-message": "Weet je zeker dat je een nieuwe Zerpmon wilt slaan?",
-    "xrpl-wallet-not-linked": ""
+    "xrpl-wallet-not-linked": "Koppel een XRPL-portemonnee om een ​​nieuwe Zerpmon te maken"
   },
   "create-listing": {
     "confim-relist-nft": "Weet u zeker dat u {nftName} opnieuw wilt aanbieden",
@@ -585,7 +585,7 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Bezoek Kaiju-portemonnee",
     "zerpmon-knocked-out": "Zerpmon is uitgeschakeld",
-    "confirm-use-potion": ""
+    "confirm-use-potion": "Weet u zeker dat u een {inventoryItem} wilt gebruiken?"
   },
   "inventory": {
     "candy-active": "Zerpmon heeft al een soortgelijk soort snoep actief",
@@ -633,17 +633,17 @@
     "level": "Niveau",
     "go-to-zerpbox": "Ik ben bij ZerpBox geweest",
     "evolve": "Ontwikkelen",
-    "recycle": "",
-    "xp-gain": "",
-    "xp-waste": "",
-    "current-zerpmon-level": "",
-    "level-after-recycle": "",
-    "fee": "",
-    "require-ascend": "",
-    "white-candy-buff-info": "",
-    "gold-candy-buff-info": "",
-    "purple-candy-buff-info": "",
-    "used-lvl-candy": ""
+    "recycle": "Recyclen",
+    "xp-gain": "XP-winst",
+    "xp-waste": "XP-verspilling",
+    "current-zerpmon-level": "Huidig ​​Zerpmon-niveau",
+    "level-after-recycle": "Zerpmon-niveau na recyclen",
+    "fee": "Tarief",
+    "require-ascend": "Vereist stijgen",
+    "white-candy-buff-info": "Verhoog de witte aanvalsschade van Zerpmon met ({procent}%)",
+    "gold-candy-buff-info": "Verhoog de schade van Zerpmon's gouden aanval met ({procent}%)",
+    "purple-candy-buff-info": "Verhoog de Purple Ability-sterren van Zerpmon met (1 ster)",
+    "used-lvl-candy": "Je hebt {candyName} met succes gebruikt op {zerpmonName}. \nHet is nu niveau {lvl}!"
   },
   "leaderboard-table": {
     "close": "Dichtbij",
@@ -679,7 +679,7 @@
     "wins": "wint",
     "zerpmon-not-set": "Zerpmon",
     "zerpmons": "Zerpmon",
-    "mp": ""
+    "mp": "Meesterschapspunten"
   },
   "leaderboard": {
     "dropdown-mission": "Missie aller tijden",
@@ -759,11 +759,11 @@
     "could-not-find-nft-category": "Kon de Zerpmon NFT-categorie niet vinden",
     "zerp-wallet-pending-withdrawal": "Probeer het opnieuw nadat uw lopende opnameverzoek is voltooid",
     "cancellation-payment-from-zerpwallet": "De betaling voor het annuleren van de lening wordt van uw ZerpWallet afgeschreven",
-    "user-listing-details": "",
-    "accepted-by": "",
-    "loan-duration": "",
-    "loan-price": "",
-    "loan-expires-in": ""
+    "user-listing-details": "Lijstdetails",
+    "accepted-by": "Geaccepteerd door",
+    "loan-duration": "Duur van de lening: {dagen} dagen",
+    "loan-price": "Leenprijs: {price} ZRP per dag",
+    "loan-expires-in": "Lening vervalt over: {days} dagen"
   },
   "marketplace": {
     "accept-loan": "Lening",
@@ -823,21 +823,21 @@
     "not-enough-xrp-balance": "Niet genoeg XRP-saldo in ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Probeer het opnieuw nadat uw lopende opnameverzoek is voltooid",
     "payment-from-zerpwallet": "De betaling voor het accepteren van een lening wordt van uw ZerpWallet afgeschreven",
-    "trade-amount-on-hold-note": "",
-    "confirm-trade-offer": "",
-    "create-trade-offer-success": "",
-    "create-trade-offer-failed": "",
-    "confirm-remove-trade-offer": "",
-    "trade-offer-expired": "",
-    "trade-successful": "",
-    "confirm-offer-accept": "",
-    "trade-items-not-added": "",
-    "xrpcafe-collections": "",
-    "description": "",
-    "xrp-cafe": "",
-    "tradeverse": "",
-    "tradeverse-collections": "",
-    "description-tradeverse": ""
+    "trade-amount-on-hold-note": "Het bedrag wordt in de wacht gezet totdat de transactie is voltooid.",
+    "confirm-trade-offer": "Weet u zeker dat u deze aanbiedingslijst wilt maken?",
+    "create-trade-offer-success": "Aanbieding succesvol aangemaakt!",
+    "create-trade-offer-failed": "Het is niet gelukt, er is iets misgegaan",
+    "confirm-remove-trade-offer": "Weet u zeker dat u deze aanbiedingsvermelding wilt verwijderen?",
+    "trade-offer-expired": "Sorry, deze aanbieding is al verlopen",
+    "trade-successful": "De transactie is succesvol afgerond. Controleer uw inventaris op de ontvangen artikelen",
+    "confirm-offer-accept": "Weet u zeker dat u dit aanbod van {offerCreator} wilt accepteren?",
+    "trade-items-not-added": "Er zijn geen ruilartikelen beschikbaar. Voeg ze toe door op de knop te drukken",
+    "xrpcafe-collections": "XRP Café-collecties",
+    "description": "Ontdek de verschillende collecties die beschikbaar zijn in XRP Cafe",
+    "xrp-cafe": "XRP Café",
+    "tradeverse": "Handelsvers",
+    "tradeverse-collections": "Tradeverse-collecties",
+    "description-tradeverse": "Ontdek de verschillende collecties die beschikbaar zijn in Tradeverse"
   },
   "mint": {
     "days": "dagen",
@@ -922,10 +922,10 @@
     "daily-zerpbox-reward": "Dagelijkse ZerpBox-beloning",
     "claim": "Claim",
     "claimed": "Geclaimd",
-    "no-linked-wallet": "",
-    "fp-wallet-not-linked": "",
-    "xrpl-wallet-not-linked": "",
-    "login-to-claim": ""
+    "no-linked-wallet": "U heeft geen gekoppelde portemonnee",
+    "fp-wallet-not-linked": "U heeft geen gekoppelde FuturePass Wallet",
+    "xrpl-wallet-not-linked": "U heeft geen gekoppelde XRPL-portemonnee",
+    "login-to-claim": "Inloggen om te claimen"
   },
   "settings": {
     "gameplay": "Gameplay",
@@ -1031,7 +1031,7 @@
     "half-price-on-first-item-daily": "halve prijs per dag op het eerste artikel",
     "evolution-completed": "Evolutie voltooid",
     "ascend": "Stijgen",
-    "payment-from-zerpwallet-volatile": ""
+    "payment-from-zerpwallet-volatile": "De betaling wordt afgeschreven van uw ZerpWallet ({amount}) {finalAmount} (op het laatst gecontroleerde moment, kan veranderen als het gedurende een bepaalde periode niet wordt geaccepteerd)"
   },
   "test": {
     "test": "dit is een test"
@@ -1085,7 +1085,7 @@
     "world-boss-total-damage": "Schade van alle tijden",
     "hp-remaining": "HP resterend",
     "zrp-share": "ZRP-aandeel",
-    "battle": ""
+    "battle": "Strijd"
   },
   "nft-details-popup": {
     "level": "Niveau"
@@ -1320,8 +1320,8 @@
     "swap-requests": "Wisselverzoeken",
     "from-amount": "Vanaf bedrag",
     "to-amount": "Naar bedrag",
-    "cross-chain-withdraw-note": "",
-    "withdrawals-disabled": "",
+    "cross-chain-withdraw-note": "De verwerking van transacties over de keten heen kan enkele minuten duren.",
+    "withdrawals-disabled": "Opnames in ZerpWallet zijn uitgeschakeld. Open een ticket in onze officiële discord",
     "deposit-funds-description-trn": "Vul het onderstaande formulier in om geld op uw rekening te storten",
     "futurepass-not-connected": "Uw FuturePass is niet verbonden. \nSluit uw FuturePass aan om geld te storten.",
     "trn-not-connected": "De Root Network API is niet verbonden of nog niet gereed",

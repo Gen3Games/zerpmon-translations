@@ -278,7 +278,7 @@
     "half-price-on-first-item-daily": "毎日最初の商品が半額",
     "evolution-completed": "進化完了",
     "ascend": "昇る",
-    "payment-from-zerpwallet-volatile": ""
+    "payment-from-zerpwallet-volatile": "支払いは ZerpWallet ({amount}) {finalAmount} から引き落とされます (最後に確認された時点で、一定期間受け入れられない場合は変更される可能性があります)"
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",
@@ -317,7 +317,7 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Kaiju ウォレットにアクセス",
     "zerpmon-knocked-out": "ゼルモンがノックアウトされました",
-    "confirm-use-potion": ""
+    "confirm-use-potion": "{inventoryItem} を使用してもよろしいですか?"
   },
   "leaderboard": {
     "title": "リーダーボード",
@@ -363,7 +363,7 @@
     "gym-points": "ジムポイント",
     "gym-points-short": "GP",
     "gym-tier": "階層",
-    "mp": ""
+    "mp": "マスタリーポイント"
   },
   "analytics": {
     "analytics": "分析",
@@ -429,17 +429,17 @@
     "level": "レベル",
     "go-to-zerpbox": "ZerpBoxに行きました",
     "evolve": "進化",
-    "recycle": "",
-    "xp-gain": "",
-    "xp-waste": "",
-    "current-zerpmon-level": "",
-    "level-after-recycle": "",
-    "fee": "",
-    "require-ascend": "",
-    "white-candy-buff-info": "",
-    "gold-candy-buff-info": "",
-    "purple-candy-buff-info": "",
-    "used-lvl-candy": ""
+    "recycle": "リサイクル",
+    "xp-gain": "XPの獲得",
+    "xp-waste": "XPの無駄",
+    "current-zerpmon-level": "現在のゼルモンレベル",
+    "level-after-recycle": "リサイクル後のゼルモンレベル",
+    "fee": "手数料",
+    "require-ascend": "アセンドが必要",
+    "white-candy-buff-info": "ゼルモンの白攻撃ダメージを ({percent}%) 増加させます",
+    "gold-candy-buff-info": "ゼルモンのゴールドアタックのダメージを ({percent}%) 増加させます",
+    "purple-candy-buff-info": "ゼルモンの紫アビリティの星を(星1つ)増やす",
+    "used-lvl-candy": "{zerpmonName} で {candyName} を正常に使用しました。\nレベル {lvl} になりました!"
   },
   "safari": {
     "title": "サファリ",
@@ -496,10 +496,10 @@
     "daily-zerpbox-reward": "毎日のZerpBox報酬",
     "claim": "請求",
     "claimed": "主張した",
-    "no-linked-wallet": "",
-    "fp-wallet-not-linked": "",
-    "xrpl-wallet-not-linked": "",
-    "login-to-claim": ""
+    "no-linked-wallet": "リンクされたウォレットがありません",
+    "fp-wallet-not-linked": "リンクされたFuturePassウォレットをお持ちではありません",
+    "xrpl-wallet-not-linked": "リンクされた XRPL ウォレットがありません",
+    "login-to-claim": "ログインして請求する"
   },
   "battle": {
     "title": "バトル",
@@ -695,21 +695,21 @@
     "enter-lobby": "ロビーに入る",
     "previous-br-winner": "前回の優勝者 :",
     "br-title": "バトルロイヤルロビー",
-    "select-deck": "",
-    "battle": "",
-    "aura-cancelled-out": "",
-    "tremble-effect": "",
-    "blue-disabled": "",
-    "purple-aura-effect": "",
-    "white-dmg-aura-effect": "",
-    "gold-dmg-aura-effect": "",
-    "aura-triggered": "",
-    "gym-info": "",
-    "gym-lose-streak": "",
-    "tremble-trigger-msg": "",
-    "no-opponents-found-deck-invalid": "",
-    "confirm-forfeit": "",
-    "mp-earned": ""
+    "select-deck": "デッキの選択",
+    "battle": "戦い",
+    "aura-cancelled-out": "ゼルモンのオーラがお互いに打ち消し合っている！",
+    "tremble-effect": "{相手}は震えています",
+    "blue-disabled": "{opponent} は青い動きを使って自分自身を守ることができなくなります",
+    "purple-aura-effect": "{対戦相手} の紫のアビリティは {change} スター減少します",
+    "white-dmg-aura-effect": "{opponent} の白攻撃は {change} ダメージ減少します",
+    "gold-dmg-aura-effect": "{opponent} のゴールドアタックは {change} ダメージ減少します",
+    "aura-triggered": "{zerpmon} は威圧的なオーラを放っており、{opponent} のステータスが減少しています。",
+    "gym-info": "ジム情報",
+    "gym-lose-streak": "連敗",
+    "tremble-trigger-msg": "{zerpmonName} ({typeString}) は震えています 🟥 ({movePercent}%)",
+    "no-opponents-found-deck-invalid": "対戦相手が見つかりません。デッキが正しく設定されていることを確認してください。",
+    "confirm-forfeit": "没収した場合は自動的に損失としてカウントされますが、よろしいですか？",
+    "mp-earned": "獲得MP"
   },
   "test": {
     "test": "これはテストです"
@@ -794,21 +794,21 @@
     "not-enough-xrp-balance": "ZerpWalletのXRP残高が不足しています",
     "zerp-wallet-pending-withdrawal": "保留中の出金リクエストが完了してからもう一度お試しください",
     "payment-from-zerpwallet": "ローンを受け入れるための支払いはZerpWalletから引き落とされます",
-    "trade-amount-on-hold-note": "",
-    "confirm-trade-offer": "",
-    "create-trade-offer-success": "",
-    "create-trade-offer-failed": "",
-    "confirm-remove-trade-offer": "",
-    "trade-offer-expired": "",
-    "trade-successful": "",
-    "confirm-offer-accept": "",
-    "trade-items-not-added": "",
-    "xrpcafe-collections": "",
-    "description": "",
-    "xrp-cafe": "",
-    "tradeverse": "",
-    "tradeverse-collections": "",
-    "description-tradeverse": ""
+    "trade-amount-on-hold-note": "金額は取引が完了するまで保留されます。",
+    "confirm-trade-offer": "このオファーリストを作成してもよろしいですか?",
+    "create-trade-offer-success": "オファーが正常に作成されました。",
+    "create-trade-offer-failed": "失敗しました、何か問題が発生しました",
+    "confirm-remove-trade-offer": "このオファーリストを削除してもよろしいですか?",
+    "trade-offer-expired": "申し訳ありませんが、この特典はすでに期限切れです",
+    "trade-successful": "取引が正常に完了しました。受け取ったアイテムの在庫を確認してください",
+    "confirm-offer-accept": "{offerCreator} からのこのオファーを承諾してもよろしいですか?",
+    "trade-items-not-added": "貿易アイテムは提供されていません。ボタンを押して追加してください",
+    "xrpcafe-collections": "XRPカフェコレクション",
+    "description": "XRPカフェで利用可能なさまざまなコレクションを探索してください",
+    "xrp-cafe": "XRPカフェ",
+    "tradeverse": "トレードバース",
+    "tradeverse-collections": "トレードバースコレクション",
+    "description-tradeverse": "Tradeverse で利用可能なさまざまなコレクションを探索してください"
   },
   "manage-listing": {
     "title": "私のNFT",
@@ -867,11 +867,11 @@
     "could-not-find-nft-category": "Zerpmon NFT カテゴリが見つかりませんでした",
     "zerp-wallet-pending-withdrawal": "保留中の出金リクエストが完了してからもう一度お試しください",
     "cancellation-payment-from-zerpwallet": "ローンキャンセルの支払いはZerpWalletから引き落とされます",
-    "user-listing-details": "",
-    "accepted-by": "",
-    "loan-duration": "",
-    "loan-price": "",
-    "loan-expires-in": ""
+    "user-listing-details": "リストの詳細",
+    "accepted-by": "承認者",
+    "loan-duration": "融資期間 : {days} 日",
+    "loan-price": "ローン価格 : 1 日あたり {price} ZRP",
+    "loan-expires-in": "ローンの有効期限: {days} 日"
   },
   "create-listing": {
     "not-signed-in": "ログインしていない",
@@ -1068,7 +1068,7 @@
     "zerp-wallet-pending-txn": "保留中の出金リクエストがあるときに購入できませんでした",
     "payment-from-zerpwallet": "支払いは ZerpWallet から行われます ({金額})",
     "buy-confirmation-message": "新しいゼルモンを鋳造してもよろしいですか?",
-    "xrpl-wallet-not-linked": ""
+    "xrpl-wallet-not-linked": "新しいZeruponを鋳造するには、XRPLウォレットをリンクしてください"
   },
   "mint": {
     "mint-opens-in": "ミントが開く",
@@ -1085,7 +1085,7 @@
     "world-boss": "ワールドボス",
     "world-boss-total-damage": "オールタイムダメージ",
     "zrp-share": "ZRPシェア",
-    "battle": ""
+    "battle": "戦い"
   },
   "nft-details-popup": {
     "level": "レベル"
@@ -1320,8 +1320,8 @@
     "swap-requests": "スワップリクエスト",
     "from-amount": "金額から",
     "to-amount": "金額に",
-    "cross-chain-withdraw-note": "",
-    "withdrawals-disabled": "",
+    "cross-chain-withdraw-note": "クロスチェーン トランザクションの処理には数分かかる場合があります。",
+    "withdrawals-disabled": "ZerpWalletの出金は無効になっています。公式Discordでチケットを開いてください。",
     "deposit-funds-description-trn": "以下のフォームに記入してアカウントに資金を入金してください",
     "futurepass-not-connected": "FuturePass が接続されていません。 \nFuturePass を接続して資金を入金してください。",
     "trn-not-connected": "ルート ネットワーク API が接続されていないか、まだ準備ができていません。",

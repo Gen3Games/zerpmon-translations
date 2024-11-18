@@ -278,7 +278,7 @@
     "half-price-on-first-item-daily": "每日第一件商品半价",
     "evolution-completed": "进化完成",
     "ascend": "登高",
-    "payment-from-zerpwallet-volatile": ""
+    "payment-from-zerpwallet-volatile": "付款将从您的 ZerpWallet ({amount}) {finalAmount} 中扣除（最后检查的时刻，如果一段时间内未接受，可能会发生变化）"
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",
@@ -317,7 +317,7 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "访问 Kaiju 钱包",
     "zerpmon-knocked-out": "泽拉普兽被击倒",
-    "confirm-use-potion": ""
+    "confirm-use-potion": "您确定要使用 {inventoryItem} 吗？"
   },
   "leaderboard": {
     "title": "排行榜",
@@ -363,7 +363,7 @@
     "gym-points": "道館分",
     "gym-points-short": "GP",
     "gym-tier": "层",
-    "mp": ""
+    "mp": "精通点数"
   },
   "analytics": {
     "analytics": "分析",
@@ -429,17 +429,17 @@
     "level": "等级",
     "go-to-zerpbox": "到达ZerpBox",
     "evolve": "发展",
-    "recycle": "",
-    "xp-gain": "",
-    "xp-waste": "",
-    "current-zerpmon-level": "",
-    "level-after-recycle": "",
-    "fee": "",
-    "require-ascend": "",
-    "white-candy-buff-info": "",
-    "gold-candy-buff-info": "",
-    "purple-candy-buff-info": "",
-    "used-lvl-candy": ""
+    "recycle": "回收",
+    "xp-gain": "经验值增益",
+    "xp-waste": "XP 废物",
+    "current-zerpmon-level": "目前泽拉兽等级",
+    "level-after-recycle": "回收后的泽拉兽等级",
+    "fee": "费用",
+    "require-ascend": "需要提升",
+    "white-candy-buff-info": "泽拉普兽的白色攻击力增加({percent}%)",
+    "gold-candy-buff-info": "泽拉普兽的黄金攻击力增加 ({percent}%)",
+    "purple-candy-buff-info": "泽拉普兽紫色能力星数增加（1星）",
+    "used-lvl-candy": "您已在 {zerpmonName} 上成功使用了 {candyName}。\n现在是{lvl}级！"
   },
   "safari": {
     "title": "Safari探险",
@@ -496,10 +496,10 @@
     "daily-zerpbox-reward": "每日ZerpBox奖励",
     "claim": "宣称",
     "claimed": "声称",
-    "no-linked-wallet": "",
-    "fp-wallet-not-linked": "",
-    "xrpl-wallet-not-linked": "",
-    "login-to-claim": ""
+    "no-linked-wallet": "您没有任何关联的钱包",
+    "fp-wallet-not-linked": "您没有链接的 FuturePass 钱包",
+    "xrpl-wallet-not-linked": "您没有链接的 XRPL 钱包",
+    "login-to-claim": "登录领取"
   },
   "battle": {
     "title": "战斗",
@@ -695,21 +695,21 @@
     "enter-lobby": "进入大厅",
     "previous-br-winner": "上届获奖者：",
     "br-title": "大逃杀大厅",
-    "select-deck": "",
-    "battle": "",
-    "aura-cancelled-out": "",
-    "tremble-effect": "",
-    "blue-disabled": "",
-    "purple-aura-effect": "",
-    "white-dmg-aura-effect": "",
-    "gold-dmg-aura-effect": "",
-    "aura-triggered": "",
-    "gym-info": "",
-    "gym-lose-streak": "",
-    "tremble-trigger-msg": "",
-    "no-opponents-found-deck-invalid": "",
-    "confirm-forfeit": "",
-    "mp-earned": ""
+    "select-deck": "选择牌组",
+    "battle": "战斗",
+    "aura-cancelled-out": "双方泽拉普兽的光环互相抵消！",
+    "tremble-effect": "{对手}在颤抖",
+    "blue-disabled": "{opponent} 无法再使用蓝色招式保卫自己",
+    "purple-aura-effect": "{opponent}的紫色能力因{change}星而减少",
+    "white-dmg-aura-effect": "{opponent} 的白色攻击减少 {change} 伤害",
+    "gold-dmg-aura-effect": "{opponent} 的黄金攻击因 {change} 伤害而减少",
+    "aura-triggered": "{zerpmon} 散发出令人恐惧的光环，而 {opponent} 的属性正在减少。",
+    "gym-info": "健身房信息",
+    "gym-lose-streak": "连败",
+    "tremble-trigger-msg": "{zerpmonName} ({typeString}) 正在颤抖 🟥 ({movePercent}%)",
+    "no-opponents-found-deck-invalid": "未找到对手，请确保您的套牌设置正确",
+    "confirm-forfeit": "如果您放弃，将视为自动损失，您确定吗？",
+    "mp-earned": "获得 MP"
   },
   "test": {
     "test": "这是个测试"
@@ -794,21 +794,21 @@
     "not-enough-xrp-balance": "ZerpWallet 中的 XRP 余额不足",
     "zerp-wallet-pending-withdrawal": "请在待处理的提款请求完成后重试",
     "payment-from-zerpwallet": "接受贷款的付款将从您的 ZerpWallet 中扣除",
-    "trade-amount-on-hold-note": "",
-    "confirm-trade-offer": "",
-    "create-trade-offer-success": "",
-    "create-trade-offer-failed": "",
-    "confirm-remove-trade-offer": "",
-    "trade-offer-expired": "",
-    "trade-successful": "",
-    "confirm-offer-accept": "",
-    "trade-items-not-added": "",
-    "xrpcafe-collections": "",
-    "description": "",
-    "xrp-cafe": "",
-    "tradeverse": "",
-    "tradeverse-collections": "",
-    "description-tradeverse": ""
+    "trade-amount-on-hold-note": "该金额将被暂停，直至交易完成。",
+    "confirm-trade-offer": "您确定要创建此优惠列表吗？",
+    "create-trade-offer-success": "优惠创建成功！",
+    "create-trade-offer-failed": "失败，出现问题",
+    "confirm-remove-trade-offer": "您确定要删除此优惠列表吗？",
+    "trade-offer-expired": "抱歉，此优惠已过期",
+    "trade-successful": "交易成功，请检查您的库存中是否有收到的物品",
+    "confirm-offer-accept": "您确定要接受来自 {offerCreator} 的此优惠吗？",
+    "trade-items-not-added": "未提供贸易项目，请按按钮添加",
+    "xrpcafe-collections": "XRP 咖啡馆系列",
+    "description": "探索 XRP Cafe 中提供的不同系列",
+    "xrp-cafe": "瑞波币咖啡馆",
+    "tradeverse": "贸易宇宙",
+    "tradeverse-collections": "贸易宇宙系列",
+    "description-tradeverse": "探索 Tradeverse 中提供的不同集合"
   },
   "manage-listing": {
     "title": "我的 NFTs",
@@ -867,11 +867,11 @@
     "could-not-find-nft-category": "找不到 Zerpmon NFT 类别",
     "zerp-wallet-pending-withdrawal": "请在待处理的提款请求完成后重试",
     "cancellation-payment-from-zerpwallet": "取消贷款的付款将从您的 ZerpWallet 中扣除",
-    "user-listing-details": "",
-    "accepted-by": "",
-    "loan-duration": "",
-    "loan-price": "",
-    "loan-expires-in": ""
+    "user-listing-details": "列表详情",
+    "accepted-by": "接受者",
+    "loan-duration": "贷款期限：{days} 天",
+    "loan-price": "贷款价格：每天 {price} ZRP",
+    "loan-expires-in": "贷款到期时间：{days} 天"
   },
   "create-listing": {
     "not-signed-in": "未登录",
@@ -1068,7 +1068,7 @@
     "zerp-wallet-pending-txn": "有待处理的提款请求时无法进行购买",
     "payment-from-zerpwallet": "将从您的 ZerpWallet 中扣除付款 ({amount})",
     "buy-confirmation-message": "您确定要铸造新的泽拉兽吗？",
-    "xrpl-wallet-not-linked": ""
+    "xrpl-wallet-not-linked": "请链接 XRPL 钱包来铸造新的 Zerpmon"
   },
   "mint": {
     "mint-opens-in": "铸造开启于",
@@ -1085,7 +1085,7 @@
     "world-boss-total-damage": "所有时间伤害",
     "hp-remaining": "剩余生命值",
     "zrp-share": "中荣股份",
-    "battle": ""
+    "battle": "战斗"
   },
   "nft-details-popup": {
     "level": "等级"
@@ -1320,8 +1320,8 @@
     "swap-requests": "交换请求",
     "from-amount": "从金额",
     "to-amount": "至金额",
-    "cross-chain-withdraw-note": "",
-    "withdrawals-disabled": "",
+    "cross-chain-withdraw-note": "跨链交易处理可能需要几分钟的时间。",
+    "withdrawals-disabled": "ZerpWallet提现已被禁用，请在我们的官方discord中开票",
     "deposit-funds-description-trn": "填写下面的表格将资金存入您的帐户",
     "futurepass-not-connected": "您的 FuturePass 未连接。\n请连接您的 FuturePass 存入资金。",
     "trn-not-connected": "根网络 API 未连接或尚未准备好",

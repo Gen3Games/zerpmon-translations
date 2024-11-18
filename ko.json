@@ -278,7 +278,7 @@
     "half-price-on-first-item-daily": "매일 첫 번째 품목의 절반 가격",
     "evolution-completed": "진화 완료",
     "ascend": "오르다",
-    "payment-from-zerpwallet-volatile": ""
+    "payment-from-zerpwallet-volatile": "지불은 귀하의 ZerpWallet({amount}) {finalAmount}에서 이루어집니다(마지막으로 확인된 순간, 일정 기간 동안 승인되지 않으면 변경될 수 있음)"
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",
@@ -317,7 +317,7 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "카이주 지갑 방문하기",
     "zerpmon-knocked-out": "저르몬이 쓰러졌다",
-    "confirm-use-potion": ""
+    "confirm-use-potion": "{inventoryItem}을(를) 사용하시겠습니까?"
   },
   "leaderboard": {
     "title": "리더보드",
@@ -363,7 +363,7 @@
     "gym-points": "체육관 포인트",
     "gym-points-short": "GP",
     "gym-tier": "층",
-    "mp": ""
+    "mp": "마스터리 포인트"
   },
   "analytics": {
     "analytics": "분석",
@@ -429,17 +429,17 @@
     "level": "수준",
     "go-to-zerpbox": "ZerpBox에 도착했습니다.",
     "evolve": "진화하다",
-    "recycle": "",
-    "xp-gain": "",
-    "xp-waste": "",
-    "current-zerpmon-level": "",
-    "level-after-recycle": "",
-    "fee": "",
-    "require-ascend": "",
-    "white-candy-buff-info": "",
-    "gold-candy-buff-info": "",
-    "purple-candy-buff-info": "",
-    "used-lvl-candy": ""
+    "recycle": "재활용",
+    "xp-gain": "XP 획득",
+    "xp-waste": "XP 폐기물",
+    "current-zerpmon-level": "현재 저프몬 레벨",
+    "level-after-recycle": "재활용 후 저르몬 레벨",
+    "fee": "요금",
+    "require-ascend": "승천 필요",
+    "white-candy-buff-info": "저르몬의 화이트 어택 데미지를 ({percent}%) 증가시킵니다",
+    "gold-candy-buff-info": "저르몬의 골드 어택 데미지를 ({percent}%) 증가시킵니다",
+    "purple-candy-buff-info": "Zermon의 보라색 능력 별을 (별 1개) 늘립니다.",
+    "used-lvl-candy": "{zerpmonName}에서 {candyName}을(를) 성공적으로 사용했습니다. \n이제 레벨이 {lvl}입니다!"
   },
   "safari": {
     "title": "사파리",
@@ -496,10 +496,10 @@
     "daily-zerpbox-reward": "일일 ZerpBox 보상",
     "claim": "주장하다",
     "claimed": "청구됨",
-    "no-linked-wallet": "",
-    "fp-wallet-not-linked": "",
-    "xrpl-wallet-not-linked": "",
-    "login-to-claim": ""
+    "no-linked-wallet": "연결된 지갑이 없습니다.",
+    "fp-wallet-not-linked": "연결된 FuturePass 지갑이 없습니다.",
+    "xrpl-wallet-not-linked": "연결된 XRPL 지갑이 없습니다.",
+    "login-to-claim": "청구하려면 로그인하세요"
   },
   "battle": {
     "title": "배틀",
@@ -695,21 +695,21 @@
     "enter-lobby": "로비에 입장",
     "previous-br-winner": "이전 우승자:",
     "br-title": "배틀로얄 로비",
-    "select-deck": "",
-    "battle": "",
-    "aura-cancelled-out": "",
-    "tremble-effect": "",
-    "blue-disabled": "",
-    "purple-aura-effect": "",
-    "white-dmg-aura-effect": "",
-    "gold-dmg-aura-effect": "",
-    "aura-triggered": "",
-    "gym-info": "",
-    "gym-lose-streak": "",
-    "tremble-trigger-msg": "",
-    "no-opponents-found-deck-invalid": "",
-    "confirm-forfeit": "",
-    "mp-earned": ""
+    "select-deck": "덱 선택",
+    "battle": "전투",
+    "aura-cancelled-out": "두 Zermon의 오라가 서로를 상쇄하고 있습니다!",
+    "tremble-effect": "{상대}가 떨고 있어요",
+    "blue-disabled": "{상대}는 더 이상 파란색 동작을 사용하여 자신을 방어할 수 없습니다.",
+    "purple-aura-effect": "{상대방}의 보라색 능력이 {change}별만큼 감소합니다.",
+    "white-dmg-aura-effect": "{상대방}의 백색 공격이 {change} 피해만큼 감소합니다.",
+    "gold-dmg-aura-effect": "{상대방}의 골드 공격이 {change} 데미지만큼 감소합니다.",
+    "aura-triggered": "{zerpmon}은(는) 위협적인 오라를 발산하고 있으며 {상대방}의 능력치가 감소하고 있습니다.",
+    "gym-info": "체육관 정보",
+    "gym-lose-streak": "연패",
+    "tremble-trigger-msg": "{zerpmonName}({typeString})이(가) 떨고 있습니다 🟥({movePercent}%)",
+    "no-opponents-found-deck-invalid": "상대를 찾을 수 없습니다. 덱이 올바르게 설정되었는지 확인하세요.",
+    "confirm-forfeit": "몰수하면 자동 손실로 간주됩니다. 그렇죠?",
+    "mp-earned": "MP 획득"
   },
   "test": {
     "test": "테스트입니다."
@@ -794,21 +794,21 @@
     "not-enough-xrp-balance": "ZerpWallet에 XRP 잔액이 충분하지 않습니다.",
     "zerp-wallet-pending-withdrawal": "보류 중인 출금 요청이 완료된 후 다시 시도하십시오.",
     "payment-from-zerpwallet": "대출 수락에 대한 지불은 ZerpWallet에서 이루어집니다.",
-    "trade-amount-on-hold-note": "",
-    "confirm-trade-offer": "",
-    "create-trade-offer-success": "",
-    "create-trade-offer-failed": "",
-    "confirm-remove-trade-offer": "",
-    "trade-offer-expired": "",
-    "trade-successful": "",
-    "confirm-offer-accept": "",
-    "trade-items-not-added": "",
-    "xrpcafe-collections": "",
-    "description": "",
-    "xrp-cafe": "",
-    "tradeverse": "",
-    "tradeverse-collections": "",
-    "description-tradeverse": ""
+    "trade-amount-on-hold-note": "해당 금액은 거래가 완료될 때까지 보류됩니다.",
+    "confirm-trade-offer": "이 제안 목록을 생성하시겠습니까?",
+    "create-trade-offer-success": "제안이 성공적으로 생성되었습니다!",
+    "create-trade-offer-failed": "실패했습니다. 문제가 발생했습니다.",
+    "confirm-remove-trade-offer": "이 제안 목록을 제거하시겠습니까?",
+    "trade-offer-expired": "죄송합니다. 이 제안은 이미 만료되었습니다.",
+    "trade-successful": "거래가 성공적으로 완료되었습니다. 수령한 품목의 인벤토리를 확인하세요.",
+    "confirm-offer-accept": "{offerCreator}의 이 제안을 수락하시겠습니까?",
+    "trade-items-not-added": "무역품이 제공되지 않습니다. 버튼을 눌러 추가하세요.",
+    "xrpcafe-collections": "XRP 카페 컬렉션",
+    "description": "XRP Cafe에서 제공되는 다양한 컬렉션을 살펴보세요.",
+    "xrp-cafe": "XRP 카페",
+    "tradeverse": "트레이드버스",
+    "tradeverse-collections": "트레이드버스 컬렉션",
+    "description-tradeverse": "Tradeverse에서 제공되는 다양한 컬렉션을 살펴보세요"
   },
   "manage-listing": {
     "title": "내 NFT",
@@ -867,11 +867,11 @@
     "could-not-find-nft-category": "Zermon NFT 카테고리를 찾을 수 없습니다",
     "zerp-wallet-pending-withdrawal": "보류 중인 출금 요청이 완료된 후 다시 시도하십시오.",
     "cancellation-payment-from-zerpwallet": "대출 취소에 대한 결제는 ZerpWallet에서 이루어집니다.",
-    "user-listing-details": "",
-    "accepted-by": "",
-    "loan-duration": "",
-    "loan-price": "",
-    "loan-expires-in": ""
+    "user-listing-details": "목록 세부정보",
+    "accepted-by": "수락자",
+    "loan-duration": "대출 기간 : {days} 일",
+    "loan-price": "대출 가격 : 일일 {price} ZRP",
+    "loan-expires-in": "대출 만료일: {days}일"
   },
   "create-listing": {
     "not-signed-in": "로그인하지 않았습니다",
@@ -1068,7 +1068,7 @@
     "zerp-wallet-pending-txn": "보류 중인 출금 요청이 있는 경우 구매에 실패했습니다.",
     "payment-from-zerpwallet": "귀하의 ZerpWallet에서 결제가 이루어집니다({amount}).",
     "buy-confirmation-message": "정말로 새로운 Zermon을 만들고 싶나요?",
-    "xrpl-wallet-not-linked": ""
+    "xrpl-wallet-not-linked": "새로운 Zermon을 생성하려면 XRPL 지갑을 연결하세요"
   },
   "mint": {
     "mint-opens-in": "민트가 열립니다",
@@ -1085,7 +1085,7 @@
     "world-boss": "월드보스",
     "world-boss-total-damage": "올타임 데미지",
     "zrp-share": "ZRP 공유",
-    "battle": ""
+    "battle": "전투"
   },
   "nft-details-popup": {
     "level": "수준"
@@ -1320,8 +1320,8 @@
     "swap-requests": "교환 요청",
     "from-amount": "금액부터",
     "to-amount": "금액까지",
-    "cross-chain-withdraw-note": "",
-    "withdrawals-disabled": "",
+    "cross-chain-withdraw-note": "크로스체인 거래 처리에는 몇 분이 걸릴 수 있습니다.",
+    "withdrawals-disabled": "ZerpWallet 출금이 비활성화되었습니다. 공식 디스코드에서 티켓을 개설해주세요.",
     "deposit-funds-description-trn": "귀하의 계좌에 자금을 입금하려면 아래 양식을 작성하십시오.",
     "futurepass-not-connected": "귀하의 FuturePass가 연결되지 않았습니다. \n자금을 입금하려면 FuturePass를 연결하세요.",
     "trn-not-connected": "루트 네트워크 API가 연결되지 않았거나 아직 준비되지 않았습니다.",

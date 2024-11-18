@@ -235,21 +235,21 @@
     "enter-lobby": "Entrez dans le hall",
     "previous-br-winner": "Gagnant précédent :",
     "br-title": "Hall de la bataille royale",
-    "select-deck": "",
-    "battle": "",
-    "aura-cancelled-out": "",
-    "tremble-effect": "",
-    "blue-disabled": "",
-    "purple-aura-effect": "",
-    "white-dmg-aura-effect": "",
-    "gold-dmg-aura-effect": "",
-    "aura-triggered": "",
-    "gym-info": "",
-    "gym-lose-streak": "",
-    "tremble-trigger-msg": "",
-    "no-opponents-found-deck-invalid": "",
-    "confirm-forfeit": "",
-    "mp-earned": ""
+    "select-deck": "Sélectionnez la platine",
+    "battle": "Bataille",
+    "aura-cancelled-out": "Les auras des deux Zerpmon s'annulent !",
+    "tremble-effect": "{l'adversaire} tremble",
+    "blue-disabled": "{adversaire} ne peut plus se défendre en utilisant les mouvements bleus",
+    "purple-aura-effect": "Les capacités violettes de {adversaire} sont réduites de {change} étoile",
+    "white-dmg-aura-effect": "Les attaques blanches de {adversaire} sont réduites de {change} dégâts",
+    "gold-dmg-aura-effect": "Les attaques dorées de {adversaire} sont réduites de {change} dégâts",
+    "aura-triggered": "{zerpmon} dégage une aura intimidante et les statistiques de {adversaire} sont réduites.",
+    "gym-info": "Informations sur la salle de sport",
+    "gym-lose-streak": "Série de défaites",
+    "tremble-trigger-msg": "{zerpmonName} ({typeString}) tremble 🟥 ({movePercent}%)",
+    "no-opponents-found-deck-invalid": "Aucun adversaire trouvé, veuillez vous assurer que votre deck est correctement configuré",
+    "confirm-forfeit": "Si vous abandonnez, cela comptera comme une perte automatique, en êtes-vous sûr ?",
+    "mp-earned": "MP gagnés"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -471,7 +471,7 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Visitez le portefeuille Kaiju",
     "zerpmon-knocked-out": "Zerpmon éliminé",
-    "confirm-use-potion": ""
+    "confirm-use-potion": "Êtes-vous sûr de vouloir utiliser un {inventoryItem} ?"
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",
@@ -519,17 +519,17 @@
     "level": "Niveau",
     "go-to-zerpbox": "Je suis arrivé à ZerpBox",
     "evolve": "Évoluer",
-    "recycle": "",
-    "xp-gain": "",
-    "xp-waste": "",
-    "current-zerpmon-level": "",
-    "level-after-recycle": "",
-    "fee": "",
-    "require-ascend": "",
-    "white-candy-buff-info": "",
-    "gold-candy-buff-info": "",
-    "purple-candy-buff-info": "",
-    "used-lvl-candy": ""
+    "recycle": "Recycler",
+    "xp-gain": "Gain d'XP",
+    "xp-waste": "Déchets d'XP",
+    "current-zerpmon-level": "Niveau actuel de Zerpmon",
+    "level-after-recycle": "Niveau Zerpmon après recyclage",
+    "fee": "Frais",
+    "require-ascend": "Exiger l'ascension",
+    "white-candy-buff-info": "Augmente les dégâts de l'attaque blanche de Zerpmon de ({percent}%)",
+    "gold-candy-buff-info": "Augmente les dégâts de l'attaque dorée de Zerpmon de ({percent}%)",
+    "purple-candy-buff-info": "Augmente les étoiles de capacité violette de Zerpmon de (1 étoile)",
+    "used-lvl-candy": "Vous avez utilisé avec succès {candyName} sur {zerpmonName}. \nIl est désormais niveau {lvl} !"
   },
   "leaderboard-table": {
     "close": "Fermer",
@@ -565,7 +565,7 @@
     "wins": "Victoires",
     "zerpmon-not-set": "Zerpmon",
     "zerpmons": "Zerpmon",
-    "mp": ""
+    "mp": "Points de maîtrise"
   },
   "leaderboard": {
     "dropdown-mission": "Mission de tous les temps",
@@ -645,11 +645,11 @@
     "could-not-find-nft-category": "Impossible de trouver la catégorie Zerpmon NFT",
     "zerp-wallet-pending-withdrawal": "Veuillez réessayer une fois votre demande de retrait en attente terminée.",
     "cancellation-payment-from-zerpwallet": "Le paiement pour l'annulation du prêt sera prélevé sur votre ZerpWallet",
-    "user-listing-details": "",
-    "accepted-by": "",
-    "loan-duration": "",
-    "loan-price": "",
-    "loan-expires-in": ""
+    "user-listing-details": "Détails de l'annonce",
+    "accepted-by": "Accepté par",
+    "loan-duration": "Durée du prêt : {jours} jours",
+    "loan-price": "Prix ​​du prêt : {price} ZRP par jour",
+    "loan-expires-in": "Le prêt expire dans : {days} jours"
   },
   "marketplace": {
     "accept-loan": "Prêt",
@@ -709,21 +709,21 @@
     "not-enough-xrp-balance": "Pas assez de solde XRP dans ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Veuillez réessayer une fois votre demande de retrait en attente terminée.",
     "payment-from-zerpwallet": "Le paiement pour l'acceptation du prêt sera prélevé sur votre ZerpWallet",
-    "trade-amount-on-hold-note": "",
-    "confirm-trade-offer": "",
-    "create-trade-offer-success": "",
-    "create-trade-offer-failed": "",
-    "confirm-remove-trade-offer": "",
-    "trade-offer-expired": "",
-    "trade-successful": "",
-    "confirm-offer-accept": "",
-    "trade-items-not-added": "",
-    "xrpcafe-collections": "",
-    "description": "",
-    "xrp-cafe": "",
-    "tradeverse": "",
-    "tradeverse-collections": "",
-    "description-tradeverse": ""
+    "trade-amount-on-hold-note": "Le montant sera mis en attente jusqu'à ce que la transaction soit terminée.",
+    "confirm-trade-offer": "Etes-vous sûr de vouloir créer cette liste d'offres ?",
+    "create-trade-offer-success": "Offre créée avec succès !",
+    "create-trade-offer-failed": "Échec, quelque chose s'est mal passé",
+    "confirm-remove-trade-offer": "Êtes-vous sûr de vouloir supprimer cette offre ?",
+    "trade-offer-expired": "Désolé, cette offre est déjà expirée",
+    "trade-successful": "L'échange a été terminé avec succès, veuillez vérifier votre inventaire pour les articles reçus",
+    "confirm-offer-accept": "Êtes-vous sûr de vouloir accepter cette offre de {offerCreator} ?",
+    "trade-items-not-added": "Aucun objet d'échange fourni, ajoutez-les en appuyant sur le bouton",
+    "xrpcafe-collections": "Collections de cafés XRP",
+    "description": "Explorez les différentes collections disponibles dans XRP Cafe",
+    "xrp-cafe": "Café XRP",
+    "tradeverse": "Tradeverse",
+    "tradeverse-collections": "Collections Tradeverse",
+    "description-tradeverse": "Explorez les différentes collections disponibles dans Tradeverse"
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",
@@ -801,10 +801,10 @@
     "daily-zerpbox-reward": "Récompense ZerpBox quotidienne",
     "claim": "Réclamer",
     "claimed": "Réclamé",
-    "no-linked-wallet": "",
-    "fp-wallet-not-linked": "",
-    "xrpl-wallet-not-linked": "",
-    "login-to-claim": ""
+    "no-linked-wallet": "Vous n'avez aucun portefeuille lié",
+    "fp-wallet-not-linked": "Vous n'avez pas de portefeuille FuturePass lié",
+    "xrpl-wallet-not-linked": "Vous n'avez pas de portefeuille XRPL lié",
+    "login-to-claim": "Connectez-vous pour réclamer"
   },
   "sidebar": {
     "analytics": "Analytique",
@@ -902,7 +902,7 @@
     "half-price-on-first-item-daily": "moitié prix sur le premier article par jour",
     "evolution-completed": "Évolution terminée",
     "ascend": "Monter",
-    "payment-from-zerpwallet-volatile": ""
+    "payment-from-zerpwallet-volatile": "Le paiement sera prélevé sur votre ZerpWallet ({amount}) {finalAmount} (au dernier moment vérifié, pourrait changer s'il n'est pas accepté pendant un certain temps)"
   },
   "test": {
     "test": "c'est un test"
@@ -1068,7 +1068,7 @@
     "zerp-wallet-pending-txn": "Échec de l'achat alors qu'il y a une demande de retrait en attente",
     "payment-from-zerpwallet": "Le paiement sera prélevé sur votre ZerpWallet ({amount})",
     "buy-confirmation-message": "Etes-vous sûr de vouloir créer un nouveau Zerpmon ?",
-    "xrpl-wallet-not-linked": ""
+    "xrpl-wallet-not-linked": "Veuillez lier un portefeuille XRPL pour créer un nouveau Zerpmon"
   },
   "mint": {
     "mint-opens-in": "La menthe ouvre ses portes",
@@ -1085,7 +1085,7 @@
     "world-boss-total-damage": "Dégâts de tous les temps",
     "hp-remaining": "PV restants",
     "zrp-share": "Partager ZRP",
-    "battle": ""
+    "battle": "Bataille"
   },
   "nft-details-popup": {
     "level": "Niveau"
@@ -1320,8 +1320,8 @@
     "swap-requests": "Demandes d'échange",
     "from-amount": "Du montant",
     "to-amount": "Montant",
-    "cross-chain-withdraw-note": "",
-    "withdrawals-disabled": "",
+    "cross-chain-withdraw-note": "Le traitement des transactions inter-chaînes peut prendre plusieurs minutes.",
+    "withdrawals-disabled": "Les retraits de ZerpWallet ont été désactivés, veuillez ouvrir un ticket dans notre discord officiel",
     "deposit-funds-description-trn": "Remplissez le formulaire ci-dessous pour déposer des fonds sur votre compte",
     "futurepass-not-connected": "Votre FuturePass n'est pas connecté. \nVeuillez connecter votre FuturePass pour déposer des fonds.",
     "trn-not-connected": "L'API Root Network n'est pas connectée ou n'est pas encore prête",
