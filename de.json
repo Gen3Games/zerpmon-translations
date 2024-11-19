@@ -1327,5 +1327,11 @@
     "trn-not-connected": "Die Root-Netzwerk-API ist entweder nicht verbunden oder noch nicht bereit",
     "invalid-amount-deposit": "Ungültiger Einzahlungsbetrag. Der Mindesteinzahlungsbetrag beträgt 0,001 XRP/ZRP.",
     "bridge-notice": "Die Einzahlung von Geldern vom Root Network auf ZerpWallet erfolgt über eine Brücke. Die Überbrückung kostet Zeit und ist kostenpflichtig."
+  },
+  "pre-signing": {
+    "failed-prepare-futurepass-extrinsic": "Die Vorbereitung der FuturePass-Transaktion ist fehlgeschlagen",
+    "insufficient-gas-balance": "Unzureichender Gashaushalt",
+    "failed-sign-and-send": "Die Transaktion ist fehlgeschlagen",
+    "success-sign-and-send": "Die Transaktion war erfolgreich"
   }
 }

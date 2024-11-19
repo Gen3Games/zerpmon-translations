@@ -1327,5 +1327,11 @@
     "trn-not-connected": "L'API Root Network non è connessa o non è ancora pronta",
     "invalid-amount-deposit": "Importo del deposito non valido. L'importo minimo del deposito è 0,001 XRP/ZRP.",
     "bridge-notice": "Il deposito di fondi da The Root Network a ZerpWallet utilizza un bridge. Il bridging richiede tempo e comporta un costo."
+  },
+  "pre-signing": {
+    "failed-prepare-futurepass-extrinsic": "Impossibile preparare la transazione FuturePass",
+    "insufficient-gas-balance": "Bilancio del gas insufficiente",
+    "failed-sign-and-send": "Transazione fallita",
+    "success-sign-and-send": "Transazione riuscita"
   }
 }

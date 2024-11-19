@@ -1327,5 +1327,11 @@
     "trn-not-connected": "ルート ネットワーク API が接続されていないか、まだ準備ができていません。",
     "invalid-amount-deposit": "入金額が無効です。最低入金額は0.001 XRP/ZRPです。",
     "bridge-notice": "The Root Network から ZerpWallet への資金の入金にはブリッジが使用されます。ブリッジングには時間がかかり、料金もかかります。"
+  },
+  "pre-signing": {
+    "failed-prepare-futurepass-extrinsic": "FuturePass トランザクションの準備に失敗しました",
+    "insufficient-gas-balance": "ガスバランスが不十分です",
+    "failed-sign-and-send": "トランザクションが失敗しました",
+    "success-sign-and-send": "トランザクションが成功しました"
   }
 }

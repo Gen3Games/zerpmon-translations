@@ -1327,5 +1327,11 @@
     "trn-not-connected": "The Root Network API is either not connected or not yet ready",
     "invalid-amount-deposit": "Invalid deposit amount. The minimum deposit amount is 0.001 XRP/ZRP.",
     "bridge-notice": "Depositing funds from The Root Network to ZerpWallet uses a bridge. Bridging takes time and incurs a fee."
+  },
+  "pre-signing": {
+    "failed-prepare-futurepass-extrinsic": "Failed to prepare FuturePass transaction",
+    "insufficient-gas-balance": "Insufficient gas balance",
+    "failed-sign-and-send": "Transaction failed",
+    "success-sign-and-send": "Transaction succeeded"
   }
 }

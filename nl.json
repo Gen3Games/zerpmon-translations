@@ -1327,5 +1327,11 @@
     "trn-not-connected": "De Root Network API is niet verbonden of nog niet gereed",
     "invalid-amount-deposit": "Ongeldig stortingsbedrag. Het minimale stortingsbedrag is 0,001 XRP/ZRP.",
     "bridge-notice": "Het storten van geld van The Root Network naar ZerpWallet maakt gebruik van een bridge. Het overbruggen kost tijd en brengt kosten met zich mee."
+  },
+  "pre-signing": {
+    "failed-prepare-futurepass-extrinsic": "Kan FuturePass-transactie niet voorbereiden",
+    "insufficient-gas-balance": "Onvoldoende gasbalans",
+    "failed-sign-and-send": "Transactie mislukt",
+    "success-sign-and-send": "Transactie geslaagd"
   }
 }

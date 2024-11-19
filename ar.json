@@ -1327,5 +1327,11 @@
     "strong": "قوي",
     "useless": "رهيب",
     "weak": "ضعيف"
+  },
+  "pre-signing": {
+    "failed-prepare-futurepass-extrinsic": "فشل في إعداد معاملة FuturePass",
+    "insufficient-gas-balance": "عدم كفاية توازن الغاز",
+    "failed-sign-and-send": "فشلت المعاملة",
+    "success-sign-and-send": "نجحت الصفقة"
   }
 }

@@ -1327,5 +1327,11 @@
     "trn-not-connected": "루트 네트워크 API가 연결되지 않았거나 아직 준비되지 않았습니다.",
     "invalid-amount-deposit": "입금액이 잘못되었습니다. 최소 입금액은 0.001 XRP/ZRP입니다.",
     "bridge-notice": "루트 네트워크에서 ZerpWallet으로 자금을 입금하는 데는 브리지가 사용됩니다. 브리징에는 시간이 걸리고 수수료가 발생합니다."
+  },
+  "pre-signing": {
+    "failed-prepare-futurepass-extrinsic": "FuturePass 거래를 준비하지 못했습니다.",
+    "insufficient-gas-balance": "불충분한 가스 균형",
+    "failed-sign-and-send": "거래 실패",
+    "success-sign-and-send": "거래 성공"
   }
 }
