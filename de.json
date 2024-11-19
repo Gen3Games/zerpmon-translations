@@ -709,7 +709,7 @@
     "tremble-trigger-msg": "{zerpmonName}  ({typeString})  ist am Zittern 🟥 ({movePercent}%)",
     "confirm-forfeit": "Wenn du aufgibst, wird das Battle automatisch als Niederlage gewertet. Bist du sicher?",
     "no-opponents-found-deck-invalid": "Keine Gegner gefunden. Stelle bitte sicher, dass dein Deck korrekt aufgestellt ist",
-    "mp-earned": ""
+    "mp-earned": "MP verdient"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -803,12 +803,12 @@
     "trade-successful": "Handel erfolgreich abgeschlossen, bitte überprüfe dein Inventar für die erhaltenen Objekte",
     "confirm-offer-accept": "Bist du sicher, dass du das Angebot von {offerCreator} annehmen möchtest?",
     "trade-items-not-added": "Keine Objekte zum Handeln gefunden. Füge welche hinzu, indem du den + Button drückst",
-    "xrpcafe-collections": "",
-    "description": "",
-    "xrp-cafe": "",
-    "tradeverse": "",
-    "tradeverse-collections": "",
-    "description-tradeverse": ""
+    "xrpcafe-collections": "XRP Cafe-Kollektionen",
+    "description": "Entdecke die verschiedenen verfügbaren Kollektionen bei XRP Cafe",
+    "xrp-cafe": "XRP Cafe",
+    "tradeverse": "Tradeverse",
+    "tradeverse-collections": "Tradeverse-Kollektionen",
+    "description-tradeverse": "Entdecke die verschiedenen verfügbaren Kollektionen bei Tradeverse"
   },
   "manage-listing": {
     "title": "Meine NFT's",
