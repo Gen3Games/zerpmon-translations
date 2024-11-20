@@ -503,7 +503,9 @@
     "boss-deck": "Mazzo Boss del Mondo",
     "add-boss-deck": "Aggiungi il mazzo Boss del mondo",
     "rename-boss-deck": "Rinomina il mazzo Boss del mondo",
-    "clear-boss-deck": "Mazzo Boss del Mondo Pulito"
+    "clear-boss-deck": "Mazzo Boss del Mondo Pulito",
+    "no-memecoin-team-joined-error": "",
+    "memecoin-tourney-link": ""
   },
   "edit-profile": {
     "basic-info": "Informazioni basilari",

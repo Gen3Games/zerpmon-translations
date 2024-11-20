@@ -240,7 +240,9 @@
     "boss-deck": "World Boss Deck",
     "add-boss-deck": "Add World Boss Deck",
     "rename-boss-deck": "Rename World Boss Deck",
-    "clear-boss-deck": "Clear World Boss Deck"
+    "clear-boss-deck": "Clear World Boss Deck",
+    "no-memecoin-team-joined-error": "You haven't joined any Memecoin Tourney Team yet. Select one to continue!",
+    "memecoin-tourney-link": "Click here to view available teams"
   },
   "store": {
     "title": "Store",

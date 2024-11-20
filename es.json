@@ -240,7 +240,9 @@
     "boss-deck": "Mazo de jefe mundial",
     "add-boss-deck": "Agregar mazo de jefe mundial",
     "rename-boss-deck": "Cambiar el nombre del mazo de jefe mundial",
-    "clear-boss-deck": "Limpiar el mazo del jefe mundial"
+    "clear-boss-deck": "Limpiar el mazo del jefe mundial",
+    "no-memecoin-team-joined-error": "",
+    "memecoin-tourney-link": ""
   },
   "store": {
     "title": "Tienda",

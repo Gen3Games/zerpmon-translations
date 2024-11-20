@@ -503,7 +503,9 @@
     "boss-deck": "वर्ल्ड बॉस डेक",
     "add-boss-deck": "वर्ल्ड बॉस डेक जोड़ें",
     "rename-boss-deck": "वर्ल्ड बॉस डेक का नाम बदलें",
-    "clear-boss-deck": "क्लियर वर्ल्ड बॉस डेक"
+    "clear-boss-deck": "क्लियर वर्ल्ड बॉस डेक",
+    "no-memecoin-team-joined-error": "",
+    "memecoin-tourney-link": ""
   },
   "edit-profile": {
     "basic-info": "बुनियादी जानकारी",

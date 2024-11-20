@@ -240,7 +240,9 @@
     "boss-deck": "World Boss-Deck",
     "add-boss-deck": "World Boss-Deck hinzufügen",
     "rename-boss-deck": "World Boss-Deck umbenennen",
-    "clear-boss-deck": "World Boss-Deck löschen"
+    "clear-boss-deck": "World Boss-Deck löschen",
+    "no-memecoin-team-joined-error": "",
+    "memecoin-tourney-link": ""
   },
   "store": {
     "title": "Shop",

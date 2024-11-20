@@ -240,7 +240,9 @@
     "boss-deck": "世界首领套牌",
     "add-boss-deck": "添加世界Boss套牌",
     "rename-boss-deck": "重命名世界Boss套牌",
-    "clear-boss-deck": "清除世界 Boss 套牌"
+    "clear-boss-deck": "清除世界 Boss 套牌",
+    "no-memecoin-team-joined-error": "",
+    "memecoin-tourney-link": ""
   },
   "store": {
     "title": "商店",

@@ -503,7 +503,9 @@
     "boss-deck": "Wereld baas deck",
     "add-boss-deck": "Voeg het World Boss-deck toe",
     "rename-boss-deck": "Hernoem het World Boss-deck",
-    "clear-boss-deck": "Duidelijk wereldbaasdek"
+    "clear-boss-deck": "Duidelijk wereldbaasdek",
+    "no-memecoin-team-joined-error": "",
+    "memecoin-tourney-link": ""
   },
   "edit-profile": {
     "basic-info": "Basis informatie",

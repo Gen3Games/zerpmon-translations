@@ -418,7 +418,9 @@
     "boss-deck": "Deck de boss mondial",
     "add-boss-deck": "Ajouter un deck de boss mondial",
     "rename-boss-deck": "Renommer le deck de boss mondial",
-    "clear-boss-deck": "Supprimer le deck de boss du monde"
+    "clear-boss-deck": "Supprimer le deck de boss du monde",
+    "no-memecoin-team-joined-error": "",
+    "memecoin-tourney-link": ""
   },
   "edit-profile": {
     "basic-info": "Informations de base",

@@ -503,7 +503,9 @@
     "xscape-nft": "XscapeNFT",
     "zerpmon-already-in-deck": "Zerpmon موجود بالفعل على سطح السفينة",
     "zerpmon-already-in-main-deck": "تكرار zerpmon غير مسموح به في مقاعد البدلاء",
-    "zerpmon-card": "بطاقة زيربمون"
+    "zerpmon-card": "بطاقة زيربمون",
+    "no-memecoin-team-joined-error": "",
+    "memecoin-tourney-link": ""
   },
   "edit-profile": {
     "basic-info": "معلومات أساسية",

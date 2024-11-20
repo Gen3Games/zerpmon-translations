@@ -240,7 +240,9 @@
     "boss-deck": "월드보스 덱",
     "add-boss-deck": "월드보스 덱 추가",
     "rename-boss-deck": "월드보스 덱 이름 변경",
-    "clear-boss-deck": "월드보스 덱 클리어"
+    "clear-boss-deck": "월드보스 덱 클리어",
+    "no-memecoin-team-joined-error": "",
+    "memecoin-tourney-link": ""
   },
   "store": {
     "title": "스토어",

@@ -240,7 +240,9 @@
     "boss-deck": "ワールドボスデッキ",
     "add-boss-deck": "ワールドボスデッキを追加",
     "rename-boss-deck": "ワールドボスデッキの名前を変更",
-    "clear-boss-deck": "ワールドボスデッキをクリア"
+    "clear-boss-deck": "ワールドボスデッキをクリア",
+    "no-memecoin-team-joined-error": "",
+    "memecoin-tourney-link": ""
   },
   "store": {
     "title": "ストア",
