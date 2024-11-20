@@ -565,7 +565,9 @@
     "wins": "Victoires",
     "zerpmon-not-set": "Zerpmon",
     "zerpmons": "Zerpmon",
-    "mp": "Points de maîtrise"
+    "mp": "Points de maîtrise",
+    "player-count": "",
+    "player-count-short": ""
   },
   "leaderboard": {
     "dropdown-mission": "Mission de tous les temps",

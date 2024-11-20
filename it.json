@@ -679,7 +679,9 @@
     "wins": "Vince",
     "zerpmon-not-set": "Zerpmon",
     "zerpmons": "Zerpmon",
-    "mp": "Punti maestria"
+    "mp": "Punti maestria",
+    "player-count": "",
+    "player-count-short": ""
   },
   "leaderboard": {
     "dropdown-mission": "Missione di tutti i tempi",

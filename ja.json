@@ -363,7 +363,9 @@
     "gym-points": "ジムポイント",
     "gym-points-short": "GP",
     "gym-tier": "階層",
-    "mp": "マスタリーポイント"
+    "mp": "マスタリーポイント",
+    "player-count": "",
+    "player-count-short": ""
   },
   "analytics": {
     "analytics": "分析",

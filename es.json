@@ -363,7 +363,9 @@
     "gym-points": "Puntos de gimnasio",
     "gym-points-short": "médico de cabecera",
     "gym-tier": "Nivel",
-    "mp": "Puntos de maestría"
+    "mp": "Puntos de maestría",
+    "player-count": "",
+    "player-count-short": ""
   },
   "analytics": {
     "analytics": "Análisis",

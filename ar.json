@@ -702,7 +702,9 @@
     "win-rate": "معدل الفوز",
     "wins": "انتصارات",
     "zerpmon-not-set": "زيربمون",
-    "zerpmons": "زيربمون"
+    "zerpmons": "زيربمون",
+    "player-count": "",
+    "player-count-short": ""
   },
   "leaderboard": {
     "dropdown-mission": "مهمة طوال الوقت",

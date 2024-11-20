@@ -679,7 +679,9 @@
     "wins": "जीत",
     "zerpmon-not-set": "ज़र्पमोन",
     "zerpmons": "ज़र्पमोन",
-    "mp": "महारत अंक"
+    "mp": "महारत अंक",
+    "player-count": "",
+    "player-count-short": ""
   },
   "leaderboard": {
     "dropdown-mission": "सर्वकालिक मिशन",

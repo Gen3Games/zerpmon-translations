@@ -363,7 +363,9 @@
     "gym-points": "Gym-Punkte",
     "gym-points-short": "TP",
     "gym-tier": "Stufe",
-    "mp": "Mastery Punkte"
+    "mp": "Mastery Punkte",
+    "player-count": "",
+    "player-count-short": ""
   },
   "analytics": {
     "analytics": "Auswertung",

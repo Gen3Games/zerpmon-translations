@@ -679,7 +679,9 @@
     "wins": "wint",
     "zerpmon-not-set": "Zerpmon",
     "zerpmons": "Zerpmon",
-    "mp": "Meesterschapspunten"
+    "mp": "Meesterschapspunten",
+    "player-count": "",
+    "player-count-short": ""
   },
   "leaderboard": {
     "dropdown-mission": "Missie aller tijden",

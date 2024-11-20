@@ -363,7 +363,9 @@
     "gym-points": "체육관 포인트",
     "gym-points-short": "GP",
     "gym-tier": "층",
-    "mp": "마스터리 포인트"
+    "mp": "마스터리 포인트",
+    "player-count": "",
+    "player-count-short": ""
   },
   "analytics": {
     "analytics": "분석",
