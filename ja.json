@@ -385,7 +385,9 @@
     "jackpot-count": "ジャックポット額",
     "zrp-price": "ZRP価格",
     "floor-price": "Zerpmon最低価格",
-    "distro-zrp-balance": "{ディストリビューション} ZRP 残高 ({アドレス})"
+    "distro-zrp-balance": "{ディストリビューション} ZRP 残高 ({アドレス})",
+    "trainers-floor-price": "",
+    "equipment-floor-price": ""
   },
   "inventory": {
     "title": "インベントリ",

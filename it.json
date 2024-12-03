@@ -15,7 +15,9 @@
     "zerpmon-count": "Numero di Zerpmon",
     "zerpmons-owned": "NFT Zerpmon",
     "zrp-balance": "Saldo ZRP",
-    "zrp-price": "Prezzo ZRP"
+    "zrp-price": "Prezzo ZRP",
+    "trainers-floor-price": "",
+    "equipment-floor-price": ""
   },
   "app": {
     "close": "Vicino",

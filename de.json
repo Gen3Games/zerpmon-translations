@@ -385,7 +385,9 @@
     "jackpot-count": "Im Jackpot gewonnene ZRP",
     "zrp-price": "ZRP-Kurs",
     "floor-price": "Zerpmon-Floorpreis",
-    "zrp-balance": "ZRP-Guthaben"
+    "zrp-balance": "ZRP-Guthaben",
+    "trainers-floor-price": "",
+    "equipment-floor-price": ""
   },
   "inventory": {
     "title": "Inventar",

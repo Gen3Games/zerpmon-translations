@@ -385,7 +385,9 @@
     "jackpot-count": "잭팟에서 획득한 ZRP ",
     "zrp-price": "ZRP 가격",
     "floor-price": "Zerpmon 최저 가격",
-    "distro-zrp-balance": "{distro} ZRP 잔액 ({주소})"
+    "distro-zrp-balance": "{distro} ZRP 잔액 ({주소})",
+    "trainers-floor-price": "",
+    "equipment-floor-price": ""
   },
   "inventory": {
     "title": "인벤토리",

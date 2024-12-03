@@ -385,7 +385,9 @@
     "jackpot-count": "在累积奖中赢得的ZRP",
     "zrp-price": "ZRP价格",
     "floor-price": "Zerpmon底价",
-    "zrp-balance": "结余ZRP"
+    "zrp-balance": "结余ZRP",
+    "trainers-floor-price": "",
+    "equipment-floor-price": ""
   },
   "inventory": {
     "title": "库存",

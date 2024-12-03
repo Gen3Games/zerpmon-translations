@@ -385,7 +385,9 @@
     "jackpot-count": "ZRP Won in Jackpot",
     "zrp-price": "ZRP Price",
     "floor-price": "Zerpmon Floor Price",
-    "zrp-balance": "ZRP Balance"
+    "zrp-balance": "ZRP Balance",
+    "trainers-floor-price": "Trainers Floor Price",
+    "equipment-floor-price": "Equipment Floor Price"
   },
   "inventory": {
     "title": "Inventory",

@@ -225,7 +225,9 @@
     "zerpmon-count": "ज़र्पमोन की संख्या",
     "zerpmons-owned": "ज़र्पमोन एनएफटी",
     "zrp-balance": "जेआरपी बैलेंस",
-    "zrp-price": "जेआरपी कीमत"
+    "zrp-price": "जेआरपी कीमत",
+    "trainers-floor-price": "",
+    "equipment-floor-price": ""
   },
   "app": {
     "close": "बंद करना",
