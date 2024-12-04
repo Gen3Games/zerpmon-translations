@@ -241,8 +241,8 @@
     "add-boss-deck": "World Boss-Deck hinzufügen",
     "rename-boss-deck": "World Boss-Deck umbenennen",
     "clear-boss-deck": "World Boss-Deck löschen",
-    "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": ""
+    "no-memecoin-team-joined-error": "Du bist noch kein Memecoin Tourney Team beigetreten. Wähle eins aus, um fortzufahren!",
+    "memecoin-tourney-link": "Klicke hier, um die verfügbaren Teams anzuzeigen"
   },
   "store": {
     "title": "Shop",
@@ -366,8 +366,8 @@
     "gym-points-short": "TP",
     "gym-tier": "Stufe",
     "mp": "Mastery Punkte",
-    "player-count": "",
-    "player-count-short": ""
+    "player-count": "Gesamtzahl Spieler",
+    "player-count-short": "Spieler ges."
   },
   "analytics": {
     "analytics": "Auswertung",
