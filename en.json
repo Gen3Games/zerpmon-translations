@@ -1332,7 +1332,9 @@
     "futurepass-not-connected": "Your FuturePass is not connected. Please connect your FuturePass to deposit funds.",
     "trn-not-connected": "The Root Network API is either not connected or not yet ready",
     "invalid-amount-deposit": "Invalid deposit amount. The minimum deposit amount is 0.001 XRP/ZRP.",
-    "bridge-notice": "Depositing funds from The Root Network to ZerpWallet uses a bridge. Bridging takes time and incurs a fee."
+    "bridge-notice": "Depositing funds from The Root Network to ZerpWallet uses a bridge. Bridging takes time and incurs a fee.",
+    "daily-withdrawal-limit-reached": "Daily withdrawal limit reached ({limitAmount}).",
+    "user-not-active": "Withdrawals not allowed for inactive accounts."
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Failed to prepare FuturePass transaction",

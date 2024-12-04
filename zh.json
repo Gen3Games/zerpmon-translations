@@ -1332,7 +1332,9 @@
     "futurepass-not-connected": "您的 FuturePass 未连接。\n请连接您的 FuturePass 存入资金。",
     "trn-not-connected": "根网络 API 未连接或尚未准备好",
     "invalid-amount-deposit": "存款金额无效。\n最低充值金额为 0.001 XRP/ZRP。",
-    "bridge-notice": "使用桥将资金从 The Root Network 存入 ZerpWallet。\n桥接需要时间并产生费用。"
+    "bridge-notice": "使用桥将资金从 The Root Network 存入 ZerpWallet。\n桥接需要时间并产生费用。",
+    "daily-withdrawal-limit-reached": "",
+    "user-not-active": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "无法准备 FuturePass 交易",

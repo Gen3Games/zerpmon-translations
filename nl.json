@@ -1332,7 +1332,9 @@
     "futurepass-not-connected": "Uw FuturePass is niet verbonden. \nSluit uw FuturePass aan om geld te storten.",
     "trn-not-connected": "De Root Network API is niet verbonden of nog niet gereed",
     "invalid-amount-deposit": "Ongeldig stortingsbedrag. Het minimale stortingsbedrag is 0,001 XRP/ZRP.",
-    "bridge-notice": "Het storten van geld van The Root Network naar ZerpWallet maakt gebruik van een bridge. Het overbruggen kost tijd en brengt kosten met zich mee."
+    "bridge-notice": "Het storten van geld van The Root Network naar ZerpWallet maakt gebruik van een bridge. Het overbruggen kost tijd en brengt kosten met zich mee.",
+    "daily-withdrawal-limit-reached": "",
+    "user-not-active": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Kan FuturePass-transactie niet voorbereiden",

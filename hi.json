@@ -1332,7 +1332,9 @@
     "futurepass-not-connected": "आपका FuturePass कनेक्ट नहीं है. \nकृपया धनराशि जमा करने के लिए अपना FuturePass कनेक्ट करें।",
     "trn-not-connected": "रूट नेटवर्क एपीआई या तो कनेक्ट नहीं है या अभी तक तैयार नहीं है",
     "invalid-amount-deposit": "अमान्य जमा राशि. न्यूनतम जमा राशि 0.001 XRP/ZRP है।",
-    "bridge-notice": "रूट नेटवर्क से ZerpWallet में धनराशि जमा करने के लिए एक ब्रिज का उपयोग किया जाता है। ब्रिजिंग में समय लगता है और शुल्क भी लगता है।"
+    "bridge-notice": "रूट नेटवर्क से ZerpWallet में धनराशि जमा करने के लिए एक ब्रिज का उपयोग किया जाता है। ब्रिजिंग में समय लगता है और शुल्क भी लगता है।",
+    "daily-withdrawal-limit-reached": "",
+    "user-not-active": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass लेनदेन तैयार करने में विफल",

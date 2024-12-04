@@ -1332,7 +1332,9 @@
     "futurepass-not-connected": "Ihr FuturePass ist nicht verbunden. \nBitte verbinden Sie Ihren FuturePass, um Geld einzuzahlen.",
     "trn-not-connected": "Die Root-Netzwerk-API ist entweder nicht verbunden oder noch nicht bereit",
     "invalid-amount-deposit": "Ungültiger Einzahlungsbetrag. Der Mindesteinzahlungsbetrag beträgt 0,001 XRP/ZRP.",
-    "bridge-notice": "Die Einzahlung von Geldern vom Root Network auf ZerpWallet erfolgt über eine Brücke. Die Überbrückung kostet Zeit und ist kostenpflichtig."
+    "bridge-notice": "Die Einzahlung von Geldern vom Root Network auf ZerpWallet erfolgt über eine Brücke. Die Überbrückung kostet Zeit und ist kostenpflichtig.",
+    "daily-withdrawal-limit-reached": "",
+    "user-not-active": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Die Vorbereitung der FuturePass-Transaktion ist fehlgeschlagen",

@@ -1311,7 +1311,9 @@
     "xrpl-trustline-warning": "يرجى التأكد من وجود خط الثقة الخاص بك مع {currency}. \nستفشل المعاملة إذا لم يتم تعيين خط الثقة.",
     "zerpwallet": "ZerpWallet",
     "zerpwallet-history": "تاريخ محفظة زيرب",
-    "zrp-balance": "رصيد ZRP"
+    "zrp-balance": "رصيد ZRP",
+    "daily-withdrawal-limit-reached": "",
+    "user-not-active": ""
   },
   "world-boss": {
     "battle": "معركة",
