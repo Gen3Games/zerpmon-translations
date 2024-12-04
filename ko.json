@@ -386,8 +386,8 @@
     "zrp-price": "ZRP 가격",
     "floor-price": "Zerpmon 최저 가격",
     "distro-zrp-balance": "{distro} ZRP 잔액 ({주소})",
-    "trainers-floor-price": "",
-    "equipment-floor-price": ""
+    "trainers-floor-price": "트레이너 플로어 가격",
+    "equipment-floor-price": "장비 가격"
   },
   "inventory": {
     "title": "인벤토리",

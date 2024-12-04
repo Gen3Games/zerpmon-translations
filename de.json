@@ -386,8 +386,8 @@
     "zrp-price": "ZRP-Kurs",
     "floor-price": "Zerpmon-Floorpreis",
     "zrp-balance": "ZRP-Guthaben",
-    "trainers-floor-price": "",
-    "equipment-floor-price": ""
+    "trainers-floor-price": "Mindestpreis für Trainer",
+    "equipment-floor-price": "Grundpreis der Ausrüstung"
   },
   "inventory": {
     "title": "Inventar",

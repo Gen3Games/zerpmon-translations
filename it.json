@@ -16,8 +16,8 @@
     "zerpmons-owned": "NFT Zerpmon",
     "zrp-balance": "Saldo ZRP",
     "zrp-price": "Prezzo ZRP",
-    "trainers-floor-price": "",
-    "equipment-floor-price": ""
+    "trainers-floor-price": "Prezzo minimo per i formatori",
+    "equipment-floor-price": "Prezzo minimo dell'attrezzatura"
   },
   "app": {
     "close": "Vicino",
