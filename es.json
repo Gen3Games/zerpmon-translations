@@ -385,7 +385,9 @@
     "jackpot-count": "ZRP Ganados en el Jackpot",
     "zrp-price": "Precio de ZRP",
     "floor-price": "Precio Mínimo de Zerpmon",
-    "zrp-balance": "Balance ZRP"
+    "zrp-balance": "Balance ZRP",
+    "trainers-floor-price": "Entrenadores Precio Piso",
+    "equipment-floor-price": "Precio mínimo del equipo"
   },
   "inventory": {
     "title": "Inventario",

@@ -15,7 +15,9 @@
     "zerpmon-count": "عدد الزربمون",
     "zerpmons-owned": "زيربمون NFTs",
     "zrp-balance": "رصيد ZRP",
-    "zrp-price": "سعر ZRP"
+    "zrp-price": "سعر ZRP",
+    "trainers-floor-price": "سعر أرضية المدربين",
+    "equipment-floor-price": "سعر أرضية المعدات"
   },
   "app": {
     "close": "يغلق",

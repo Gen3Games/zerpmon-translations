@@ -15,7 +15,9 @@
     "zerpmon-count": "Nombre de Zerpmon",
     "zerpmons-owned": "NFT Zerpmon",
     "zrp-balance": "Solde ZRP",
-    "zrp-price": "Prix ​​ZRP"
+    "zrp-price": "Prix ​​ZRP",
+    "trainers-floor-price": "Prix ​​plancher des baskets",
+    "equipment-floor-price": "Prix ​​plancher de l'équipement"
   },
   "app": {
     "close": "Fermer",
