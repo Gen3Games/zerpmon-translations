@@ -227,7 +227,10 @@
     "zrp-balance": "जेआरपी बैलेंस",
     "zrp-price": "जेआरपी कीमत",
     "trainers-floor-price": "प्रशिक्षकों का न्यूनतम मूल्य",
-    "equipment-floor-price": "उपकरण न्यूनतम मूल्य"
+    "equipment-floor-price": "उपकरण न्यूनतम मूल्य",
+    "zerpmon-evolved-trn": "Zerpmon TRN पर विकसित हुआ",
+    "trainers-evolved-trn": "टीआरएन पर प्रशिक्षक विकसित हुए",
+    "equipment-evolved-trn": "टीआरएन पर उपकरण"
   },
   "app": {
     "close": "बंद करना",

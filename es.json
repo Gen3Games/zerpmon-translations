@@ -395,7 +395,10 @@
     "floor-price": "Precio Mínimo de Zerpmon",
     "zrp-balance": "Balance ZRP",
     "trainers-floor-price": "Entrenadores Precio Piso",
-    "equipment-floor-price": "Precio mínimo del equipo"
+    "equipment-floor-price": "Precio mínimo del equipo",
+    "zerpmon-evolved-trn": "Zerpmon evolucionó en TRN",
+    "trainers-evolved-trn": "Los entrenadores evolucionaron en TRN",
+    "equipment-evolved-trn": "Equipo en TRN"
   },
   "inventory": {
     "title": "Inventario",

@@ -17,7 +17,10 @@
     "zrp-balance": "ZRP-saldo",
     "zrp-price": "ZRP-prijs",
     "trainers-floor-price": "Trainers vloerprijs",
-    "equipment-floor-price": "Uitrusting Vloerprijs"
+    "equipment-floor-price": "Uitrusting Vloerprijs",
+    "zerpmon-evolved-trn": "Zerpmon is geëvolueerd op TRN",
+    "trainers-evolved-trn": "Trainers geëvolueerd op TRN",
+    "equipment-evolved-trn": "Apparatuur op TRN"
   },
   "app": {
     "close": "Dichtbij",

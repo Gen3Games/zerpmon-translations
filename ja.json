@@ -395,7 +395,10 @@
     "floor-price": "Zerpmon最低価格",
     "distro-zrp-balance": "{ディストリビューション} ZRP 残高 ({アドレス})",
     "trainers-floor-price": "トレーナーフロア料金",
-    "equipment-floor-price": "機器最低価格"
+    "equipment-floor-price": "機器最低価格",
+    "zerpmon-evolved-trn": "TRNでゼルモンが進化",
+    "trainers-evolved-trn": "TRN で進化したトレーナー",
+    "equipment-evolved-trn": "TRNの設備"
   },
   "inventory": {
     "title": "インベントリ",

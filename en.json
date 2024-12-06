@@ -392,10 +392,13 @@
     "loan-zrp-burnt-count": "Loan ZRP Burned",
     "jackpot-count": "ZRP Won in Jackpot",
     "zrp-price": "ZRP Price",
-    "floor-price": "Zerpmon Floor Price",
+    "floor-price": "Zerpmon Genesis on XRPL",
     "zrp-balance": "ZRP Balance",
-    "trainers-floor-price": "Trainers Floor Price",
-    "equipment-floor-price": "Equipment Floor Price"
+    "trainers-floor-price": "Trainer Genesis on XRPL",
+    "equipment-floor-price": "Equipment on XRPL",
+    "zerpmon-evolved-trn": "Zerpmon Evolved on TRN",
+    "trainers-evolved-trn": "Trainers Evolved on TRN",
+    "equipment-evolved-trn": "Equipment on TRN"
   },
   "inventory": {
     "title": "Inventory",

@@ -17,7 +17,10 @@
     "zrp-balance": "رصيد ZRP",
     "zrp-price": "سعر ZRP",
     "trainers-floor-price": "سعر أرضية المدربين",
-    "equipment-floor-price": "سعر أرضية المعدات"
+    "equipment-floor-price": "سعر أرضية المعدات",
+    "zerpmon-evolved-trn": "تطورت Zerpmon على TRN",
+    "trainers-evolved-trn": "تطور المدربين على TRN",
+    "equipment-evolved-trn": "المعدات على TRN"
   },
   "app": {
     "close": "يغلق",

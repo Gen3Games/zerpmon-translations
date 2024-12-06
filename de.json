@@ -395,7 +395,10 @@
     "floor-price": "Zerpmon-Floorpreis",
     "zrp-balance": "ZRP-Guthaben",
     "trainers-floor-price": "Mindestpreis für Trainer",
-    "equipment-floor-price": "Grundpreis der Ausrüstung"
+    "equipment-floor-price": "Grundpreis der Ausrüstung",
+    "zerpmon-evolved-trn": "Zerpmon wurde auf TRN entwickelt",
+    "trainers-evolved-trn": "Trainer haben sich auf TRN weiterentwickelt",
+    "equipment-evolved-trn": "Ausrüstung auf TRN"
   },
   "inventory": {
     "title": "Inventar",
