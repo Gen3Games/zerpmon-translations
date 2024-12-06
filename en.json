@@ -21,7 +21,15 @@
     "trainer": "Trainers",
     "users": "Users",
     "sign-out-success": "You have signed out",
-    "sign-out": "Sign Out"
+    "sign-out": "Sign Out",
+    "introductory-tutorial": "Are you sure you want to go through the Introductory Zerpmon tutorial?",
+    "zerpmon-tutorial": "Zerpmon Tutorial",
+    "sign-in-with-wallet": "You can sign in with your FuturePass or XRPL wallets.\n If you are not sure sign in with your X account",
+    "not-signed-in": "Not Signed In",
+    "start-tutorial": "Let's get started with the Introductory Zerpmon Tour",
+    "welcome-to-zerpmon": "Welcome To Zerpmon",
+    "begin": "Begin",
+    "later": "Later"
   },
   "sidebar": {
     "home": "Home",
@@ -1422,6 +1430,9 @@
     "gym-battle-msg-9": "Aquanix has used a Purple move that counters Gold moves. This specific move doesn't provide buffs or debuffs but still increases the user's Blue move chance.",
     "gym-battle-msg-10": "With Sectagon's high damage and strong equipment synergy, Aquanix's best chance to win is if Sectagon misses.",
     "gym-battle-msg-11": "Excellent! Aquanix capitalized on Sectagon's miss and secured the victory. This concludes the tutorial gym battle—congratulations!",
-    "gym-battle-msg-12": "You can now return to the Home Screen or continue your journey by facing a Trial Rush Challenge."
+    "gym-battle-msg-12": "You can now return to the Home Screen or continue your journey by facing a Trial Rush Challenge.",
+    "exit-tutorial": "Are you sure you want to exit the Tutorial ?",
+    "yes": "Yes",
+    "no": "No"
   }
 }
