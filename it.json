@@ -518,7 +518,9 @@
     "rename-boss-deck": "Rinomina il mazzo Boss del mondo",
     "clear-boss-deck": "Mazzo Boss del Mondo Pulito",
     "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": ""
+    "memecoin-tourney-link": "",
+    "cannot-mix-onchain-and-offchain-nft": "",
+    "offchain-nfts-not-allwed": ""
   },
   "edit-profile": {
     "basic-info": "Informazioni basilari",

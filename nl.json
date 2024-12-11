@@ -518,7 +518,9 @@
     "rename-boss-deck": "Hernoem het World Boss-deck",
     "clear-boss-deck": "Duidelijk wereldbaasdek",
     "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": ""
+    "memecoin-tourney-link": "",
+    "cannot-mix-onchain-and-offchain-nft": "",
+    "offchain-nfts-not-allwed": ""
   },
   "edit-profile": {
     "basic-info": "Basis informatie",

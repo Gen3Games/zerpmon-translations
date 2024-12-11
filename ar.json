@@ -518,7 +518,9 @@
     "zerpmon-already-in-main-deck": "تكرار zerpmon غير مسموح به في مقاعد البدلاء",
     "zerpmon-card": "بطاقة زيربمون",
     "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": ""
+    "memecoin-tourney-link": "",
+    "cannot-mix-onchain-and-offchain-nft": "",
+    "offchain-nfts-not-allwed": ""
   },
   "edit-profile": {
     "basic-info": "معلومات أساسية",

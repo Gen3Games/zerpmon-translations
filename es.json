@@ -250,7 +250,9 @@
     "rename-boss-deck": "Cambiar el nombre del mazo de jefe mundial",
     "clear-boss-deck": "Limpiar el mazo del jefe mundial",
     "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": ""
+    "memecoin-tourney-link": "",
+    "cannot-mix-onchain-and-offchain-nft": "",
+    "offchain-nfts-not-allwed": ""
   },
   "store": {
     "title": "Tienda",

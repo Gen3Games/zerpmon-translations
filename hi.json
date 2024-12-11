@@ -518,7 +518,9 @@
     "rename-boss-deck": "वर्ल्ड बॉस डेक का नाम बदलें",
     "clear-boss-deck": "क्लियर वर्ल्ड बॉस डेक",
     "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": ""
+    "memecoin-tourney-link": "",
+    "cannot-mix-onchain-and-offchain-nft": "",
+    "offchain-nfts-not-allwed": ""
   },
   "edit-profile": {
     "basic-info": "बुनियादी जानकारी",

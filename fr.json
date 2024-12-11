@@ -433,7 +433,9 @@
     "rename-boss-deck": "Renommer le deck de boss mondial",
     "clear-boss-deck": "Supprimer le deck de boss du monde",
     "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": ""
+    "memecoin-tourney-link": "",
+    "cannot-mix-onchain-and-offchain-nft": "",
+    "offchain-nfts-not-allwed": ""
   },
   "edit-profile": {
     "basic-info": "Informations de base",

@@ -250,7 +250,9 @@
     "rename-boss-deck": "Rename World Boss Deck",
     "clear-boss-deck": "Clear World Boss Deck",
     "no-memecoin-team-joined-error": "You haven't joined any Memecoin Tourney Team yet. Select one to continue!",
-    "memecoin-tourney-link": "Click here to view available teams"
+    "memecoin-tourney-link": "Click here to view available teams",
+    "cannot-mix-onchain-and-offchain-nft": "Cannot mix Onchain and Offchain NFTs",
+    "offchain-nfts-not-allwed": "Offchain NFTs not allowed"
   },
   "store": {
     "title": "Store",
