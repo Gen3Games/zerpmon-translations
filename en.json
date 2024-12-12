@@ -1438,6 +1438,9 @@
     "gym-battle-msg-12": "You can now return to the Home Screen or continue your journey by facing a Trial Rush Challenge.",
     "exit-tutorial": "Are you sure you want to exit the Tutorial ?",
     "yes": "Yes",
-    "no": "No"
+    "no": "No",
+    "zerpmon-trainer-rewards": "Zerpmon and Trainer Rewards!",
+    "select-zerpmon-trainer": "Congrats on completing the tutorial! As a reward select 3 Zerpmon and 1 Trainer",
+    "claim": "Claim"
   }
 }

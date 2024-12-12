@@ -1438,6 +1438,9 @@
     "gym-battle-msg-12": "Vous pouvez maintenant revenir à l'écran d'accueil ou continuer votre voyage en relevant un défi Trial Rush.",
     "exit-tutorial": "Etes-vous sûr de vouloir quitter le didacticiel ?",
     "yes": "Oui",
-    "no": "Non"
+    "no": "Non",
+    "zerpmon-trainer-rewards": "Récompenses de Zerpmon et de dresseur !",
+    "select-zerpmon-trainer": "Félicitations, vous avez terminé le didacticiel ! \nEn récompense, sélectionnez 3 Zerpmon et 1 Dresseur",
+    "claim": "Réclamer"
   }
 }

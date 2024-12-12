@@ -1438,6 +1438,9 @@
     "gym-battle-msg-12": "Je kunt nu terugkeren naar het startscherm of je reis voortzetten door een Trial Rush-uitdaging aan te gaan.",
     "exit-tutorial": "Weet u zeker dat u de Tutorial wilt afsluiten?",
     "yes": "Ja",
-    "no": "Nee"
+    "no": "Nee",
+    "zerpmon-trainer-rewards": "Zerpmon- en Trainerbeloningen!",
+    "select-zerpmon-trainer": "Gefeliciteerd met het voltooien van de tutorial! \nAls beloning selecteer je 3 Zerpmon en 1 Trainer",
+    "claim": "Claim"
   }
 }

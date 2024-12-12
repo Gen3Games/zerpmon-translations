@@ -1438,6 +1438,9 @@
     "gym-battle-msg-12": "您现在可以返回主屏幕或通过面对“试炼冲刺”挑战来继续您的旅程。",
     "exit-tutorial": "您确定要退出教程吗？",
     "yes": "是的",
-    "no": "不"
+    "no": "不",
+    "zerpmon-trainer-rewards": "泽拉普兽和训练家奖励！",
+    "select-zerpmon-trainer": "恭喜您完成本教程！\n作为奖励选择 3 只泽拉普兽和 1 名训练家",
+    "claim": "宣称"
   }
 }

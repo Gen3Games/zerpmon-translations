@@ -1438,6 +1438,9 @@
     "gym-battle-msg-12": "Sie können jetzt zum Startbildschirm zurückkehren oder Ihre Reise fortsetzen, indem Sie sich einer Trial Rush Challenge stellen.",
     "exit-tutorial": "Möchten Sie das Tutorial wirklich verlassen?",
     "yes": "Ja",
-    "no": "NEIN"
+    "no": "NEIN",
+    "zerpmon-trainer-rewards": "Zerpmon- und Trainer-Belohnungen!",
+    "select-zerpmon-trainer": "Herzlichen Glückwunsch zum Abschluss des Tutorials! \nWählen Sie als Belohnung 3 Zerpmon und 1 Trainer aus",
+    "claim": "Beanspruchen"
   }
 }
