@@ -1441,6 +1441,8 @@
     "no": "いいえ",
     "zerpmon-trainer-rewards": "ゼルモンとトレーナー報酬！",
     "select-zerpmon-trainer": "チュートリアルの完了おめでとうございます!\n報酬としてゼルモン3体とトレーナー1体を選択",
-    "claim": "請求"
+    "claim": "請求",
+    "untradeble-nfts-note": "これらは、オフライン バリアントでゲームをプレイできるようにする、トレード不可能なオフチェーン アセットになります。",
+    "equipments": ""
   }
 }

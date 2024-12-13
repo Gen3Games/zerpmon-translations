@@ -1441,6 +1441,8 @@
     "no": "Nee",
     "zerpmon-trainer-rewards": "Zerpmon- en Trainerbeloningen!",
     "select-zerpmon-trainer": "Gefeliciteerd met het voltooien van de tutorial! \nAls beloning selecteer je 3 Zerpmon en 1 Trainer",
-    "claim": "Claim"
+    "claim": "Claim",
+    "untradeble-nfts-note": "Dit zijn niet-verhandelbare activa buiten de keten waarmee je de game in een offline variant kunt spelen.",
+    "equipments": ""
   }
 }
