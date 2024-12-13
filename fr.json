@@ -1442,6 +1442,8 @@
     "no": "Non",
     "zerpmon-trainer-rewards": "Récompenses de Zerpmon et de dresseur !",
     "select-zerpmon-trainer": "Félicitations, vous avez terminé le didacticiel ! \nEn récompense, sélectionnez 3 Zerpmon et 1 Dresseur",
-    "claim": "Réclamer"
+    "claim": "Réclamer",
+    "untradeble-nfts-note": "Il s’agira d’actifs hors chaîne non échangeables qui vous permettront de jouer au jeu dans une variante hors ligne.",
+    "equipments": ""
   }
 }

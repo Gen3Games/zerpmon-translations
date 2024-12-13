@@ -1442,6 +1442,8 @@
     "no": "No",
     "zerpmon-trainer-rewards": "¡Zerpmon y recompensas para entrenadores!",
     "select-zerpmon-trainer": "¡Felicitaciones por completar el tutorial! \nComo recompensa selecciona 3 Zerpmon y 1 Entrenador",
-    "claim": "Afirmar"
+    "claim": "Afirmar",
+    "untradeble-nfts-note": "Estos serán activos fuera de la cadena no comercializables que le permitirán jugar en una variante fuera de línea.",
+    "equipment": ""
   }
 }

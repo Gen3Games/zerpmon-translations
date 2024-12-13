@@ -1442,6 +1442,8 @@
     "no": "No",
     "zerpmon-trainer-rewards": "Zerpmon and Trainer Rewards!",
     "select-zerpmon-trainer": "Congrats on completing the tutorial! As a reward select 3 Zerpmon and 1 Trainer",
-    "claim": "Claim"
+    "claim": "Claim",
+    "untradeble-nfts-note": "These will be untradeable, off-chain assets that enable you to play the game in an offline variant.",
+    "equipments": ""
   }
 }

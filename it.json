@@ -1442,6 +1442,8 @@
     "no": "NO",
     "zerpmon-trainer-rewards": "Premi Zerpmon e Allenatore!",
     "select-zerpmon-trainer": "Congratulazioni per aver completato il tutorial! \nCome ricompensa seleziona 3 Zerpmon e 1 Allenatore",
-    "claim": "Reclamo"
+    "claim": "Reclamo",
+    "untradeble-nfts-note": "Si tratterà di risorse non negoziabili e fuori catena che ti consentiranno di giocare in una variante offline.",
+    "equipments": ""
   }
 }
