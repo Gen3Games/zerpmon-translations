@@ -252,7 +252,8 @@
     "no-memecoin-team-joined-error": "",
     "memecoin-tourney-link": "",
     "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": ""
+    "offchain-nfts-not-allwed": "",
+    "clear-mission-deck": ""
   },
   "store": {
     "title": "Tienda",

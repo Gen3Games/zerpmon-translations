@@ -252,7 +252,8 @@
     "no-memecoin-team-joined-error": "You haven't joined any Memecoin Tourney Team yet. Select one to continue!",
     "memecoin-tourney-link": "Click here to view available teams",
     "cannot-mix-onchain-and-offchain-nft": "Cannot mix Onchain and Offchain NFTs",
-    "offchain-nfts-not-allwed": "Offchain NFTs not allowed"
+    "offchain-nfts-not-allwed": "Offchain NFTs not allowed",
+    "clear-mission-deck": "Clear Mission Deck"
   },
   "store": {
     "title": "Store",

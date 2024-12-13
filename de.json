@@ -252,7 +252,8 @@
     "no-memecoin-team-joined-error": "Du bist noch kein Memecoin Tourney Team beigetreten. Wähle eins aus, um fortzufahren!",
     "memecoin-tourney-link": "Klicke hier, um die verfügbaren Teams anzuzeigen",
     "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": ""
+    "offchain-nfts-not-allwed": "",
+    "clear-mission-deck": ""
   },
   "store": {
     "title": "Shop",
