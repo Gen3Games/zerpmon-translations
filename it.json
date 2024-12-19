@@ -1445,5 +1445,10 @@
     "claim": "Reclamo",
     "untradeble-nfts-note": "Si tratterà di risorse non negoziabili e fuori catena che ti consentiranno di giocare in una variante offline.",
     "equipments": ""
+  },
+  "staking": {
+    "title": "",
+    "liquidity-pool-section-title": "",
+    "nft-holding-section-title": ""
   }
 }

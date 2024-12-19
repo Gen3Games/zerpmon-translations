@@ -1445,5 +1445,10 @@
     "claim": "Claim",
     "untradeble-nfts-note": "Dit zijn niet-verhandelbare activa buiten de keten waarmee je de game in een offline variant kunt spelen.",
     "equipments": ""
+  },
+  "staking": {
+    "title": "",
+    "liquidity-pool-section-title": "",
+    "nft-holding-section-title": ""
   }
 }

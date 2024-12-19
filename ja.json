@@ -1445,5 +1445,10 @@
     "claim": "請求",
     "untradeble-nfts-note": "これらは、オフライン バリアントでゲームをプレイできるようにする、トレード不可能なオフチェーン アセットになります。",
     "equipments": ""
+  },
+  "staking": {
+    "title": "",
+    "liquidity-pool-section-title": "",
+    "nft-holding-section-title": ""
   }
 }

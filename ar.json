@@ -1445,5 +1445,10 @@
     "claim": "مطالبة",
     "untradeble-nfts-note": "ستكون هذه أصولًا غير قابلة للتداول خارج السلسلة، والتي ستمكنك من لعب اللعبة في نسخة غير متصلة بالإنترنت.",
     "equipments": ""
+  },
+  "staking": {
+    "title": "",
+    "liquidity-pool-section-title": "",
+    "nft-holding-section-title": ""
   }
 }

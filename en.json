@@ -1445,5 +1445,10 @@
     "claim": "Claim",
     "untradeble-nfts-note": "These will be untradeable, off-chain assets that enable you to play the game in an offline variant.",
     "equipments": ""
+  },
+  "staking": {
+    "title": "Zerpmon Staking Dashboard",
+    "liquidity-pool-section-title": "Liquidity Pool Holdings - Simply hold ZRP LP tokens to earn rewards",
+    "nft-holding-section-title": "Zerpmon NFT Holdings - Lock up Zerpmon NFTs to earn rewards"
   }
 }

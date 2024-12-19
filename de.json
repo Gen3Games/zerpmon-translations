@@ -1445,5 +1445,10 @@
     "claim": "Beanspruchen",
     "untradeble-nfts-note": "Hierbei handelt es sich um nicht handelbare Vermögenswerte außerhalb der Kette, die es Ihnen ermöglichen, das Spiel in einer Offline-Variante zu spielen.",
     "equipments": ""
+  },
+  "staking": {
+    "title": "",
+    "liquidity-pool-section-title": "",
+    "nft-holding-section-title": ""
   }
 }

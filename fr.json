@@ -1445,5 +1445,10 @@
     "claim": "Réclamer",
     "untradeble-nfts-note": "Il s’agira d’actifs hors chaîne non échangeables qui vous permettront de jouer au jeu dans une variante hors ligne.",
     "equipments": ""
+  },
+  "staking": {
+    "title": "",
+    "liquidity-pool-section-title": "",
+    "nft-holding-section-title": ""
   }
 }

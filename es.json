@@ -1445,5 +1445,10 @@
     "claim": "Afirmar",
     "untradeble-nfts-note": "Estos serán activos fuera de la cadena no comercializables que le permitirán jugar en una variante fuera de línea.",
     "equipment": ""
+  },
+  "staking": {
+    "title": "",
+    "liquidity-pool-section-title": "",
+    "nft-holding-section-title": ""
   }
 }

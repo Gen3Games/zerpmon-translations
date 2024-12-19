@@ -1445,5 +1445,10 @@
     "claim": "宣称",
     "untradeble-nfts-note": "这些将是不可交易的链下资产，使您能够以离线版本玩游戏。",
     "equipments": ""
+  },
+  "staking": {
+    "title": "",
+    "liquidity-pool-section-title": "",
+    "nft-holding-section-title": ""
   }
 }

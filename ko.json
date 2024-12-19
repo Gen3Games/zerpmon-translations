@@ -1445,5 +1445,10 @@
     "claim": "주장하다",
     "untradeble-nfts-note": "이는 오프라인 변형에서 게임을 플레이할 수 있게 해주는 거래 불가능한 오프체인 자산입니다.",
     "equipments": ""
+  },
+  "staking": {
+    "title": "",
+    "liquidity-pool-section-title": "",
+    "nft-holding-section-title": ""
   }
 }
