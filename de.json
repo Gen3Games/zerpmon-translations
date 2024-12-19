@@ -251,9 +251,9 @@
     "clear-boss-deck": "World Boss-Deck löschen",
     "no-memecoin-team-joined-error": "Du bist noch kein Memecoin Tourney Team beigetreten. Wähle eins aus, um fortzufahren!",
     "memecoin-tourney-link": "Klicke hier, um die verfügbaren Teams anzuzeigen",
-    "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": "",
-    "clear-mission-deck": ""
+    "cannot-mix-onchain-and-offchain-nft": "Du kannst nicht gleichzeitig Onchain- und Offchain Nft's verwenden",
+    "offchain-nfts-not-allwed": "Offchain-NFT's sind nicht zugelassen",
+    "clear-mission-deck": "Mission-Deck löschen"
   },
   "store": {
     "title": "Shop",
@@ -1347,8 +1347,8 @@
     "trn-not-connected": "Die Root-Netzwerk-API ist entweder nicht verbunden oder noch nicht bereit",
     "invalid-amount-deposit": "Ungültiger Einzahlungsbetrag. Der Mindesteinzahlungsbetrag beträgt 0,001 XRP/ZRP.",
     "bridge-notice": "Die Einzahlung von Geldern vom Root Network auf ZerpWallet erfolgt über eine Brücke. Die Überbrückung kostet Zeit und ist kostenpflichtig.",
-    "daily-withdrawal-limit-reached": "",
-    "user-not-active": ""
+    "daily-withdrawal-limit-reached": "Tägliches Auszahlungslimit erreicht ({limitAmount}).",
+    "user-not-active": "Auszahlungen sind für inaktive Accounts nicht gestattet."
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Die Vorbereitung der FuturePass-Transaktion ist fehlgeschlagen",
