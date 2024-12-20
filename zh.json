@@ -1449,6 +1449,9 @@
   "staking": {
     "title": "",
     "liquidity-pool-section-title": "",
-    "nft-holding-section-title": ""
+    "nft-holding-section-title": "",
+    "trn-nft-staking-description": "",
+    "confirm-unstaking": "",
+    "trn-api-not-available": ""
   }
 }

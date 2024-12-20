@@ -1449,6 +1449,9 @@
   "staking": {
     "title": "Zerpmon Staking Dashboard",
     "liquidity-pool-section-title": "Liquidity Pool Holdings - Simply hold ZRP LP tokens to earn rewards",
-    "nft-holding-section-title": "Zerpmon NFT Holdings - Lock up Zerpmon NFTs to earn rewards"
+    "nft-holding-section-title": "Zerpmon NFT Holdings - Lock up Zerpmon NFTs to earn rewards",
+    "trn-nft-staking-description": "Transfer your NFTs to TRN Staking wallet ({zerpmonNames})",
+    "confirm-unstaking": "Are you sure you want to unstake {zerpmonNames} ?",
+    "trn-api-not-available": "TRN Api unavailable "
   }
 }
