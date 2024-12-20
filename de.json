@@ -251,9 +251,9 @@
     "clear-boss-deck": "World Boss-Deck löschen",
     "no-memecoin-team-joined-error": "Du bist noch kein Memecoin Tourney Team beigetreten. Wähle eins aus, um fortzufahren!",
     "memecoin-tourney-link": "Klicke hier, um die verfügbaren Teams anzuzeigen",
-    "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": "",
-    "clear-mission-deck": ""
+    "cannot-mix-onchain-and-offchain-nft": "Du kannst nicht gleichzeitig Onchain- und Offchain Nft's verwenden",
+    "offchain-nfts-not-allwed": "Offchain-NFT's sind nicht zugelassen",
+    "clear-mission-deck": "Mission-Deck löschen"
   },
   "store": {
     "title": "Shop",
@@ -1347,8 +1347,8 @@
     "trn-not-connected": "Die Root-Netzwerk-API ist entweder nicht verbunden oder noch nicht bereit",
     "invalid-amount-deposit": "Ungültiger Einzahlungsbetrag. Der Mindesteinzahlungsbetrag beträgt 0,001 XRP/ZRP.",
     "bridge-notice": "Die Einzahlung von Geldern vom Root Network auf ZerpWallet erfolgt über eine Brücke. Die Überbrückung kostet Zeit und ist kostenpflichtig.",
-    "daily-withdrawal-limit-reached": "",
-    "user-not-active": ""
+    "daily-withdrawal-limit-reached": "Tägliches Auszahlungslimit erreicht ({limitAmount}).",
+    "user-not-active": "Auszahlungen sind für inaktive Accounts nicht gestattet."
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Die Vorbereitung der FuturePass-Transaktion ist fehlgeschlagen",
@@ -1358,17 +1358,17 @@
   },
   "onboarding": {
     "welcome-to-zerpmon": "Willkommen bei Zerpmon",
-    "welcome-to-zerpmon-content": "Klicken Sie auf „Weiter“, um Ihre Reise in die Welt von Zerpmon zu beginnen – dem ultimativen NFT-Sammelkartenspiel!",
+    "welcome-to-zerpmon-content": "Klicke auf „Weiter“, um deine Reise in die Welt von Zerpmon zu beginnen – dem ultimativen NFT-Sammelkartenspiel!",
     "main-menu": "Hauptmenü",
-    "main-menu-content": "Dies ist das Hauptmenü, in dem Sie alle wichtigen Komponenten des Zerpmon-Spiels erkunden können.",
+    "main-menu-content": "Du befindest dich im Hauptmenü, in dem du alle wichtigen Komponenten des Zerpmon-Spiels erkunden kannst.",
     "daily-rewards": "Tägliche Belohnungen",
-    "daily-rewards-content": "Besuchen Sie den Abschnitt „Tägliche Prämien“, um Ihre kostenlosen täglichen Artikel anzufordern. \nSie können eine Tagesbox pro Blockchain erhalten, die mit Ihrem Wallet verbunden ist.",
-    "wallets-and-stats": "Geldbörsen",
-    "wallets-and-stats-content": "Überprüfen Sie die Fortschrittsseite, um Ihren Spielfortschritt sowie Ihr Guthaben in Ihrem Custodial Wallet und ZerpWallet anzuzeigen.",
+    "daily-rewards-content": "Besuche den Abschnitt „Tägliche Prämien“, um deine kostenlosen täglichen Artikel anzufordern. Du kannst eine Tägliche Zerpbox-Belohnung pro Blockchain erhalten, die mit deinem Wallet verbunden ist.",
+    "wallets-and-stats": "Wallets und Statistiken",
+    "wallets-and-stats-content": "Überprüfe die Fortschrittsseite, um deinen Spielfortschritt sowie dein Guthaben in deinem Custodial Wallet und ZerpWallet anzuzeigen.",
     "zerpmon": "Zerpmom",
-    "zerpmon-content": "Werfen wir einen Blick auf das Zerpmon-Team, das Sie derzeit haben.",
-    "decks-page": "Decks-Seite",
-    "decks-page-content-1": "Willkommen auf der Decks-Seite! \nHier können Sie ein Team aus Zerpmon, Trainern und Ausrüstung zusammenstellen. \nDer Aufbau eines starken, ausgewogenen Decks ist entscheidend für den Erfolg in Schlachten.",
+    "zerpmon-content": "Werfen wir einen Blick auf das Zerpmon-Team, das du derzeit hast.",
+    "decks-page": "Decks",
+    "decks-page-content-1": "Willkommen auf der Decks-Seite! Hier kannst du ein Team aus Zerpmon, Trainern und Ausrüstung zusammenstellen. Der Aufbau eines starken, ausgewogenen Decks ist entscheidend für den Erfolg in Schlachten.",
     "decks-page-content-2": "Es gibt drei Arten von NFTs im Zerpmon-Spiel: Trainer, Zerpmon und Ausrüstung.",
     "decks-page-content-3": "Sie können die Art des NFT anhand des Aufdrucks auf der Karte erkennen.",
     "trainer-cards": "Trainerkarten",
