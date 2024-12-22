@@ -1447,11 +1447,11 @@
     "equipments": "Equipments"
   },
   "staking": {
-    "title": "",
-    "liquidity-pool-section-title": "",
-    "nft-holding-section-title": "",
-    "trn-nft-staking-description": "",
-    "confirm-unstaking": "",
-    "trn-api-not-available": ""
+    "title": "Zerpmon Staking Menu",
+    "liquidity-pool-section-title": "Liquidity Pool Bestände - Halte einfach ZRP LP Tokens, um Belohnungen zu erhalten.",
+    "nft-holding-section-title": "Zerpmon NFT Bestände - Steke deine Zerpmon NFT's, um Belohnungen zu erhalten",
+    "trn-nft-staking-description": "Transferiere deine NFT's zum TRN Staking Wallet ({zerpmonNames})",
+    "confirm-unstaking": "Bist du sicher, dass du {zerpmonNames} nicht mehr steken möchtest?",
+    "trn-api-not-available": "TRN API nicht verfügbar"
   }
 }
