@@ -1051,7 +1051,9 @@
     "half-price-on-first-item-daily": "metà prezzo sul primo articolo giornaliero",
     "evolution-completed": "Evoluzione completata",
     "ascend": "Ascendere",
-    "payment-from-zerpwallet-volatile": "Il pagamento verrà prelevato dal tuo ZerpWallet ({amount}) {finalAmount} (all'ultimo momento controllato, potrebbe cambiare se non accettato per un periodo di tempo)"
+    "payment-from-zerpwallet-volatile": "Il pagamento verrà prelevato dal tuo ZerpWallet ({amount}) {finalAmount} (all'ultimo momento controllato, potrebbe cambiare se non accettato per un periodo di tempo)",
+    "trn-api-not-available": "",
+    "trn-account-not-found": ""
   },
   "test": {
     "test": "questa è una prova"

@@ -1122,7 +1122,9 @@
     "zerp-wallet-balance-low": "رصيد ZerpWallet منخفض",
     "zerp-wallet-pending-txn": "فشل إجراء عملية الشراء عندما يكون هناك طلب سحب معلق",
     "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق",
-    "zrp-store": "متجر زي آر بي"
+    "zrp-store": "متجر زي آر بي",
+    "trn-api-not-available": "",
+    "trn-account-not-found": ""
   },
   "terms-of-service": {
     "account-registration": "تسجيل الحساب",

@@ -922,7 +922,9 @@
     "half-price-on-first-item-daily": "moitié prix sur le premier article par jour",
     "evolution-completed": "Évolution terminée",
     "ascend": "Monter",
-    "payment-from-zerpwallet-volatile": "Le paiement sera prélevé sur votre ZerpWallet ({amount}) {finalAmount} (au dernier moment vérifié, pourrait changer s'il n'est pas accepté pendant un certain temps)"
+    "payment-from-zerpwallet-volatile": "Le paiement sera prélevé sur votre ZerpWallet ({amount}) {finalAmount} (au dernier moment vérifié, pourrait changer s'il n'est pas accepté pendant un certain temps)",
+    "trn-api-not-available": "",
+    "trn-account-not-found": ""
   },
   "test": {
     "test": "c'est un test"

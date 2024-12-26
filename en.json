@@ -291,7 +291,9 @@
     "half-price-on-first-item-daily": "half price on first item daily",
     "evolution-completed": "Evolution Completed",
     "ascend": "Ascend",
-    "payment-from-zerpwallet-volatile": "Payment will be taken from your ZerpWallet ({amount}) {finalAmount} (at last checked moment, could change if not accepted for a period of time)"
+    "payment-from-zerpwallet-volatile": "Payment will be taken from your ZerpWallet ({amount}) {finalAmount} (at last checked moment, could change if not accepted for a period of time)",
+    "trn-api-not-available": "TRN Api not available, please try again",
+    "trn-account-not-found": "TRN account not found, make sure you are logged in with your FuturePass"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",

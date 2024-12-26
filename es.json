@@ -291,7 +291,9 @@
     "half-price-on-first-item-daily": "mitad de precio en el primer artículo diariamente",
     "evolution-completed": "Evolución completada",
     "ascend": "Ascender",
-    "payment-from-zerpwallet-volatile": "El pago se cobrará de su ZerpWallet ({amount}) {finalAmount} (en el último momento verificado, podría cambiar si no se acepta por un período de tiempo)"
+    "payment-from-zerpwallet-volatile": "El pago se cobrará de su ZerpWallet ({amount}) {finalAmount} (en el último momento verificado, podría cambiar si no se acepta por un período de tiempo)",
+    "trn-api-not-available": "",
+    "trn-account-not-found": ""
   },
   "home": {
     "catch-your-zerpmon-now": "¡Atrapa tu Zerpmon ahora!",
