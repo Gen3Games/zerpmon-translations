@@ -1086,7 +1086,8 @@
     "connect-xrpl": "एक्सआरपीएल वॉलेट कनेक्ट करें",
     "connect-futurepass": "फ़्यूचरपास वॉलेट कनेक्ट करें",
     "futurepass-copied": "FuturePass पता कॉपी किया गया",
-    "xrpl-address-copied": "एक्सआरपीएल पता कॉपी किया गया"
+    "xrpl-address-copied": "एक्सआरपीएल पता कॉपी किया गया",
+    "ttk-assets": ""
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",

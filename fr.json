@@ -957,7 +957,8 @@
     "connect-xrpl": "Connecter le portefeuille XRPL",
     "connect-futurepass": "Connecter le portefeuille FuturePass",
     "futurepass-copied": "Adresse FuturePass copiée",
-    "xrpl-address-copied": "Adresse XRPL copiée"
+    "xrpl-address-copied": "Adresse XRPL copiée",
+    "ttk-assets": ""
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

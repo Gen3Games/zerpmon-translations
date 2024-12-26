@@ -1086,7 +1086,8 @@
     "connect-xrpl": "Sluit XRPL Wallet aan",
     "connect-futurepass": "Sluit FuturePass-portemonnee aan",
     "futurepass-copied": "FuturePass-adres gekopieerd",
-    "xrpl-address-copied": "XRPL-adres gekopieerd"
+    "xrpl-address-copied": "XRPL-adres gekopieerd",
+    "ttk-assets": ""
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",
