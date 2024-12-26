@@ -1452,6 +1452,7 @@
     "nft-holding-section-title": "Zerpmon NFT Holdings - Lock up Zerpmon NFTs to earn rewards",
     "trn-nft-staking-description": "Transfer your NFTs to TRN Staking wallet ({zerpmonNames})",
     "confirm-unstaking": "Are you sure you want to unstake {zerpmonNames} ?",
-    "trn-api-not-available": "TRN Api unavailable "
+    "trn-api-not-available": "TRN Api unavailable ",
+    "trn-unstaking-fee-description": "Gas fee transfer for Unstaking"
   }
 }

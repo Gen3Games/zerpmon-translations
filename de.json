@@ -1452,6 +1452,7 @@
     "nft-holding-section-title": "Zerpmon NFT Bestände - Steke deine Zerpmon NFT's, um Belohnungen zu erhalten",
     "trn-nft-staking-description": "Transferiere deine NFT's zum TRN Staking Wallet ({zerpmonNames})",
     "confirm-unstaking": "Bist du sicher, dass du {zerpmonNames} nicht mehr steken möchtest?",
-    "trn-api-not-available": "TRN API nicht verfügbar"
+    "trn-api-not-available": "TRN API nicht verfügbar",
+    "trn-unstaking-fee-description": ""
   }
 }
