@@ -119,8 +119,7 @@
     "connect-xrpl": "连接XRPL钱包",
     "connect-futurepass": "连接 FuturePass 钱包",
     "futurepass-copied": "FuturePass 地址已复制",
-    "xrpl-address-copied": "已复制 XRPL 地址",
-    "ttk-assets": ""
+    "xrpl-address-copied": "已复制 XRPL 地址"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",
@@ -292,9 +291,7 @@
     "half-price-on-first-item-daily": "每日第一件商品半价",
     "evolution-completed": "进化完成",
     "ascend": "登高",
-    "payment-from-zerpwallet-volatile": "付款将从您的 ZerpWallet ({amount}) {finalAmount} 中扣除（最后检查的时刻，如果一段时间内未接受，可能会发生变化）",
-    "trn-api-not-available": "",
-    "trn-account-not-found": ""
+    "payment-from-zerpwallet-volatile": "付款将从您的 ZerpWallet ({amount}) {finalAmount} 中扣除（最后检查的时刻，如果一段时间内未接受，可能会发生变化）"
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",
@@ -1351,7 +1348,12 @@
     "invalid-amount-deposit": "存款金额无效。\n最低充值金额为 0.001 XRP/ZRP。",
     "bridge-notice": "使用桥将资金从 The Root Network 存入 ZerpWallet。\n桥接需要时间并产生费用。",
     "daily-withdrawal-limit-reached": "",
-    "user-not-active": ""
+    "user-not-active": "",
+    "trust-line-established": "",
+    "checking-trust-line": "",
+    "trust-line-required": "",
+    "view-on-xrpl-services": "",
+    "zrp-trust-line": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "无法准备 FuturePass 交易",
@@ -1365,7 +1367,7 @@
     "main-menu": "主菜单",
     "main-menu-content": "这是主菜单，您可以在其中探索 Zerpmon 游戏的所有关键组件。",
     "daily-rewards": "每日奖励",
-    "daily-rewards-content": "访问每日奖励部分来打开你的每日战利品。\n对于连接到您钱包的每个区块链，您每天可以收到一个盒子。",
+    "daily-rewards-content": "访问每日奖励部分来领取免费的每日物品。\n对于连接到您钱包的每个区块链，您每天可以收到一个盒子。",
     "wallets-and-stats": "钱包",
     "wallets-and-stats-content": "检查进度页面以查看您的游戏进度，以及您的 Custodial Wallet 和 ZerpWallet 中的余额。",
     "zerpmon": "泽尔普蒙",
@@ -1455,7 +1457,6 @@
     "nft-holding-section-title": "",
     "trn-nft-staking-description": "",
     "confirm-unstaking": "",
-    "trn-api-not-available": "",
-    "trn-unstaking-fee-description": ""
+    "trn-api-not-available": ""
   }
 }

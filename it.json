@@ -1051,9 +1051,7 @@
     "half-price-on-first-item-daily": "metà prezzo sul primo articolo giornaliero",
     "evolution-completed": "Evoluzione completata",
     "ascend": "Ascendere",
-    "payment-from-zerpwallet-volatile": "Il pagamento verrà prelevato dal tuo ZerpWallet ({amount}) {finalAmount} (all'ultimo momento controllato, potrebbe cambiare se non accettato per un periodo di tempo)",
-    "trn-api-not-available": "",
-    "trn-account-not-found": ""
+    "payment-from-zerpwallet-volatile": "Il pagamento verrà prelevato dal tuo ZerpWallet ({amount}) {finalAmount} (all'ultimo momento controllato, potrebbe cambiare se non accettato per un periodo di tempo)"
   },
   "test": {
     "test": "questa è una prova"
@@ -1086,8 +1084,7 @@
     "connect-xrpl": "Connetti il ​​portafoglio XRPL",
     "connect-futurepass": "Connetti il ​​portafoglio FuturePass",
     "futurepass-copied": "Indirizzo FuturePass copiato",
-    "xrpl-address-copied": "Indirizzo XRPL copiato",
-    "ttk-assets": ""
+    "xrpl-address-copied": "Indirizzo XRPL copiato"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",
@@ -1351,7 +1348,12 @@
     "invalid-amount-deposit": "Importo del deposito non valido. L'importo minimo del deposito è 0,001 XRP/ZRP.",
     "bridge-notice": "Il deposito di fondi da The Root Network a ZerpWallet utilizza un bridge. Il bridging richiede tempo e comporta un costo.",
     "daily-withdrawal-limit-reached": "",
-    "user-not-active": ""
+    "user-not-active": "",
+    "trust-line-established": "",
+    "checking-trust-line": "",
+    "trust-line-required": "",
+    "view-on-xrpl-services": "",
+    "zrp-trust-line": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Impossibile preparare la transazione FuturePass",
@@ -1365,7 +1367,7 @@
     "main-menu": "Menù principale",
     "main-menu-content": "Questo è il menu principale, dove puoi esplorare tutti i componenti chiave del gioco Zerpmon.",
     "daily-rewards": "Premi giornalieri",
-    "daily-rewards-content": "Visita la sezione Premi giornalieri per aprire gli oggetti bottino giornaliero. \nPuoi ricevere una scatola giornaliera per blockchain collegata al tuo portafoglio.",
+    "daily-rewards-content": "Visita la sezione Premi giornalieri per richiedere i tuoi articoli giornalieri gratuiti. \nPuoi ricevere una scatola giornaliera per blockchain collegata al tuo portafoglio.",
     "wallets-and-stats": "Portafogli",
     "wallets-and-stats-content": "Controlla la pagina dei progressi per visualizzare i tuoi progressi nel gioco, nonché i tuoi saldi sia nel tuo portafoglio custodiale che in ZerpWallet.",
     "zerpmon": "Zerpmom",
@@ -1455,7 +1457,6 @@
     "nft-holding-section-title": "",
     "trn-nft-staking-description": "",
     "confirm-unstaking": "",
-    "trn-api-not-available": "",
-    "trn-unstaking-fee-description": ""
+    "trn-api-not-available": ""
   }
 }

@@ -1051,9 +1051,7 @@
     "half-price-on-first-item-daily": "halve prijs per dag op het eerste artikel",
     "evolution-completed": "Evolutie voltooid",
     "ascend": "Stijgen",
-    "payment-from-zerpwallet-volatile": "De betaling wordt afgeschreven van uw ZerpWallet ({amount}) {finalAmount} (op het laatst gecontroleerde moment, kan veranderen als het gedurende een bepaalde periode niet wordt geaccepteerd)",
-    "trn-api-not-available": "",
-    "trn-account-not-found": ""
+    "payment-from-zerpwallet-volatile": "De betaling wordt afgeschreven van uw ZerpWallet ({amount}) {finalAmount} (op het laatst gecontroleerde moment, kan veranderen als het gedurende een bepaalde periode niet wordt geaccepteerd)"
   },
   "test": {
     "test": "dit is een test"
@@ -1086,8 +1084,7 @@
     "connect-xrpl": "Sluit XRPL Wallet aan",
     "connect-futurepass": "Sluit FuturePass-portemonnee aan",
     "futurepass-copied": "FuturePass-adres gekopieerd",
-    "xrpl-address-copied": "XRPL-adres gekopieerd",
-    "ttk-assets": ""
+    "xrpl-address-copied": "XRPL-adres gekopieerd"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",
@@ -1351,7 +1348,12 @@
     "invalid-amount-deposit": "Ongeldig stortingsbedrag. Het minimale stortingsbedrag is 0,001 XRP/ZRP.",
     "bridge-notice": "Het storten van geld van The Root Network naar ZerpWallet maakt gebruik van een bridge. Het overbruggen kost tijd en brengt kosten met zich mee.",
     "daily-withdrawal-limit-reached": "",
-    "user-not-active": ""
+    "user-not-active": "",
+    "trust-line-established": "",
+    "checking-trust-line": "",
+    "trust-line-required": "",
+    "view-on-xrpl-services": "",
+    "zrp-trust-line": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Kan FuturePass-transactie niet voorbereiden",
@@ -1365,7 +1367,7 @@
     "main-menu": "Hoofdmenu",
     "main-menu-content": "Dit is het hoofdmenu, waar je alle belangrijke componenten van het Zerpmon-spel kunt verkennen.",
     "daily-rewards": "Dagelijkse beloningen",
-    "daily-rewards-content": "Ga naar de sectie Dagelijkse beloningen om je dagelijkse buitbositems te openen. \nU kunt dagelijks één box ontvangen per blockchain die aan uw portemonnee is gekoppeld.",
+    "daily-rewards-content": "Ga naar het gedeelte Dagelijkse beloningen om uw gratis dagelijkse items te claimen. \nU kunt dagelijks één box ontvangen per blockchain die aan uw portemonnee is gekoppeld.",
     "wallets-and-stats": "Portefeuilles",
     "wallets-and-stats-content": "Controleer de voortgangspagina om uw voortgang in het spel te bekijken, evenals uw saldo in zowel uw Custodial Wallet als ZerpWallet.",
     "zerpmon": "Zerpmom",
@@ -1455,7 +1457,6 @@
     "nft-holding-section-title": "",
     "trn-nft-staking-description": "",
     "confirm-unstaking": "",
-    "trn-api-not-available": "",
-    "trn-unstaking-fee-description": ""
+    "trn-api-not-available": ""
   }
 }

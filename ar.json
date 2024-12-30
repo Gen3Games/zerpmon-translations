@@ -1122,9 +1122,7 @@
     "zerp-wallet-balance-low": "رصيد ZerpWallet منخفض",
     "zerp-wallet-pending-txn": "فشل إجراء عملية الشراء عندما يكون هناك طلب سحب معلق",
     "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق",
-    "zrp-store": "متجر زي آر بي",
-    "trn-api-not-available": "",
-    "trn-account-not-found": ""
+    "zrp-store": "متجر زي آر بي"
   },
   "terms-of-service": {
     "account-registration": "تسجيل الحساب",
@@ -1241,8 +1239,7 @@
     "wallets": "محافظ",
     "xrpl-address-copied": "تم نسخ عنوان XRPL",
     "your-wallets": "محافظ مرتبطة",
-    "zerpmons": "زيربمون",
-    "ttk-assets": ""
+    "zerpmons": "زيربمون"
   },
   "wallet": {
     "address-copied": "تم نسخ العنوان",
@@ -1330,7 +1327,12 @@
     "zerpwallet-history": "تاريخ محفظة زيرب",
     "zrp-balance": "رصيد ZRP",
     "daily-withdrawal-limit-reached": "",
-    "user-not-active": ""
+    "user-not-active": "",
+    "trust-line-established": "",
+    "checking-trust-line": "",
+    "trust-line-required": "",
+    "view-on-xrpl-services": "",
+    "zrp-trust-line": ""
   },
   "world-boss": {
     "battle": "معركة",
@@ -1365,7 +1367,7 @@
     "main-menu": "القائمة الرئيسية",
     "main-menu-content": "هذه هي القائمة الرئيسية، حيث يمكنك استكشاف جميع المكونات الرئيسية للعبة Zerpmon.",
     "daily-rewards": "المكافآت اليومية",
-    "daily-rewards-content": "قم بزيارة قسم المكافآت اليومية لفتح عناصر الغنائم اليومية الخاصة بك. \nيمكنك الحصول على صندوق يومي واحد لكل blockchain متصل بمحفظتك.",
+    "daily-rewards-content": "قم بزيارة قسم المكافآت اليومية للمطالبة بعناصرك اليومية المجانية. \nيمكنك الحصول على صندوق يومي واحد لكل blockchain متصل بمحفظتك.",
     "wallets-and-stats": "محافظ",
     "wallets-and-stats-content": "تحقق من صفحة التقدم لعرض تقدمك داخل اللعبة، بالإضافة إلى أرصدتك في كل من محفظة Custodial Wallet وZerpWallet.",
     "zerpmon": "زيربموم",
@@ -1455,7 +1457,6 @@
     "nft-holding-section-title": "",
     "trn-nft-staking-description": "",
     "confirm-unstaking": "",
-    "trn-api-not-available": "",
-    "trn-unstaking-fee-description": ""
+    "trn-api-not-available": ""
   }
 }

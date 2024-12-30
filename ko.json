@@ -119,8 +119,7 @@
     "connect-xrpl": "XRPL 지갑 연결",
     "connect-futurepass": "FuturePass 지갑 연결",
     "futurepass-copied": "FuturePass 주소가 복사되었습니다",
-    "xrpl-address-copied": "XRPL 주소가 복사되었습니다.",
-    "ttk-assets": ""
+    "xrpl-address-copied": "XRPL 주소가 복사되었습니다."
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",
@@ -292,9 +291,7 @@
     "half-price-on-first-item-daily": "매일 첫 번째 품목의 절반 가격",
     "evolution-completed": "진화 완료",
     "ascend": "오르다",
-    "payment-from-zerpwallet-volatile": "지불은 귀하의 ZerpWallet({amount}) {finalAmount}에서 이루어집니다(마지막으로 확인된 순간, 일정 기간 동안 승인되지 않으면 변경될 수 있음)",
-    "trn-api-not-available": "",
-    "trn-account-not-found": ""
+    "payment-from-zerpwallet-volatile": "지불은 귀하의 ZerpWallet({amount}) {finalAmount}에서 이루어집니다(마지막으로 확인된 순간, 일정 기간 동안 승인되지 않으면 변경될 수 있음)"
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",
@@ -1351,7 +1348,12 @@
     "invalid-amount-deposit": "입금액이 잘못되었습니다. 최소 입금액은 0.001 XRP/ZRP입니다.",
     "bridge-notice": "루트 네트워크에서 ZerpWallet으로 자금을 입금하는 데는 브리지가 사용됩니다. 브리징에는 시간이 걸리고 수수료가 발생합니다.",
     "daily-withdrawal-limit-reached": "",
-    "user-not-active": ""
+    "user-not-active": "",
+    "trust-line-established": "",
+    "checking-trust-line": "",
+    "trust-line-required": "",
+    "view-on-xrpl-services": "",
+    "zrp-trust-line": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass 거래를 준비하지 못했습니다.",
@@ -1365,7 +1367,7 @@
     "main-menu": "메인 메뉴",
     "main-menu-content": "이것은 Zermon 게임의 모든 주요 구성 요소를 탐색할 수 있는 기본 메뉴입니다.",
     "daily-rewards": "일일 보상",
-    "daily-rewards-content": "일일 보상 섹션을 방문하여 일일 전리품 보스 아이템을 열어보세요. \n지갑에 연결된 블록체인당 일일 1박스를 받을 수 있습니다.",
+    "daily-rewards-content": "무료 일일 아이템을 받으려면 일일 보상 섹션을 방문하세요. \n지갑에 연결된 블록체인당 일일 1박스를 받을 수 있습니다.",
     "wallets-and-stats": "지갑",
     "wallets-and-stats-content": "진행 페이지를 확인하여 게임 내 진행 상황과 Custodial Wallet 및 ZerpWallet의 잔액을 확인하세요.",
     "zerpmon": "제르프맘",
@@ -1455,7 +1457,6 @@
     "nft-holding-section-title": "",
     "trn-nft-staking-description": "",
     "confirm-unstaking": "",
-    "trn-api-not-available": "",
-    "trn-unstaking-fee-description": ""
+    "trn-api-not-available": ""
   }
 }

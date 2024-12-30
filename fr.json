@@ -922,9 +922,7 @@
     "half-price-on-first-item-daily": "moitié prix sur le premier article par jour",
     "evolution-completed": "Évolution terminée",
     "ascend": "Monter",
-    "payment-from-zerpwallet-volatile": "Le paiement sera prélevé sur votre ZerpWallet ({amount}) {finalAmount} (au dernier moment vérifié, pourrait changer s'il n'est pas accepté pendant un certain temps)",
-    "trn-api-not-available": "",
-    "trn-account-not-found": ""
+    "payment-from-zerpwallet-volatile": "Le paiement sera prélevé sur votre ZerpWallet ({amount}) {finalAmount} (au dernier moment vérifié, pourrait changer s'il n'est pas accepté pendant un certain temps)"
   },
   "test": {
     "test": "c'est un test"
@@ -957,8 +955,7 @@
     "connect-xrpl": "Connecter le portefeuille XRPL",
     "connect-futurepass": "Connecter le portefeuille FuturePass",
     "futurepass-copied": "Adresse FuturePass copiée",
-    "xrpl-address-copied": "Adresse XRPL copiée",
-    "ttk-assets": ""
+    "xrpl-address-copied": "Adresse XRPL copiée"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",
@@ -1351,7 +1348,12 @@
     "invalid-amount-deposit": "Montant du dépôt invalide. Le montant minimum du dépôt est de 0,001 XRP/ZRP.",
     "bridge-notice": "Le dépôt de fonds du Root Network vers ZerpWallet utilise un pont. La transition prend du temps et entraîne des frais.",
     "daily-withdrawal-limit-reached": "",
-    "user-not-active": ""
+    "user-not-active": "",
+    "trust-line-established": "",
+    "checking-trust-line": "",
+    "trust-line-required": "",
+    "view-on-xrpl-services": "",
+    "zrp-trust-line": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Échec de la préparation de la transaction FuturePass",
@@ -1365,7 +1367,7 @@
     "main-menu": "Menu principal",
     "main-menu-content": "Il s'agit du menu principal, où vous pouvez explorer tous les composants clés du jeu Zerpmon.",
     "daily-rewards": "Récompenses quotidiennes",
-    "daily-rewards-content": "Visitez la section Récompenses quotidiennes pour ouvrir vos objets de butin quotidiens. \nVous pouvez recevoir une box quotidienne par blockchain connectée à votre portefeuille.",
+    "daily-rewards-content": "Visitez la section Récompenses quotidiennes pour réclamer vos articles quotidiens gratuits. \nVous pouvez recevoir une box quotidienne par blockchain connectée à votre portefeuille.",
     "wallets-and-stats": "Portefeuilles",
     "wallets-and-stats-content": "Consultez la page de progression pour voir votre progression dans le jeu, ainsi que vos soldes dans votre Custodial Wallet et ZerpWallet.",
     "zerpmon": "Maman Zerpm",
@@ -1455,7 +1457,6 @@
     "nft-holding-section-title": "",
     "trn-nft-staking-description": "",
     "confirm-unstaking": "",
-    "trn-api-not-available": "",
-    "trn-unstaking-fee-description": ""
+    "trn-api-not-available": ""
   }
 }

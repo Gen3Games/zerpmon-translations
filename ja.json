@@ -119,8 +119,7 @@
     "connect-xrpl": "XRPLウォレットを接続する",
     "connect-futurepass": "FuturePass ウォレットを接続する",
     "futurepass-copied": "FuturePass アドレスがコピーされました",
-    "xrpl-address-copied": "XRPLアドレスがコピーされました",
-    "ttk-assets": ""
+    "xrpl-address-copied": "XRPLアドレスがコピーされました"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",
@@ -292,9 +291,7 @@
     "half-price-on-first-item-daily": "毎日最初の商品が半額",
     "evolution-completed": "進化完了",
     "ascend": "昇る",
-    "payment-from-zerpwallet-volatile": "支払いは ZerpWallet ({amount}) {finalAmount} から引き落とされます (最後に確認された時点で、一定期間受け入れられない場合は変更される可能性があります)",
-    "trn-api-not-available": "",
-    "trn-account-not-found": ""
+    "payment-from-zerpwallet-volatile": "支払いは ZerpWallet ({amount}) {finalAmount} から引き落とされます (最後に確認された時点で、一定期間受け入れられない場合は変更される可能性があります)"
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",
@@ -1351,7 +1348,12 @@
     "invalid-amount-deposit": "入金額が無効です。最低入金額は0.001 XRP/ZRPです。",
     "bridge-notice": "The Root Network から ZerpWallet への資金の入金にはブリッジが使用されます。ブリッジングには時間がかかり、料金もかかります。",
     "daily-withdrawal-limit-reached": "",
-    "user-not-active": ""
+    "user-not-active": "",
+    "trust-line-established": "",
+    "checking-trust-line": "",
+    "trust-line-required": "",
+    "view-on-xrpl-services": "",
+    "zrp-trust-line": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass トランザクションの準備に失敗しました",
@@ -1365,7 +1367,7 @@
     "main-menu": "メインメニュー",
     "main-menu-content": "これはメイン メニューで、Zerpmon ゲームの主要なコンポーネントをすべて探索できます。",
     "daily-rewards": "毎日の報酬",
-    "daily-rewards-content": "毎日の戦利品アイテムを開くには、デイリー報酬セクションにアクセスしてください。\nウォレットに接続されているブロックチェーンごとに毎日 1 つのボックスを受け取ることができます。",
+    "daily-rewards-content": "無料のデイリーアイテムを獲得するには、デイリーリワードセクションにアクセスしてください。\nウォレットに接続されているブロックチェーンごとに毎日 1 つのボックスを受け取ることができます。",
     "wallets-and-stats": "財布",
     "wallets-and-stats-content": "進行状況ページをチェックして、ゲーム内の進行状況と、カストディアル ウォレットと ZerpWallet の両方の残高を確認してください。",
     "zerpmon": "ゼルパモム",
@@ -1455,7 +1457,6 @@
     "nft-holding-section-title": "",
     "trn-nft-staking-description": "",
     "confirm-unstaking": "",
-    "trn-api-not-available": "",
-    "trn-unstaking-fee-description": ""
+    "trn-api-not-available": ""
   }
 }

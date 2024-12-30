@@ -1051,9 +1051,7 @@
     "half-price-on-first-item-daily": "प्रतिदिन पहली वस्तु पर आधी कीमत",
     "evolution-completed": "विकास पूरा हुआ",
     "ascend": "Ascend",
-    "payment-from-zerpwallet-volatile": "भुगतान आपके ZerpWallet ({राशि}) {अंतिम राशि} से लिया जाएगा (अंतिम जांच के समय, यदि कुछ समय तक स्वीकार नहीं किया गया तो बदल सकता है)",
-    "trn-api-not-available": "",
-    "trn-account-not-found": ""
+    "payment-from-zerpwallet-volatile": "भुगतान आपके ZerpWallet ({राशि}) {अंतिम राशि} से लिया जाएगा (अंतिम जांच के समय, यदि कुछ समय तक स्वीकार नहीं किया गया तो बदल सकता है)"
   },
   "test": {
     "test": "यह टेस्ट है"
@@ -1086,8 +1084,7 @@
     "connect-xrpl": "एक्सआरपीएल वॉलेट कनेक्ट करें",
     "connect-futurepass": "फ़्यूचरपास वॉलेट कनेक्ट करें",
     "futurepass-copied": "FuturePass पता कॉपी किया गया",
-    "xrpl-address-copied": "एक्सआरपीएल पता कॉपी किया गया",
-    "ttk-assets": ""
+    "xrpl-address-copied": "एक्सआरपीएल पता कॉपी किया गया"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",
@@ -1351,7 +1348,12 @@
     "invalid-amount-deposit": "अमान्य जमा राशि. न्यूनतम जमा राशि 0.001 XRP/ZRP है।",
     "bridge-notice": "रूट नेटवर्क से ZerpWallet में धनराशि जमा करने के लिए एक ब्रिज का उपयोग किया जाता है। ब्रिजिंग में समय लगता है और शुल्क भी लगता है।",
     "daily-withdrawal-limit-reached": "",
-    "user-not-active": ""
+    "user-not-active": "",
+    "trust-line-established": "",
+    "checking-trust-line": "",
+    "trust-line-required": "",
+    "view-on-xrpl-services": "",
+    "zrp-trust-line": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass लेनदेन तैयार करने में विफल",
@@ -1365,7 +1367,7 @@
     "main-menu": "मुख्य मेन्यू",
     "main-menu-content": "यह मुख्य मेनू है, जहां आप ज़र्पमोन गेम के सभी प्रमुख घटकों का पता लगा सकते हैं।",
     "daily-rewards": "दैनिक पुरस्कार",
-    "daily-rewards-content": "अपनी दैनिक लूट की वस्तुओं को खोलने के लिए दैनिक पुरस्कार अनुभाग पर जाएँ। \nआप अपने वॉलेट से जुड़े प्रत्येक ब्लॉकचेन पर एक दैनिक बॉक्स प्राप्त कर सकते हैं।",
+    "daily-rewards-content": "अपनी निःशुल्क दैनिक वस्तुओं का दावा करने के लिए दैनिक पुरस्कार अनुभाग पर जाएँ। \nआप अपने वॉलेट से जुड़े प्रत्येक ब्लॉकचेन पर एक दैनिक बॉक्स प्राप्त कर सकते हैं।",
     "wallets-and-stats": "पर्स",
     "wallets-and-stats-content": "अपनी इन-गेम प्रगति, साथ ही अपने कस्टोडियल वॉलेट और ज़र्पवॉलेट दोनों में अपनी शेष राशि देखने के लिए प्रगति पृष्ठ देखें।",
     "zerpmon": "ज़र्पमॉम",
@@ -1455,7 +1457,6 @@
     "nft-holding-section-title": "",
     "trn-nft-staking-description": "",
     "confirm-unstaking": "",
-    "trn-api-not-available": "",
-    "trn-unstaking-fee-description": ""
+    "trn-api-not-available": ""
   }
 }

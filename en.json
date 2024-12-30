@@ -119,8 +119,7 @@
     "connect-xrpl": "Connect XRPL Wallet",
     "connect-futurepass": "Connect FuturePass Wallet",
     "futurepass-copied": "FuturePass address copied",
-    "xrpl-address-copied": "XRPL address copied",
-    "ttk-assets": "TTK Assets"
+    "xrpl-address-copied": "XRPL address copied"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",
@@ -292,9 +291,7 @@
     "half-price-on-first-item-daily": "half price on first item daily",
     "evolution-completed": "Evolution Completed",
     "ascend": "Ascend",
-    "payment-from-zerpwallet-volatile": "Payment will be taken from your ZerpWallet ({amount}) {finalAmount} (at last checked moment, could change if not accepted for a period of time)",
-    "trn-api-not-available": "TRN Api not available, please try again",
-    "trn-account-not-found": "TRN account not found, make sure you are logged in with your FuturePass"
+    "payment-from-zerpwallet-volatile": "Payment will be taken from your ZerpWallet ({amount}) {finalAmount} (at last checked moment, could change if not accepted for a period of time)"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",
@@ -1351,7 +1348,12 @@
     "invalid-amount-deposit": "Invalid deposit amount. The minimum deposit amount is 0.001 XRP/ZRP.",
     "bridge-notice": "Depositing funds from The Root Network to ZerpWallet uses a bridge. Bridging takes time and incurs a fee.",
     "daily-withdrawal-limit-reached": "Daily withdrawal limit reached ({limitAmount}).",
-    "user-not-active": "Withdrawals not allowed for inactive accounts."
+    "user-not-active": "Withdrawals not allowed for inactive accounts.",
+    "trust-line-established": "trust-line-established",
+    "checking-trust-line": "checking-trust-line",
+    "trust-line-required": "trust-line-required",
+    "view-on-xrpl-services": "view-on-xrpl-services",
+    "zrp-trust-line": "zrp-trust-line"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Failed to prepare FuturePass transaction",
@@ -1365,7 +1367,7 @@
     "main-menu": "Main Menu",
     "main-menu-content": "This is the Main Menu, where you can explore all the key components of the Zerpmon game.",
     "daily-rewards": "Daily Rewards",
-    "daily-rewards-content": "Visit the Daily Rewards section to open your daily loot bos items. You can receive one daily box per blockchain connected to your wallet.",
+    "daily-rewards-content": "Visit the Daily Rewards section to claim your free daily items. You can receive one daily box per blockchain connected to your wallet.",
     "wallets-and-stats": "Wallets & Stats",
     "wallets-and-stats-content": "Check the Progress Page to view your in-game progress, as well as your balances in both your Custodial Wallet and ZerpWallet.",
     "zerpmon": "Zerpmom",
@@ -1455,7 +1457,6 @@
     "nft-holding-section-title": "Zerpmon NFT Holdings - Lock up Zerpmon NFTs to earn rewards",
     "trn-nft-staking-description": "Transfer your NFTs to TRN Staking wallet ({zerpmonNames})",
     "confirm-unstaking": "Are you sure you want to unstake {zerpmonNames} ?",
-    "trn-api-not-available": "TRN Api unavailable ",
-    "trn-unstaking-fee-description": "Gas fee transfer for Unstaking"
+    "trn-api-not-available": "TRN Api unavailable "
   }
 }
