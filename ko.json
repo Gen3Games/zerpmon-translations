@@ -1409,7 +1409,7 @@
     "use-gummy-candy": "구미캔디를 사용하세요",
     "use-gummy-candy-content-1": "블래스팅고의 화이트 어택 활성화 확률을 높이려면 젤리 캔디를 사용하세요. \n이는 데미지가 높은 White Moves에 특히 유용합니다.",
     "use-gummy-candy-content-2": "Blastingo를 선택하고 Gummy Candy를 적용합니다.",
-    "great-job-content-2": "이제 Blastingo가 향상되었으므로 덱 페이지로 돌아가서 팀을 구성해 보겠습니다.",
+    "great-job-content-2": "Zermon 튜토리얼의 1부를 완료한 것을 축하합니다. \n청구를 위해 무료 오프라인 TRN Zermon 1개를 받은 편지함으로 보냈습니다!\n\n이제 Blastingo가 향상되었으므로 튜토리얼의 2부로 계속 진행하여 팀을 구성하거나 기본 메뉴로 돌아가 나중에 튜토리얼을 완료할 수 있습니다.",
     "gym-deck": "체육관 데크",
     "gym-deck-content": "체육관 덱을 선택하고 체육관 덱 1을 생성하여 전투를 준비하세요. \n완전한 덱에는 트레이너 1명, 저프몬 5명, 장비 아이템 최대 5개가 포함되어야 합니다.",
     "drag-and-drop-cards": "드래그 앤 드롭 카드",
@@ -1449,7 +1449,12 @@
     "select-zerpmon-trainer": "튜토리얼을 완료한 것을 축하합니다! \n보상으로 제르몬 3명과 트레이너 1명을 선택하세요.",
     "claim": "주장하다",
     "untradeble-nfts-note": "이는 오프라인 변형에서 게임을 플레이할 수 있게 해주는 거래 불가능한 오프체인 자산입니다.",
-    "equipments": ""
+    "equipments": "",
+    "tutorial-part-1": "튜토리얼 - 1부",
+    "tutorial-part-1-content": "Zermon 튜토리얼의 1부에 오신 것을 환영합니다. \n여기에서는 웹앱을 둘러보고, Zermon에 버프를 적용하고, 통계를 보는 방법을 배웁니다.",
+    "tutorial-part-2": "튜토리얼 - 2부",
+    "tutorial-part-2-content": "튜토리얼 2부에 오신 것을 환영합니다.",
+    "gym-battle-msg-13": "Zermon 튜토리얼의 3부를 완료한 것을 축하합니다. \n청구할 수 있도록 무료 오프라인 TRN Zermon 3개 중 마지막 항목을 받은 편지함으로 보냈습니다!\n\n튜토리얼을 완료했으므로 청구할 수 있도록 받은 편지함에 보너스 TRN 오프라인 트레이너도 제공됩니다!"
   },
   "staking": {
     "title": "",

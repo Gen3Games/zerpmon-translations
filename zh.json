@@ -1409,7 +1409,7 @@
     "use-gummy-candy": "使用软糖",
     "use-gummy-candy-content-1": "使用软糖可以提高 Blasto 的白色攻击激活几率。\n这对于高伤害白招特别有用。",
     "use-gummy-candy-content-2": "选择 Blastingo 并应用软糖。",
-    "great-job-content-2": "现在我们已经增强了 Blasto，让我们返回套牌页面来组建您的团队。",
+    "great-job-content-2": "恭喜您完成 Zerpmon 教程的第 1 部分。\n我们已向您的收件箱发送了 1 个免费离线 TRN Zerpmon 供领取！\n\n现在我们已经增强了 Blasto，您可以继续学习教程的第 2 部分并组建您的团队，或者返回主菜单并稍后完成教程。",
     "gym-deck": "健身房甲板",
     "gym-deck-content": "选择你的道馆牌组并创建道馆牌组 1 来准备战斗。\n一套完整的套牌应包括一名训练家、五名泽拉兽和最多五件装备。",
     "drag-and-drop-cards": "拖放卡片",
@@ -1449,7 +1449,12 @@
     "select-zerpmon-trainer": "恭喜您完成本教程！\n作为奖励选择 3 只泽拉普兽和 1 名训练家",
     "claim": "宣称",
     "untradeble-nfts-note": "这些将是不可交易的链下资产，使您能够以离线版本玩游戏。",
-    "equipments": ""
+    "equipments": "",
+    "tutorial-part-1": "教程 - 第 1 部分",
+    "tutorial-part-1-content": "欢迎来到 Zerpmon 教程的第 1 部分。\n在这里，您将学习查看网络应用程序，对您的 Zerpmon 应用增益并能够查看统计数据。",
+    "tutorial-part-2": "教程 - 第 2 部分",
+    "tutorial-part-2-content": "欢迎来到教程的第 2 部分",
+    "gym-battle-msg-13": "恭喜您完成 Zerpmon 教程的第 3 部分。\n我们已将您 3 个免费离线 TRN Zerpmon 中的最后一个发送到您的收件箱以供领取！\n\n完成教程后，您还可以在收件箱中获得额外的 TRN 离线训练师以供领取！"
   },
   "staking": {
     "title": "",

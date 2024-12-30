@@ -1409,7 +1409,7 @@
     "use-gummy-candy": "Usa caramelos de goma",
     "use-gummy-candy-content-1": "Usa un caramelo gomoso para mejorar la probabilidad de activación del ataque blanco de Blastingo. \nEsto es especialmente útil para movimientos blancos de alto daño.",
     "use-gummy-candy-content-2": "Selecciona Blastingo y aplica Gummy Candy.",
-    "great-job-content-2": "Ahora que hemos mejorado Blastingo, volvamos a la página de mazos para formar tu equipo.",
+    "great-job-content-2": "Felicitaciones por completar la Parte 1 del Tutorial de Zerpmon. \n¡Hemos enviado 1 TRN Zerpmon sin conexión gratuito a su bandeja de entrada para reclamar!\n\nAhora que hemos mejorado Blastingo, puedes continuar con la Parte 2 del tutorial y reunir tu equipo, o regresar al menú principal y finalizar el tutorial más tarde.",
     "gym-deck": "Cubierta de gimnasio",
     "gym-deck-content": "Selecciona tu Gym Deck y crea Gym Deck 1 para prepararte para la batalla. \nUn mazo completo debe incluir un Entrenador, cinco Zerpmon y hasta cinco elementos de Equipo.",
     "drag-and-drop-cards": "Arrastrar y soltar tarjetas",
@@ -1449,7 +1449,12 @@
     "select-zerpmon-trainer": "¡Felicitaciones por completar el tutorial! \nComo recompensa selecciona 3 Zerpmon y 1 Entrenador",
     "claim": "Afirmar",
     "untradeble-nfts-note": "Estos serán activos fuera de la cadena no comercializables que le permitirán jugar en una variante fuera de línea.",
-    "equipment": ""
+    "equipment": "",
+    "tutorial-part-1": "Tutorial - Parte 1",
+    "tutorial-part-1-content": "Bienvenido a la Parte 1 del Tutorial de Zerpmon. \nAquí aprenderá a navegar por la aplicación web, aplicar mejoras a su Zerpmon y poder ver estadísticas.",
+    "tutorial-part-2": "Tutorial - Parte 2",
+    "tutorial-part-2-content": "Bienvenido a la Parte 2 del Tutorial",
+    "gym-battle-msg-13": "Felicitaciones por completar la Parte 3 del Tutorial de Zerpmon. \n¡Hemos enviado el último de tus 3 TRN Zerpmon sin conexión gratuitos a tu bandeja de entrada para reclamar!\n\nDesde que completó el Tutorial, ¡también obtendrá un Entrenador fuera de línea de TRN adicional en su bandeja de entrada para reclamar también!"
   },
   "staking": {
     "title": "",

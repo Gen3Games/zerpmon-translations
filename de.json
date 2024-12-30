@@ -1409,7 +1409,7 @@
     "use-gummy-candy": "Verwenden Sie Gummibonbons",
     "use-gummy-candy-content-1": "Verwenden Sie ein Gummibonbon, um Blastos Aktivierungschance für einen weißen Angriff zu verbessern. \nDies ist besonders nützlich für weiße Bewegungen mit hohem Schaden.",
     "use-gummy-candy-content-2": "Wählen Sie „Blastingo“ und tragen Sie das Gummibonbon auf.",
-    "great-job-content-2": "Nachdem wir Blasto nun verbessert haben, kehren wir zur Seite „Decks“ zurück, um Ihr Team zusammenzustellen.",
+    "great-job-content-2": "Herzlichen Glückwunsch zum Abschluss von Teil 1 des Zerpmon-Tutorials. \nWir haben 1 kostenloses Offline-TRN-Zerpmon zur Inanspruchnahme an Ihren Posteingang gesendet!\n\nNachdem wir Blasto nun verbessert haben, können Sie entweder mit Teil 2 des Tutorials fortfahren und Ihr Team zusammenstellen oder zum Hauptmenü zurückkehren und das Tutorial später beenden.",
     "gym-deck": "Fitnessstudio-Deck",
     "gym-deck-content": "Wählen Sie Ihr Gym-Deck und erstellen Sie Gym-Deck 1, um sich auf den Kampf vorzubereiten. \nEin komplettes Deck sollte einen Trainer, fünf Zerpmon und bis zu fünf Ausrüstungsgegenstände enthalten.",
     "drag-and-drop-cards": "Ziehen Sie Karten per Drag-and-Drop",
@@ -1449,7 +1449,12 @@
     "select-zerpmon-trainer": "Herzlichen Glückwunsch zum Abschluss des Tutorials! \nWählen Sie als Belohnung 3 Zerpmon und 1 Trainer aus",
     "claim": "Beanspruchen",
     "untradeble-nfts-note": "Hierbei handelt es sich um nicht handelbare Vermögenswerte außerhalb der Kette, die es Ihnen ermöglichen, das Spiel in einer Offline-Variante zu spielen.",
-    "equipments": ""
+    "equipments": "",
+    "tutorial-part-1": "Tutorial – Teil 1",
+    "tutorial-part-1-content": "Willkommen zu Teil 1 des Zerpmon-Tutorials. \nHier erfahren Sie, wie Sie sich in der Webanwendung umsehen, Buffs auf Ihr Zerpmon anwenden und Statistiken anzeigen können.",
+    "tutorial-part-2": "Tutorial – Teil 2",
+    "tutorial-part-2-content": "Willkommen zu Teil 2 des Tutorials",
+    "gym-battle-msg-13": "Herzlichen Glückwunsch zum Abschluss von Teil 3 des Zerpmon-Tutorials. \nWir haben das letzte Ihrer 3 kostenlosen Offline-TRN-Zerpmon zur Inanspruchnahme an Ihren Posteingang gesendet!\n\nDa Sie das Tutorial abgeschlossen haben, erhalten Sie auch einen Bonus-TRN-Offline-Trainer in Ihrem Posteingang, den Sie ebenfalls anfordern können!"
   },
   "staking": {
     "title": "",

@@ -1409,7 +1409,7 @@
     "use-gummy-candy": "Gebruik gummiesnoepjes",
     "use-gummy-candy-content-1": "Gebruik een Gummy Candy om de activeringskans van Blastingo's White Attack te vergroten. \nDit is vooral handig bij witte zetten die veel schade aanrichten.",
     "use-gummy-candy-content-2": "Selecteer Blastingo en pas de Gummy Candy toe.",
-    "great-job-content-2": "Nu we Blastingo hebben verbeterd, gaan we terug naar de Decks-pagina om je team samen te stellen.",
+    "great-job-content-2": "Gefeliciteerd met het voltooien van deel 1 van de Zerpmon-tutorial. \nWe hebben 1 gratis offline TRN Zerpmon naar je inbox gestuurd om te claimen!\n\nNu we Blastingo hebben verbeterd, kun je doorgaan met deel 2 van de tutorial en je team samenstellen, of terugkeren naar het hoofdmenu en de tutorial later afmaken.",
     "gym-deck": "Gymdek",
     "gym-deck-content": "Selecteer je Gym Deck en creëer Gym Deck 1 om je voor te bereiden op de strijd. \nEen compleet kaartspel moet één Trainer, vijf Zerpmon en maximaal vijf uitrustingsitems bevatten.",
     "drag-and-drop-cards": "Kaarten slepen en neerzetten",
@@ -1449,7 +1449,12 @@
     "select-zerpmon-trainer": "Gefeliciteerd met het voltooien van de tutorial! \nAls beloning selecteer je 3 Zerpmon en 1 Trainer",
     "claim": "Claim",
     "untradeble-nfts-note": "Dit zijn niet-verhandelbare activa buiten de keten waarmee je de game in een offline variant kunt spelen.",
-    "equipments": ""
+    "equipments": "",
+    "tutorial-part-1": "Tutorial - Deel 1",
+    "tutorial-part-1-content": "Welkom bij deel 1 van de Zerpmon-zelfstudie. \nHier leer je rondkijken in de webapp, buffs toepassen op je Zerpmon en statistieken bekijken.",
+    "tutorial-part-2": "Tutorial - Deel 2",
+    "tutorial-part-2-content": "Welkom bij deel 2 van de tutorial",
+    "gym-battle-msg-13": "Gefeliciteerd met het voltooien van deel 3 van de Zerpmon-tutorial. \nWe hebben de laatste van je 3 gratis offline TRN Zerpmon naar je inbox gestuurd om te claimen!\n\nOmdat je de Tutorial hebt voltooid, ontvang je ook een bonus TRN offline Trainer in je inbox om te claimen!"
   },
   "staking": {
     "title": "",

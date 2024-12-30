@@ -1409,7 +1409,7 @@
     "use-gummy-candy": "Usa caramelle gommose",
     "use-gummy-candy-content-1": "Usa una caramella gommosa per migliorare la possibilità di attivazione dell'attacco bianco di Bblasto. \nCiò è particolarmente utile per le mosse bianche ad alto danno.",
     "use-gummy-candy-content-2": "Seleziona BLASTINGO e applica la caramella gommosa.",
-    "great-job-content-2": "Ora che abbiamo migliorato Blastingo, torniamo alla pagina dei mazzi per mettere insieme la tua squadra.",
+    "great-job-content-2": "Congratulazioni per aver completato la Parte 1 del Tutorial Zerpmon. \nAbbiamo inviato 1 TRN Zerpmon offline gratuito alla tua casella di posta per richiederlo!\n\nOra che abbiamo migliorato Blastingo, puoi continuare con la Parte 2 del tutorial e riunire la tua squadra, oppure tornare al menu principale e terminare il tutorial in un secondo momento.",
     "gym-deck": "Ponte della palestra",
     "gym-deck-content": "Seleziona il tuo mazzo Palestra e crea il mazzo Palestra 1 per prepararti alla battaglia. \nUn mazzo completo dovrebbe includere un Allenatore, cinque Zerpmon e fino a cinque oggetti di equipaggiamento.",
     "drag-and-drop-cards": "Trascina e rilascia le carte",
@@ -1449,7 +1449,12 @@
     "select-zerpmon-trainer": "Congratulazioni per aver completato il tutorial! \nCome ricompensa seleziona 3 Zerpmon e 1 Allenatore",
     "claim": "Reclamo",
     "untradeble-nfts-note": "Si tratterà di risorse non negoziabili e fuori catena che ti consentiranno di giocare in una variante offline.",
-    "equipments": ""
+    "equipments": "",
+    "tutorial-part-1": "Esercitazione - Parte 1",
+    "tutorial-part-1-content": "Benvenuti nella prima parte del tutorial di Zerpmon. \nQui imparerai a curiosare nella webapp, ad applicare potenziamenti al tuo Zerpmon e a visualizzare le statistiche.",
+    "tutorial-part-2": "Esercitazione - Parte 2",
+    "tutorial-part-2-content": "Benvenuti nella Parte 2 del Tutorial",
+    "gym-battle-msg-13": "Congratulazioni per aver completato la Parte 3 del Tutorial Zerpmon. \nAbbiamo inviato l'ultimo dei tuoi 3 TRN Zerpmon offline gratuiti alla tua casella di posta per richiederlo!\n\nUna volta completato il tutorial, riceverai anche un Trainer offline TRN bonus nella tua casella di posta per la richiesta!"
   },
   "staking": {
     "title": "",

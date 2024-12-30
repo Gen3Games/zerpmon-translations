@@ -1409,7 +1409,7 @@
     "use-gummy-candy": "Utilisez des bonbons gommeux",
     "use-gummy-candy-content-1": "Utilisez un bonbon gommeux pour améliorer les chances d'activation de l'attaque blanche de Blastingo. \nCeci est particulièrement utile pour les mouvements blancs causant des dégâts élevés.",
     "use-gummy-candy-content-2": "Sélectionnez Blastingo et appliquez le Gummy Candy.",
-    "great-job-content-2": "Maintenant que nous avons amélioré Blastingo, retournons à la page Decks pour constituer votre équipe.",
+    "great-job-content-2": "Félicitations pour avoir terminé la première partie du didacticiel Zerpmon. \nNous avons envoyé 1 TRN Zerpmon hors ligne gratuit dans votre boîte de réception pour le réclamer !\n\nMaintenant que nous avons amélioré Blastingo, vous pouvez soit continuer avec la partie 2 du didacticiel et constituer votre équipe, soit revenir au menu principal et terminer le didacticiel plus tard.",
     "gym-deck": "Pont de salle de sport",
     "gym-deck-content": "Sélectionnez votre Gym Deck et créez Gym Deck 1 pour vous préparer au combat. \nUn deck complet doit comprendre un entraîneur, cinq Zerpmon et jusqu'à cinq éléments d'équipement.",
     "drag-and-drop-cards": "Glisser-déposer des cartes",
@@ -1449,7 +1449,12 @@
     "select-zerpmon-trainer": "Félicitations, vous avez terminé le didacticiel ! \nEn récompense, sélectionnez 3 Zerpmon et 1 Dresseur",
     "claim": "Réclamer",
     "untradeble-nfts-note": "Il s’agira d’actifs hors chaîne non échangeables qui vous permettront de jouer au jeu dans une variante hors ligne.",
-    "equipments": ""
+    "equipments": "",
+    "tutorial-part-1": "Tutoriel - Partie 1",
+    "tutorial-part-1-content": "Bienvenue dans la première partie du didacticiel Zerpmon. \nIci, vous apprendrez à parcourir la webapp, à appliquer des buffs à votre Zerpmon et à consulter les statistiques.",
+    "tutorial-part-2": "Tutoriel - Partie 2",
+    "tutorial-part-2-content": "Bienvenue dans la deuxième partie du didacticiel",
+    "gym-battle-msg-13": "Félicitations pour avoir terminé la partie 3 du didacticiel Zerpmon. \nNous avons envoyé le dernier de vos 3 TRN Zerpmon hors ligne gratuits dans votre boîte de réception pour le réclamer !\n\nDepuis que vous avez terminé le didacticiel, vous recevez également un bonus d'entraîneur hors ligne TRN dans votre boîte de réception pour le réclamer !"
   },
   "staking": {
     "title": "",

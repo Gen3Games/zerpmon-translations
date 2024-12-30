@@ -1409,7 +1409,7 @@
     "use-gummy-candy": "Use Gummy Candy",
     "use-gummy-candy-content-1": "Use a Gummy Candy to improve Blastingo's White Attack activation chance. This is especially useful for high-damage White Moves.",
     "use-gummy-candy-content-2": "Select Blastingo and apply the Gummy Candy.",
-    "great-job-content-2": "Now that we've enhanced Blastingo, let's return to the Decks Page to assemble your team.",
+    "great-job-content-2": "Congratulations on completing Part 1 of the Zerpmon Tutorial. We have sent 1 free offline TRN Zerpmon to your inbox for claiming!\nNow that we've enhanced Blastingo, you can either keep going with Part 2 of the tutorial and assemble your team, or return to the main menu and finish the tutorial later.",
     "gym-deck": "Gym Deck",
     "gym-deck-content": "Select your Gym Deck and create Gym Deck 1 to prepare for battle. A complete deck should include one Trainer, five Zerpmon, and up to five Equipment items.",
     "drag-and-drop-cards": "Drag and Drop Cards",
@@ -1449,7 +1449,12 @@
     "select-zerpmon-trainer": "Congrats on completing the tutorial! As a reward select 3 Zerpmon and 1 Trainer",
     "claim": "Claim",
     "untradeble-nfts-note": "These will be untradeable, off-chain assets that enable you to play the game in an offline variant.",
-    "equipments": ""
+    "equipments": "",
+    "tutorial-part-1": "Tutorial - Part 1",
+    "tutorial-part-1-content": "Welcome to Part 1 of the Zerpmon Tutorial. Here you will learn to look around the webapp, apply buffs to your Zerpmon and be able to view stats.",
+    "tutorial-part-2": "Tutorial - Part 2",
+    "tutorial-part-2-content": "Welcome to Part 2 of the Tutorial",
+    "gym-battle-msg-13": "Congratulations on completing Part 3 of the Zerpmon Tutorial. We have sent the last of your 3 free offline TRN Zerpmon to your inbox for claiming!\nSince you completed the Tutorial, you also get a bonus TRN offline Trainer in your inbox for claiming as well!"
   },
   "staking": {
     "title": "Zerpmon Staking Dashboard",
