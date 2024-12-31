@@ -119,7 +119,8 @@
     "connect-xrpl": "XRPL 지갑 연결",
     "connect-futurepass": "FuturePass 지갑 연결",
     "futurepass-copied": "FuturePass 주소가 복사되었습니다",
-    "xrpl-address-copied": "XRPL 주소가 복사되었습니다."
+    "xrpl-address-copied": "XRPL 주소가 복사되었습니다.",
+    "ttk-assets": "TTK 자산"
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",

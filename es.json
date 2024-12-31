@@ -119,7 +119,8 @@
     "connect-xrpl": "Conecte la billetera XRPL",
     "connect-futurepass": "Conecte la billetera FuturePass",
     "futurepass-copied": "Dirección FuturePass copiada",
-    "xrpl-address-copied": "Dirección XRPL copiada"
+    "xrpl-address-copied": "Dirección XRPL copiada",
+    "ttk-assets": "Activos TTK"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",
