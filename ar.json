@@ -1239,7 +1239,9 @@
     "wallets": "محافظ",
     "xrpl-address-copied": "تم نسخ عنوان XRPL",
     "your-wallets": "محافظ مرتبطة",
-    "zerpmons": "زيربمون"
+    "zerpmons": "زيربمون",
+    "zerpwallet": "ZerpWallet",
+    "staking": "التوقيع المساحي"
   },
   "wallet": {
     "address-copied": "تم نسخ العنوان",

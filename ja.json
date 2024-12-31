@@ -119,7 +119,9 @@
     "connect-xrpl": "XRPLウォレットを接続する",
     "connect-futurepass": "FuturePass ウォレットを接続する",
     "futurepass-copied": "FuturePass アドレスがコピーされました",
-    "xrpl-address-copied": "XRPLアドレスがコピーされました"
+    "xrpl-address-copied": "XRPLアドレスがコピーされました",
+    "zerpwallet": "ZerpWallet",
+    "staking": "ステーキング"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",

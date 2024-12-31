@@ -1084,7 +1084,9 @@
     "connect-xrpl": "Connetti il ​​portafoglio XRPL",
     "connect-futurepass": "Connetti il ​​portafoglio FuturePass",
     "futurepass-copied": "Indirizzo FuturePass copiato",
-    "xrpl-address-copied": "Indirizzo XRPL copiato"
+    "xrpl-address-copied": "Indirizzo XRPL copiato",
+    "zerpwallet": "ZerpWallet",
+    "staking": "Puntata"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",
