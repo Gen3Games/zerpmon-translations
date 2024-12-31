@@ -120,6 +120,7 @@
     "connect-futurepass": "FuturePass ウォレットを接続する",
     "futurepass-copied": "FuturePass アドレスがコピーされました",
     "xrpl-address-copied": "XRPLアドレスがコピーされました",
+    "ttk-assets": "TTKアセット",
     "zerpwallet": "ZerpWallet",
     "staking": "ステーキング"
   },

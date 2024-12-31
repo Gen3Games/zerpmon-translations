@@ -120,6 +120,7 @@
     "connect-futurepass": "连接 FuturePass 钱包",
     "futurepass-copied": "FuturePass 地址已复制",
     "xrpl-address-copied": "已复制 XRPL 地址",
+    "ttk-assets": "TTK资产",
     "zerpwallet": "ZerpWallet",
     "staking": "质押"
   },
