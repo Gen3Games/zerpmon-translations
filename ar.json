@@ -1328,11 +1328,16 @@
     "zrp-balance": "رصيد ZRP",
     "daily-withdrawal-limit-reached": "",
     "user-not-active": "",
-    "trust-line-established": "",
-    "checking-trust-line": "",
-    "trust-line-required": "",
-    "view-on-xrpl-services": "",
-    "zrp-trust-line": ""
+    "trust-line-established": "تم إنشاء TrustLine",
+    "checking-trust-line": "التحقق من TrustLine",
+    "trust-line-required": "مطلوب خط الثقة",
+    "view-on-xrpl-services": "عرض على خدمات XRPL",
+    "zrp-trust-line": "زي آر بي تراست لاين",
+    "establishing-trust-line": "إنشاء خط الثقة",
+    "establish-trust-line": "إنشاء خط الثقة",
+    "trust-line-set-success": "تم تعيين TrustLine بنجاح",
+    "payment-tx-failed": "فشلت معاملة الدفع",
+    "sign-with-xaman": "وقع مع Xaman"
   },
   "world-boss": {
     "battle": "معركة",

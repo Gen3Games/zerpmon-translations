@@ -1349,11 +1349,16 @@
     "bridge-notice": "Het storten van geld van The Root Network naar ZerpWallet maakt gebruik van een bridge. Het overbruggen kost tijd en brengt kosten met zich mee.",
     "daily-withdrawal-limit-reached": "",
     "user-not-active": "",
-    "trust-line-established": "",
-    "checking-trust-line": "",
-    "trust-line-required": "",
-    "view-on-xrpl-services": "",
-    "zrp-trust-line": ""
+    "trust-line-established": "TrustLine opgericht",
+    "checking-trust-line": "TrustLine controleren",
+    "trust-line-required": "TrustLine vereist",
+    "view-on-xrpl-services": "Bekijk op XRPL-services",
+    "zrp-trust-line": "ZRP TrustLine",
+    "establishing-trust-line": "Opzetten van TrustLine",
+    "establish-trust-line": "TrustLine opzetten",
+    "trust-line-set-success": "TrustLine is succesvol ingesteld",
+    "payment-tx-failed": "Betalingstransactie mislukt",
+    "sign-with-xaman": "Teken met Xaman"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Kan FuturePass-transactie niet voorbereiden",

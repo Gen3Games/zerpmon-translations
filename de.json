@@ -1349,11 +1349,16 @@
     "bridge-notice": "Die Einzahlung von Geldern vom Root Network auf ZerpWallet erfolgt über eine Brücke. Die Überbrückung kostet Zeit und ist kostenpflichtig.",
     "daily-withdrawal-limit-reached": "Tägliches Auszahlungslimit erreicht ({limitAmount}).",
     "user-not-active": "Auszahlungen sind für inaktive Accounts nicht gestattet.",
-    "trust-line-established": "",
-    "checking-trust-line": "",
-    "trust-line-required": "",
-    "view-on-xrpl-services": "",
-    "zrp-trust-line": ""
+    "trust-line-established": "TrustLine eingerichtet",
+    "checking-trust-line": "TrustLine wird überprüft",
+    "trust-line-required": "TrustLine erforderlich",
+    "view-on-xrpl-services": "Sehen Sie sich XRPL-Dienste an",
+    "zrp-trust-line": "ZRP TrustLine",
+    "establishing-trust-line": "Einrichtung von TrustLine",
+    "establish-trust-line": "Richten Sie TrustLine ein",
+    "trust-line-set-success": "TrustLine erfolgreich eingerichtet",
+    "payment-tx-failed": "Zahlungstransaktion fehlgeschlagen",
+    "sign-with-xaman": "Unterschreiben Sie mit Xaman"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Die Vorbereitung der FuturePass-Transaktion ist fehlgeschlagen",

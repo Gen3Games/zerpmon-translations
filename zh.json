@@ -1349,11 +1349,16 @@
     "bridge-notice": "使用桥将资金从 The Root Network 存入 ZerpWallet。\n桥接需要时间并产生费用。",
     "daily-withdrawal-limit-reached": "",
     "user-not-active": "",
-    "trust-line-established": "",
-    "checking-trust-line": "",
-    "trust-line-required": "",
-    "view-on-xrpl-services": "",
-    "zrp-trust-line": ""
+    "trust-line-established": "信托热线成立",
+    "checking-trust-line": "检查信任线",
+    "trust-line-required": "需要信任热线",
+    "view-on-xrpl-services": "查看 XRPL 服务",
+    "zrp-trust-line": "中荣信托热线",
+    "establishing-trust-line": "建立信任热线",
+    "establish-trust-line": "建立信任热线",
+    "trust-line-set-success": "TrustLine 设置成功",
+    "payment-tx-failed": "支付交易失败",
+    "sign-with-xaman": "与 Xaman 签约"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "无法准备 FuturePass 交易",

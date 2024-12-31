@@ -1349,11 +1349,16 @@
     "bridge-notice": "The Root Network から ZerpWallet への資金の入金にはブリッジが使用されます。ブリッジングには時間がかかり、料金もかかります。",
     "daily-withdrawal-limit-reached": "",
     "user-not-active": "",
-    "trust-line-established": "",
-    "checking-trust-line": "",
-    "trust-line-required": "",
-    "view-on-xrpl-services": "",
-    "zrp-trust-line": ""
+    "trust-line-established": "トラストラインの設立",
+    "checking-trust-line": "トラストラインの確認",
+    "trust-line-required": "トラストラインが必要です",
+    "view-on-xrpl-services": "XRPLサービスを見る",
+    "zrp-trust-line": "ZRP トラストライン",
+    "establishing-trust-line": "トラストラインの確立",
+    "establish-trust-line": "トラストラインを確立する",
+    "trust-line-set-success": "TrustLine が正常に設定されました",
+    "payment-tx-failed": "支払いトランザクションが失敗しました",
+    "sign-with-xaman": "ザマンと署名する"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass トランザクションの準備に失敗しました",

@@ -1349,11 +1349,16 @@
     "bridge-notice": "रूट नेटवर्क से ZerpWallet में धनराशि जमा करने के लिए एक ब्रिज का उपयोग किया जाता है। ब्रिजिंग में समय लगता है और शुल्क भी लगता है।",
     "daily-withdrawal-limit-reached": "",
     "user-not-active": "",
-    "trust-line-established": "",
-    "checking-trust-line": "",
-    "trust-line-required": "",
-    "view-on-xrpl-services": "",
-    "zrp-trust-line": ""
+    "trust-line-established": "ट्रस्टलाइन की स्थापना",
+    "checking-trust-line": "ट्रस्टलाइन की जाँच करना",
+    "trust-line-required": "ट्रस्टलाइन आवश्यक",
+    "view-on-xrpl-services": "एक्सआरपीएल सेवाओं पर देखें",
+    "zrp-trust-line": "ZRP ट्रस्टलाइन",
+    "establishing-trust-line": "ट्रस्टलाइन की स्थापना",
+    "establish-trust-line": "ट्रस्टलाइन स्थापित करें",
+    "trust-line-set-success": "ट्रस्टलाइन सफलतापूर्वक सेट हो गई",
+    "payment-tx-failed": "भुगतान लेनदेन विफल",
+    "sign-with-xaman": "ज़मान के साथ हस्ताक्षर करें"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass लेनदेन तैयार करने में विफल",

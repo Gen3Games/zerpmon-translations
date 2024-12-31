@@ -1349,11 +1349,16 @@
     "bridge-notice": "Depositing funds from The Root Network to ZerpWallet uses a bridge. Bridging takes time and incurs a fee.",
     "daily-withdrawal-limit-reached": "Daily withdrawal limit reached ({limitAmount}).",
     "user-not-active": "Withdrawals not allowed for inactive accounts.",
-    "trust-line-established": "trust-line-established",
-    "checking-trust-line": "checking-trust-line",
-    "trust-line-required": "trust-line-required",
-    "view-on-xrpl-services": "view-on-xrpl-services",
-    "zrp-trust-line": "zrp-trust-line"
+    "trust-line-established": "TrustLine Established",
+    "checking-trust-line": "Checking TrustLine",
+    "trust-line-required": "TrustLine Required",
+    "view-on-xrpl-services": "View on XRPL Services",
+    "zrp-trust-line": "ZRP TrustLine",
+    "establishing-trust-line": "Establishing TrustLine",
+    "establish-trust-line": "Establish TrustLine",
+    "trust-line-set-success": "TrustLine Set Successfully",
+    "payment-tx-failed": "Payment Transaction Failed",
+    "sign-with-xaman": "Sign With Xaman"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Failed to prepare FuturePass transaction",

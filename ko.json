@@ -1349,11 +1349,16 @@
     "bridge-notice": "루트 네트워크에서 ZerpWallet으로 자금을 입금하는 데는 브리지가 사용됩니다. 브리징에는 시간이 걸리고 수수료가 발생합니다.",
     "daily-withdrawal-limit-reached": "",
     "user-not-active": "",
-    "trust-line-established": "",
-    "checking-trust-line": "",
-    "trust-line-required": "",
-    "view-on-xrpl-services": "",
-    "zrp-trust-line": ""
+    "trust-line-established": "트러스트라인 설립",
+    "checking-trust-line": "TrustLine 확인 중",
+    "trust-line-required": "TrustLine 필수",
+    "view-on-xrpl-services": "XRPL 서비스 보기",
+    "zrp-trust-line": "ZRP 트러스트라인",
+    "establishing-trust-line": "TrustLine 구축",
+    "establish-trust-line": "TrustLine 구축",
+    "trust-line-set-success": "TrustLine이 성공적으로 설정되었습니다.",
+    "payment-tx-failed": "결제 거래 실패",
+    "sign-with-xaman": "Xaman으로 로그인"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass 거래를 준비하지 못했습니다.",

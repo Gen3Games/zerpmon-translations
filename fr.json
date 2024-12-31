@@ -1349,11 +1349,16 @@
     "bridge-notice": "Le dépôt de fonds du Root Network vers ZerpWallet utilise un pont. La transition prend du temps et entraîne des frais.",
     "daily-withdrawal-limit-reached": "",
     "user-not-active": "",
-    "trust-line-established": "",
-    "checking-trust-line": "",
-    "trust-line-required": "",
-    "view-on-xrpl-services": "",
-    "zrp-trust-line": ""
+    "trust-line-established": "Ligne de confiance établie",
+    "checking-trust-line": "Vérification de TrustLine",
+    "trust-line-required": "Ligne de confiance requise",
+    "view-on-xrpl-services": "Voir sur les services XRPL",
+    "zrp-trust-line": "Ligne de confiance ZRP",
+    "establishing-trust-line": "Création d'une ligne de confiance",
+    "establish-trust-line": "Établir une ligne de confiance",
+    "trust-line-set-success": "TrustLine défini avec succès",
+    "payment-tx-failed": "Échec de la transaction de paiement",
+    "sign-with-xaman": "Signer avec Xaman"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Échec de la préparation de la transaction FuturePass",

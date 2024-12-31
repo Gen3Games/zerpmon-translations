@@ -1349,11 +1349,16 @@
     "bridge-notice": "Il deposito di fondi da The Root Network a ZerpWallet utilizza un bridge. Il bridging richiede tempo e comporta un costo.",
     "daily-withdrawal-limit-reached": "",
     "user-not-active": "",
-    "trust-line-established": "",
-    "checking-trust-line": "",
-    "trust-line-required": "",
-    "view-on-xrpl-services": "",
-    "zrp-trust-line": ""
+    "trust-line-established": "TrustLine fondata",
+    "checking-trust-line": "Controllo TrustLine",
+    "trust-line-required": "TrustLine obbligatorio",
+    "view-on-xrpl-services": "Visualizza sui servizi XRPL",
+    "zrp-trust-line": "ZRP TrustLine",
+    "establishing-trust-line": "Creazione di TrustLine",
+    "establish-trust-line": "Stabilisci TrustLine",
+    "trust-line-set-success": "TrustLine impostato correttamente",
+    "payment-tx-failed": "Transazione di pagamento non riuscita",
+    "sign-with-xaman": "Firma con Xaman"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Impossibile preparare la transazione FuturePass",
