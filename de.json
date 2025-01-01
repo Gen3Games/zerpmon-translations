@@ -1465,11 +1465,11 @@
     "gym-battle-msg-13": "Herzlichen Glückwunsch zum Abschluss von Teil 3 des Zerpmon-Tutorials. \nWir haben das letzte Ihrer 3 kostenlosen Offline-TRN-Zerpmon zur Inanspruchnahme an Ihren Posteingang gesendet!\n\nDa Sie das Tutorial abgeschlossen haben, erhalten Sie auch einen Bonus-TRN-Offline-Trainer in Ihrem Posteingang, den Sie ebenfalls anfordern können!"
   },
   "staking": {
-    "title": "",
-    "liquidity-pool-section-title": "",
-    "nft-holding-section-title": "",
-    "trn-nft-staking-description": "",
-    "confirm-unstaking": "",
-    "trn-api-not-available": ""
+    "title": "Zerpmon Staking Menu",
+    "liquidity-pool-section-title": "Liquidity Pool Holdings - Halte einfach ZRP LP-Token, um Belohnungen zu verdienen",
+    "nft-holding-section-title": "Zerpmon NFT Holdings - Stake deine Zerpmon NFT's, um Belohnungen zu erhalten",
+    "trn-nft-staking-description": "Transferiere dein NFT's zum TRN Staking Wallet ({zerpmonNames})",
+    "confirm-unstaking": "Bist du sicher, dass du {zerpmonNames} nicht mehr staken möchtest?",
+    "trn-api-not-available": "TRN API nicht verfügbar"
   }
 }
