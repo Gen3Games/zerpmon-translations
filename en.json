@@ -122,7 +122,19 @@
     "xrpl-address-copied": "XRPL address copied",
     "ttk-assets": "TTK Assets",
     "zerpwallet": "ZerpWallet",
-    "staking": "Staking"
+    "staking": "Staking",
+    "token-balance": "Token Balance",
+    "error-amount-empty": "Empty Amount",
+    "error-invalid-address": "Invalid Address",
+    "trn-api-not-available": "trn API not available",
+    "error-signer-not-found": "Signer Not Found",
+    "sent-successful": "Successfully Sent",
+    "error-sending-token": "Error Sending Token",
+    "send-token": "Send Token",
+    "select-token": "Select Token",
+    "enter-wallet-address": "Enter Wallet Address",
+    "enter-amount": "Enter Amount",
+    "send": "Send"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",
@@ -1361,7 +1373,8 @@
     "establish-trust-line": "Establish TrustLine",
     "trust-line-set-success": "TrustLine Set Successfully",
     "payment-tx-failed": "Payment Transaction Failed",
-    "sign-with-xaman": "Sign With Xaman"
+    "sign-with-xaman": "Sign With Xaman",
+    "error-signer-not-found": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Failed to prepare FuturePass transaction",

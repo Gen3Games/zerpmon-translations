@@ -122,7 +122,19 @@
     "xrpl-address-copied": "已复制 XRPL 地址",
     "ttk-assets": "TTK资产",
     "zerpwallet": "ZerpWallet",
-    "staking": "质押"
+    "staking": "质押",
+    "token-balance": "代币余额",
+    "error-amount-empty": "空量",
+    "error-invalid-address": "地址无效",
+    "trn-api-not-available": "trn API 不可用",
+    "sent-successful": "发送成功",
+    "error-sending-token": "发送令牌时出错",
+    "send-token": "发送令牌",
+    "select-token": "选择代币",
+    "enter-wallet-address": "输入钱包地址",
+    "enter-amount": "输入金额",
+    "send": "发送",
+    "error-signer-not-found": "未找到签名者"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",
@@ -1361,7 +1373,8 @@
     "establish-trust-line": "建立信任热线",
     "trust-line-set-success": "TrustLine 设置成功",
     "payment-tx-failed": "支付交易失败",
-    "sign-with-xaman": "与 Xaman 签约"
+    "sign-with-xaman": "与 Xaman 签约",
+    "error-signer-not-found": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "无法准备 FuturePass 交易",

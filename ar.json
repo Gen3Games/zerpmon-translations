@@ -1242,7 +1242,19 @@
     "zerpmons": "زيربمون",
     "zerpwallet": "ZerpWallet",
     "staking": "التوقيع المساحي",
-    "ttk-assets": "أصول تي تي كيه"
+    "ttk-assets": "أصول تي تي كيه",
+    "token-balance": "رصيد الرمز المميز",
+    "error-amount-empty": "المبلغ الفارغ",
+    "error-invalid-address": "عنوان غير صالح",
+    "trn-api-not-available": "واجهة برمجة تطبيقات Trn غير متوفرة",
+    "sent-successful": "تم الإرسال بنجاح",
+    "error-sending-token": "خطأ في إرسال الرمز المميز",
+    "send-token": "إرسال الرمز المميز",
+    "select-token": "حدد الرمز المميز",
+    "enter-wallet-address": "أدخل عنوان المحفظة",
+    "enter-amount": "أدخل المبلغ",
+    "send": "يرسل",
+    "error-signer-not-found": "لم يتم العثور على المُوقع"
   },
   "wallet": {
     "address-copied": "تم نسخ العنوان",
@@ -1340,7 +1352,8 @@
     "establish-trust-line": "إنشاء خط الثقة",
     "trust-line-set-success": "تم تعيين TrustLine بنجاح",
     "payment-tx-failed": "فشلت معاملة الدفع",
-    "sign-with-xaman": "وقع مع Xaman"
+    "sign-with-xaman": "وقع مع Xaman",
+    "error-signer-not-found": ""
   },
   "world-boss": {
     "battle": "معركة",

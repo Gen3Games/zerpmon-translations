@@ -1087,7 +1087,19 @@
     "xrpl-address-copied": "एक्सआरपीएल पता कॉपी किया गया",
     "ttk-assets": "टीटीके संपत्ति",
     "zerpwallet": "ZerpWallet",
-    "staking": "जताया"
+    "staking": "जताया",
+    "token-balance": "टोकन बैलेंस",
+    "error-amount-empty": "रिक्त राशि",
+    "error-invalid-address": "अमान्य पता",
+    "trn-api-not-available": "टीआरएन एपीआई उपलब्ध नहीं है",
+    "sent-successful": "सफलतापूर्वक भेजा",
+    "error-sending-token": "टोकन भेजने में त्रुटि",
+    "send-token": "टोकन भेजें",
+    "select-token": "टोकन चुनें",
+    "enter-wallet-address": "वॉलेट पता दर्ज करें",
+    "enter-amount": "राशि डालें",
+    "send": "भेजना",
+    "error-signer-not-found": "हस्ताक्षरकर्ता नहीं मिला"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",
@@ -1361,7 +1373,8 @@
     "establish-trust-line": "ट्रस्टलाइन स्थापित करें",
     "trust-line-set-success": "ट्रस्टलाइन सफलतापूर्वक सेट हो गई",
     "payment-tx-failed": "भुगतान लेनदेन विफल",
-    "sign-with-xaman": "ज़मान के साथ हस्ताक्षर करें"
+    "sign-with-xaman": "ज़मान के साथ हस्ताक्षर करें",
+    "error-signer-not-found": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass लेनदेन तैयार करने में विफल",

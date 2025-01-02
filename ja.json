@@ -122,7 +122,19 @@
     "xrpl-address-copied": "XRPLアドレスがコピーされました",
     "ttk-assets": "TTKアセット",
     "zerpwallet": "ZerpWallet",
-    "staking": "ステーキング"
+    "staking": "ステーキング",
+    "token-balance": "トークン残高",
+    "error-amount-empty": "空の量",
+    "error-invalid-address": "無効なアドレス",
+    "trn-api-not-available": "trn API は利用できません",
+    "sent-successful": "正常に送信されました",
+    "error-sending-token": "トークン送信エラー",
+    "send-token": "トークンの送信",
+    "select-token": "トークンの選択",
+    "enter-wallet-address": "ウォレットアドレスを入力してください",
+    "enter-amount": "金額を入力してください",
+    "send": "送信",
+    "error-signer-not-found": "署名者が見つかりません"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",
@@ -1361,7 +1373,8 @@
     "establish-trust-line": "トラストラインを確立する",
     "trust-line-set-success": "TrustLine が正常に設定されました",
     "payment-tx-failed": "支払いトランザクションが失敗しました",
-    "sign-with-xaman": "ザマンと署名する"
+    "sign-with-xaman": "ザマンと署名する",
+    "error-signer-not-found": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass トランザクションの準備に失敗しました",

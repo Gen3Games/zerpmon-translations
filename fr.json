@@ -958,7 +958,19 @@
     "xrpl-address-copied": "Adresse XRPL copiée",
     "ttk-assets": "Actifs TTK",
     "zerpwallet": "ZerpWallet",
-    "staking": "Jalonnement"
+    "staking": "Jalonnement",
+    "token-balance": "Solde des jetons",
+    "error-amount-empty": "Montant vide",
+    "error-invalid-address": "Adresse invalide",
+    "trn-api-not-available": "API trn non disponible",
+    "sent-successful": "Envoyé avec succès",
+    "error-sending-token": "Erreur lors de l'envoi du jeton",
+    "send-token": "Envoyer le jeton",
+    "select-token": "Sélectionnez le jeton",
+    "enter-wallet-address": "Entrez l'adresse du portefeuille",
+    "enter-amount": "Entrez le montant",
+    "send": "Envoyer",
+    "error-signer-not-found": "Signataire introuvable"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",
@@ -1361,7 +1373,8 @@
     "establish-trust-line": "Établir une ligne de confiance",
     "trust-line-set-success": "TrustLine défini avec succès",
     "payment-tx-failed": "Échec de la transaction de paiement",
-    "sign-with-xaman": "Signer avec Xaman"
+    "sign-with-xaman": "Signer avec Xaman",
+    "error-signer-not-found": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Échec de la préparation de la transaction FuturePass",

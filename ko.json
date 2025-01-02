@@ -122,7 +122,19 @@
     "xrpl-address-copied": "XRPL 주소가 복사되었습니다.",
     "ttk-assets": "TTK 자산",
     "zerpwallet": "ZerpWallet",
-    "staking": "스테이킹"
+    "staking": "스테이킹",
+    "token-balance": "토큰 잔액",
+    "error-amount-empty": "빈 금액",
+    "error-invalid-address": "잘못된 주소",
+    "trn-api-not-available": "trn API를 사용할 수 없습니다",
+    "sent-successful": "성공적으로 보냈습니다",
+    "error-sending-token": "토큰 전송 오류",
+    "send-token": "토큰 보내기",
+    "select-token": "토큰 선택",
+    "enter-wallet-address": "지갑 주소 입력",
+    "enter-amount": "금액 입력",
+    "send": "보내다",
+    "error-signer-not-found": "서명자를 찾을 수 없음"
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",
@@ -1361,7 +1373,8 @@
     "establish-trust-line": "TrustLine 구축",
     "trust-line-set-success": "TrustLine이 성공적으로 설정되었습니다.",
     "payment-tx-failed": "결제 거래 실패",
-    "sign-with-xaman": "Xaman으로 로그인"
+    "sign-with-xaman": "Xaman으로 로그인",
+    "error-signer-not-found": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass 거래를 준비하지 못했습니다.",

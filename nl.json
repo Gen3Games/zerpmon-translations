@@ -1087,7 +1087,19 @@
     "xrpl-address-copied": "XRPL-adres gekopieerd",
     "ttk-assets": "TTK-activa",
     "zerpwallet": "ZerpWallet",
-    "staking": "Uitzetten"
+    "staking": "Uitzetten",
+    "token-balance": "Token-saldo",
+    "error-amount-empty": "Leeg bedrag",
+    "error-invalid-address": "Ongeldig adres",
+    "trn-api-not-available": "trn-API niet beschikbaar",
+    "sent-successful": "Succesvol verzonden",
+    "error-sending-token": "Fout bij verzenden van token",
+    "send-token": "Token verzenden",
+    "select-token": "Selecteer Token",
+    "enter-wallet-address": "Voer het Wallet-adres in",
+    "enter-amount": "Voer Bedrag in",
+    "send": "Versturen",
+    "error-signer-not-found": "Ondertekenaar niet gevonden"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",
@@ -1361,7 +1373,8 @@
     "establish-trust-line": "TrustLine opzetten",
     "trust-line-set-success": "TrustLine is succesvol ingesteld",
     "payment-tx-failed": "Betalingstransactie mislukt",
-    "sign-with-xaman": "Teken met Xaman"
+    "sign-with-xaman": "Teken met Xaman",
+    "error-signer-not-found": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Kan FuturePass-transactie niet voorbereiden",

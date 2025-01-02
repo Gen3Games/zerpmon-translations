@@ -1087,7 +1087,19 @@
     "xrpl-address-copied": "Indirizzo XRPL copiato",
     "ttk-assets": "Risorse TTK",
     "zerpwallet": "ZerpWallet",
-    "staking": "Puntata"
+    "staking": "Puntata",
+    "token-balance": "Saldo dei gettoni",
+    "error-amount-empty": "Importo vuoto",
+    "error-invalid-address": "Indirizzo non valido",
+    "trn-api-not-available": "API trn non disponibile",
+    "sent-successful": "Inviato con successo",
+    "error-sending-token": "Errore durante l'invio del token",
+    "send-token": "Invia gettone",
+    "select-token": "Seleziona Gettone",
+    "enter-wallet-address": "Inserisci l'indirizzo del portafoglio",
+    "enter-amount": "Inserisci l'importo",
+    "send": "Inviare",
+    "error-signer-not-found": "Firmatario non trovato"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",
@@ -1361,7 +1373,8 @@
     "establish-trust-line": "Stabilisci TrustLine",
     "trust-line-set-success": "TrustLine impostato correttamente",
     "payment-tx-failed": "Transazione di pagamento non riuscita",
-    "sign-with-xaman": "Firma con Xaman"
+    "sign-with-xaman": "Firma con Xaman",
+    "error-signer-not-found": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Impossibile preparare la transazione FuturePass",
