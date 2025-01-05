@@ -844,7 +844,8 @@
     "mint": "menthe",
     "hide-sidebar": "Cacher",
     "Zerpboxes": "ZerpBoxes",
-    "zerp-wallet": "ZerpWallet"
+    "zerp-wallet": "ZerpWallet",
+    "staking": ""
   },
   "sign-in": {
     "button-label": "Se connecter",
@@ -970,7 +971,8 @@
     "enter-wallet-address": "Entrez l'adresse du portefeuille",
     "enter-amount": "Entrez le montant",
     "send": "Envoyer",
-    "error-signer-not-found": "Signataire introuvable"
+    "error-signer-not-found": "Signataire introuvable",
+    "achievements": ""
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

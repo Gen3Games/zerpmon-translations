@@ -49,7 +49,8 @@
     "mint": "铸造",
     "hide-sidebar": "Hide",
     "Zerpboxes": "泽普盒子",
-    "zerp-wallet": "泽普钱包"
+    "zerp-wallet": "泽普钱包",
+    "staking": ""
   },
   "sign-in": {
     "button-label": "登录",
@@ -134,7 +135,8 @@
     "enter-wallet-address": "输入钱包地址",
     "enter-amount": "输入金额",
     "send": "发送",
-    "error-signer-not-found": "未找到签名者"
+    "error-signer-not-found": "未找到签名者",
+    "achievements": ""
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",

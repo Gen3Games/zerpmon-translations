@@ -49,7 +49,8 @@
     "mint": "Mint",
     "hide-sidebar": "Hide",
     "Zerpboxes": "ZerpBoxes",
-    "zerp-wallet": "ZerpWallet"
+    "zerp-wallet": "ZerpWallet",
+    "staking": "Staking"
   },
   "sign-in": {
     "button-label": "Sign In",
@@ -134,7 +135,8 @@
     "select-token": "Select Token",
     "enter-wallet-address": "Enter Wallet Address",
     "enter-amount": "Enter Amount",
-    "send": "Send"
+    "send": "Send",
+    "achievements": "Achievements"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

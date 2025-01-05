@@ -49,7 +49,8 @@
     "mint": "민트",
     "hide-sidebar": "숨다",
     "Zerpboxes": "저프박스",
-    "zerp-wallet": "Zerp월렛"
+    "zerp-wallet": "Zerp월렛",
+    "staking": ""
   },
   "sign-in": {
     "button-label": "로그인",
@@ -134,7 +135,8 @@
     "enter-wallet-address": "지갑 주소 입력",
     "enter-amount": "금액 입력",
     "send": "보내다",
-    "error-signer-not-found": "서명자를 찾을 수 없음"
+    "error-signer-not-found": "서명자를 찾을 수 없음",
+    "achievements": ""
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",

@@ -973,7 +973,8 @@
     "store": "Winkel",
     "hide-sidebar": "Verbergen",
     "Zerpboxes": "ZerpBoxes",
-    "zerp-wallet": "ZerpWallet"
+    "zerp-wallet": "ZerpWallet",
+    "staking": ""
   },
   "sign-in": {
     "button-label": "Aanmelden",
@@ -1099,7 +1100,8 @@
     "enter-wallet-address": "Voer het Wallet-adres in",
     "enter-amount": "Voer Bedrag in",
     "send": "Versturen",
-    "error-signer-not-found": "Ondertekenaar niet gevonden"
+    "error-signer-not-found": "Ondertekenaar niet gevonden",
+    "achievements": ""
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",

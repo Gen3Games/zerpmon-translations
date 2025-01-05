@@ -973,7 +973,8 @@
     "stats": "आँकड़े",
     "store": "इकट्ठा करना",
     "Zerpboxes": "ज़र्पबॉक्स",
-    "zerp-wallet": "ज़र्पवॉलेट"
+    "zerp-wallet": "ज़र्पवॉलेट",
+    "staking": ""
   },
   "sign-in": {
     "button-label": "दाखिल करना",
@@ -1099,7 +1100,8 @@
     "enter-wallet-address": "वॉलेट पता दर्ज करें",
     "enter-amount": "राशि डालें",
     "send": "भेजना",
-    "error-signer-not-found": "हस्ताक्षरकर्ता नहीं मिला"
+    "error-signer-not-found": "हस्ताक्षरकर्ता नहीं मिला",
+    "achievements": ""
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",

@@ -1044,7 +1044,8 @@
     "sign-out-success": "لقد قمت بتسجيل الخروج بنجاح.",
     "stats": "احصائيات",
     "store": "محل",
-    "zerp-wallet": "ZerpWallet"
+    "zerp-wallet": "ZerpWallet",
+    "staking": ""
   },
   "sign-in": {
     "button-label": "تسجيل الدخول",
@@ -1254,7 +1255,8 @@
     "enter-wallet-address": "أدخل عنوان المحفظة",
     "enter-amount": "أدخل المبلغ",
     "send": "يرسل",
-    "error-signer-not-found": "لم يتم العثور على المُوقع"
+    "error-signer-not-found": "لم يتم العثور على المُوقع",
+    "achievements": ""
   },
   "wallet": {
     "address-copied": "تم نسخ العنوان",

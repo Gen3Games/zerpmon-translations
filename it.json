@@ -973,7 +973,8 @@
     "stats": "Statistiche",
     "store": "Negozio",
     "Zerpboxes": "ZerpBoxes",
-    "zerp-wallet": "ZerpWallet"
+    "zerp-wallet": "ZerpWallet",
+    "staking": ""
   },
   "sign-in": {
     "button-label": "Registrazione",
@@ -1099,7 +1100,8 @@
     "enter-wallet-address": "Inserisci l'indirizzo del portafoglio",
     "enter-amount": "Inserisci l'importo",
     "send": "Inviare",
-    "error-signer-not-found": "Firmatario non trovato"
+    "error-signer-not-found": "Firmatario non trovato",
+    "achievements": ""
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",
