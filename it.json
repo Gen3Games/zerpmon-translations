@@ -1477,7 +1477,9 @@
     "tutorial-part-1-content": "Benvenuti nella prima parte del tutorial di Zerpmon. \nQui imparerai a curiosare nella webapp, ad applicare potenziamenti al tuo Zerpmon e a visualizzare le statistiche.",
     "tutorial-part-2": "Esercitazione - Parte 2",
     "tutorial-part-2-content": "Benvenuti nella Parte 2 del Tutorial",
-    "gym-battle-msg-13": "Congratulazioni per aver completato la Parte 3 del Tutorial Zerpmon. \nAbbiamo inviato l'ultimo dei tuoi 3 TRN Zerpmon offline gratuiti alla tua casella di posta per richiederlo!\n\nUna volta completato il tutorial, riceverai anche un Trainer offline TRN bonus nella tua casella di posta per la richiesta!"
+    "gym-battle-msg-13": "Congratulazioni per aver completato la Parte 3 del Tutorial Zerpmon. \nAbbiamo inviato l'ultimo dei tuoi 3 TRN Zerpmon offline gratuiti alla tua casella di posta per richiederlo!\n\nUna volta completato il tutorial, riceverai anche un Trainer offline TRN bonus nella tua casella di posta per la richiesta!",
+    "tutorial-completion-rewards": "Premi per il completamento del tutorial",
+    "reward-description": "Congratulazioni {rewardTitle}! \n{descrizionepremio} {descrizione}"
   },
   "staking": {
     "title": "",

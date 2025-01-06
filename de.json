@@ -1477,7 +1477,9 @@
     "tutorial-part-1-content": "Willkommen zu Teil 1 des Zerpmon-Tutorials. \nHier erfahren Sie, wie Sie sich in der Webanwendung umsehen, Buffs auf Ihr Zerpmon anwenden und Statistiken anzeigen können.",
     "tutorial-part-2": "Tutorial – Teil 2",
     "tutorial-part-2-content": "Willkommen zu Teil 2 des Tutorials",
-    "gym-battle-msg-13": "Herzlichen Glückwunsch zum Abschluss von Teil 3 des Zerpmon-Tutorials. \nWir haben das letzte Ihrer 3 kostenlosen Offline-TRN-Zerpmon zur Inanspruchnahme an Ihren Posteingang gesendet!\n\nDa Sie das Tutorial abgeschlossen haben, erhalten Sie auch einen Bonus-TRN-Offline-Trainer in Ihrem Posteingang, den Sie ebenfalls anfordern können!"
+    "gym-battle-msg-13": "Herzlichen Glückwunsch zum Abschluss von Teil 3 des Zerpmon-Tutorials. \nWir haben das letzte Ihrer 3 kostenlosen Offline-TRN-Zerpmon zur Inanspruchnahme an Ihren Posteingang gesendet!\n\nDa Sie das Tutorial abgeschlossen haben, erhalten Sie auch einen Bonus-TRN-Offline-Trainer in Ihrem Posteingang, den Sie ebenfalls anfordern können!",
+    "tutorial-completion-rewards": "Belohnungen für den Abschluss des Tutorials",
+    "reward-description": "Herzlichen Glückwunsch {rewardTitle}! \n{rewardDescription} {description}"
   },
   "staking": {
     "title": "Zerpmon Staking Menu",

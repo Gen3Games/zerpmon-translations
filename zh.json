@@ -1477,7 +1477,9 @@
     "tutorial-part-1-content": "欢迎来到 Zerpmon 教程的第 1 部分。\n在这里，您将学习查看网络应用程序，对您的 Zerpmon 应用增益并能够查看统计数据。",
     "tutorial-part-2": "教程 - 第 2 部分",
     "tutorial-part-2-content": "欢迎来到教程的第 2 部分",
-    "gym-battle-msg-13": "恭喜您完成 Zerpmon 教程的第 3 部分。\n我们已将您 3 个免费离线 TRN Zerpmon 中的最后一个发送到您的收件箱以供领取！\n\n完成教程后，您还可以在收件箱中获得额外的 TRN 离线训练师以供领取！"
+    "gym-battle-msg-13": "恭喜您完成 Zerpmon 教程的第 3 部分。\n我们已将您 3 个免费离线 TRN Zerpmon 中的最后一个发送到您的收件箱以供领取！\n\n完成教程后，您还可以在收件箱中获得额外的 TRN 离线训练师以供领取！",
+    "tutorial-completion-rewards": "教程完成奖励",
+    "reward-description": "恭喜{rewardTitle}！ \n{奖励描述} {描述}"
   },
   "staking": {
     "title": "",

@@ -1477,7 +1477,9 @@
     "tutorial-part-1-content": "Welkom bij deel 1 van de Zerpmon-zelfstudie. \nHier leer je rondkijken in de webapp, buffs toepassen op je Zerpmon en statistieken bekijken.",
     "tutorial-part-2": "Tutorial - Deel 2",
     "tutorial-part-2-content": "Welkom bij deel 2 van de tutorial",
-    "gym-battle-msg-13": "Gefeliciteerd met het voltooien van deel 3 van de Zerpmon-tutorial. \nWe hebben de laatste van je 3 gratis offline TRN Zerpmon naar je inbox gestuurd om te claimen!\n\nOmdat je de Tutorial hebt voltooid, ontvang je ook een bonus TRN offline Trainer in je inbox om te claimen!"
+    "gym-battle-msg-13": "Gefeliciteerd met het voltooien van deel 3 van de Zerpmon-tutorial. \nWe hebben de laatste van je 3 gratis offline TRN Zerpmon naar je inbox gestuurd om te claimen!\n\nOmdat je de Tutorial hebt voltooid, ontvang je ook een bonus TRN offline Trainer in je inbox om te claimen!",
+    "tutorial-completion-rewards": "Beloningen voor voltooiing van de tutorial",
+    "reward-description": "Gefeliciteerd {rewardTitle}! \n{beloningsbeschrijving} {beschrijving}"
   },
   "staking": {
     "title": "",

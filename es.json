@@ -1477,7 +1477,9 @@
     "tutorial-part-1-content": "Bienvenido a la Parte 1 del Tutorial de Zerpmon. \nAquí aprenderá a navegar por la aplicación web, aplicar mejoras a su Zerpmon y poder ver estadísticas.",
     "tutorial-part-2": "Tutorial - Parte 2",
     "tutorial-part-2-content": "Bienvenido a la Parte 2 del Tutorial",
-    "gym-battle-msg-13": "Felicitaciones por completar la Parte 3 del Tutorial de Zerpmon. \n¡Hemos enviado el último de tus 3 TRN Zerpmon sin conexión gratuitos a tu bandeja de entrada para reclamar!\n\nDesde que completó el Tutorial, ¡también obtendrá un Entrenador fuera de línea de TRN adicional en su bandeja de entrada para reclamar también!"
+    "gym-battle-msg-13": "Felicitaciones por completar la Parte 3 del Tutorial de Zerpmon. \n¡Hemos enviado el último de tus 3 TRN Zerpmon sin conexión gratuitos a tu bandeja de entrada para reclamar!\n\nDesde que completó el Tutorial, ¡también obtendrá un Entrenador fuera de línea de TRN adicional en su bandeja de entrada para reclamar también!",
+    "tutorial-completion-rewards": "Recompensas por completar el tutorial",
+    "reward-description": "¡Felicitaciones {rewardTitle}! \n{recompensaDescripción} {descripción}"
   },
   "staking": {
     "title": "",

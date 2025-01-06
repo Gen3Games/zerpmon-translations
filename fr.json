@@ -1477,7 +1477,9 @@
     "tutorial-part-1-content": "Bienvenue dans la première partie du didacticiel Zerpmon. \nIci, vous apprendrez à parcourir la webapp, à appliquer des buffs à votre Zerpmon et à consulter les statistiques.",
     "tutorial-part-2": "Tutoriel - Partie 2",
     "tutorial-part-2-content": "Bienvenue dans la deuxième partie du didacticiel",
-    "gym-battle-msg-13": "Félicitations pour avoir terminé la partie 3 du didacticiel Zerpmon. \nNous avons envoyé le dernier de vos 3 TRN Zerpmon hors ligne gratuits dans votre boîte de réception pour le réclamer !\n\nDepuis que vous avez terminé le didacticiel, vous recevez également un bonus d'entraîneur hors ligne TRN dans votre boîte de réception pour le réclamer !"
+    "gym-battle-msg-13": "Félicitations pour avoir terminé la partie 3 du didacticiel Zerpmon. \nNous avons envoyé le dernier de vos 3 TRN Zerpmon hors ligne gratuits dans votre boîte de réception pour le réclamer !\n\nDepuis que vous avez terminé le didacticiel, vous recevez également un bonus d'entraîneur hors ligne TRN dans votre boîte de réception pour le réclamer !",
+    "tutorial-completion-rewards": "Récompenses d'achèvement du didacticiel",
+    "reward-description": "Félicitations {rewardTitle} ! \n{récompenseDescription} {description}"
   },
   "staking": {
     "title": "",

@@ -1477,7 +1477,9 @@
     "tutorial-part-1-content": "Zerpmon チュートリアルのパート 1 へようこそ。\nここでは、ウェブアプリを見回し、ゼルモンにバフを適用し、統計を表示できるようにする方法を学びます。",
     "tutorial-part-2": "チュートリアル - パート 2",
     "tutorial-part-2-content": "チュートリアルのパート 2 へようこそ",
-    "gym-battle-msg-13": "Zerpmon チュートリアルのパート 3 の完了おめでとうございます。 \n3 つの無料オフライン TRN ゼルモンのうち最後の 1 つを請求用に受信箱に送信しました。\n\nチュートリアルを完了したので、請求用のボーナス TRN オフライン トレーナーも受信箱に届きます。"
+    "gym-battle-msg-13": "Zerpmon チュートリアルのパート 3 の完了おめでとうございます。 \n3 つの無料オフライン TRN ゼルモンのうち最後の 1 つを請求用に受信箱に送信しました。\n\nチュートリアルを完了したので、請求用のボーナス TRN オフライン トレーナーも受信箱に届きます。",
+    "tutorial-completion-rewards": "チュートリアル完了報酬",
+    "reward-description": "{rewardTitle} さん、おめでとうございます! \n{rewardDescription} {説明}"
   },
   "staking": {
     "title": "",
