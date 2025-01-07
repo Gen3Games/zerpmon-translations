@@ -476,7 +476,8 @@
     "white-candy-buff-info": "Erhöht Zerpmon's White Attack-Schaden um ({percent}%)",
     "gold-candy-buff-info": "Erhöht Zerpmon's Gold Attack-Schaden um({percent}%)",
     "purple-candy-buff-info": "Erhöht Zerpmon's Purple Ability-Sterne um (1 star)",
-    "used-lvl-candy": "Du hast erfolgreich {candyName} auf {zerpmonName} angewendet. Es hat jetzt Level {lvl}!"
+    "used-lvl-candy": "Du hast erfolgreich {candyName} auf {zerpmonName} angewendet. Es hat jetzt Level {lvl}!",
+    "offchain-candy-on-onchain-zerpmon": ""
   },
   "safari": {
     "title": "Safari",

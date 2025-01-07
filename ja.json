@@ -476,7 +476,8 @@
     "white-candy-buff-info": "ゼルモンの白攻撃ダメージを ({percent}%) 増加させます",
     "gold-candy-buff-info": "ゼルモンのゴールドアタックのダメージを ({percent}%) 増加させます",
     "purple-candy-buff-info": "ゼルモンの紫アビリティの星を(星1つ)増やす",
-    "used-lvl-candy": "{zerpmonName} で {candyName} を正常に使用しました。\nレベル {lvl} になりました!"
+    "used-lvl-candy": "{zerpmonName} で {candyName} を正常に使用しました。\nレベル {lvl} になりました!",
+    "offchain-candy-on-onchain-zerpmon": ""
   },
   "safari": {
     "title": "サファリ",

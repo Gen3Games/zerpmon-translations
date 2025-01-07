@@ -476,7 +476,8 @@
     "white-candy-buff-info": "泽拉普兽的白色攻击力增加({percent}%)",
     "gold-candy-buff-info": "泽拉普兽的黄金攻击力增加 ({percent}%)",
     "purple-candy-buff-info": "泽拉普兽紫色能力星数增加（1星）",
-    "used-lvl-candy": "您已在 {zerpmonName} 上成功使用了 {candyName}。\n现在是{lvl}级！"
+    "used-lvl-candy": "您已在 {zerpmonName} 上成功使用了 {candyName}。\n现在是{lvl}级！",
+    "offchain-candy-on-onchain-zerpmon": ""
   },
   "safari": {
     "title": "Safari探险",

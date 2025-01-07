@@ -661,7 +661,8 @@
     "white-candy-buff-info": "Aumenta i danni dell'attacco bianco di Zerpmon del ({percent}%)",
     "gold-candy-buff-info": "Aumenta i danni dell'attacco dorato di Zerpmon del ({percent}%)",
     "purple-candy-buff-info": "Aumenta le stelle dell'abilità viola di Zerpmon di (1 stella)",
-    "used-lvl-candy": "Hai utilizzato con successo {candyName} su {zerpmonName}. \nOra è al livello {lvl}!"
+    "used-lvl-candy": "Hai utilizzato con successo {candyName} su {zerpmonName}. \nOra è al livello {lvl}!",
+    "offchain-candy-on-onchain-zerpmon": ""
   },
   "leaderboard-table": {
     "close": "Vicino",

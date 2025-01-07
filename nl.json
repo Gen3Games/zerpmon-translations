@@ -661,7 +661,8 @@
     "white-candy-buff-info": "Verhoog de witte aanvalsschade van Zerpmon met ({procent}%)",
     "gold-candy-buff-info": "Verhoog de schade van Zerpmon's gouden aanval met ({procent}%)",
     "purple-candy-buff-info": "Verhoog de Purple Ability-sterren van Zerpmon met (1 ster)",
-    "used-lvl-candy": "Je hebt {candyName} met succes gebruikt op {zerpmonName}. \nHet is nu niveau {lvl}!"
+    "used-lvl-candy": "Je hebt {candyName} met succes gebruikt op {zerpmonName}. \nHet is nu niveau {lvl}!",
+    "offchain-candy-on-onchain-zerpmon": ""
   },
   "leaderboard-table": {
     "close": "Dichtbij",

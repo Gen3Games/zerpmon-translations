@@ -476,7 +476,8 @@
     "white-candy-buff-info": "저르몬의 화이트 어택 데미지를 ({percent}%) 증가시킵니다",
     "gold-candy-buff-info": "저르몬의 골드 어택 데미지를 ({percent}%) 증가시킵니다",
     "purple-candy-buff-info": "Zermon의 보라색 능력 별을 (별 1개) 늘립니다.",
-    "used-lvl-candy": "{zerpmonName}에서 {candyName}을(를) 성공적으로 사용했습니다. \n이제 레벨이 {lvl}입니다!"
+    "used-lvl-candy": "{zerpmonName}에서 {candyName}을(를) 성공적으로 사용했습니다. \n이제 레벨이 {lvl}입니다!",
+    "offchain-candy-on-onchain-zerpmon": ""
   },
   "safari": {
     "title": "사파리",

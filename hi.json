@@ -661,7 +661,8 @@
     "white-candy-buff-info": "ज़ेरपमोन के व्हाइट अटैक क्षति को ({प्रतिशत}%) बढ़ाएँ",
     "gold-candy-buff-info": "ज़ेरपमोन के गोल्ड अटैक क्षति को ({प्रतिशत}%) बढ़ाएँ",
     "purple-candy-buff-info": "ज़ेरपमोन के पर्पल एबिलिटी स्टार्स को (1 स्टार) बढ़ाएँ",
-    "used-lvl-candy": "आपने {zerpmonName} पर {candyName} का सफलतापूर्वक उपयोग किया है। \nयह अब स्तर {lvl} है!"
+    "used-lvl-candy": "आपने {zerpmonName} पर {candyName} का सफलतापूर्वक उपयोग किया है। \nयह अब स्तर {lvl} है!",
+    "offchain-candy-on-onchain-zerpmon": ""
   },
   "leaderboard-table": {
     "close": "बंद करना",

@@ -684,7 +684,8 @@
     "white-candy-buff-info": "زيادة ضرر الهجوم الأبيض لـZerpmon بنسبة ({percent}%)",
     "xp-gain": "كسب XP",
     "xp-waste": "نفايات XP",
-    "zerpmon-maxed-out": "لقد بلغ Zerpmon الحد الأقصى بالفعل"
+    "zerpmon-maxed-out": "لقد بلغ Zerpmon الحد الأقصى بالفعل",
+    "offchain-candy-on-onchain-zerpmon": ""
   },
   "leaderboard-table": {
     "close": "يغلق",

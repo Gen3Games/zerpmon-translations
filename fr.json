@@ -547,7 +547,8 @@
     "white-candy-buff-info": "Augmente les dégâts de l'attaque blanche de Zerpmon de ({percent}%)",
     "gold-candy-buff-info": "Augmente les dégâts de l'attaque dorée de Zerpmon de ({percent}%)",
     "purple-candy-buff-info": "Augmente les étoiles de capacité violette de Zerpmon de (1 étoile)",
-    "used-lvl-candy": "Vous avez utilisé avec succès {candyName} sur {zerpmonName}. \nIl est désormais niveau {lvl} !"
+    "used-lvl-candy": "Vous avez utilisé avec succès {candyName} sur {zerpmonName}. \nIl est désormais niveau {lvl} !",
+    "offchain-candy-on-onchain-zerpmon": ""
   },
   "leaderboard-table": {
     "close": "Fermer",

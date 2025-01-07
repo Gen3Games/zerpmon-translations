@@ -476,7 +476,8 @@
     "white-candy-buff-info": "Aumenta el daño del ataque blanco de Zerpmon en un ({percent}%)",
     "gold-candy-buff-info": "Aumenta el daño del ataque dorado de Zerpmon en un ({percent}%)",
     "purple-candy-buff-info": "Aumentar las estrellas de habilidad púrpura de Zerpmon en (1 estrella)",
-    "used-lvl-candy": "Has utilizado {candyName} con éxito en {zerpmonName}. \n¡Ahora es el nivel {lvl}!"
+    "used-lvl-candy": "Has utilizado {candyName} con éxito en {zerpmonName}. \n¡Ahora es el nivel {lvl}!",
+    "offchain-candy-on-onchain-zerpmon": ""
   },
   "safari": {
     "title": "Safari",
