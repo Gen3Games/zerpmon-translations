@@ -1507,7 +1507,9 @@
     "estimated-share": "",
     "staking-boost-delay-msg": "",
     "total-boost": "",
-    "boost-table-title": ""
+    "boost-table-title": "",
+    "staking-reward": "",
+    "reward-share-wait-note": ""
   },
   "achievements": {
     "title": "",
