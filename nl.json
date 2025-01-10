@@ -1377,7 +1377,8 @@
     "trust-line-set-success": "TrustLine is succesvol ingesteld",
     "payment-tx-failed": "Betalingstransactie mislukt",
     "sign-with-xaman": "Teken met Xaman",
-    "error-signer-not-found": ""
+    "error-signer-not-found": "",
+    "source": "Bron"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Kan FuturePass-transactie niet voorbereiden",

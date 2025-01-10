@@ -1377,7 +1377,8 @@
     "trust-line-set-success": "ट्रस्टलाइन सफलतापूर्वक सेट हो गई",
     "payment-tx-failed": "भुगतान लेनदेन विफल",
     "sign-with-xaman": "ज़मान के साथ हस्ताक्षर करें",
-    "error-signer-not-found": ""
+    "error-signer-not-found": "",
+    "source": "स्रोत"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass लेनदेन तैयार करने में विफल",

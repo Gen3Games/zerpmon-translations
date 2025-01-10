@@ -1377,7 +1377,8 @@
     "trust-line-set-success": "TrustLine se configuró correctamente",
     "payment-tx-failed": "La transacción de pago falló",
     "sign-with-xaman": "firmar con xaman",
-    "error-signer-not-found": ""
+    "error-signer-not-found": "",
+    "source": "Fuente"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "No se pudo preparar la transacción FuturePass",

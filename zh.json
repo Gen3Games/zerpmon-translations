@@ -1377,7 +1377,8 @@
     "trust-line-set-success": "TrustLine 设置成功",
     "payment-tx-failed": "支付交易失败",
     "sign-with-xaman": "与 Xaman 签约",
-    "error-signer-not-found": ""
+    "error-signer-not-found": "",
+    "source": "来源"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "无法准备 FuturePass 交易",

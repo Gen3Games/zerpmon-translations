@@ -1356,7 +1356,8 @@
     "trust-line-set-success": "تم تعيين TrustLine بنجاح",
     "payment-tx-failed": "فشلت معاملة الدفع",
     "sign-with-xaman": "وقع مع Xaman",
-    "error-signer-not-found": ""
+    "error-signer-not-found": "",
+    "source": "مصدر"
   },
   "world-boss": {
     "battle": "معركة",

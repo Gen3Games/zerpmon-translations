@@ -1377,7 +1377,8 @@
     "trust-line-set-success": "TrustLine이 성공적으로 설정되었습니다.",
     "payment-tx-failed": "결제 거래 실패",
     "sign-with-xaman": "Xaman으로 로그인",
-    "error-signer-not-found": ""
+    "error-signer-not-found": "",
+    "source": "원천"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass 거래를 준비하지 못했습니다.",
