@@ -1489,6 +1489,32 @@
     "nft-holding-section-title": "Zerpmon NFT Holdings - Lock up Zerpmon NFTs to earn rewards",
     "trn-nft-staking-description": "Transfer your NFTs to TRN Staking wallet ({zerpmonNames})",
     "confirm-unstaking": "Are you sure you want to unstake {zerpmonNames} ?",
-    "trn-api-not-available": "TRN Api unavailable "
+    "trn-api-not-available": "TRN Api unavailable ",
+    "total-points": "Total Points: {points}",
+    "category": "Category",
+    "streak-days": "Streak {streak} Days",
+    "stake": "Stake",
+    "unstake": "Unstake",
+    "stake-success": "Staked successfully!",
+    "staked-success-xaman": "Staked successfully, it may take a minute to show up under staked tab",
+    "fp-data-missing": "FuturePass data not found, please try connecting your FuturePass wallet.",
+    "trn-unstaking-fee-description": "Gas fee transaction for Unstaking",
+    "unstake-success-xrpl": "Unstaked successfully! An offer will soon be created to your wallet",
+    "staked-loan-info": "Half staking value for loaned/listed NFTs",
+    "reward-share": "Reward share contribution",
+    "select": "Select",
+    "reward-wallet": "Reward Wallet",
+    "next-distribution": "Next Distribution",
+    "estimated-share": "Estimated Share",
+    "staking-boost-delay-msg": "Please wait 24hrs for boosts to be applied after staking NFTs",
+    "total-boost": "Total boost: {total}",
+    "boost-table-title": "Active staking boosts",
+    "staking-reward": "Staking Rewards",
+    "reward-share-wait-note": "Please wait 24hrs for NFTs to show up within reward share calculation"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "total-staking-points": "Total Staking Points: {points}",
+    "total-boost": "Total Staking boost: {total}"
   }
 }
