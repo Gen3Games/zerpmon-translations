@@ -1489,6 +1489,32 @@
     "nft-holding-section-title": "Zerpmon NFT Holdings - Stake deine Zerpmon NFT's, um Belohnungen zu erhalten",
     "trn-nft-staking-description": "Transferiere dein NFT's zum TRN Staking Wallet ({zerpmonNames})",
     "confirm-unstaking": "Bist du sicher, dass du {zerpmonNames} nicht mehr staken möchtest?",
-    "trn-api-not-available": "TRN API nicht verfügbar"
+    "trn-api-not-available": "TRN API nicht verfügbar",
+    "total-points": "",
+    "category": "",
+    "streak-days": "",
+    "stake": "",
+    "unstake": "",
+    "stake-success": "",
+    "staked-success-xaman": "",
+    "fp-data-missing": "",
+    "trn-unstaking-fee-description": "",
+    "unstake-success-xrpl": "",
+    "staked-loan-info": "",
+    "reward-share": "",
+    "select": "",
+    "reward-wallet": "",
+    "next-distribution": "",
+    "estimated-share": "",
+    "staking-boost-delay-msg": "",
+    "total-boost": "",
+    "boost-table-title": "",
+    "staking-reward": "",
+    "reward-share-wait-note": ""
+  },
+  "achievements": {
+    "title": "",
+    "total-staking-points": "",
+    "total-boost": ""
   }
 }
