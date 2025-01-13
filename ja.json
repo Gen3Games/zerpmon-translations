@@ -963,7 +963,8 @@
     "sell-offer-success": "販売オファーが正常に作成されました",
     "user-tag-not-found": "ユーザータグが見つかりませんでした",
     "not-enough-zrp-balance": "ZerpWalletのZRP残高が足りません",
-    "zerp-wallet-pending-withdrawal": "保留中の出金リクエストが完了してからもう一度お試しください"
+    "zerp-wallet-pending-withdrawal": "保留中の出金リクエストが完了してからもう一度お試しください",
+    "invalid-per-day-cost": "1 日あたりのコストが無効です"
   },
   "notifications": {
     "notifications": "通知",

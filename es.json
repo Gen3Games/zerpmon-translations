@@ -963,7 +963,8 @@
     "sell-offer-success": "Oferta de venta creada correctamente",
     "user-tag-not-found": "No se pudo encontrar la etiqueta de usuario",
     "not-enough-zrp-balance": "No hay suficiente saldo de ZRP en ZerpWallet",
-    "zerp-wallet-pending-withdrawal": "Inténtelo de nuevo después de que se haya completado su solicitud de retiro pendiente."
+    "zerp-wallet-pending-withdrawal": "Inténtelo de nuevo después de que se haya completado su solicitud de retiro pendiente.",
+    "invalid-per-day-cost": "El costo por día no es válido"
   },
   "notifications": {
     "notifications": "Notificaciones",

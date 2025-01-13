@@ -401,7 +401,8 @@
     "tx-error-crossmark-msg": "Impossibile creare una transazione nel portafoglio Crossmark. \nPer favore riprova più tardi.",
     "user-tag-not-found": "Impossibile trovare il tag utente",
     "not-enough-zrp-balance": "Saldo ZRP insufficiente in ZerpWallet",
-    "zerp-wallet-pending-withdrawal": "Riprova una volta completata la richiesta di prelievo in sospeso"
+    "zerp-wallet-pending-withdrawal": "Riprova una volta completata la richiesta di prelievo in sospeso",
+    "invalid-per-day-cost": "Il costo giornaliero non è valido"
   },
   "decks": {
     "add-battle-deck": "Aggiungi mazzo da battaglia",

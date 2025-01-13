@@ -401,7 +401,8 @@
     "transaction-failed": "لقد فشلت معاملة عرض بيع NFT الخاصة بك. \nيرجى المحاولة مرة أخرى لاحقا.",
     "tx-error-crossmark-msg": "تعذر إنشاء معاملة في محفظة Crossmark. \nيرجى المحاولة مرة أخرى لاحقا.",
     "user-tag-not-found": "تعذر العثور على علامة المستخدم",
-    "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق"
+    "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق",
+    "invalid-per-day-cost": "التكلفة اليومية غير صالحة"
   },
   "decks": {
     "add-battle-deck": "أضف مجموعة المعركة",

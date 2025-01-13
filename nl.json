@@ -401,7 +401,8 @@
     "tx-error-crossmark-msg": "Kan geen transactie aanmaken in Crossmark-portemonnee. \nProbeer het later opnieuw.",
     "user-tag-not-found": "Kan gebruikerstag niet vinden",
     "not-enough-zrp-balance": "Niet genoeg ZRP-saldo in ZerpWallet",
-    "zerp-wallet-pending-withdrawal": "Probeer het opnieuw nadat uw lopende opnameverzoek is voltooid"
+    "zerp-wallet-pending-withdrawal": "Probeer het opnieuw nadat uw lopende opnameverzoek is voltooid",
+    "invalid-per-day-cost": "De kosten per dag zijn ongeldig"
   },
   "decks": {
     "add-battle-deck": "Voeg gevechtsdek toe",

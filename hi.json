@@ -401,7 +401,8 @@
     "tx-error-crossmark-msg": "क्रॉसमार्क वॉलेट में लेनदेन नहीं किया जा सका. \nकृपया बाद में पुन: प्रयास करें।",
     "user-tag-not-found": "उपयोगकर्ता टैग नहीं मिल सका",
     "not-enough-zrp-balance": "ZerpWallet में पर्याप्त ZRP बैलेंस नहीं है",
-    "zerp-wallet-pending-withdrawal": "कृपया आपका लंबित निकासी अनुरोध पूरा होने के बाद पुनः प्रयास करें"
+    "zerp-wallet-pending-withdrawal": "कृपया आपका लंबित निकासी अनुरोध पूरा होने के बाद पुनः प्रयास करें",
+    "invalid-per-day-cost": "प्रति दिन की लागत अमान्य है"
   },
   "decks": {
     "add-battle-deck": "बैटल डेक जोड़ें",

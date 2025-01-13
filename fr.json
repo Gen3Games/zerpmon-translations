@@ -316,7 +316,8 @@
     "sell-offer-success": "Offre de vente créée avec succès",
     "user-tag-not-found": "Impossible de trouver le tag utilisateur",
     "not-enough-zrp-balance": "Pas assez de solde ZRP dans ZerpWallet",
-    "zerp-wallet-pending-withdrawal": "Veuillez réessayer une fois votre demande de retrait en attente terminée."
+    "zerp-wallet-pending-withdrawal": "Veuillez réessayer une fois votre demande de retrait en attente terminée.",
+    "invalid-per-day-cost": "Le coût journalier n'est pas valide"
   },
   "decks": {
     "add-battle-deck": "Ajouter un deck de combat",
