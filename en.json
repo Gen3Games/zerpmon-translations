@@ -1511,7 +1511,8 @@
     "total-boost": "Total boost: {total}",
     "boost-table-title": "Active staking boosts",
     "staking-reward": "Staking Rewards",
-    "reward-share-wait-note": "Please wait 24hrs for NFTs to show up within reward share calculation"
+    "reward-share-wait-note": "Please wait 24hrs for NFTs to show up within reward share calculation",
+    "claim-success": "Successfully claimed staking rewards, should soon show up in your ZerpWallet"
   },
   "achievements": {
     "title": "Achievements",
