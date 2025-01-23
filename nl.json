@@ -321,7 +321,8 @@
     "tremble-trigger-msg": "{zerpmonName} ({typeString}) trilt 🟥 ({movePercent}%)",
     "no-opponents-found-deck-invalid": "Er zijn geen tegenstanders gevonden. Zorg ervoor dat je deck correct is ingesteld",
     "confirm-forfeit": "Als u het verspeelt, telt het als een automatisch verlies. Weet u dat zeker?",
-    "mp-earned": "Kamerlid verdiend"
+    "mp-earned": "Kamerlid verdiend",
+    "token-wars": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -1518,5 +1519,30 @@
     "title": "",
     "total-staking-points": "",
     "total-boost": ""
+  },
+  "memecoin-tourney": {
+    "title": "",
+    "note": "",
+    "establish-trustline": "",
+    "leaderboard-title": "",
+    "invalid-team": "",
+    "balance-low": "",
+    "team-join-success": "",
+    "selection-table-title": "",
+    "team": "",
+    "symbol": "",
+    "issuer": "",
+    "balance": "",
+    "confirm": "",
+    "trust-line-check-error": "",
+    "trust-line-prepared": "",
+    "trust-line-preparation-error": "",
+    "trust-line-establishment-error": "",
+    "trust-line-set-success": "",
+    "setup-trustline": "",
+    "setup-trustline-description": "",
+    "already-set": "",
+    "select": "",
+    "sign-xaman": ""
   }
 }

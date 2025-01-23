@@ -207,7 +207,8 @@
     "tremble-trigger-msg": "{zerpmonName} ({typeString}) कांप रहा है 🟥 ({movePercent}%)",
     "no-opponents-found-deck-invalid": "कोई प्रतिद्वंद्वी नहीं मिला, कृपया सुनिश्चित करें कि आपका डेक सही ढंग से सेटअप किया गया है",
     "confirm-forfeit": "यदि आप इसे जब्त कर लेते हैं तो इसे स्वचालित हानि के रूप में गिना जाएगा, क्या आप निश्चित हैं?",
-    "mp-earned": "एमपी ने कमाया"
+    "mp-earned": "एमपी ने कमाया",
+    "token-wars": ""
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
@@ -1518,5 +1519,30 @@
     "title": "",
     "total-staking-points": "",
     "total-boost": ""
+  },
+  "memecoin-tourney": {
+    "title": "",
+    "note": "",
+    "establish-trustline": "",
+    "leaderboard-title": "",
+    "invalid-team": "",
+    "balance-low": "",
+    "team-join-success": "",
+    "selection-table-title": "",
+    "team": "",
+    "symbol": "",
+    "issuer": "",
+    "balance": "",
+    "confirm": "",
+    "trust-line-check-error": "",
+    "trust-line-prepared": "",
+    "trust-line-preparation-error": "",
+    "trust-line-establishment-error": "",
+    "trust-line-set-success": "",
+    "setup-trustline": "",
+    "setup-trustline-description": "",
+    "already-set": "",
+    "select": "",
+    "sign-xaman": ""
   }
 }

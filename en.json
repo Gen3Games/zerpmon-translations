@@ -747,7 +747,8 @@
     "tremble-trigger-msg": "{zerpmonName}  ({typeString})  is Trembling 🟥 ({movePercent}%)",
     "no-opponents-found-deck-invalid": "No opponents found, please make sure your deck is setup correctly",
     "confirm-forfeit": "If you forfeit it will count as an automatic loss, are you sure?",
-    "mp-earned": "MP Earned "
+    "mp-earned": "MP Earned ",
+    "token-wars": "Token Wars Battles"
   },
   "test": {
     "test": "this is a test"
@@ -1518,5 +1519,30 @@
     "title": "Achievements",
     "total-staking-points": "Total Staking Points: {points}",
     "total-boost": "Total Staking boost: {total}"
+  },
+  "memecoin-tourney": {
+    "title": "Token Wars",
+    "note": "You can only earn points from clearing stage 3 or higher",
+    "establish-trustline": "Establish Trustline",
+    "leaderboard-title": "Token Wars LeaderBoard",
+    "invalid-team": "Please select a valid team",
+    "balance-low": "Balance too low",
+    "team-join-success": "Team successfully joined!",
+    "selection-table-title": "Join a Team",
+    "team": "Team",
+    "symbol": "Symbol",
+    "issuer": "Issuer",
+    "balance": "Balance",
+    "confirm": "Confirm",
+    "trust-line-check-error": "Failed to check Trustline status",
+    "trust-line-prepared": "Trustline transaction prepared",
+    "trust-line-preparation-error": "Failed to prepare Trustline transaction",
+    "trust-line-establishment-error": "Failed to establish Trustline",
+    "trust-line-set-success": "Trustline set successfully !",
+    "setup-trustline": "Setup Trustline",
+    "setup-trustline-description": "Enabling transfer and management of tokens. Please select one to proceed.",
+    "already-set": "Trustline Set",
+    "select": "Select",
+    "sign-xaman": "Sign with Xaman"
   }
 }

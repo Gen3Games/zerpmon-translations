@@ -321,7 +321,8 @@
     "tremble-trigger-msg": "{zerpmonName} ({typeString}) trema 🟥 ({movePercent}%)",
     "no-opponents-found-deck-invalid": "Nessun avversario trovato, assicurati che il tuo mazzo sia impostato correttamente",
     "confirm-forfeit": "Se rinunci, verrà conteggiata come una perdita automatica, sei sicuro?",
-    "mp-earned": "MP guadagnati"
+    "mp-earned": "MP guadagnati",
+    "token-wars": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -1518,5 +1519,30 @@
     "title": "",
     "total-staking-points": "",
     "total-boost": ""
+  },
+  "memecoin-tourney": {
+    "title": "",
+    "note": "",
+    "establish-trustline": "",
+    "leaderboard-title": "",
+    "invalid-team": "",
+    "balance-low": "",
+    "team-join-success": "",
+    "selection-table-title": "",
+    "team": "",
+    "symbol": "",
+    "issuer": "",
+    "balance": "",
+    "confirm": "",
+    "trust-line-check-error": "",
+    "trust-line-prepared": "",
+    "trust-line-preparation-error": "",
+    "trust-line-establishment-error": "",
+    "trust-line-set-success": "",
+    "setup-trustline": "",
+    "setup-trustline-description": "",
+    "already-set": "",
+    "select": "",
+    "sign-xaman": ""
   }
 }

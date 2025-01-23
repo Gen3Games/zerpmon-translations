@@ -747,7 +747,8 @@
     "tremble-trigger-msg": "{zerpmonName} ({typeString}) 正在颤抖 🟥 ({movePercent}%)",
     "no-opponents-found-deck-invalid": "未找到对手，请确保您的套牌设置正确",
     "confirm-forfeit": "如果您放弃，将视为自动损失，您确定吗？",
-    "mp-earned": "获得 MP"
+    "mp-earned": "获得 MP",
+    "token-wars": ""
   },
   "test": {
     "test": "这是个测试"
@@ -1518,5 +1519,30 @@
     "title": "",
     "total-staking-points": "",
     "total-boost": ""
+  },
+  "memecoin-tourney": {
+    "title": "",
+    "note": "",
+    "establish-trustline": "",
+    "leaderboard-title": "",
+    "invalid-team": "",
+    "balance-low": "",
+    "team-join-success": "",
+    "selection-table-title": "",
+    "team": "",
+    "symbol": "",
+    "issuer": "",
+    "balance": "",
+    "confirm": "",
+    "trust-line-check-error": "",
+    "trust-line-prepared": "",
+    "trust-line-preparation-error": "",
+    "trust-line-establishment-error": "",
+    "trust-line-set-success": "",
+    "setup-trustline": "",
+    "setup-trustline-description": "",
+    "already-set": "",
+    "select": "",
+    "sign-xaman": ""
   }
 }
