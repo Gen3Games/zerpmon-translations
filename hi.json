@@ -1055,7 +1055,8 @@
     "half-price-on-first-item-daily": "प्रतिदिन पहली वस्तु पर आधी कीमत",
     "evolution-completed": "विकास पूरा हुआ",
     "ascend": "Ascend",
-    "payment-from-zerpwallet-volatile": "भुगतान आपके ZerpWallet ({राशि}) {अंतिम राशि} से लिया जाएगा (अंतिम जांच के समय, यदि कुछ समय तक स्वीकार नहीं किया गया तो बदल सकता है)"
+    "payment-from-zerpwallet-volatile": "भुगतान आपके ZerpWallet ({राशि}) {अंतिम राशि} से लिया जाएगा (अंतिम जांच के समय, यदि कुछ समय तक स्वीकार नहीं किया गया तो बदल सकता है)",
+    "special-store": ""
   },
   "test": {
     "test": "यह टेस्ट है"

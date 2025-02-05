@@ -1055,7 +1055,8 @@
     "half-price-on-first-item-daily": "halve prijs per dag op het eerste artikel",
     "evolution-completed": "Evolutie voltooid",
     "ascend": "Stijgen",
-    "payment-from-zerpwallet-volatile": "De betaling wordt afgeschreven van uw ZerpWallet ({amount}) {finalAmount} (op het laatst gecontroleerde moment, kan veranderen als het gedurende een bepaalde periode niet wordt geaccepteerd)"
+    "payment-from-zerpwallet-volatile": "De betaling wordt afgeschreven van uw ZerpWallet ({amount}) {finalAmount} (op het laatst gecontroleerde moment, kan veranderen als het gedurende een bepaalde periode niet wordt geaccepteerd)",
+    "special-store": ""
   },
   "test": {
     "test": "dit is een test"

@@ -308,7 +308,8 @@
     "half-price-on-first-item-daily": "Halber Preis für den ersten Artikel täglich",
     "evolution-completed": "Evolution abgeschlossen",
     "ascend": "Hochstufen",
-    "payment-from-zerpwallet-volatile": "Die Bezahlung erfolgt über dein ZerpWallet ({amount}) {finalAmount} (Stand nach letzter Überprüfung. Kann abweichen, wenn lange nicht aktualisiert)"
+    "payment-from-zerpwallet-volatile": "Die Bezahlung erfolgt über dein ZerpWallet ({amount}) {finalAmount} (Stand nach letzter Überprüfung. Kann abweichen, wenn lange nicht aktualisiert)",
+    "special-store": ""
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",

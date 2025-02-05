@@ -308,7 +308,8 @@
     "half-price-on-first-item-daily": "매일 첫 번째 품목의 절반 가격",
     "evolution-completed": "진화 완료",
     "ascend": "오르다",
-    "payment-from-zerpwallet-volatile": "지불은 귀하의 ZerpWallet({amount}) {finalAmount}에서 이루어집니다(마지막으로 확인된 순간, 일정 기간 동안 승인되지 않으면 변경될 수 있음)"
+    "payment-from-zerpwallet-volatile": "지불은 귀하의 ZerpWallet({amount}) {finalAmount}에서 이루어집니다(마지막으로 확인된 순간, 일정 기간 동안 승인되지 않으면 변경될 수 있음)",
+    "special-store": ""
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",
