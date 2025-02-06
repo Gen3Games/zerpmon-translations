@@ -892,7 +892,8 @@
     "subscribe": "Abonneren",
     "subscribe-description": "U heeft zich niet geabonneerd op pushmeldingen. \nAbonneer u om op de hoogte te blijven",
     "update-failed": "Kan de instellingen voor pushmeldingen niet updaten",
-    "update-success": "Instellingen voor pushmeldingen zijn succesvol bijgewerkt"
+    "update-success": "Instellingen voor pushmeldingen zijn succesvol bijgewerkt",
+    "offchain-data-not-found": ""
   },
   "safari": {
     "bg": "Gevechtszone",

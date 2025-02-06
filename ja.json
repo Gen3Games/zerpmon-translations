@@ -992,7 +992,8 @@
     "safari-description": "ジャックポットと NFT の勝利",
     "save": "保存",
     "update-failed": "プッシュ通知設定の更新に失敗しました",
-    "update-success": "プッシュ通知設定が正常に更新されました"
+    "update-success": "プッシュ通知設定が正常に更新されました",
+    "offchain-data-not-found": ""
   },
   "settings": {
     "language": "言語",

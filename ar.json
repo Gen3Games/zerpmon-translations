@@ -930,7 +930,8 @@
     "subscribe": "يشترك",
     "subscribe-description": "لم تقم بالاشتراك في دفع الإخطارات. \nاشترك لتبقى على اطلاع",
     "update-failed": "فشل في تحديث إعدادات الإشعارات الفورية",
-    "update-success": "تم تحديث إعدادات الإشعارات الفورية بنجاح"
+    "update-success": "تم تحديث إعدادات الإشعارات الفورية بنجاح",
+    "offchain-data-not-found": ""
   },
   "privacy-policy": {
     "changes-to-this-policy": "التغييرات على هذه السياسة",

@@ -992,7 +992,8 @@
     "safari-description": "Premios mayores y NFT",
     "save": "Ahorrar",
     "update-failed": "No se pudo actualizar la configuración de notificaciones push",
-    "update-success": "Configuración de notificaciones push actualizada correctamente"
+    "update-success": "Configuración de notificaciones push actualizada correctamente",
+    "offchain-data-not-found": ""
   },
   "settings": {
     "language": "Idioma",

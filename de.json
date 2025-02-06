@@ -992,7 +992,8 @@
     "safari-description": "Jackpot und NFT-Gewinne",
     "save": "Speichern",
     "update-failed": "Aktualisierung der Einstellungen für Push-Nachrichten fehlgeschlagen",
-    "update-success": "Aktualisierung der Einstellungen für Push-Nachrichten erfolgreich"
+    "update-success": "Aktualisierung der Einstellungen für Push-Nachrichten erfolgreich",
+    "offchain-data-not-found": ""
   },
   "settings": {
     "language": "Sprache",

@@ -992,7 +992,8 @@
     "safari-description": "Jackpot and NFT wins",
     "save": "Save",
     "update-failed": "Failed to update Push Notification Settings",
-    "update-success": "Push Notification Settings updated successfully"
+    "update-success": "Push Notification Settings updated successfully",
+    "offchain-data-not-found": "Offchain data missing, make sure you have visited Offchain mode once"
   },
   "settings": {
     "language": "Language",

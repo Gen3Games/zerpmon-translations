@@ -892,7 +892,8 @@
     "subscribe": "sottoscrivi",
     "subscribe-description": "Non sei iscritto alle notifiche push. \nIscriviti per rimanere aggiornato",
     "update-failed": "Impossibile aggiornare le impostazioni delle notifiche push",
-    "update-success": "Impostazioni di notifica push aggiornate correttamente"
+    "update-success": "Impostazioni di notifica push aggiornate correttamente",
+    "offchain-data-not-found": ""
   },
   "safari": {
     "bg": "Zona di battaglia",

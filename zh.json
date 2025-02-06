@@ -992,7 +992,8 @@
     "safari-description": "累积奖金和 NFT 奖金",
     "save": "节省",
     "update-failed": "无法更新推送通知设置",
-    "update-success": "推送通知设置已成功更新"
+    "update-success": "推送通知设置已成功更新",
+    "offchain-data-not-found": ""
   },
   "settings": {
     "language": "语言",

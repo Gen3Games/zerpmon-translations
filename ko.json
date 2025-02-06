@@ -992,7 +992,8 @@
     "safari-description": "잭팟과 NFT 승리",
     "save": "구하다",
     "update-failed": "푸시 알림 설정을 업데이트하지 못했습니다.",
-    "update-success": "푸시 알림 설정이 업데이트되었습니다."
+    "update-success": "푸시 알림 설정이 업데이트되었습니다.",
+    "offchain-data-not-found": ""
   },
   "settings": {
     "language": "언어",
