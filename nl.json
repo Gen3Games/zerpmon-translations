@@ -541,7 +541,8 @@
     "referrer-already-added": "Je hebt al een verwijzer",
     "invalid-referral-code": "Ongeldige verwijzingscode",
     "cannot-refer-self": "Je kunt jezelf niet doorverwijzen",
-    "referrer-added": "Verwijzer {Reference} is toegevoegd"
+    "referrer-added": "Verwijzer {Reference} is toegevoegd",
+    "add-referrer": "Toevoegen als verwijzing"
   },
   "forge": {
     "check-claim": "Controleer de claimstatus",

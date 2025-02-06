@@ -155,7 +155,8 @@
     "referrer-already-added": "You already have a referrer",
     "invalid-referral-code": "Invalid referral code",
     "cannot-refer-self": "You cannot refer yourself",
-    "referrer-added": "Referrer {referrer} has been added"
+    "referrer-added": "Referrer {referrer} has been added",
+    "add-referrer": "Add as Referrer"
   },
   "decks": {
     "title": "Decks",

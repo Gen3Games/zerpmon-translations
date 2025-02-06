@@ -541,7 +541,8 @@
     "referrer-already-added": "Hai già un referrer",
     "invalid-referral-code": "Codice di riferimento non valido",
     "cannot-refer-self": "Non puoi riferirti",
-    "referrer-added": "È stato aggiunto referrer {referrer}"
+    "referrer-added": "È stato aggiunto referrer {referrer}",
+    "add-referrer": "Aggiungi come referrer"
   },
   "forge": {
     "check-claim": "Controlla lo stato del reclamo",

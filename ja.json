@@ -155,7 +155,8 @@
     "referrer-already-added": "すでにリファラーがあります",
     "invalid-referral-code": "無効な紹介コード",
     "cannot-refer-self": "あなたは自分自身を紹介することはできません",
-    "referrer-added": "REFERRER {REFERRER}が追加されました"
+    "referrer-added": "REFERRER {REFERRER}が追加されました",
+    "add-referrer": "リファラーとして追加します"
   },
   "decks": {
     "title": "プレイヤーデッキ",

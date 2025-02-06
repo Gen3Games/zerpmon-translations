@@ -155,7 +155,8 @@
     "referrer-already-added": "您已经有一个推荐人",
     "invalid-referral-code": "无效的推荐代码",
     "cannot-refer-self": "你不能引用自己",
-    "referrer-added": "已添加了推荐人{推荐程序}"
+    "referrer-added": "已添加了推荐人{推荐程序}",
+    "add-referrer": "添加为推荐人"
   },
   "decks": {
     "title": "牌組",

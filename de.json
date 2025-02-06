@@ -155,7 +155,8 @@
     "referrer-already-added": "Sie haben bereits einen Empfehler",
     "invalid-referral-code": "Ungültiger Empfehlungscode",
     "cannot-refer-self": "Sie können sich nicht verweisen",
-    "referrer-added": "Referrer {Referrer} wurde hinzugefügt"
+    "referrer-added": "Referrer {Referrer} wurde hinzugefügt",
+    "add-referrer": "Als Empfehler hinzufügen"
   },
   "decks": {
     "title": "Decks",

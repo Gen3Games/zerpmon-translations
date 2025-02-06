@@ -541,7 +541,8 @@
     "referrer-already-added": "لديك بالفعل إحالة",
     "invalid-referral-code": "رمز الإحالة غير صالح",
     "cannot-refer-self": "لا يمكنك إحالة نفسك",
-    "referrer-added": "تمت إضافة المرجع {المرجع}"
+    "referrer-added": "تمت إضافة المرجع {المرجع}",
+    "add-referrer": "إضافة كمرجع"
   },
   "forge": {
     "check-claim": "التحقق من حالة المطالبة",

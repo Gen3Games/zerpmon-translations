@@ -541,7 +541,8 @@
     "referrer-already-added": "आपके पास पहले से ही एक रेफरर है",
     "invalid-referral-code": "अमान्य रेफरल कोड",
     "cannot-refer-self": "आप खुद को संदर्भित नहीं कर सकते",
-    "referrer-added": "Refectrer {refecrer} जोड़ा गया है"
+    "referrer-added": "Refectrer {refecrer} जोड़ा गया है",
+    "add-referrer": "रेफ़रर के रूप में जोड़ें"
   },
   "forge": {
     "check-claim": "दावे की स्थिति जांचें",

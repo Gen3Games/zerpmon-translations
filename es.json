@@ -155,7 +155,8 @@
     "referrer-already-added": "Ya tienes un referente",
     "invalid-referral-code": "Código de referencia no válido",
     "cannot-refer-self": "No puedes referirte",
-    "referrer-added": "Referente {referente} se ha agregado"
+    "referrer-added": "Referente {referente} se ha agregado",
+    "add-referrer": "Agregar como referente"
   },
   "decks": {
     "title": "Mazos",
