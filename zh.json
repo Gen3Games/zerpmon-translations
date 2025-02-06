@@ -151,7 +151,11 @@
     "favourite-cards": "最爱的卡片",
     "favourite-trainer": "您最喜欢的训练师",
     "favourite-zerpmon": "最爱的Zerpmon #{index}",
-    "connect": "连接"
+    "connect": "连接",
+    "referrer-already-added": "您已经有一个推荐人",
+    "invalid-referral-code": "无效的推荐代码",
+    "cannot-refer-self": "你不能引用自己",
+    "referrer-added": "已添加了推荐人{推荐程序}"
   },
   "decks": {
     "title": "牌組",

@@ -452,7 +452,11 @@
     "save-changes": "Sauvegarder les modifications",
     "username": "Nom d'utilisateur",
     "view-public-profile": "Afficher le profil public",
-    "connect": "Connecter"
+    "connect": "Connecter",
+    "referrer-already-added": "Vous avez déjà un référenter",
+    "invalid-referral-code": "Code de référence non valide",
+    "cannot-refer-self": "Vous ne pouvez pas vous référer",
+    "referrer-added": "REFORRER {REFORRER} a été ajouté"
   },
   "home": {
     "analytics": "Analytique",

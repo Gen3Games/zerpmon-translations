@@ -151,7 +151,11 @@
     "favourite-cards": "Cartas Favoritas",
     "favourite-trainer": "Tu Entrenador Favorito",
     "favourite-zerpmon": "Zerpmon Favorito #{index}",
-    "connect": "Conectar"
+    "connect": "Conectar",
+    "referrer-already-added": "Ya tienes un referente",
+    "invalid-referral-code": "Código de referencia no válido",
+    "cannot-refer-self": "No puedes referirte",
+    "referrer-added": "Referente {referente} se ha agregado"
   },
   "decks": {
     "title": "Mazos",

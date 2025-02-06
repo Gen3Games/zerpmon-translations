@@ -151,7 +151,11 @@
     "favourite-cards": "お気に入りカード",
     "favourite-trainer": "お気に入りトレーナー",
     "favourite-zerpmon": "お気に入りザープモン #{index}",
-    "connect": "接続する"
+    "connect": "接続する",
+    "referrer-already-added": "すでにリファラーがあります",
+    "invalid-referral-code": "無効な紹介コード",
+    "cannot-refer-self": "あなたは自分自身を紹介することはできません",
+    "referrer-added": "REFERRER {REFERRER}が追加されました"
   },
   "decks": {
     "title": "プレイヤーデッキ",

@@ -151,7 +151,11 @@
     "favourite-cards": "좋아하는 카드",
     "favourite-trainer": "좋아하는 트레이너",
     "favourite-zerpmon": "좋아하는 Zerpmon #{index}",
-    "connect": "연결하다"
+    "connect": "연결하다",
+    "referrer-already-added": "당신은 이미 추천자가 있습니다",
+    "invalid-referral-code": "잘못된 추천 코드",
+    "cannot-refer-self": "당신은 자신을 언급 할 수 없습니다",
+    "referrer-added": "참조 자 {referrer}가 추가되었습니다"
   },
   "decks": {
     "title": "덱",

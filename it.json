@@ -537,7 +537,11 @@
     "save-changes": "Salvare le modifiche",
     "username": "Nome utente",
     "view-public-profile": "Visualizza il profilo pubblico",
-    "connect": "Collegare"
+    "connect": "Collegare",
+    "referrer-already-added": "Hai già un referrer",
+    "invalid-referral-code": "Codice di riferimento non valido",
+    "cannot-refer-self": "Non puoi riferirti",
+    "referrer-added": "È stato aggiunto referrer {referrer}"
   },
   "forge": {
     "check-claim": "Controlla lo stato del reclamo",

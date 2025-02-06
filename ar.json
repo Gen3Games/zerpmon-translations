@@ -537,7 +537,11 @@
     "favourite-zerpmon": "زيربمون المفضل",
     "save-changes": "حفظ التغييرات",
     "username": "اسم المستخدم",
-    "view-public-profile": "عرض الملف الشخصي العام"
+    "view-public-profile": "عرض الملف الشخصي العام",
+    "referrer-already-added": "لديك بالفعل إحالة",
+    "invalid-referral-code": "رمز الإحالة غير صالح",
+    "cannot-refer-self": "لا يمكنك إحالة نفسك",
+    "referrer-added": "تمت إضافة المرجع {المرجع}"
   },
   "forge": {
     "check-claim": "التحقق من حالة المطالبة",

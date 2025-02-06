@@ -151,7 +151,11 @@
     "favourite-cards": "Lieblingskarten",
     "favourite-trainer": "Lieblingstrainer",
     "favourite-zerpmon": "Lieblingszerpmon #{index}",
-    "connect": "Verbinden"
+    "connect": "Verbinden",
+    "referrer-already-added": "Sie haben bereits einen Empfehler",
+    "invalid-referral-code": "Ungültiger Empfehlungscode",
+    "cannot-refer-self": "Sie können sich nicht verweisen",
+    "referrer-added": "Referrer {Referrer} wurde hinzugefügt"
   },
   "decks": {
     "title": "Decks",

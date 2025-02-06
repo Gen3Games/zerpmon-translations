@@ -537,7 +537,11 @@
     "save-changes": "परिवर्तनों को सुरक्षित करें",
     "username": "उपयोगकर्ता नाम",
     "view-public-profile": "सार्वजनिक प्रोफ़ाइल देखें",
-    "connect": "जोड़ना"
+    "connect": "जोड़ना",
+    "referrer-already-added": "आपके पास पहले से ही एक रेफरर है",
+    "invalid-referral-code": "अमान्य रेफरल कोड",
+    "cannot-refer-self": "आप खुद को संदर्भित नहीं कर सकते",
+    "referrer-added": "Refectrer {refecrer} जोड़ा गया है"
   },
   "forge": {
     "check-claim": "दावे की स्थिति जांचें",
