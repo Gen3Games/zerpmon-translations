@@ -155,7 +155,7 @@
     "referrer-already-added": "您已经有一个推荐人",
     "invalid-referral-code": "无效的推荐代码",
     "cannot-refer-self": "你不能引用自己",
-    "referrer-added": "已添加了推荐人{推荐程序}",
+    "referrer-added": "已添加了推荐人{referrer}",
     "add-referrer": "添加为推荐人"
   },
   "decks": {
@@ -1491,7 +1491,7 @@
     "tutorial-part-2-content": "欢迎来到教程的第 2 部分",
     "gym-battle-msg-13": "恭喜您完成 Zerpmon 教程的第 3 部分。\n我们已将您 3 个免费离线 TRN Zerpmon 中的最后一个发送到您的收件箱以供领取！\n\n完成教程后，您还可以在收件箱中获得额外的 TRN 离线训练师以供领取！",
     "tutorial-completion-rewards": "教程完成奖励",
-    "reward-description": "恭喜{rewardTitle}！ \n{奖励描述} {描述}"
+    "reward-description": "恭喜{rewardTitle}！ \n{rewardDescription} {description}"
   },
   "staking": {
     "title": "",
