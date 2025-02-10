@@ -322,7 +322,15 @@
     "no-opponents-found-deck-invalid": "Er zijn geen tegenstanders gevonden. Zorg ervoor dat je deck correct is ingesteld",
     "confirm-forfeit": "Als u het verspeelt, telt het als een automatisch verlies. Weet u dat zeker?",
     "mp-earned": "Kamerlid verdiend",
-    "token-wars": ""
+    "token-wars": "",
+    "win-rate": "Win -tarief",
+    "zerpmon-ready-to-battle": "",
+    "slot-empty": "Slot leeg",
+    "season-performance": "Seizoenprestatie",
+    "buy-ticket-setup-deck": "Koop een kaartje, stel een dek in, vecht en niveau hoger",
+    "purchase-ticket": "Koop een kaartje",
+    "battle-free": "Vecht het uit voor absoluut gratis",
+    "no-nfts-required": "Geen NFT's vereist"
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -865,7 +873,36 @@
     "xrp-cafe": "XRP Café",
     "tradeverse": "Handelsvers",
     "tradeverse-collections": "Tradeverse-collecties",
-    "description-tradeverse": "Ontdek de verschillende collecties die beschikbaar zijn in Tradeverse"
+    "description-tradeverse": "Ontdek de verschillende collecties die beschikbaar zijn in Tradeverse",
+    "trading-marketplace": "Handelsmarktplaats",
+    "trade-description": "Ruil game -items in met aanbiedingen die bij u passen",
+    "search-user": "Zoekgebruiker",
+    "items-to-recieve": "Items om te ontvangen",
+    "items-to-send": "Items om te verzenden",
+    "offers-to-me": "Aanbiedingen voor mij",
+    "create-offer": "Creëer aanbod",
+    "offer-removed": "Aanbieding Lijst met succes verwijderd, items in de wacht moeten in de inventaris zijn",
+    "expires-in": "Verloopt in",
+    "view": "Weergave",
+    "trade-still-pending": "handel nog in behandeling",
+    "no-item-selected": "Geen item geselecteerd",
+    "invalid-nft-selected": "Ongeldige NFT geselecteerd",
+    "invalid-amount-selected": "Ongeldig bedrag geselecteerd",
+    "invalid-variant-selected": "Ongeldige variant geselecteerd",
+    "amount-greater-than-balance": "Bedrag moet niet groter zijn dan balans",
+    "invalid-address": "Ongeldig adres, niet zo'n gebruiker gevonden",
+    "expire-time-greater": "Vervalt de tijd moet groter zijn dan 3 minuten",
+    "create-offer-tx-failed": "Creëeraanbiedingstransactie mislukt",
+    "create-custom-offer": "Maak een nieuw aangepaste handelsaanbieding",
+    "recieve": "Ontvangen",
+    "tradable-items": "Verhandelbare artikelen",
+    "offer-destination": "Bied bestemming aan",
+    "optional-address": "Optioneel adres",
+    "sign-with-xaman": "Teken met Xaman",
+    "items-you-will-receive": "Items die u ontvangt",
+    "items-you-will-lose": "Items die u verliest",
+    "accept-offer": "Accepteeraanbod",
+    "offer-details": "Bied details aan"
   },
   "mint": {
     "days": "dagen",
@@ -894,7 +931,16 @@
     "subscribe-description": "U heeft zich niet geabonneerd op pushmeldingen. \nAbonneer u om op de hoogte te blijven",
     "update-failed": "Kan de instellingen voor pushmeldingen niet updaten",
     "update-success": "Instellingen voor pushmeldingen zijn succesvol bijgewerkt",
-    "offchain-data-not-found": ""
+    "offchain-data-not-found": "",
+    "no-claimed-rewards": "Geen geclaimde beloningen om te wissen",
+    "claimed-rewards-cleared": "Geclaimde beloningen gewist",
+    "clear-claimed": "Clear Claimed",
+    "no-pending-rewards": "Geen hangende beloningen",
+    "delete-all-claimed-rewards": "Deze actie zal alle geclaimde beloningen wissen en kan niet ongedaan worden gemaakt.",
+    "clear-all-claimed": "Alle geclaimde beloningen duidelijk?",
+    "clear": "Duidelijk",
+    "cancel": "Annuleren",
+    "reward-claimed": "Beloning geclaimd!"
   },
   "safari": {
     "bg": "Gevechtszone",
@@ -1133,7 +1179,8 @@
     "world-boss-total-damage": "Schade van alle tijden",
     "hp-remaining": "HP resterend",
     "zrp-share": "ZRP-aandeel",
-    "battle": "Strijd"
+    "battle": "Strijd",
+    "trainer-not-found": "Trainer niet gevonden"
   },
   "nft-details-popup": {
     "level": "Niveau"

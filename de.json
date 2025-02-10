@@ -755,7 +755,15 @@
     "confirm-forfeit": "Wenn du aufgibst, wird das Battle automatisch als Niederlage gewertet. Bist du sicher?",
     "no-opponents-found-deck-invalid": "Keine Gegner gefunden. Stelle bitte sicher, dass dein Deck korrekt aufgestellt ist",
     "mp-earned": "MP verdient",
-    "token-wars": ""
+    "token-wars": "",
+    "win-rate": "Gewinnrate",
+    "zerpmon-ready-to-battle": "",
+    "slot-empty": "Slot leer",
+    "season-performance": "Saisonleistung",
+    "buy-ticket-setup-deck": "Kaufen Sie ein Ticket, richten Sie ein Deck, einen Kampf und ein Level auf",
+    "purchase-ticket": "Kauf ein Ticket",
+    "battle-free": "Bekämpfen Sie es absolut kostenlos",
+    "no-nfts-required": "Keine NFTs erforderlich"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -854,7 +862,36 @@
     "xrp-cafe": "XRP Cafe",
     "tradeverse": "Tradeverse",
     "tradeverse-collections": "Tradeverse-Kollektionen",
-    "description-tradeverse": "Entdecke die verschiedenen verfügbaren Kollektionen bei Tradeverse"
+    "description-tradeverse": "Entdecke die verschiedenen verfügbaren Kollektionen bei Tradeverse",
+    "trading-marketplace": "Handelsmarkt",
+    "trade-description": "Handel mit Spielartikeln mit Angeboten, die zu Ihnen passen",
+    "search-user": "SEACH -Benutzer",
+    "items-to-recieve": "Elemente zur Erholung",
+    "items-to-send": "Artikel zu senden",
+    "offers-to-me": "Angebote für mich",
+    "create-offer": "Angebot erstellen",
+    "offer-removed": "Bieten Sie die Auflistung erfolgreich entfernt an, die auf Eis gelegenen Artikel sollten im Bestand sein",
+    "expires-in": "Läuft in",
+    "view": "Sicht",
+    "trade-still-pending": "Handel noch ausstehend",
+    "no-item-selected": "Kein Artikel ausgewählt",
+    "invalid-nft-selected": "Ungültiges NFT ausgewählt",
+    "invalid-amount-selected": "Ungültiger Betrag ausgewählt",
+    "invalid-variant-selected": "Ungültige Variante ausgewählt",
+    "amount-greater-than-balance": "Betrag sollte nicht größer sein als das Gleichgewicht",
+    "invalid-address": "Ungültige Adresse, kein solcher Benutzer gefunden",
+    "expire-time-greater": "Die Auslaufzeit sollte größer als 3 min sein",
+    "create-offer-tx-failed": "Angebotstransaktion erstellen fehlgeschlagen",
+    "create-custom-offer": "Erstellen Sie ein neues benutzerdefiniertes Handelsangebot",
+    "recieve": "Erhalten",
+    "tradable-items": "Handelbare Artikel",
+    "offer-destination": "Ziel anbieten",
+    "optional-address": "Optionale Adresse",
+    "sign-with-xaman": "Unterschreiben Sie mit Xaman",
+    "items-you-will-receive": "Artikel, die Sie erhalten",
+    "items-you-will-lose": "Artikel, die Sie verlieren werden",
+    "accept-offer": "Angebot akzeptieren",
+    "offer-details": "Details anbieten"
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -994,7 +1031,16 @@
     "save": "Speichern",
     "update-failed": "Aktualisierung der Einstellungen für Push-Nachrichten fehlgeschlagen",
     "update-success": "Aktualisierung der Einstellungen für Push-Nachrichten erfolgreich",
-    "offchain-data-not-found": ""
+    "offchain-data-not-found": "",
+    "no-claimed-rewards": "Keine beanspruchten Belohnungen, um zu klären",
+    "claimed-rewards-cleared": "Behauptete Belohnungen geklärt",
+    "clear-claimed": "Klar behauptet",
+    "no-pending-rewards": "Keine ausstehenden Belohnungen",
+    "delete-all-claimed-rewards": "Diese Klage wird alle beanspruchten Belohnungen löschen und kann nicht rückgängig gemacht werden.",
+    "clear-all-claimed": "Alle beanspruchten Belohnungen klären?",
+    "clear": "Klar",
+    "cancel": "Stornieren",
+    "reward-claimed": "Belohnung behauptet!"
   },
   "settings": {
     "language": "Sprache",
@@ -1133,7 +1179,8 @@
     "world-boss-total-damage": "Allzeitschaden",
     "hp-remaining": "Verbleibende HP",
     "zrp-share": "ZRP-Anteil",
-    "battle": "Battle"
+    "battle": "Battle",
+    "trainer-not-found": "Trainer nicht gefunden"
   },
   "nft-details-popup": {
     "level": "Level"

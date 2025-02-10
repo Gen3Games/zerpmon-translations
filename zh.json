@@ -755,7 +755,15 @@
     "no-opponents-found-deck-invalid": "未找到对手，请确保您的套牌设置正确",
     "confirm-forfeit": "如果您放弃，将视为自动损失，您确定吗？",
     "mp-earned": "获得 MP",
-    "token-wars": ""
+    "token-wars": "",
+    "win-rate": "获胜率",
+    "zerpmon-ready-to-battle": "",
+    "slot-empty": "插槽空",
+    "season-performance": "季节表现",
+    "buy-ticket-setup-deck": "购买票，设置甲板，战斗和升级",
+    "purchase-ticket": "购买票",
+    "battle-free": "绝对自由地战斗",
+    "no-nfts-required": "无需NFT"
   },
   "test": {
     "test": "这是个测试"
@@ -854,7 +862,36 @@
     "xrp-cafe": "瑞波币咖啡馆",
     "tradeverse": "贸易宇宙",
     "tradeverse-collections": "贸易宇宙系列",
-    "description-tradeverse": "探索 Tradeverse 中提供的不同集合"
+    "description-tradeverse": "探索 Tradeverse 中提供的不同集合",
+    "trading-marketplace": "交易市场",
+    "trade-description": "用适合您的优惠来交易游戏项目",
+    "search-user": "SEACH用户",
+    "items-to-recieve": "收到的项目",
+    "items-to-send": "要发送的项目",
+    "offers-to-me": "给我",
+    "create-offer": "创建要约",
+    "offer-removed": "报价列表成功删除，搁置的项目应在库存中",
+    "expires-in": "到期",
+    "view": "看法",
+    "trade-still-pending": "贸易仍在等待",
+    "no-item-selected": "未选择项目",
+    "invalid-nft-selected": "选择了无效的NFT",
+    "invalid-amount-selected": "选择的金额无效",
+    "invalid-variant-selected": "选择了无效的变体",
+    "amount-greater-than-balance": "金额不超过平衡",
+    "invalid-address": "无效的地址，没有找到这样的用户",
+    "expire-time-greater": "到期时间应大于3分钟",
+    "create-offer-tx-failed": "创建要约交易失败",
+    "create-custom-offer": "创建新的自定义交易优惠",
+    "recieve": "收到",
+    "tradable-items": "可交易的物品",
+    "offer-destination": "提供目的地",
+    "optional-address": "可选地址",
+    "sign-with-xaman": "与Xaman签名",
+    "items-you-will-receive": "您将收到的物品",
+    "items-you-will-lose": "你会丢失的物品",
+    "accept-offer": "接受要约",
+    "offer-details": "提供详细信息"
   },
   "manage-listing": {
     "title": "我的 NFTs",
@@ -994,7 +1031,16 @@
     "save": "节省",
     "update-failed": "无法更新推送通知设置",
     "update-success": "推送通知设置已成功更新",
-    "offchain-data-not-found": ""
+    "offchain-data-not-found": "",
+    "no-claimed-rewards": "没有声称的奖励可以清除",
+    "claimed-rewards-cleared": "声称奖励已清除",
+    "clear-claimed": "明确要求",
+    "no-pending-rewards": "没有等待的奖励",
+    "delete-all-claimed-rewards": "该行动将清除所有声称的奖励，无法取消。",
+    "clear-all-claimed": "清除所有声称的奖励？",
+    "clear": "清除",
+    "cancel": "取消",
+    "reward-claimed": "奖励要求！"
   },
   "settings": {
     "language": "语言",
@@ -1133,7 +1179,8 @@
     "world-boss-total-damage": "所有时间伤害",
     "hp-remaining": "剩余生命值",
     "zrp-share": "中荣股份",
-    "battle": "战斗"
+    "battle": "战斗",
+    "trainer-not-found": "找不到培训师"
   },
   "nft-details-popup": {
     "level": "等级"

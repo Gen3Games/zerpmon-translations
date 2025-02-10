@@ -755,7 +755,15 @@
     "no-opponents-found-deck-invalid": "상대를 찾을 수 없습니다. 덱이 올바르게 설정되었는지 확인하세요.",
     "confirm-forfeit": "몰수하면 자동 손실로 간주됩니다. 그렇죠?",
     "mp-earned": "MP 획득",
-    "token-wars": ""
+    "token-wars": "",
+    "win-rate": "승리",
+    "zerpmon-ready-to-battle": "",
+    "slot-empty": "슬롯이 비어 있습니다",
+    "season-performance": "계절 성능",
+    "buy-ticket-setup-deck": "티켓 구매, 데크 설정, 전투 및 레벨 업",
+    "purchase-ticket": "티켓 구매",
+    "battle-free": "절대적으로 무료로 싸우십시오",
+    "no-nfts-required": "NFT가 필요하지 않습니다"
   },
   "test": {
     "test": "테스트입니다."
@@ -854,7 +862,36 @@
     "xrp-cafe": "XRP 카페",
     "tradeverse": "트레이드버스",
     "tradeverse-collections": "트레이드버스 컬렉션",
-    "description-tradeverse": "Tradeverse에서 제공되는 다양한 컬렉션을 살펴보세요"
+    "description-tradeverse": "Tradeverse에서 제공되는 다양한 컬렉션을 살펴보세요",
+    "trading-marketplace": "거래 시장",
+    "trade-description": "당신에게 적합한 제안으로 게임 아이템을 거래하십시오",
+    "search-user": "Seach 사용자",
+    "items-to-recieve": "받을 항목",
+    "items-to-send": "보낼 항목",
+    "offers-to-me": "나에게 제안",
+    "create-offer": "제안을 만듭니다",
+    "offer-removed": "제안 목록이 성공적으로 제거되면, 보류중인 품목은 재고에 있어야합니다.",
+    "expires-in": "만료됩니다",
+    "view": "보다",
+    "trade-still-pending": "거래 중입니다",
+    "no-item-selected": "선택한 항목이 없습니다",
+    "invalid-nft-selected": "잘못된 NFT가 선택되었습니다",
+    "invalid-amount-selected": "잘못된 금액을 선택했습니다",
+    "invalid-variant-selected": "유효하지 않은 변형이 선택되었습니다",
+    "amount-greater-than-balance": "금액은 균형보다 크지 않습니다",
+    "invalid-address": "유효하지 않은 주소, 그러한 사용자는 발견하지 못했습니다",
+    "expire-time-greater": "만료 시간은 3 분 이상이어야합니다",
+    "create-offer-tx-failed": "제안 거래에 실패했습니다",
+    "create-custom-offer": "새로운 맞춤형 거래 제안을 만듭니다",
+    "recieve": "받다",
+    "tradable-items": "거래 가능한 품목",
+    "offer-destination": "목적지 제공",
+    "optional-address": "선택적 주소",
+    "sign-with-xaman": "Xaman과 서명하십시오",
+    "items-you-will-receive": "받을 항목",
+    "items-you-will-lose": "잃을 항목",
+    "accept-offer": "제안 수락",
+    "offer-details": "세부 사항을 제공합니다"
   },
   "manage-listing": {
     "title": "내 NFT",
@@ -994,7 +1031,16 @@
     "save": "구하다",
     "update-failed": "푸시 알림 설정을 업데이트하지 못했습니다.",
     "update-success": "푸시 알림 설정이 업데이트되었습니다.",
-    "offchain-data-not-found": ""
+    "offchain-data-not-found": "",
+    "no-claimed-rewards": "청구 된 보상은 없었다",
+    "claimed-rewards-cleared": "청구 된 보상이 청산되었습니다",
+    "clear-claimed": "명확한 주장",
+    "no-pending-rewards": "보류중인 보상이 없습니다",
+    "delete-all-claimed-rewards": "이 조치는 모든 청구 된 보상을 없애고 취소 할 수는 없습니다.",
+    "clear-all-claimed": "청구 된 모든 보상을 지우셨습니까?",
+    "clear": "분명한",
+    "cancel": "취소",
+    "reward-claimed": "보상 청구!"
   },
   "settings": {
     "language": "언어",
@@ -1133,7 +1179,8 @@
     "world-boss": "월드보스",
     "world-boss-total-damage": "올타임 데미지",
     "zrp-share": "ZRP 공유",
-    "battle": "전투"
+    "battle": "전투",
+    "trainer-not-found": "트레이너를 찾을 수 없습니다"
   },
   "nft-details-popup": {
     "level": "수준"

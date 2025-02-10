@@ -755,7 +755,15 @@
     "no-opponents-found-deck-invalid": "No opponents found, please make sure your deck is setup correctly",
     "confirm-forfeit": "If you forfeit it will count as an automatic loss, are you sure?",
     "mp-earned": "MP Earned ",
-    "token-wars": "Token Wars Battles"
+    "token-wars": "Token Wars Battles",
+    "win-rate": "Win Rate",
+    "zerpmon-ready-to-battle": "Zerpmon Ready To Battle",
+    "slot-empty": "Slot Empty",
+    "season-performance": "Season Performance",
+    "buy-ticket-setup-deck": "Buy a Ticket, Setup a Deck, Battle and Level Up",
+    "purchase-ticket": "Purchase a Ticket",
+    "battle-free": "Battle it out for absolutely free",
+    "no-nfts-required": "No nfts required"
   },
   "test": {
     "test": "this is a test"
@@ -854,7 +862,36 @@
     "xrp-cafe": "XRP Cafe",
     "tradeverse": "Tradeverse",
     "tradeverse-collections": "Tradeverse Collections",
-    "description-tradeverse": "Explore the different collections available in Tradeverse"
+    "description-tradeverse": "Explore the different collections available in Tradeverse",
+    "trading-marketplace": "Trading Marketplace",
+    "trade-description": "Trade in game items with offers that suit you",
+    "search-user": "Seach User",
+    "items-to-recieve": "Items to recieve",
+    "items-to-send": "Items to send",
+    "offers-to-me": "Offers to me",
+    "create-offer": "Create Offer",
+    "offer-removed": "Offer listing successfully removed, items on hold should be in inventory",
+    "expires-in": "Expires in",
+    "view": "View",
+    "trade-still-pending": "trade still pending",
+    "no-item-selected": "No item selected",
+    "invalid-nft-selected": "Invalid NFT selected",
+    "invalid-amount-selected": "Invalid amount selected",
+    "invalid-variant-selected": "Invalid variant selected",
+    "amount-greater-than-balance": "Amount shoudn't be greater than balance",
+    "invalid-address": "Invalid Address, no such user found",
+    "expire-time-greater": "Expire time should be greater than 3 min",
+    "create-offer-tx-failed": "Create Offer transaction failed",
+    "create-custom-offer": "Create a new custom trade offer",
+    "recieve": "Receive",
+    "tradable-items": "Tradable Items",
+    "offer-destination": "Offer destination",
+    "optional-address": "Optional address",
+    "sign-with-xaman": "Sign with Xaman",
+    "items-you-will-receive": "Items that you will receive",
+    "items-you-will-lose": "Items that you will lose",
+    "accept-offer": "Accept offer",
+    "offer-details": "Offer details"
   },
   "manage-listing": {
     "title": "My NFTs",
@@ -994,7 +1031,16 @@
     "save": "Save",
     "update-failed": "Failed to update Push Notification Settings",
     "update-success": "Push Notification Settings updated successfully",
-    "offchain-data-not-found": "Offchain data missing, make sure you have visited Offchain mode once"
+    "offchain-data-not-found": "Offchain data missing, make sure you have visited Offchain mode once",
+    "no-claimed-rewards": "No claimed rewards to clear",
+    "claimed-rewards-cleared": "Claimed Rewards Cleared",
+    "clear-claimed": "Clear Claimed",
+    "no-pending-rewards": "No pending Rewards",
+    "delete-all-claimed-rewards": "This action will clear all claimed rewards and cannot be undone.",
+    "clear-all-claimed": "Clear All Claimed Rewards ?",
+    "clear": "Clear",
+    "cancel": "Cancel",
+    "reward-claimed": "Reward Claimed!"
   },
   "settings": {
     "language": "Language",
@@ -1133,7 +1179,8 @@
     "world-boss-total-damage": "All Time Damage",
     "hp-remaining": "HP Remaining",
     "zrp-share": "ZRP Share",
-    "battle": "Battle"
+    "battle": "Battle",
+    "trainer-not-found": "Trainer not found"
   },
   "nft-details-popup": {
     "level": "Level"

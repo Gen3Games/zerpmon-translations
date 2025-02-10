@@ -322,7 +322,15 @@
     "zerpmon-resting": "جميع الزربمون الموجود على سطح المهمة يستريحون",
     "zerpmon-slot": "فتحة زيربمون",
     "zrp": "زرب",
-    "token-wars": ""
+    "token-wars": "",
+    "win-rate": "معدل الفوز",
+    "zerpmon-ready-to-battle": "",
+    "slot-empty": "فتحة فارغة",
+    "season-performance": "أداء الموسم",
+    "buy-ticket-setup-deck": "شراء تذكرة ، وإعداد سطح السفينة ، والمعركة والمستوى لأعلى",
+    "purchase-ticket": "شراء تذكرة",
+    "battle-free": "خاضها مجانًا تمامًا",
+    "no-nfts-required": "لا NFTS مطلوب"
   },
   "buy-zerpmon": {
     "already-bought": "لقد قمت بالفعل بشراء zerpmon",
@@ -892,7 +900,36 @@
     "user-tag-not-found": "تعذر العثور على علامة المستخدم",
     "xrp-cafe": "مقهى XRP",
     "xrpcafe-collections": "مجموعات مقهى XRP",
-    "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق"
+    "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق",
+    "trading-marketplace": "سوق التداول",
+    "trade-description": "التجارة في عناصر اللعبة مع العروض التي تناسبك",
+    "search-user": "المستخدم",
+    "items-to-recieve": "عناصر لتلقيها",
+    "items-to-send": "العناصر التي يجب إرسالها",
+    "offers-to-me": "يقدم لي",
+    "create-offer": "إنشاء عرض",
+    "offer-removed": "عرض العرض الذي تم إزالته بنجاح ، يجب أن تكون العناصر المعلقة في المخزون",
+    "expires-in": "تنتهي في",
+    "view": "منظر",
+    "trade-still-pending": "التجارة لا تزال معلقة",
+    "no-item-selected": "لم يتم تحديد عنصر",
+    "invalid-nft-selected": "محدد NFT غير صالح",
+    "invalid-amount-selected": "مبلغ غير صالح محدد",
+    "invalid-variant-selected": "متغير غير صالح محدد",
+    "amount-greater-than-balance": "لا يكون المبلغ أكبر من التوازن",
+    "invalid-address": "عنوان غير صالح ، لم يتم العثور على هذا المستخدم",
+    "expire-time-greater": "يجب أن يكون وقت انتهاء صلاحية أكبر من 3 دقائق",
+    "create-offer-tx-failed": "فشل إنشاء معاملة العرض",
+    "create-custom-offer": "إنشاء عرض تجاري جديد جديد",
+    "recieve": "يستلم",
+    "tradable-items": "العناصر القابلة للتداول",
+    "offer-destination": "عرض الوجهة",
+    "optional-address": "عنوان اختياري",
+    "sign-with-xaman": "تسجيل مع Xaman",
+    "items-you-will-receive": "العناصر التي ستتلقاها",
+    "items-you-will-lose": "العناصر التي ستخسرها",
+    "accept-offer": "قبول العرض",
+    "offer-details": "تقديم التفاصيل"
   },
   "metadata": {
     "auction-not-found": "لم يتم العثور على المزاد",
@@ -932,7 +969,16 @@
     "subscribe-description": "لم تقم بالاشتراك في دفع الإخطارات. \nاشترك لتبقى على اطلاع",
     "update-failed": "فشل في تحديث إعدادات الإشعارات الفورية",
     "update-success": "تم تحديث إعدادات الإشعارات الفورية بنجاح",
-    "offchain-data-not-found": ""
+    "offchain-data-not-found": "",
+    "no-claimed-rewards": "لا توجد مكافآت مطالبة بمسح",
+    "claimed-rewards-cleared": "مكافآت مطالبة",
+    "clear-claimed": "واضحة ادعاء",
+    "no-pending-rewards": "لا مكافآت معلقة",
+    "delete-all-claimed-rewards": "سيؤدي هذا الإجراء إلى مسح جميع المكافآت المدعومة ولا يمكن التراجع عنها.",
+    "clear-all-claimed": "مسح كل المكافآت المطالبة؟",
+    "clear": "واضح",
+    "cancel": "يلغي",
+    "reward-claimed": "مكافأة ادعى!"
   },
   "privacy-policy": {
     "changes-to-this-policy": "التغييرات على هذه السياسة",
@@ -1377,7 +1423,8 @@
     "week-damage": "أضرار هذا الأسبوع",
     "world-boss": "رئيس العالم",
     "world-boss-total-damage": "كل الضرر الوقت",
-    "zrp-share": "مشاركة ZRP"
+    "zrp-share": "مشاركة ZRP",
+    "trainer-not-found": "لم يتم العثور على المدرب"
   },
   "zerpmon-types-damage-table": {
     "attacking": "مهاجمة",

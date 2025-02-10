@@ -263,7 +263,15 @@
     "no-opponents-found-deck-invalid": "Aucun adversaire trouvé, veuillez vous assurer que votre deck est correctement configuré",
     "confirm-forfeit": "Si vous abandonnez, cela comptera comme une perte automatique, en êtes-vous sûr ?",
     "mp-earned": "MP gagnés",
-    "token-wars": ""
+    "token-wars": "",
+    "win-rate": "Taux de victoire",
+    "zerpmon-ready-to-battle": "",
+    "slot-empty": "Fente vide",
+    "season-performance": "Performance de saison",
+    "buy-ticket-setup-deck": "Achetez un billet, configurez un deck, bataille et niveau vers le haut",
+    "purchase-ticket": "Acheter un billet",
+    "battle-free": "Se battre pour absolument gratuit",
+    "no-nfts-required": "Aucune NFT requise"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -751,7 +759,36 @@
     "xrp-cafe": "Café XRP",
     "tradeverse": "Tradeverse",
     "tradeverse-collections": "Collections Tradeverse",
-    "description-tradeverse": "Explorez les différentes collections disponibles dans Tradeverse"
+    "description-tradeverse": "Explorez les différentes collections disponibles dans Tradeverse",
+    "trading-marketplace": "Marché de la trading",
+    "trade-description": "Échangez des articles de jeu avec des offres qui vous conviennent",
+    "search-user": "Utilisateur",
+    "items-to-recieve": "Articles à recevoir",
+    "items-to-send": "Articles à envoyer",
+    "offers-to-me": "M'offre",
+    "create-offer": "Créer une offre",
+    "offer-removed": "L'offre de la liste a été supprimée avec succès, les articles en attente doivent être en inventaire",
+    "expires-in": "Expire",
+    "view": "Voir",
+    "trade-still-pending": "commerce toujours en attente",
+    "no-item-selected": "Aucun élément sélectionné",
+    "invalid-nft-selected": "NFT non valide sélectionné",
+    "invalid-amount-selected": "Montant non valide sélectionné",
+    "invalid-variant-selected": "Variante non valide sélectionnée",
+    "amount-greater-than-balance": "Le montant ne sera pas supérieur à l'équilibre",
+    "invalid-address": "Adresse non valide, aucun utilisateur de ce type n'a trouvé",
+    "expire-time-greater": "Expirer le temps devrait être supérieur à 3 min",
+    "create-offer-tx-failed": "Créer des transactions d'offre Échec",
+    "create-custom-offer": "Créer une nouvelle offre de commerce personnalisé",
+    "recieve": "Recevoir",
+    "tradable-items": "Articles négociables",
+    "offer-destination": "Offrir une destination",
+    "optional-address": "Adresse facultative",
+    "sign-with-xaman": "Signer avec Xaman",
+    "items-you-will-receive": "Articles que vous recevrez",
+    "items-you-will-lose": "Articles que vous perdrez",
+    "accept-offer": "Accepter l'offre",
+    "offer-details": "Offrir des détails"
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",
@@ -773,7 +810,16 @@
     "save": "Sauvegarder",
     "update-failed": "Échec de la mise à jour des paramètres de notification push",
     "update-success": "Paramètres de notification push mis à jour avec succès",
-    "offchain-data-not-found": ""
+    "offchain-data-not-found": "",
+    "no-claimed-rewards": "Aucune récompense revendiquée pour effacer",
+    "claimed-rewards-cleared": "Les récompenses réclamées ont été effacées",
+    "clear-claimed": "Clair revendiqué",
+    "no-pending-rewards": "Pas de récompenses en attente",
+    "delete-all-claimed-rewards": "Cette action effacera toutes les récompenses revendiquées et ne peut pas être annulée.",
+    "clear-all-claimed": "Effacer toutes les récompenses revendiquées?",
+    "clear": "Clair",
+    "cancel": "Annuler",
+    "reward-claimed": "Récompense revendiquée!"
   },
   "safari": {
     "bg": "Zone de combats",
@@ -1133,7 +1179,8 @@
     "world-boss-total-damage": "Dégâts de tous les temps",
     "hp-remaining": "PV restants",
     "zrp-share": "Partager ZRP",
-    "battle": "Bataille"
+    "battle": "Bataille",
+    "trainer-not-found": "Entraîneur introuvable"
   },
   "nft-details-popup": {
     "level": "Niveau"

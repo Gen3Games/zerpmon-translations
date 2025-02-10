@@ -755,7 +755,15 @@
     "no-opponents-found-deck-invalid": "対戦相手が見つかりません。デッキが正しく設定されていることを確認してください。",
     "confirm-forfeit": "没収した場合は自動的に損失としてカウントされますが、よろしいですか？",
     "mp-earned": "獲得MP",
-    "token-wars": ""
+    "token-wars": "",
+    "win-rate": "勝利率",
+    "zerpmon-ready-to-battle": "",
+    "slot-empty": "スロットが空です",
+    "season-performance": "シーズンパフォーマンス",
+    "buy-ticket-setup-deck": "チケットを購入し、デッキのセットアップ、戦い、レベルアップ",
+    "purchase-ticket": "チケットを購入します",
+    "battle-free": "絶対に無料で戦います",
+    "no-nfts-required": "NFTは必要ありません"
   },
   "test": {
     "test": "これはテストです"
@@ -854,7 +862,36 @@
     "xrp-cafe": "XRP カフェ",
     "tradeverse": "トレードバース",
     "tradeverse-collections": "トレードバースコレクション",
-    "description-tradeverse": "Tradeverse で利用可能なさまざまなコレクションを探索してください"
+    "description-tradeverse": "Tradeverse で利用可能なさまざまなコレクションを探索してください",
+    "trading-marketplace": "取引市場",
+    "trade-description": "あなたに合ったオファーでゲームアイテムを取引します",
+    "search-user": "Seachユーザー",
+    "items-to-recieve": "受信するアイテム",
+    "items-to-send": "送信するアイテム",
+    "offers-to-me": "私に申し出",
+    "create-offer": "オファーを作成します",
+    "offer-removed": "リスティングが正常に削除され、保留中のアイテムは在庫にある必要があります",
+    "expires-in": "有効期限が切れます",
+    "view": "ビュー",
+    "trade-still-pending": "まだ保留中の取引",
+    "no-item-selected": "選択されたアイテムはありません",
+    "invalid-nft-selected": "無効なNFTが選択されました",
+    "invalid-amount-selected": "選択された無効な金額",
+    "invalid-variant-selected": "選択された無効なバリアント",
+    "amount-greater-than-balance": "金額はバランスよりも大きくない",
+    "invalid-address": "無効なアドレス、そのようなユーザーは見つかりませんでした",
+    "expire-time-greater": "期限切れは3分を超える必要があります",
+    "create-offer-tx-failed": "オファートランザクションの作成失敗",
+    "create-custom-offer": "新しいカスタムトレードオファーを作成します",
+    "recieve": "受け取る",
+    "tradable-items": "取引可能なアイテム",
+    "offer-destination": "目的地を提供します",
+    "optional-address": "オプションのアドレス",
+    "sign-with-xaman": "Xamanでサインします",
+    "items-you-will-receive": "受け取るアイテム",
+    "items-you-will-lose": "あなたが失うことになるアイテム",
+    "accept-offer": "申し出を受け入れます",
+    "offer-details": "詳細を提供します"
   },
   "manage-listing": {
     "title": "私のNFT",
@@ -994,7 +1031,16 @@
     "save": "保存",
     "update-failed": "プッシュ通知設定の更新に失敗しました",
     "update-success": "プッシュ通知設定が正常に更新されました",
-    "offchain-data-not-found": ""
+    "offchain-data-not-found": "",
+    "no-claimed-rewards": "クリアするという報酬はありません",
+    "claimed-rewards-cleared": "報酬がクリアされたと主張した",
+    "clear-claimed": "クリアが主張した",
+    "no-pending-rewards": "保留中の報酬はありません",
+    "delete-all-claimed-rewards": "このアクションは、主張されたすべての報酬をクリアし、元に戻すことはできません。",
+    "clear-all-claimed": "すべての報酬をクリアしますか？",
+    "clear": "クリア",
+    "cancel": "キャンセル",
+    "reward-claimed": "報酬が主張されました！"
   },
   "settings": {
     "language": "言語",
@@ -1133,7 +1179,8 @@
     "world-boss": "世界ボス",
     "world-boss-total-damage": "オールタイムダメージ",
     "zrp-share": "ZRP シェア",
-    "battle": "戦い"
+    "battle": "戦い",
+    "trainer-not-found": "トレーナーが見つかりません"
   },
   "nft-details-popup": {
     "level": "レベル"

@@ -322,7 +322,15 @@
     "no-opponents-found-deck-invalid": "Nessun avversario trovato, assicurati che il tuo mazzo sia impostato correttamente",
     "confirm-forfeit": "Se rinunci, verrà conteggiata come una perdita automatica, sei sicuro?",
     "mp-earned": "MP guadagnati",
-    "token-wars": ""
+    "token-wars": "",
+    "win-rate": "Tasso di vittoria",
+    "zerpmon-ready-to-battle": "",
+    "slot-empty": "Slot vuoto",
+    "season-performance": "Performance della stagione",
+    "buy-ticket-setup-deck": "Acquista un biglietto, imposta un mazzo, battaglia e livello",
+    "purchase-ticket": "Acquista un biglietto",
+    "battle-free": "Combattere per assolutamente gratuito",
+    "no-nfts-required": "Nessun NFTS richiesto"
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -865,7 +873,36 @@
     "xrp-cafe": "XRP Café",
     "tradeverse": "Tradeverse",
     "tradeverse-collections": "Collezioni Tradeverse",
-    "description-tradeverse": "Esplora le diverse collezioni disponibili in Tradeverse"
+    "description-tradeverse": "Esplora le diverse collezioni disponibili in Tradeverse",
+    "trading-marketplace": "Mercato di trading",
+    "trade-description": "Scambia oggetti di gioco con offerte che si adattano a te",
+    "search-user": "Utente di seache",
+    "items-to-recieve": "Articoli da ricevere",
+    "items-to-send": "Articoli da inviare",
+    "offers-to-me": "Offermi",
+    "create-offer": "Crea offerta",
+    "offer-removed": "L'offerta è rimossa con successo, gli articoli in attesa dovrebbero essere inventario",
+    "expires-in": "Scade in",
+    "view": "Visualizzazione",
+    "trade-still-pending": "commercio ancora in sospeso",
+    "no-item-selected": "Nessun articolo selezionato",
+    "invalid-nft-selected": "NFT non valido selezionato",
+    "invalid-amount-selected": "Importo non valido selezionato",
+    "invalid-variant-selected": "Variante non valida selezionata",
+    "amount-greater-than-balance": "L'importo non è maggiore del saldo",
+    "invalid-address": "Indirizzo non valido, nessun utente tale trovato",
+    "expire-time-greater": "Il tempo di scadenza dovrebbe essere superiore a 3 minuti",
+    "create-offer-tx-failed": "Creare transazione di offerta non riuscita",
+    "create-custom-offer": "Crea una nuova offerta commerciale personalizzata",
+    "recieve": "Ricevere",
+    "tradable-items": "Articoli negoziabili",
+    "offer-destination": "Offrire destinazione",
+    "optional-address": "Indirizzo opzionale",
+    "sign-with-xaman": "Firma con Xaman",
+    "items-you-will-receive": "Articoli che riceverai",
+    "items-you-will-lose": "Articoli che perderai",
+    "accept-offer": "Accetta l'offerta",
+    "offer-details": "Offrire dettagli"
   },
   "mint": {
     "days": "giorni",
@@ -894,7 +931,16 @@
     "subscribe-description": "Non sei iscritto alle notifiche push. \nIscriviti per rimanere aggiornato",
     "update-failed": "Impossibile aggiornare le impostazioni delle notifiche push",
     "update-success": "Impostazioni di notifica push aggiornate correttamente",
-    "offchain-data-not-found": ""
+    "offchain-data-not-found": "",
+    "no-claimed-rewards": "Nessun ricompensa richiesto per chiarire",
+    "claimed-rewards-cleared": "Reclamati premi cancellati",
+    "clear-claimed": "Chiaro rivendicato",
+    "no-pending-rewards": "Nessun ricompensa in sospeso",
+    "delete-all-claimed-rewards": "Questa azione cancellerà tutti i premi rivendicati e non può essere annullata.",
+    "clear-all-claimed": "Cancella tutti i premi dichiarati?",
+    "clear": "Chiaro",
+    "cancel": "Cancellare",
+    "reward-claimed": "Ricompensa rivendicata!"
   },
   "safari": {
     "bg": "Zona di battaglia",
@@ -1122,7 +1168,8 @@
     "world-boss": "Boss del mondo",
     "world-boss-total-damage": "Danni di tutti i tempi",
     "zrp-share": "Condivisione ZRP",
-    "battle": "Battaglia"
+    "battle": "Battaglia",
+    "trainer-not-found": "Allenatore non trovato"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaccare",

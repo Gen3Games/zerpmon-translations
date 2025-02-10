@@ -208,7 +208,15 @@
     "no-opponents-found-deck-invalid": "कोई प्रतिद्वंद्वी नहीं मिला, कृपया सुनिश्चित करें कि आपका डेक सही ढंग से सेटअप किया गया है",
     "confirm-forfeit": "यदि आप इसे जब्त कर लेते हैं तो इसे स्वचालित हानि के रूप में गिना जाएगा, क्या आप निश्चित हैं?",
     "mp-earned": "एमपी ने कमाया",
-    "token-wars": ""
+    "token-wars": "",
+    "win-rate": "जीत दर",
+    "zerpmon-ready-to-battle": "",
+    "slot-empty": "स्लॉट खाली",
+    "season-performance": "सीज़न प्रदर्शन",
+    "buy-ticket-setup-deck": "एक टिकट खरीदें, एक डेक, लड़ाई और स्तर को सेट करें",
+    "purchase-ticket": "टिकट खरीदना",
+    "battle-free": "इसे पूरी तरह से मुक्त करने के लिए बाहर लड़ाई",
+    "no-nfts-required": "कोई एनएफटी की आवश्यकता नहीं है"
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
@@ -865,7 +873,36 @@
     "xrp-cafe": "एक्सआरपी कैफे",
     "tradeverse": "ट्रेडवर्स",
     "tradeverse-collections": "ट्रेडवर्स संग्रह",
-    "description-tradeverse": "ट्रेडवर्स में उपलब्ध विभिन्न संग्रहों का अन्वेषण करें"
+    "description-tradeverse": "ट्रेडवर्स में उपलब्ध विभिन्न संग्रहों का अन्वेषण करें",
+    "trading-marketplace": "व्यापार बाज़ार",
+    "trade-description": "ऑफ़र के साथ गेम आइटम में व्यापार करें जो आपको सूट करता है",
+    "search-user": "सीच उपयोगकर्ता",
+    "items-to-recieve": "आइटम को प्राप्त करने के लिए",
+    "items-to-send": "भेजने के लिए आइटम",
+    "offers-to-me": "मुझे प्रदान करता है",
+    "create-offer": "पेशकश का प्रस्ताव",
+    "offer-removed": "सफलतापूर्वक हटाए गए लिस्टिंग की पेशकश करें, होल्ड पर आइटम इन्वेंट्री में होनी चाहिए",
+    "expires-in": "में समाप्त होना",
+    "view": "देखना",
+    "trade-still-pending": "व्यापार अभी भी लंबित है",
+    "no-item-selected": "कोई आइटम चयनित नहीं",
+    "invalid-nft-selected": "अमान्य nft चयनित",
+    "invalid-amount-selected": "अमान्य राशि का चयन",
+    "invalid-variant-selected": "अमान्य संस्करण चयनित",
+    "amount-greater-than-balance": "राशि शेष राशि से अधिक नहीं है",
+    "invalid-address": "अमान्य पता, ऐसा कोई उपयोगकर्ता नहीं मिला",
+    "expire-time-greater": "समाप्त समय 3 मिनट से अधिक होना चाहिए",
+    "create-offer-tx-failed": "ऑफ़र ट्रांजेक्शन बनाएं",
+    "create-custom-offer": "एक नया कस्टम ट्रेड ऑफ़र बनाएं",
+    "recieve": "प्राप्त करें",
+    "tradable-items": "परंपरा योग्य वस्तुएं",
+    "offer-destination": "गंतव्य प्रदान करें",
+    "optional-address": "वैकल्पिक पता",
+    "sign-with-xaman": "XAMAN के साथ साइन इन करें",
+    "items-you-will-receive": "आइटम जो आपको प्राप्त होंगे",
+    "items-you-will-lose": "आइटम जो आप खो देंगे",
+    "accept-offer": "स्वीकार प्रस्ताव",
+    "offer-details": "विवरण प्रदान करें"
   },
   "mint": {
     "days": "दिन",
@@ -894,7 +931,16 @@
     "subscribe-description": "आपने पुश नोटिफिकेशन के लिए सदस्यता नहीं ली है. \nअपडेट रहने के लिए सब्सक्राइब करें",
     "update-failed": "पुश अधिसूचना सेटिंग अपडेट करने में विफल",
     "update-success": "पुश अधिसूचना सेटिंग्स सफलतापूर्वक अपडेट की गईं",
-    "offchain-data-not-found": ""
+    "offchain-data-not-found": "",
+    "no-claimed-rewards": "स्पष्ट करने के लिए कोई दावा नहीं किया गया",
+    "claimed-rewards-cleared": "दावा किया गया पुरस्कार साफ हो गए",
+    "clear-claimed": "स्पष्ट दावा किया",
+    "no-pending-rewards": "कोई लंबित पुरस्कार नहीं",
+    "delete-all-claimed-rewards": "यह कार्रवाई सभी दावा किए गए पुरस्कारों को साफ कर देगी और इसे पूर्ववत नहीं किया जा सकता है।",
+    "clear-all-claimed": "सभी का दावा किया गया पुरस्कार?",
+    "clear": "स्पष्ट",
+    "cancel": "रद्द करना",
+    "reward-claimed": "इनाम का दावा!"
   },
   "safari": {
     "bg": "युद्ध क्षेत्र",
@@ -1122,7 +1168,8 @@
     "world-boss": "विश्व बॉस",
     "world-boss-total-damage": "सर्वकालिक क्षति",
     "zrp-share": "जेआरपी शेयर",
-    "battle": "युद्ध"
+    "battle": "युद्ध",
+    "trainer-not-found": "ट्रेनर नहीं मिला"
   },
   "zerpmon-types-damage-table": {
     "attacking": "हमला",
