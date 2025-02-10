@@ -550,7 +550,12 @@
     "invalid-referral-code": "Codice di riferimento non valido",
     "cannot-refer-self": "Non puoi riferirti",
     "referrer-added": "È stato aggiunto referrer {referrer}",
-    "add-referrer": "Aggiungi come referrer"
+    "add-referrer": "Aggiungi come referrer",
+    "no-of-referrals": "N. di referral",
+    "referred-by": "Indicato da",
+    "no-referrals": "Nessun referral ancora",
+    "add-a-referrer": "Aggiungi un referrer",
+    "referral-code": "Codice di riferimento"
   },
   "forge": {
     "check-claim": "Controlla lo stato del reclamo",
@@ -1158,7 +1163,8 @@
     "enter-amount": "Inserisci l'importo",
     "send": "Inviare",
     "error-signer-not-found": "Firmatario non trovato",
-    "achievements": ""
+    "achievements": "Risultati",
+    "referral-code": "Codice di riferimento"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",

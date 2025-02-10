@@ -137,7 +137,8 @@
     "enter-wallet-address": "Enter Wallet Address",
     "enter-amount": "Enter Amount",
     "send": "Send",
-    "achievements": "Achievements"
+    "achievements": "Achievements",
+    "referral-code": "Referral Code"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",
@@ -156,7 +157,12 @@
     "invalid-referral-code": "Invalid referral code",
     "cannot-refer-self": "You cannot refer yourself",
     "referrer-added": "Referrer {referrer} has been added",
-    "add-referrer": "Add as Referrer"
+    "add-referrer": "Add as Referrer",
+    "no-of-referrals": "No. of Referrals",
+    "referred-by": "Referred By",
+    "no-referrals": "No referrals yet",
+    "add-a-referrer": "Add a referrer",
+    "referral-code": "Referral Code"
   },
   "decks": {
     "title": "Decks",

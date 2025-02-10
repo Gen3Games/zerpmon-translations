@@ -137,7 +137,8 @@
     "enter-amount": "금액 입력",
     "send": "보내다",
     "error-signer-not-found": "서명자를 찾을 수 없음",
-    "achievements": ""
+    "achievements": "업적",
+    "referral-code": "추천 코드"
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",
@@ -156,7 +157,12 @@
     "invalid-referral-code": "잘못된 추천 코드",
     "cannot-refer-self": "당신은 자신을 언급 할 수 없습니다",
     "referrer-added": "참조 자 {referrer}가 추가되었습니다",
-    "add-referrer": "참조자로 추가하십시오"
+    "add-referrer": "참조자로 추가하십시오",
+    "no-of-referrals": "추천 수",
+    "referred-by": "참조",
+    "no-referrals": "아직 의뢰가 없습니다",
+    "add-a-referrer": "참조자를 추가하십시오",
+    "referral-code": "추천 코드"
   },
   "decks": {
     "title": "덱",

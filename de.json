@@ -137,7 +137,8 @@
     "enter-amount": "Geben Sie den Betrag ein",
     "send": "Schicken",
     "error-signer-not-found": "Unterzeichner nicht gefunden",
-    "achievements": ""
+    "achievements": "Erfolge",
+    "referral-code": "Überweisungscode"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",
@@ -156,7 +157,12 @@
     "invalid-referral-code": "Ungültiger Empfehlungscode",
     "cannot-refer-self": "Sie können sich nicht verweisen",
     "referrer-added": "Referrer {Referrer} wurde hinzugefügt",
-    "add-referrer": "Als Empfehler hinzufügen"
+    "add-referrer": "Als Empfehler hinzufügen",
+    "no-of-referrals": "Anzahl der Empfehlungen",
+    "referred-by": "Verwiesen von",
+    "no-referrals": "Noch keine Überweisungen",
+    "add-a-referrer": "Fügen Sie einen Empfehler hinzu",
+    "referral-code": "Überweisungscode"
   },
   "decks": {
     "title": "Decks",

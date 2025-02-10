@@ -550,7 +550,12 @@
     "invalid-referral-code": "Ongeldige verwijzingscode",
     "cannot-refer-self": "Je kunt jezelf niet doorverwijzen",
     "referrer-added": "Verwijzer {referrer} is toegevoegd",
-    "add-referrer": "Toevoegen als verwijzing"
+    "add-referrer": "Toevoegen als verwijzing",
+    "no-of-referrals": "Aantal verwijzingen",
+    "referred-by": "Verwezen door",
+    "no-referrals": "Nog geen verwijzingen",
+    "add-a-referrer": "Voeg een verwijzer toe",
+    "referral-code": "Verwijzingscode"
   },
   "forge": {
     "check-claim": "Controleer de claimstatus",
@@ -1158,7 +1163,8 @@
     "enter-amount": "Voer Bedrag in",
     "send": "Versturen",
     "error-signer-not-found": "Ondertekenaar niet gevonden",
-    "achievements": ""
+    "achievements": "Prestaties",
+    "referral-code": "Verwijzingscode"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",

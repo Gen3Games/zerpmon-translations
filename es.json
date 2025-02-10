@@ -137,7 +137,8 @@
     "enter-amount": "Ingrese el monto",
     "send": "Enviar",
     "error-signer-not-found": "Firmante no encontrado",
-    "achievements": ""
+    "achievements": "Logros",
+    "referral-code": "Código de referencia"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",
@@ -156,7 +157,12 @@
     "invalid-referral-code": "Código de referencia no válido",
     "cannot-refer-self": "No puedes referirte",
     "referrer-added": "Referente {referente} se ha agregado",
-    "add-referrer": "Agregar como referente"
+    "add-referrer": "Agregar como referente",
+    "no-of-referrals": "No. de referencias",
+    "referred-by": "Referido por",
+    "no-referrals": "Todavía no hay referencias",
+    "add-a-referrer": "Agregar un referente",
+    "referral-code": "Código de referencia"
   },
   "decks": {
     "title": "Mazos",

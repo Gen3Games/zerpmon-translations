@@ -465,7 +465,12 @@
     "invalid-referral-code": "Code de référence non valide",
     "cannot-refer-self": "Vous ne pouvez pas vous référer",
     "referrer-added": "REFORRER {referrer} a été ajouté",
-    "add-referrer": "Ajouter en tant que référent"
+    "add-referrer": "Ajouter en tant que référent",
+    "no-of-referrals": "Nombre de références",
+    "referred-by": "Référé par",
+    "no-referrals": "Pas encore de références",
+    "add-a-referrer": "Ajouter un référent",
+    "referral-code": "Code de référence"
   },
   "home": {
     "analytics": "Analytique",
@@ -1029,7 +1034,8 @@
     "enter-amount": "Entrez le montant",
     "send": "Envoyer",
     "error-signer-not-found": "Signataire introuvable",
-    "achievements": ""
+    "achievements": "Réalisations",
+    "referral-code": "Code de référence"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

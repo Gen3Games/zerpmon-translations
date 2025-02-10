@@ -137,7 +137,8 @@
     "enter-amount": "金額を入力してください",
     "send": "送信",
     "error-signer-not-found": "署名者が見つかりません",
-    "achievements": ""
+    "achievements": "成果",
+    "referral-code": "紹介コード"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",
@@ -156,7 +157,12 @@
     "invalid-referral-code": "無効な紹介コード",
     "cannot-refer-self": "あなたは自分自身を紹介することはできません",
     "referrer-added": "REFERRER {referrer}が追加されました",
-    "add-referrer": "リファラーとして追加します"
+    "add-referrer": "リファラーとして追加します",
+    "no-of-referrals": "紹介数",
+    "referred-by": "紹介",
+    "no-referrals": "紹介はまだありません",
+    "add-a-referrer": "リファラーを追加します",
+    "referral-code": "紹介コード"
   },
   "decks": {
     "title": "プレイヤーデッキ",

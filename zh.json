@@ -137,7 +137,8 @@
     "enter-amount": "输入金额",
     "send": "发送",
     "error-signer-not-found": "未找到签名者",
-    "achievements": ""
+    "achievements": "成就",
+    "referral-code": "推荐代码"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",
@@ -156,7 +157,12 @@
     "invalid-referral-code": "无效的推荐代码",
     "cannot-refer-self": "你不能引用自己",
     "referrer-added": "已添加了推荐人{referrer}",
-    "add-referrer": "添加为推荐人"
+    "add-referrer": "添加为推荐人",
+    "no-of-referrals": "推荐数",
+    "referred-by": "提到",
+    "no-referrals": "还没有推荐",
+    "add-a-referrer": "添加推荐人",
+    "referral-code": "推荐代码"
   },
   "decks": {
     "title": "牌組",

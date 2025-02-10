@@ -550,7 +550,12 @@
     "invalid-referral-code": "अमान्य रेफरल कोड",
     "cannot-refer-self": "आप खुद को संदर्भित नहीं कर सकते",
     "referrer-added": "Refectrer {refecrer} जोड़ा गया है",
-    "add-referrer": "रेफ़रर के रूप में जोड़ें"
+    "add-referrer": "रेफ़रर के रूप में जोड़ें",
+    "no-of-referrals": "रेफरल की संख्या",
+    "referred-by": "द्वारा उल्लिखित",
+    "no-referrals": "अभी तक कोई रेफरल नहीं",
+    "add-a-referrer": "एक रेफ़रर जोड़ें",
+    "referral-code": "रेफरल कोड"
   },
   "forge": {
     "check-claim": "दावे की स्थिति जांचें",
@@ -1158,7 +1163,8 @@
     "enter-amount": "राशि डालें",
     "send": "भेजना",
     "error-signer-not-found": "हस्ताक्षरकर्ता नहीं मिला",
-    "achievements": ""
+    "achievements": "उपलब्धियों",
+    "referral-code": "रेफरल कोड"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",

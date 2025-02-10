@@ -550,7 +550,12 @@
     "invalid-referral-code": "رمز الإحالة غير صالح",
     "cannot-refer-self": "لا يمكنك إحالة نفسك",
     "referrer-added": "تمت إضافة المرجع {المرجع}",
-    "add-referrer": "إضافة كمرجع"
+    "add-referrer": "إضافة كمرجع",
+    "no-of-referrals": "عدد الإحالات",
+    "referred-by": "المشار إليها",
+    "no-referrals": "لا إحالات حتى الآن",
+    "add-a-referrer": "إضافة إحالة",
+    "referral-code": "رمز الإحالة"
   },
   "forge": {
     "check-claim": "التحقق من حالة المطالبة",
@@ -1313,7 +1318,8 @@
     "enter-amount": "أدخل المبلغ",
     "send": "يرسل",
     "error-signer-not-found": "لم يتم العثور على المُوقع",
-    "achievements": ""
+    "achievements": "الإنجازات",
+    "referral-code": "رمز الإحالة"
   },
   "wallet": {
     "address-copied": "تم نسخ العنوان",
