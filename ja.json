@@ -138,7 +138,9 @@
     "send": "送信",
     "error-signer-not-found": "署名者が見つかりません",
     "achievements": "成果",
-    "referral-code": "紹介コード"
+    "referral-code": "紹介コード",
+    "cannot-unlink-primary-wallet": "プライマリウォレットをリンクできません",
+    "user-not-found": "ユーザーが見つかりません"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",
@@ -282,7 +284,13 @@
     "memecoin-tourney-link": "ミームコイントーナメントリンク",
     "cannot-mix-onchain-and-offchain-nft": "オンチェーンとオフチェーンのNFTを混ぜ合わせることは出来ません",
     "offchain-nfts-not-allwed": "オフチェーンのNFTは使用出来ません",
-    "clear-mission-deck": "ミッションデッキを消去する"
+    "clear-mission-deck": "ミッションデッキを消去する",
+    "back": "戻る",
+    "trainer-slot": "トレーナースロット",
+    "zerpmon-slot": "Zerpmonスロット",
+    "bench-zerpmon-slot": "ベンチZerpmonスロット",
+    "not-logged-in": "ログインしていません",
+    "select-zerpmon-first": "最初にZerpmonを選択してください"
   },
   "store": {
     "title": "ショップ",
@@ -321,7 +329,7 @@
     "evolution-completed": "進化完了",
     "ascend": "昇る",
     "payment-from-zerpwallet-volatile": "支払いはザープウォレット ({amount}) {finalAmount} から引き落とされます (最後に確認された時点で、一定期間受け入れられない場合は変更される可能性があります)",
-    "special-store": ""
+    "special-store": "特別店"
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",
@@ -407,8 +415,8 @@
     "gym-points-short": "GP",
     "gym-tier": "階層",
     "mp": "マスタリーポイント",
-    "player-count": "",
-    "player-count-short": ""
+    "player-count": "プレイヤーカウント",
+    "player-count-short": "P.カウント"
   },
   "analytics": {
     "analytics": "分析",
@@ -490,7 +498,7 @@
     "gold-candy-buff-info": "ザープモンのゴールドアタックのダメージを ({percent}%) 増加させます",
     "purple-candy-buff-info": "ザープモンの紫アビリティの星を(星1つ)増やす",
     "used-lvl-candy": "{zerpmonName} で {candyName} を正常に使用しました。\nレベル {lvl} になりました!",
-    "offchain-candy-on-onchain-zerpmon": ""
+    "offchain-candy-on-onchain-zerpmon": "Onchain Zerpmonでは、非取引可能なキャンディーを使用することはできません"
   },
   "safari": {
     "title": "サファリ",
@@ -763,13 +771,14 @@
     "mp-earned": "獲得MP",
     "token-wars": "",
     "win-rate": "勝利率",
-    "zerpmon-ready-to-battle": "",
+    "zerpmon-ready-to-battle": "Zerpmonは戦う準備ができています",
     "slot-empty": "スロットが空です",
     "season-performance": "シーズンパフォーマンス",
     "buy-ticket-setup-deck": "チケットを購入し、デッキのセットアップ、戦い、レベルアップ",
     "purchase-ticket": "チケットを購入します",
     "battle-free": "絶対に無料で戦います",
-    "no-nfts-required": "NFTは必要ありません"
+    "no-nfts-required": "NFTは必要ありません",
+    "offchain-nfts-not-allwed": "オフチェーンNFTは許可されていません"
   },
   "test": {
     "test": "これはテストです"
@@ -897,7 +906,14 @@
     "items-you-will-receive": "受け取るアイテム",
     "items-you-will-lose": "あなたが失うことになるアイテム",
     "accept-offer": "申し出を受け入れます",
-    "offer-details": "詳細を提供します"
+    "offer-details": "詳細を提供します",
+    "not-signed-in": "サインインしていません",
+    "failed-to-fetch-sell-offer": "販売オファーの取得に失敗しました",
+    "expire-ts-too-high": "期限切れは高すぎます",
+    "expire-ts-too-low": "期限切れは低すぎます",
+    "offer-already-accepted": "オファーはすでに受け入れられています",
+    "trade-offer-missing": "貿易オファーは利用できません",
+    "trade-offer-restricted": "貿易オファーは制限されています"
   },
   "manage-listing": {
     "title": "私のNFT",
@@ -960,7 +976,9 @@
     "accepted-by": "承認者",
     "loan-duration": "融資期間 : {days} 日",
     "loan-price": "ローン価格 : 1 日あたり {price} ZRP",
-    "loan-expires-in": "ローンの有効期限: {days} 日"
+    "loan-expires-in": "ローンの有効期限: {days} 日",
+    "not-signed-in": "サインインしていません",
+    "no-loan-listed": "ローンはリストされていません"
   },
   "create-listing": {
     "not-signed-in": "ログインしていない",
@@ -1037,7 +1055,7 @@
     "save": "保存",
     "update-failed": "プッシュ通知設定の更新に失敗しました",
     "update-success": "プッシュ通知設定が正常に更新されました",
-    "offchain-data-not-found": "",
+    "offchain-data-not-found": "オフチェーンデータがありません、オフシェインモードに一度アクセスしたことを確認してください",
     "no-claimed-rewards": "クリアするという報酬はありません",
     "claimed-rewards-cleared": "報酬がクリアされたと主張した",
     "clear-claimed": "クリアが主張した",
@@ -1428,8 +1446,8 @@
     "trn-not-connected": "ルート ネットワーク API が接続されていないか、まだ準備ができていません。",
     "invalid-amount-deposit": "入金額が無効です。最低入金額は0.001 XRP/ZRPです。",
     "bridge-notice": "The Root Network からザープウォレットへの資金の入金にはブリッジが使用されます。ブリッジングには時間がかかり、料金もかかります。",
-    "daily-withdrawal-limit-reached": "",
-    "user-not-active": "",
+    "daily-withdrawal-limit-reached": "毎日の離脱制限が到達しました（{Limitamount}）。",
+    "user-not-active": "非アクティブアカウントの撤回は許可されていません。",
     "trust-line-established": "トラストラインの設立",
     "checking-trust-line": "トラストラインの確認",
     "trust-line-required": "トラストラインが必要です",
@@ -1440,7 +1458,7 @@
     "trust-line-set-success": "TrustLine が正常に設定されました",
     "payment-tx-failed": "支払いトランザクションが失敗しました",
     "sign-with-xaman": "ザマンと署名する",
-    "error-signer-not-found": "",
+    "error-signer-not-found": "署名者が見つかりません",
     "source": "ソース"
   },
   "pre-signing": {

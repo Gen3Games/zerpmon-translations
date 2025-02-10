@@ -138,7 +138,9 @@
     "send": "发送",
     "error-signer-not-found": "未找到签名者",
     "achievements": "成就",
-    "referral-code": "推荐代码"
+    "referral-code": "推荐代码",
+    "cannot-unlink-primary-wallet": "无法解开主钱包",
+    "user-not-found": "找不到用户"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",
@@ -278,11 +280,17 @@
     "add-boss-deck": "添加世界Boss套牌",
     "rename-boss-deck": "重命名世界Boss套牌",
     "clear-boss-deck": "清除世界 Boss 套牌",
-    "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": "",
-    "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": "",
-    "clear-mission-deck": ""
+    "no-memecoin-team-joined-error": "您尚未加入任何Memecoin Tourney团队。\n选择一个继续！",
+    "memecoin-tourney-link": "单击此处查看可用团队",
+    "cannot-mix-onchain-and-offchain-nft": "不能混合OnChain和Offchain NFTS",
+    "offchain-nfts-not-allwed": "不允许的链链NFT",
+    "clear-mission-deck": "清除任务甲板",
+    "back": "后退",
+    "trainer-slot": "教练插槽",
+    "zerpmon-slot": "zerpmon插槽",
+    "bench-zerpmon-slot": "板凳zerpmon插槽",
+    "not-logged-in": "未登录",
+    "select-zerpmon-first": "请先选择zerpmon"
   },
   "store": {
     "title": "商店",
@@ -321,7 +329,7 @@
     "evolution-completed": "进化完成",
     "ascend": "登高",
     "payment-from-zerpwallet-volatile": "付款将从您的 ZerpWallet ({amount}) {finalAmount} 中扣除（最后检查的时刻，如果一段时间内未接受，可能会发生变化）",
-    "special-store": ""
+    "special-store": "特殊商店"
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",
@@ -407,8 +415,8 @@
     "gym-points-short": "GP",
     "gym-tier": "层",
     "mp": "精通点数",
-    "player-count": "",
-    "player-count-short": ""
+    "player-count": "播放器计数",
+    "player-count-short": "P.计数"
   },
   "analytics": {
     "analytics": "分析",
@@ -490,7 +498,7 @@
     "gold-candy-buff-info": "泽拉普兽的黄金攻击力增加 ({percent}%)",
     "purple-candy-buff-info": "泽拉普兽紫色能力星数增加（1星）",
     "used-lvl-candy": "您已在 {zerpmonName} 上成功使用了 {candyName}。\n现在是{lvl}级！",
-    "offchain-candy-on-onchain-zerpmon": ""
+    "offchain-candy-on-onchain-zerpmon": "不可交易的糖果不能用于OnChain Zerpmon"
   },
   "safari": {
     "title": "Safari探险",
@@ -763,13 +771,14 @@
     "mp-earned": "获得 MP",
     "token-wars": "",
     "win-rate": "获胜率",
-    "zerpmon-ready-to-battle": "",
+    "zerpmon-ready-to-battle": "Zerpmon准备战斗",
     "slot-empty": "插槽空",
     "season-performance": "季节表现",
     "buy-ticket-setup-deck": "购买票，设置甲板，战斗和升级",
     "purchase-ticket": "购买票",
     "battle-free": "绝对自由地战斗",
-    "no-nfts-required": "无需NFT"
+    "no-nfts-required": "无需NFT",
+    "offchain-nfts-not-allwed": "不允许的链链NFT"
   },
   "test": {
     "test": "这是个测试"
@@ -897,7 +906,14 @@
     "items-you-will-receive": "您将收到的物品",
     "items-you-will-lose": "你会丢失的物品",
     "accept-offer": "接受要约",
-    "offer-details": "提供详细信息"
+    "offer-details": "提供详细信息",
+    "not-signed-in": "未签名",
+    "failed-to-fetch-sell-offer": "未能获取报价",
+    "expire-ts-too-high": "到期时间太高",
+    "expire-ts-too-low": "到期时间太低",
+    "offer-already-accepted": "报价已经被接受",
+    "trade-offer-missing": "贸易优惠不可用",
+    "trade-offer-restricted": "贸易要约受限制"
   },
   "manage-listing": {
     "title": "我的 NFTs",
@@ -960,7 +976,9 @@
     "accepted-by": "接受者",
     "loan-duration": "贷款期限：{days} 天",
     "loan-price": "贷款价格：每天 {price} ZRP",
-    "loan-expires-in": "贷款到期时间：{days} 天"
+    "loan-expires-in": "贷款到期时间：{days} 天",
+    "not-signed-in": "未签名",
+    "no-loan-listed": "未列出贷款"
   },
   "create-listing": {
     "not-signed-in": "未登录",
@@ -1037,7 +1055,7 @@
     "save": "节省",
     "update-failed": "无法更新推送通知设置",
     "update-success": "推送通知设置已成功更新",
-    "offchain-data-not-found": "",
+    "offchain-data-not-found": "缺少链链数据，请确保您访问了一次脱链模式",
     "no-claimed-rewards": "没有声称的奖励可以清除",
     "claimed-rewards-cleared": "声称奖励已清除",
     "clear-claimed": "明确要求",
@@ -1428,8 +1446,8 @@
     "trn-not-connected": "根网络 API 未连接或尚未准备好",
     "invalid-amount-deposit": "存款金额无效。\n最低充值金额为 0.001 XRP/ZRP。",
     "bridge-notice": "使用桥将资金从 The Root Network 存入 ZerpWallet。\n桥接需要时间并产生费用。",
-    "daily-withdrawal-limit-reached": "",
-    "user-not-active": "",
+    "daily-withdrawal-limit-reached": "达到每日提款限制（{limitamount}）。",
+    "user-not-active": "不允许提取账户。",
     "trust-line-established": "信托热线成立",
     "checking-trust-line": "检查信任线",
     "trust-line-required": "需要信任热线",
@@ -1440,7 +1458,7 @@
     "trust-line-set-success": "TrustLine 设置成功",
     "payment-tx-failed": "支付交易失败",
     "sign-with-xaman": "与 Xaman 签约",
-    "error-signer-not-found": "",
+    "error-signer-not-found": "找不到签名者",
     "source": "来源"
   },
   "pre-signing": {
@@ -1537,7 +1555,7 @@
     "select-zerpmon-trainer": "恭喜您完成本教程！\n作为奖励选择 3 只泽拉普兽和 1 名训练家",
     "claim": "宣称",
     "untradeble-nfts-note": "这些将是不可交易的链下资产，使您能够以离线版本玩游戏。",
-    "equipments": "",
+    "equipments": "设备",
     "tutorial-part-1": "教程 - 第 1 部分",
     "tutorial-part-1-content": "欢迎来到 Zerpmon 教程的第 1 部分。\n在这里，您将学习查看网络应用程序，对您的 Zerpmon 应用增益并能够查看统计数据。",
     "tutorial-part-2": "教程 - 第 2 部分",

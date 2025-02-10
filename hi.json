@@ -210,13 +210,14 @@
     "mp-earned": "एमपी ने कमाया",
     "token-wars": "",
     "win-rate": "जीत दर",
-    "zerpmon-ready-to-battle": "",
+    "zerpmon-ready-to-battle": "Zerpmon लड़ाई के लिए तैयार है",
     "slot-empty": "स्लॉट खाली",
     "season-performance": "सीज़न प्रदर्शन",
     "buy-ticket-setup-deck": "एक टिकट खरीदें, एक डेक, लड़ाई और स्तर को सेट करें",
     "purchase-ticket": "टिकट खरीदना",
     "battle-free": "इसे पूरी तरह से मुक्त करने के लिए बाहर लड़ाई",
-    "no-nfts-required": "कोई एनएफटी की आवश्यकता नहीं है"
+    "no-nfts-required": "कोई एनएफटी की आवश्यकता नहीं है",
+    "offchain-nfts-not-allwed": "ऑफचेन एनएफटी की अनुमति नहीं है"
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
@@ -527,11 +528,17 @@
     "add-boss-deck": "वर्ल्ड बॉस डेक जोड़ें",
     "rename-boss-deck": "वर्ल्ड बॉस डेक का नाम बदलें",
     "clear-boss-deck": "क्लियर वर्ल्ड बॉस डेक",
-    "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": "",
-    "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": "",
-    "clear-mission-deck": ""
+    "no-memecoin-team-joined-error": "आपने अभी तक किसी भी मेमेकोइन टूरनी टीम में शामिल नहीं हुए हैं। \nजारी रखने के लिए एक का चयन करें!",
+    "memecoin-tourney-link": "उपलब्ध टीमों को देखने के लिए यहां क्लिक करें",
+    "cannot-mix-onchain-and-offchain-nft": "Onchain और ऑफचेन NFTs को मिला नहीं सकते",
+    "offchain-nfts-not-allwed": "ऑफचेन एनएफटी की अनुमति नहीं है",
+    "clear-mission-deck": "स्पष्ट मिशन डेक",
+    "back": "पीछे",
+    "trainer-slot": "ट्रेनर स्लॉट",
+    "zerpmon-slot": "ज़ीरपोन स्लॉट",
+    "bench-zerpmon-slot": "बेंच ज़ेरपोन स्लॉट",
+    "not-logged-in": "अंदर प्रवेश की अनुमति नहीं है",
+    "select-zerpmon-first": "कृपया पहले एक Zerpmon चुनें"
   },
   "edit-profile": {
     "basic-info": "बुनियादी जानकारी",
@@ -682,7 +689,7 @@
     "gold-candy-buff-info": "ज़ेरपमोन के गोल्ड अटैक क्षति को ({प्रतिशत}%) बढ़ाएँ",
     "purple-candy-buff-info": "ज़ेरपमोन के पर्पल एबिलिटी स्टार्स को (1 स्टार) बढ़ाएँ",
     "used-lvl-candy": "आपने {zerpmonName} पर {candyName} का सफलतापूर्वक उपयोग किया है। \nयह अब स्तर {lvl} है!",
-    "offchain-candy-on-onchain-zerpmon": ""
+    "offchain-candy-on-onchain-zerpmon": "गैर -पारंपरिक कैंडीज का उपयोग onchain zerpmon पर नहीं किया जा सकता है"
   },
   "leaderboard-table": {
     "close": "बंद करना",
@@ -719,8 +726,8 @@
     "zerpmon-not-set": "ज़र्पमोन",
     "zerpmons": "ज़र्पमोन",
     "mp": "महारत अंक",
-    "player-count": "",
-    "player-count-short": ""
+    "player-count": "खिलाड़ी गिनती",
+    "player-count-short": "पी। गिनती"
   },
   "leaderboard": {
     "dropdown-mission": "सर्वकालिक मिशन",
@@ -804,7 +811,9 @@
     "accepted-by": "द्वारा स्वीकार किया गया",
     "loan-duration": "ऋण अवधि: {दिन} दिन",
     "loan-price": "ऋण मूल्य : {कीमत} ZRP प्रति दिन",
-    "loan-expires-in": "ऋण की समाप्ति तिथि : {दिन} दिन है"
+    "loan-expires-in": "ऋण की समाप्ति तिथि : {दिन} दिन है",
+    "not-signed-in": "प्रवेश नहीं किया",
+    "no-loan-listed": "कोई ऋण सूचीबद्ध नहीं"
   },
   "marketplace": {
     "accept-loan": "ऋृण",
@@ -907,7 +916,14 @@
     "items-you-will-receive": "आइटम जो आपको प्राप्त होंगे",
     "items-you-will-lose": "आइटम जो आप खो देंगे",
     "accept-offer": "स्वीकार प्रस्ताव",
-    "offer-details": "विवरण प्रदान करें"
+    "offer-details": "विवरण प्रदान करें",
+    "not-signed-in": "प्रवेश नहीं किया",
+    "failed-to-fetch-sell-offer": "बेचने की पेशकश लाने में विफल",
+    "expire-ts-too-high": "समय समाप्त होने का समय बहुत अधिक है",
+    "expire-ts-too-low": "समय समाप्त होने का समय बहुत कम है",
+    "offer-already-accepted": "प्रस्ताव पहले से ही स्वीकार कर लिया गया है",
+    "trade-offer-missing": "व्यापार प्रस्ताव उपलब्ध नहीं है",
+    "trade-offer-restricted": "व्यापार प्रस्ताव प्रतिबंधित है"
   },
   "mint": {
     "days": "दिन",
@@ -936,7 +952,7 @@
     "subscribe-description": "आपने पुश नोटिफिकेशन के लिए सदस्यता नहीं ली है. \nअपडेट रहने के लिए सब्सक्राइब करें",
     "update-failed": "पुश अधिसूचना सेटिंग अपडेट करने में विफल",
     "update-success": "पुश अधिसूचना सेटिंग्स सफलतापूर्वक अपडेट की गईं",
-    "offchain-data-not-found": "",
+    "offchain-data-not-found": "ऑफचेन डेटा गायब है, सुनिश्चित करें कि आपने एक बार ऑफचेन मोड का दौरा किया है",
     "no-claimed-rewards": "स्पष्ट करने के लिए कोई दावा नहीं किया गया",
     "claimed-rewards-cleared": "दावा किया गया पुरस्कार साफ हो गए",
     "clear-claimed": "स्पष्ट दावा किया",
@@ -1114,7 +1130,7 @@
     "evolution-completed": "विकास पूरा हुआ",
     "ascend": "Ascend",
     "payment-from-zerpwallet-volatile": "भुगतान आपके ZerpWallet ({राशि}) {अंतिम राशि} से लिया जाएगा (अंतिम जांच के समय, यदि कुछ समय तक स्वीकार नहीं किया गया तो बदल सकता है)",
-    "special-store": ""
+    "special-store": "विशेष भंडार"
   },
   "test": {
     "test": "यह टेस्ट है"
@@ -1164,7 +1180,9 @@
     "send": "भेजना",
     "error-signer-not-found": "हस्ताक्षरकर्ता नहीं मिला",
     "achievements": "उपलब्धियों",
-    "referral-code": "रेफरल कोड"
+    "referral-code": "रेफरल कोड",
+    "cannot-unlink-primary-wallet": "प्राथमिक वॉलेट को अनलिंक नहीं कर सकते",
+    "user-not-found": "उपयोगकर्ता नहीं मिला"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",
@@ -1428,8 +1446,8 @@
     "trn-not-connected": "रूट नेटवर्क एपीआई या तो कनेक्ट नहीं है या अभी तक तैयार नहीं है",
     "invalid-amount-deposit": "अमान्य जमा राशि. न्यूनतम जमा राशि 0.001 XRP/ZRP है।",
     "bridge-notice": "रूट नेटवर्क से ZerpWallet में धनराशि जमा करने के लिए एक ब्रिज का उपयोग किया जाता है। ब्रिजिंग में समय लगता है और शुल्क भी लगता है।",
-    "daily-withdrawal-limit-reached": "",
-    "user-not-active": "",
+    "daily-withdrawal-limit-reached": "दैनिक निकासी की सीमा तक पहुंच गई ({limeAmount})।",
+    "user-not-active": "निष्क्रिय खातों के लिए निकासी की अनुमति नहीं है।",
     "trust-line-established": "ट्रस्टलाइन की स्थापना",
     "checking-trust-line": "ट्रस्टलाइन की जाँच करना",
     "trust-line-required": "ट्रस्टलाइन आवश्यक",
@@ -1440,7 +1458,7 @@
     "trust-line-set-success": "ट्रस्टलाइन सफलतापूर्वक सेट हो गई",
     "payment-tx-failed": "भुगतान लेनदेन विफल",
     "sign-with-xaman": "ज़मान के साथ हस्ताक्षर करें",
-    "error-signer-not-found": "",
+    "error-signer-not-found": "हस्ताक्षरकर्ता नहीं मिला",
     "source": "स्रोत"
   },
   "pre-signing": {
@@ -1537,7 +1555,7 @@
     "select-zerpmon-trainer": "ट्यूटोरियल पूरा करने पर बधाई! \nपुरस्कार के रूप में 3 ज़र्पमोन और 1 ट्रेनर का चयन करें",
     "claim": "दावा",
     "untradeble-nfts-note": "ये अप्राप्य, ऑफ-चेन संपत्तियां होंगी जो आपको ऑफ़लाइन संस्करण में गेम खेलने में सक्षम बनाती हैं।",
-    "equipments": "",
+    "equipments": "उपकरणों",
     "tutorial-part-1": "ट्यूटोरियल - भाग 1",
     "tutorial-part-1-content": "ज़र्पमोन ट्यूटोरियल के भाग 1 में आपका स्वागत है। \nयहां आप वेबएप के चारों ओर देखना सीखेंगे, अपने ज़र्पमोन पर बफ़्स लागू करना सीखेंगे और आँकड़े देखने में सक्षम होंगे।",
     "tutorial-part-2": "ट्यूटोरियल - भाग 2",

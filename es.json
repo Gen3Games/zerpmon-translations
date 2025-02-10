@@ -138,7 +138,9 @@
     "send": "Enviar",
     "error-signer-not-found": "Firmante no encontrado",
     "achievements": "Logros",
-    "referral-code": "Código de referencia"
+    "referral-code": "Código de referencia",
+    "cannot-unlink-primary-wallet": "No se puede desactivar la billetera primaria",
+    "user-not-found": "Usuario no encontrado"
   },
   "edit-profile": {
     "view-public-profile": "Ver Perfil Público",
@@ -278,11 +280,17 @@
     "add-boss-deck": "Agregar mazo de jefe mundial",
     "rename-boss-deck": "Cambiar el nombre del mazo de jefe mundial",
     "clear-boss-deck": "Limpiar el mazo del jefe mundial",
-    "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": "",
-    "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": "",
-    "clear-mission-deck": ""
+    "no-memecoin-team-joined-error": "Todavía no te has unido a ningún equipo de Torney de Memecoin. \n¡Seleccione uno para continuar!",
+    "memecoin-tourney-link": "Haga clic aquí para ver los equipos disponibles",
+    "cannot-mix-onchain-and-offchain-nft": "No se puede mezclar Onchain y Offchin NFTS",
+    "offchain-nfts-not-allwed": "No se permiten NFTS de cadena",
+    "clear-mission-deck": "Mazo de misión claro",
+    "back": "Atrás",
+    "trainer-slot": "Ranura para entrenador",
+    "zerpmon-slot": "Ranura zerpmon",
+    "bench-zerpmon-slot": "Banca de la ranura Zerpmon",
+    "not-logged-in": "No iniciado sesión",
+    "select-zerpmon-first": "Seleccione primero un Zerpmon"
   },
   "store": {
     "title": "Tienda",
@@ -321,7 +329,7 @@
     "evolution-completed": "Evolución completada",
     "ascend": "Ascender",
     "payment-from-zerpwallet-volatile": "El pago se cobrará de su ZerpWallet ({amount}) {finalAmount} (en el último momento verificado, podría cambiar si no se acepta por un período de tiempo)",
-    "special-store": ""
+    "special-store": "Tienda especial"
   },
   "home": {
     "catch-your-zerpmon-now": "¡Atrapa tu Zerpmon ahora!",
@@ -407,8 +415,8 @@
     "gym-points-short": "médico de cabecera",
     "gym-tier": "Nivel",
     "mp": "Puntos de maestría",
-    "player-count": "",
-    "player-count-short": ""
+    "player-count": "Recuento de jugadores",
+    "player-count-short": "P."
   },
   "analytics": {
     "analytics": "Análisis",
@@ -490,7 +498,7 @@
     "gold-candy-buff-info": "Aumenta el daño del ataque dorado de Zerpmon en un ({percent}%)",
     "purple-candy-buff-info": "Aumentar las estrellas de habilidad púrpura de Zerpmon en (1 estrella)",
     "used-lvl-candy": "Has utilizado {candyName} con éxito en {zerpmonName}. \n¡Ahora es el nivel {lvl}!",
-    "offchain-candy-on-onchain-zerpmon": ""
+    "offchain-candy-on-onchain-zerpmon": "Los dulces no comerciables no se pueden usar en Onchain Zerpmon"
   },
   "safari": {
     "title": "Safari",
@@ -763,13 +771,14 @@
     "mp-earned": "MP ganado",
     "token-wars": "",
     "win-rate": "Tasa de ganancia",
-    "zerpmon-ready-to-battle": "",
+    "zerpmon-ready-to-battle": "Zerpmon listo para luchar",
     "slot-empty": "Ranura vacía",
     "season-performance": "Rendimiento de la temporada",
     "buy-ticket-setup-deck": "Comprar un boleto, configurar un mazo, batalla y nivelar",
     "purchase-ticket": "Comprar un boleto",
     "battle-free": "Luchar por completo",
-    "no-nfts-required": "No se requieren NFTS"
+    "no-nfts-required": "No se requieren NFTS",
+    "offchain-nfts-not-allwed": "No se permiten NFTS de cadena"
   },
   "test": {
     "test": "esto es un test"
@@ -897,7 +906,14 @@
     "items-you-will-receive": "Artículos que recibirás",
     "items-you-will-lose": "Artículos que perderás",
     "accept-offer": "Aceptar oferta",
-    "offer-details": "Detalles de la oferta"
+    "offer-details": "Detalles de la oferta",
+    "not-signed-in": "No firmado en",
+    "failed-to-fetch-sell-offer": "No logró obtener una oferta de venta",
+    "expire-ts-too-high": "El tiempo de caducidad es demasiado alto",
+    "expire-ts-too-low": "El tiempo de caducidad es demasiado bajo",
+    "offer-already-accepted": "La oferta ya es aceptada",
+    "trade-offer-missing": "La oferta comercial no está disponible",
+    "trade-offer-restricted": "La oferta comercial está restringida"
   },
   "manage-listing": {
     "title": "Mis NFT",
@@ -960,7 +976,9 @@
     "accepted-by": "Aceptado por",
     "loan-duration": "Duración del préstamo: {days} días",
     "loan-price": "Precio del préstamo: {price} ZRP por día",
-    "loan-expires-in": "El préstamo vence en: {days} días"
+    "loan-expires-in": "El préstamo vence en: {days} días",
+    "not-signed-in": "No firmado en",
+    "no-loan-listed": "No hay préstamo en la lista"
   },
   "create-listing": {
     "not-signed-in": "Sin iniciar sesión",
@@ -1037,7 +1055,7 @@
     "save": "Ahorrar",
     "update-failed": "No se pudo actualizar la configuración de notificaciones push",
     "update-success": "Configuración de notificaciones push actualizada correctamente",
-    "offchain-data-not-found": "",
+    "offchain-data-not-found": "Falta los datos de la cadena, asegúrese de haber visitado el modo Offchain una vez",
     "no-claimed-rewards": "No hay recompensas reclamadas para borrar",
     "claimed-rewards-cleared": "Reclamadas recompensas aclaradas",
     "clear-claimed": "Claro reclamado",
@@ -1428,8 +1446,8 @@
     "trn-not-connected": "La API de Root Network no está conectada o aún no está lista",
     "invalid-amount-deposit": "Monto de depósito no válido. El monto mínimo de depósito es 0,001 XRP/ZRP.",
     "bridge-notice": "El depósito de fondos de The Root Network a ZerpWallet utiliza un puente. El puente lleva tiempo e incurre en una tarifa.",
-    "daily-withdrawal-limit-reached": "",
-    "user-not-active": "",
+    "daily-withdrawal-limit-reached": "Límite de retiro diario alcanzado ({Limitamount}).",
+    "user-not-active": "Retiros no permitidos para cuentas inactivas.",
     "trust-line-established": "TrustLine establecida",
     "checking-trust-line": "Comprobando TrustLine",
     "trust-line-required": "Se requiere línea de confianza",
@@ -1440,7 +1458,7 @@
     "trust-line-set-success": "TrustLine se configuró correctamente",
     "payment-tx-failed": "La transacción de pago falló",
     "sign-with-xaman": "firmar con xaman",
-    "error-signer-not-found": "",
+    "error-signer-not-found": "Firmante no encontrado",
     "source": "Fuente"
   },
   "pre-signing": {

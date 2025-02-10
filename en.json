@@ -138,7 +138,9 @@
     "enter-amount": "Enter Amount",
     "send": "Send",
     "achievements": "Achievements",
-    "referral-code": "Referral Code"
+    "referral-code": "Referral Code",
+    "cannot-unlink-primary-wallet": "Cannot unlink primary wallet",
+    "user-not-found": "User not found"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",
@@ -282,7 +284,13 @@
     "memecoin-tourney-link": "Click here to view available teams",
     "cannot-mix-onchain-and-offchain-nft": "Cannot mix Onchain and Offchain NFTs",
     "offchain-nfts-not-allwed": "Offchain NFTs not allowed",
-    "clear-mission-deck": "Clear Mission Deck"
+    "clear-mission-deck": "Clear Mission Deck",
+    "back": "Back",
+    "trainer-slot": "Trainer Slot",
+    "zerpmon-slot": "Zerpmon Slot",
+    "bench-zerpmon-slot": "Bench Zerpmon Slot",
+    "not-logged-in": "Not logged in",
+    "select-zerpmon-first": "Please select a zerpmon first"
   },
   "store": {
     "title": "Store",
@@ -769,7 +777,8 @@
     "buy-ticket-setup-deck": "Buy a Ticket, Setup a Deck, Battle and Level Up",
     "purchase-ticket": "Purchase a Ticket",
     "battle-free": "Battle it out for absolutely free",
-    "no-nfts-required": "No nfts required"
+    "no-nfts-required": "No nfts required",
+    "offchain-nfts-not-allwed": "Offchain NFTs not allowed"
   },
   "test": {
     "test": "this is a test"
@@ -897,7 +906,14 @@
     "items-you-will-receive": "Items that you will receive",
     "items-you-will-lose": "Items that you will lose",
     "accept-offer": "Accept offer",
-    "offer-details": "Offer details"
+    "offer-details": "Offer details",
+    "not-signed-in": "Not signed in",
+    "failed-to-fetch-sell-offer": "Failed to fetch sell offer",
+    "expire-ts-too-high": "Expire time is too high",
+    "expire-ts-too-low": "Expire time is too low",
+    "offer-already-accepted": "Offer is already accepted",
+    "trade-offer-missing": "Trade offer is not available",
+    "trade-offer-restricted": "Trade offer is restricted"
   },
   "manage-listing": {
     "title": "My NFTs",
@@ -960,7 +976,9 @@
     "accepted-by": "Accepted By",
     "loan-duration": "Loan Duration : {days} days",
     "loan-price": "Loan Price : {price} ZRP per day",
-    "loan-expires-in": "Loan Expires In : {days} days"
+    "loan-expires-in": "Loan Expires In : {days} days",
+    "not-signed-in": "Not signed in",
+    "no-loan-listed": "No loan listed"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",
@@ -1440,7 +1458,7 @@
     "trust-line-set-success": "TrustLine Set Successfully",
     "payment-tx-failed": "Payment Transaction Failed",
     "sign-with-xaman": "Sign With Xaman",
-    "error-signer-not-found": "",
+    "error-signer-not-found": "Signer not found",
     "source": "Source"
   },
   "pre-signing": {
@@ -1537,7 +1555,7 @@
     "select-zerpmon-trainer": "Congrats on completing the tutorial! As a reward select 3 Zerpmon and 1 Trainer",
     "claim": "Claim",
     "untradeble-nfts-note": "These will be untradeable, off-chain assets that enable you to play the game in an offline variant.",
-    "equipments": "",
+    "equipments": "Equipments",
     "tutorial-part-1": "Tutorial - Part 1",
     "tutorial-part-1-content": "Welcome to Part 1 of the Zerpmon Tutorial. Here you will learn to look around the webapp, apply buffs to your Zerpmon and be able to view stats.",
     "tutorial-part-2": "Tutorial - Part 2",

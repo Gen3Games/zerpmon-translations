@@ -324,13 +324,14 @@
     "zrp": "زرب",
     "token-wars": "",
     "win-rate": "معدل الفوز",
-    "zerpmon-ready-to-battle": "",
+    "zerpmon-ready-to-battle": "Zerpmon جاهز للمعركة",
     "slot-empty": "فتحة فارغة",
     "season-performance": "أداء الموسم",
     "buy-ticket-setup-deck": "شراء تذكرة ، وإعداد سطح السفينة ، والمعركة والمستوى لأعلى",
     "purchase-ticket": "شراء تذكرة",
     "battle-free": "خاضها مجانًا تمامًا",
-    "no-nfts-required": "لا NFTS مطلوب"
+    "no-nfts-required": "لا NFTS مطلوب",
+    "offchain-nfts-not-allwed": "غير مسموح بـ NFTS Offchain"
   },
   "buy-zerpmon": {
     "already-bought": "لقد قمت بالفعل بشراء zerpmon",
@@ -527,11 +528,17 @@
     "zerpmon-already-in-deck": "Zerpmon موجود بالفعل على سطح السفينة",
     "zerpmon-already-in-main-deck": "تكرار zerpmon غير مسموح به في مقاعد البدلاء",
     "zerpmon-card": "بطاقة زيربمون",
-    "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": "",
-    "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": "",
-    "clear-mission-deck": ""
+    "no-memecoin-team-joined-error": "لم تنضم إلى أي فريق من بطولة Memecoin حتى الآن. \nحدد واحدة للمتابعة!",
+    "memecoin-tourney-link": "انقر هنا لعرض الفرق المتاحة",
+    "cannot-mix-onchain-and-offchain-nft": "لا يمكن خلط NFTs Onchain و Offchain",
+    "offchain-nfts-not-allwed": "غير مسموح بـ NFTS Offchain",
+    "clear-mission-deck": "سطح المهمة واضحة",
+    "back": "خلف",
+    "trainer-slot": "فتحة المدرب",
+    "zerpmon-slot": "فتحة zerpmon",
+    "bench-zerpmon-slot": "مقعد Zerpmon فتحة",
+    "not-logged-in": "لم يتم تسجيل الدخول",
+    "select-zerpmon-first": "الرجاء تحديد Zerpmon أولاً"
   },
   "edit-profile": {
     "basic-info": "معلومات أساسية",
@@ -705,7 +712,7 @@
     "xp-gain": "كسب XP",
     "xp-waste": "نفايات XP",
     "zerpmon-maxed-out": "لقد بلغ Zerpmon الحد الأقصى بالفعل",
-    "offchain-candy-on-onchain-zerpmon": ""
+    "offchain-candy-on-onchain-zerpmon": "لا يمكن استخدام الحلوى غير القابلة للتداول على Onchain Zerpmon"
   },
   "leaderboard-table": {
     "close": "يغلق",
@@ -742,8 +749,8 @@
     "wins": "انتصارات",
     "zerpmon-not-set": "زيربمون",
     "zerpmons": "زيربمون",
-    "player-count": "",
-    "player-count-short": ""
+    "player-count": "عدد اللاعب",
+    "player-count-short": "P. العد"
   },
   "leaderboard": {
     "dropdown-mission": "مهمة طوال الوقت",
@@ -831,7 +838,9 @@
     "unlist": "إلغاء القائمة",
     "user-listing-details": "تفاصيل القائمة",
     "user-tag-not-found": "تعذر العثور على علامة المستخدم",
-    "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق"
+    "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق",
+    "not-signed-in": "لم يتم تسجيل الدخول",
+    "no-loan-listed": "لم يتم إدراج قرض"
   },
   "marketplace": {
     "accept-loan": "يُقرض",
@@ -934,7 +943,14 @@
     "items-you-will-receive": "العناصر التي ستتلقاها",
     "items-you-will-lose": "العناصر التي ستخسرها",
     "accept-offer": "قبول العرض",
-    "offer-details": "تقديم التفاصيل"
+    "offer-details": "تقديم التفاصيل",
+    "not-signed-in": "لم يتم تسجيل الدخول",
+    "failed-to-fetch-sell-offer": "فشل في جلب عرض البيع",
+    "expire-ts-too-high": "وقت انتهاء صلاحيته مرتفع للغاية",
+    "expire-ts-too-low": "وقت انتهاء صلاحيته منخفض للغاية",
+    "offer-already-accepted": "العرض مقبول بالفعل",
+    "trade-offer-missing": "العرض التجاري غير متوفر",
+    "trade-offer-restricted": "العرض التجاري مقيد"
   },
   "metadata": {
     "auction-not-found": "لم يتم العثور على المزاد",
@@ -974,7 +990,7 @@
     "subscribe-description": "لم تقم بالاشتراك في دفع الإخطارات. \nاشترك لتبقى على اطلاع",
     "update-failed": "فشل في تحديث إعدادات الإشعارات الفورية",
     "update-success": "تم تحديث إعدادات الإشعارات الفورية بنجاح",
-    "offchain-data-not-found": "",
+    "offchain-data-not-found": "بيانات Offchain مفقودة ، تأكد من زيارة وضع Offchain مرة واحدة",
     "no-claimed-rewards": "لا توجد مكافآت مطالبة بمسح",
     "claimed-rewards-cleared": "مكافآت مطالبة",
     "clear-claimed": "واضحة ادعاء",
@@ -1185,7 +1201,7 @@
     "zerp-wallet-pending-txn": "فشل إجراء عملية الشراء عندما يكون هناك طلب سحب معلق",
     "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق",
     "zrp-store": "متجر زي آر بي",
-    "special-store": ""
+    "special-store": "متجر خاص"
   },
   "terms-of-service": {
     "account-registration": "تسجيل الحساب",
@@ -1319,7 +1335,9 @@
     "send": "يرسل",
     "error-signer-not-found": "لم يتم العثور على المُوقع",
     "achievements": "الإنجازات",
-    "referral-code": "رمز الإحالة"
+    "referral-code": "رمز الإحالة",
+    "cannot-unlink-primary-wallet": "لا يمكن إلغاء ربط المحفظة الأولية",
+    "user-not-found": "لم يتم العثور على المستخدم"
   },
   "wallet": {
     "address-copied": "تم نسخ العنوان",
@@ -1406,8 +1424,8 @@
     "zerpwallet": "ZerpWallet",
     "zerpwallet-history": "تاريخ محفظة زيرب",
     "zrp-balance": "رصيد ZRP",
-    "daily-withdrawal-limit-reached": "",
-    "user-not-active": "",
+    "daily-withdrawal-limit-reached": "تم الوصول إلى حد الانسحاب اليومي ({LimitAmount}).",
+    "user-not-active": "عمليات السحب غير مسموح بحسابات غير نشطة.",
     "trust-line-established": "تم إنشاء TrustLine",
     "checking-trust-line": "التحقق من TrustLine",
     "trust-line-required": "مطلوب خط الثقة",
@@ -1418,7 +1436,7 @@
     "trust-line-set-success": "تم تعيين TrustLine بنجاح",
     "payment-tx-failed": "فشلت معاملة الدفع",
     "sign-with-xaman": "وقع مع Xaman",
-    "error-signer-not-found": "",
+    "error-signer-not-found": "الموقع غير موجود",
     "source": "مصدر"
   },
   "world-boss": {
@@ -1537,7 +1555,7 @@
     "select-zerpmon-trainer": "تهانينا على إكمال البرنامج التعليمي! \nكمكافأة، اختر 3 زيربمون و1 مدرب",
     "claim": "مطالبة",
     "untradeble-nfts-note": "ستكون هذه أصولًا غير قابلة للتداول خارج السلسلة، والتي ستمكنك من لعب اللعبة في نسخة غير متصلة بالإنترنت.",
-    "equipments": "",
+    "equipments": "المعدات",
     "tutorial-part-1": "البرنامج التعليمي - الجزء 1",
     "tutorial-part-1-content": "مرحبًا بك في الجزء الأول من دروس Zerpmon. \nهنا سوف تتعلم كيفية البحث في تطبيق الويب، وتطبيق التعزيزات على Zerpmon الخاص بك، وستكون قادرًا على عرض الإحصائيات.",
     "tutorial-part-2": "البرنامج التعليمي - الجزء 2",

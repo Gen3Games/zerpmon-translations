@@ -265,13 +265,14 @@
     "mp-earned": "MP gagnés",
     "token-wars": "",
     "win-rate": "Taux de victoire",
-    "zerpmon-ready-to-battle": "",
+    "zerpmon-ready-to-battle": "Zerpmon prêt à se battre",
     "slot-empty": "Fente vide",
     "season-performance": "Performance de saison",
     "buy-ticket-setup-deck": "Achetez un billet, configurez un deck, bataille et niveau vers le haut",
     "purchase-ticket": "Acheter un billet",
     "battle-free": "Se battre pour absolument gratuit",
-    "no-nfts-required": "Aucune NFT requise"
+    "no-nfts-required": "Aucune NFT requise",
+    "offchain-nfts-not-allwed": "Les NFT hors chain non autorisés"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -442,11 +443,17 @@
     "add-boss-deck": "Ajouter un deck de boss mondial",
     "rename-boss-deck": "Renommer le deck de boss mondial",
     "clear-boss-deck": "Supprimer le deck de boss du monde",
-    "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": "",
-    "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": "",
-    "clear-mission-deck": ""
+    "no-memecoin-team-joined-error": "Vous n'avez pas encore rejoint l'équipe du tournoi Memecoin. \nSélectionnez-en un pour continuer!",
+    "memecoin-tourney-link": "Cliquez ici pour voir les équipes disponibles",
+    "cannot-mix-onchain-and-offchain-nft": "Impossible de mélanger les NFT de l'onChain et de la chain",
+    "offchain-nfts-not-allwed": "Les NFT hors chain non autorisés",
+    "clear-mission-deck": "Deck de mission claire",
+    "back": "Dos",
+    "trainer-slot": "Sous-traitant",
+    "zerpmon-slot": "Emplacement zerpmon",
+    "bench-zerpmon-slot": "Banc Zerpmon Slot",
+    "not-logged-in": "Pas connecté",
+    "select-zerpmon-first": "Veuillez d'abord sélectionner un zerpmon"
   },
   "edit-profile": {
     "basic-info": "Informations de base",
@@ -568,7 +575,7 @@
     "gold-candy-buff-info": "Augmente les dégâts de l'attaque dorée de Zerpmon de ({percent}%)",
     "purple-candy-buff-info": "Augmente les étoiles de capacité violette de Zerpmon de (1 étoile)",
     "used-lvl-candy": "Vous avez utilisé avec succès {candyName} sur {zerpmonName}. \nIl est désormais niveau {lvl} !",
-    "offchain-candy-on-onchain-zerpmon": ""
+    "offchain-candy-on-onchain-zerpmon": "Les bonbons non négociables ne peuvent pas être utilisés sur onchain zerpmon"
   },
   "leaderboard-table": {
     "close": "Fermer",
@@ -605,8 +612,8 @@
     "zerpmon-not-set": "Zerpmon",
     "zerpmons": "Zerpmon",
     "mp": "Points de maîtrise",
-    "player-count": "",
-    "player-count-short": ""
+    "player-count": "Compter les joueurs",
+    "player-count-short": "P. Count"
   },
   "leaderboard": {
     "dropdown-mission": "Mission de tous les temps",
@@ -690,7 +697,9 @@
     "accepted-by": "Accepté par",
     "loan-duration": "Durée du prêt : {days} jours",
     "loan-price": "Prix ​​du prêt : {price} ZRP par jour",
-    "loan-expires-in": "Le prêt expire dans : {days} jours"
+    "loan-expires-in": "Le prêt expire dans : {days} jours",
+    "not-signed-in": "Non signé",
+    "no-loan-listed": "Aucun prêt répertorié"
   },
   "marketplace": {
     "accept-loan": "Prêt",
@@ -793,7 +802,14 @@
     "items-you-will-receive": "Articles que vous recevrez",
     "items-you-will-lose": "Articles que vous perdrez",
     "accept-offer": "Accepter l'offre",
-    "offer-details": "Offrir des détails"
+    "offer-details": "Offrir des détails",
+    "not-signed-in": "Non signé",
+    "failed-to-fetch-sell-offer": "Échec de l'offre de vente",
+    "expire-ts-too-high": "Expirer le temps est trop élevé",
+    "expire-ts-too-low": "Expirer le temps est trop bas",
+    "offer-already-accepted": "L'offre est déjà acceptée",
+    "trade-offer-missing": "L'offre commerciale n'est pas disponible",
+    "trade-offer-restricted": "L'offre commerciale est limitée"
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",
@@ -815,7 +831,7 @@
     "save": "Sauvegarder",
     "update-failed": "Échec de la mise à jour des paramètres de notification push",
     "update-success": "Paramètres de notification push mis à jour avec succès",
-    "offchain-data-not-found": "",
+    "offchain-data-not-found": "Données hors chain manquantes, assurez-vous d'avoir visité le mode Offchain une fois",
     "no-claimed-rewards": "Aucune récompense revendiquée pour effacer",
     "claimed-rewards-cleared": "Les récompenses réclamées ont été effacées",
     "clear-claimed": "Clair revendiqué",
@@ -985,7 +1001,7 @@
     "evolution-completed": "Évolution terminée",
     "ascend": "Monter",
     "payment-from-zerpwallet-volatile": "Le paiement sera prélevé sur votre ZerpWallet ({amount}) {finalAmount} (au dernier moment vérifié, pourrait changer s'il n'est pas accepté pendant un certain temps)",
-    "special-store": ""
+    "special-store": "Magasin spécial"
   },
   "test": {
     "test": "c'est un test"
@@ -1035,7 +1051,9 @@
     "send": "Envoyer",
     "error-signer-not-found": "Signataire introuvable",
     "achievements": "Réalisations",
-    "referral-code": "Code de référence"
+    "referral-code": "Code de référence",
+    "cannot-unlink-primary-wallet": "Impossible de dissocier le portefeuille primaire",
+    "user-not-found": "Utilisateur introuvable"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",
@@ -1428,8 +1446,8 @@
     "trn-not-connected": "L'API Root Network n'est pas connectée ou n'est pas encore prête",
     "invalid-amount-deposit": "Montant du dépôt invalide. Le montant minimum du dépôt est de 0,001 XRP/ZRP.",
     "bridge-notice": "Le dépôt de fonds du Root Network vers ZerpWallet utilise un pont. La transition prend du temps et entraîne des frais.",
-    "daily-withdrawal-limit-reached": "",
-    "user-not-active": "",
+    "daily-withdrawal-limit-reached": "Limite de retrait quotidienne atteint ({limitAmount}).",
+    "user-not-active": "Les retraits non autorisés pour les comptes inactifs.",
     "trust-line-established": "Ligne de confiance établie",
     "checking-trust-line": "Vérification de TrustLine",
     "trust-line-required": "Ligne de confiance requise",
@@ -1440,7 +1458,7 @@
     "trust-line-set-success": "TrustLine défini avec succès",
     "payment-tx-failed": "Échec de la transaction de paiement",
     "sign-with-xaman": "Signer avec Xaman",
-    "error-signer-not-found": "",
+    "error-signer-not-found": "Signatrice introuvable",
     "source": "Source"
   },
   "pre-signing": {
@@ -1537,7 +1555,7 @@
     "select-zerpmon-trainer": "Félicitations, vous avez terminé le didacticiel ! \nEn récompense, sélectionnez 3 Zerpmon et 1 Dresseur",
     "claim": "Réclamer",
     "untradeble-nfts-note": "Il s’agira d’actifs hors chaîne non échangeables qui vous permettront de jouer au jeu dans une variante hors ligne.",
-    "equipments": "",
+    "equipments": "Équipements",
     "tutorial-part-1": "Tutoriel - Partie 1",
     "tutorial-part-1-content": "Bienvenue dans la première partie du didacticiel Zerpmon. \nIci, vous apprendrez à parcourir la webapp, à appliquer des buffs à votre Zerpmon et à consulter les statistiques.",
     "tutorial-part-2": "Tutoriel - Partie 2",

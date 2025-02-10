@@ -138,7 +138,9 @@
     "send": "Schicken",
     "error-signer-not-found": "Unterzeichner nicht gefunden",
     "achievements": "Erfolge",
-    "referral-code": "Überweisungscode"
+    "referral-code": "Überweisungscode",
+    "cannot-unlink-primary-wallet": "Die Primärbrieftasche kann nicht verkleinert werden",
+    "user-not-found": "Benutzer nicht gefunden"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",
@@ -282,7 +284,13 @@
     "memecoin-tourney-link": "Klicke hier, um die verfügbaren Teams anzuzeigen",
     "cannot-mix-onchain-and-offchain-nft": "Du kannst nicht gleichzeitig Onchain- und Offchain Nft's verwenden",
     "offchain-nfts-not-allwed": "Offchain-NFT's sind nicht zugelassen",
-    "clear-mission-deck": "Mission-Deck löschen"
+    "clear-mission-deck": "Mission-Deck löschen",
+    "back": "Zurück",
+    "trainer-slot": "Trainerschlitz",
+    "zerpmon-slot": "Zerpmon Slot",
+    "bench-zerpmon-slot": "Bench Zerpmon Slot",
+    "not-logged-in": "Nicht angemeldet",
+    "select-zerpmon-first": "Bitte wählen Sie zuerst ein Zerpmon aus"
   },
   "store": {
     "title": "Shop",
@@ -321,7 +329,7 @@
     "evolution-completed": "Evolution abgeschlossen",
     "ascend": "Hochstufen",
     "payment-from-zerpwallet-volatile": "Die Bezahlung erfolgt über dein ZerpWallet ({amount}) {finalAmount} (Stand nach letzter Überprüfung. Kann abweichen, wenn lange nicht aktualisiert)",
-    "special-store": ""
+    "special-store": "Sondergeschäft"
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",
@@ -490,7 +498,7 @@
     "gold-candy-buff-info": "Erhöht Zerpmon's Gold Attack-Schaden um({percent}%)",
     "purple-candy-buff-info": "Erhöht Zerpmon's Purple Ability-Sterne um (1 star)",
     "used-lvl-candy": "Du hast erfolgreich {candyName} auf {zerpmonName} angewendet. Es hat jetzt Level {lvl}!",
-    "offchain-candy-on-onchain-zerpmon": ""
+    "offchain-candy-on-onchain-zerpmon": "Nicht gehandelbare Süßigkeiten können bei Onchain Zerpmon nicht verwendet werden"
   },
   "safari": {
     "title": "Safari",
@@ -763,13 +771,14 @@
     "mp-earned": "MP verdient",
     "token-wars": "",
     "win-rate": "Gewinnrate",
-    "zerpmon-ready-to-battle": "",
+    "zerpmon-ready-to-battle": "Zerpmon bereit zu kämpfen",
     "slot-empty": "Slot leer",
     "season-performance": "Saisonleistung",
     "buy-ticket-setup-deck": "Kaufen Sie ein Ticket, richten Sie ein Deck, einen Kampf und ein Level auf",
     "purchase-ticket": "Kauf ein Ticket",
     "battle-free": "Bekämpfen Sie es absolut kostenlos",
-    "no-nfts-required": "Keine NFTs erforderlich"
+    "no-nfts-required": "Keine NFTs erforderlich",
+    "offchain-nfts-not-allwed": "Offchain NFTs nicht erlaubt"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -897,7 +906,14 @@
     "items-you-will-receive": "Artikel, die Sie erhalten",
     "items-you-will-lose": "Artikel, die Sie verlieren werden",
     "accept-offer": "Angebot akzeptieren",
-    "offer-details": "Details anbieten"
+    "offer-details": "Details anbieten",
+    "not-signed-in": "Nicht signiert",
+    "failed-to-fetch-sell-offer": "Das Angebot des Verkaufsangebots fehlgeschlagen",
+    "expire-ts-too-high": "Auslaufzeit ist zu hoch",
+    "expire-ts-too-low": "Auslaufzeit ist zu niedrig",
+    "offer-already-accepted": "Das Angebot wird bereits angenommen",
+    "trade-offer-missing": "Handelsangebot ist nicht verfügbar",
+    "trade-offer-restricted": "Handelsangebot ist eingeschränkt"
   },
   "manage-listing": {
     "title": "Meine NFT's",
@@ -960,7 +976,9 @@
     "accepted-by": "Angenommen von",
     "loan-duration": "Leihdauer : {days} Tag/e",
     "loan-price": "Leihkosten : {price} ZRP pro Tag",
-    "loan-expires-in": "Leihangebot läuft ab in : {days} Tag/en"
+    "loan-expires-in": "Leihangebot läuft ab in : {days} Tag/en",
+    "not-signed-in": "Nicht signiert",
+    "no-loan-listed": "Kein Darlehen aufgelistet"
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",
@@ -1037,7 +1055,7 @@
     "save": "Speichern",
     "update-failed": "Aktualisierung der Einstellungen für Push-Nachrichten fehlgeschlagen",
     "update-success": "Aktualisierung der Einstellungen für Push-Nachrichten erfolgreich",
-    "offchain-data-not-found": "",
+    "offchain-data-not-found": "Offchain -Daten fehlen, stellen Sie sicher, dass Sie den Offchain -Modus einmal besucht haben",
     "no-claimed-rewards": "Keine beanspruchten Belohnungen, um zu klären",
     "claimed-rewards-cleared": "Behauptete Belohnungen geklärt",
     "clear-claimed": "Klar behauptet",
@@ -1440,7 +1458,7 @@
     "trust-line-set-success": "TrustLine erfolgreich eingerichtet",
     "payment-tx-failed": "Zahlungstransaktion fehlgeschlagen",
     "sign-with-xaman": "Unterschreiben Sie mit Xaman",
-    "error-signer-not-found": "",
+    "error-signer-not-found": "Unterzeichner nicht gefunden",
     "source": "Quelle"
   },
   "pre-signing": {
@@ -1537,7 +1555,7 @@
     "select-zerpmon-trainer": "Herzlichen Glückwunsch zum Abschluss des Tutorials! \nWählen Sie als Belohnung 3 Zerpmon und 1 Trainer aus",
     "claim": "Beanspruchen",
     "untradeble-nfts-note": "Hierbei handelt es sich um nicht handelbare Vermögenswerte außerhalb der Kette, die es Ihnen ermöglichen, das Spiel in einer Offline-Variante zu spielen.",
-    "equipments": "",
+    "equipments": "Ausrüstung",
     "tutorial-part-1": "Tutorial – Teil 1",
     "tutorial-part-1-content": "Willkommen zu Teil 1 des Zerpmon-Tutorials. \nHier erfahren Sie, wie Sie sich in der Webanwendung umsehen, Buffs auf Ihr Zerpmon anwenden und Statistiken anzeigen können.",
     "tutorial-part-2": "Tutorial – Teil 2",

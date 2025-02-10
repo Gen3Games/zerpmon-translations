@@ -324,13 +324,14 @@
     "mp-earned": "Kamerlid verdiend",
     "token-wars": "",
     "win-rate": "Win -tarief",
-    "zerpmon-ready-to-battle": "",
+    "zerpmon-ready-to-battle": "Zerkmon klaar om te vechten",
     "slot-empty": "Slot leeg",
     "season-performance": "Seizoenprestatie",
     "buy-ticket-setup-deck": "Koop een kaartje, stel een dek in, vecht en niveau hoger",
     "purchase-ticket": "Koop een kaartje",
     "battle-free": "Vecht het uit voor absoluut gratis",
-    "no-nfts-required": "Geen NFT's vereist"
+    "no-nfts-required": "Geen NFT's vereist",
+    "offchain-nfts-not-allwed": "Offchain nfts niet toegestaan"
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -527,11 +528,17 @@
     "add-boss-deck": "Voeg het World Boss-deck toe",
     "rename-boss-deck": "Hernoem het World Boss-deck",
     "clear-boss-deck": "Duidelijk wereldbaasdek",
-    "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": "",
-    "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": "",
-    "clear-mission-deck": ""
+    "no-memecoin-team-joined-error": "Je bent nog niet lid geworden van een Memecoin Tourney -team. \nSelecteer er een om door te gaan!",
+    "memecoin-tourney-link": "Klik hier om beschikbare teams te bekijken",
+    "cannot-mix-onchain-and-offchain-nft": "Kan niet onchain en offchain nften mixen",
+    "offchain-nfts-not-allwed": "Offchain nfts niet toegestaan",
+    "clear-mission-deck": "Clear Mission Deck",
+    "back": "Rug",
+    "trainer-slot": "Trainer slot",
+    "zerpmon-slot": "Zerkmonsleuf",
+    "bench-zerpmon-slot": "Bench Zerpmon slot",
+    "not-logged-in": "Niet ingelogd",
+    "select-zerpmon-first": "Selecteer eerst een Zerpmon"
   },
   "edit-profile": {
     "basic-info": "Basis informatie",
@@ -682,7 +689,7 @@
     "gold-candy-buff-info": "Verhoog de schade van Zerpmon's gouden aanval met ({percent}%)",
     "purple-candy-buff-info": "Verhoog de Purple Ability-sterren van Zerpmon met (1 ster)",
     "used-lvl-candy": "Je hebt {candyName} met succes gebruikt op {zerpmonName}. \nHet is nu niveau {lvl}!",
-    "offchain-candy-on-onchain-zerpmon": ""
+    "offchain-candy-on-onchain-zerpmon": "Niet -verhandelbare snoepjes kunnen niet worden gebruikt op Onchain Zerpmon"
   },
   "leaderboard-table": {
     "close": "Dichtbij",
@@ -719,8 +726,8 @@
     "zerpmon-not-set": "Zerpmon",
     "zerpmons": "Zerpmon",
     "mp": "Meesterschapspunten",
-    "player-count": "",
-    "player-count-short": ""
+    "player-count": "Player Count",
+    "player-count-short": "P. Tellen"
   },
   "leaderboard": {
     "dropdown-mission": "Missie aller tijden",
@@ -804,7 +811,9 @@
     "accepted-by": "Geaccepteerd door",
     "loan-duration": "Duur van de lening: {days} dagen",
     "loan-price": "Leenprijs: {price} ZRP per dag",
-    "loan-expires-in": "Lening vervalt over: {days} dagen"
+    "loan-expires-in": "Lening vervalt over: {days} dagen",
+    "not-signed-in": "Niet aangemeld",
+    "no-loan-listed": "Geen lening vermeld"
   },
   "marketplace": {
     "accept-loan": "Lening",
@@ -907,7 +916,14 @@
     "items-you-will-receive": "Items die u ontvangt",
     "items-you-will-lose": "Items die u verliest",
     "accept-offer": "Accepteeraanbod",
-    "offer-details": "Bied details aan"
+    "offer-details": "Bied details aan",
+    "not-signed-in": "Niet aangemeld",
+    "failed-to-fetch-sell-offer": "Kan het aanbod niet opleveren",
+    "expire-ts-too-high": "Vervallen tijd is te hoog",
+    "expire-ts-too-low": "Verlagstijd is te laag",
+    "offer-already-accepted": "Aanbieding is al geaccepteerd",
+    "trade-offer-missing": "Handelsaanbieding is niet beschikbaar",
+    "trade-offer-restricted": "Handelsaanbod is beperkt"
   },
   "mint": {
     "days": "dagen",
@@ -936,7 +952,7 @@
     "subscribe-description": "U heeft zich niet geabonneerd op pushmeldingen. \nAbonneer u om op de hoogte te blijven",
     "update-failed": "Kan de instellingen voor pushmeldingen niet updaten",
     "update-success": "Instellingen voor pushmeldingen zijn succesvol bijgewerkt",
-    "offchain-data-not-found": "",
+    "offchain-data-not-found": "Offchain -gegevens ontbreken, zorg ervoor dat u eenmaal de offchain -modus hebt bezocht",
     "no-claimed-rewards": "Geen geclaimde beloningen om te wissen",
     "claimed-rewards-cleared": "Geclaimde beloningen gewist",
     "clear-claimed": "Clear Claimed",
@@ -1114,7 +1130,7 @@
     "evolution-completed": "Evolutie voltooid",
     "ascend": "Stijgen",
     "payment-from-zerpwallet-volatile": "De betaling wordt afgeschreven van uw ZerpWallet ({amount}) {finalAmount} (op het laatst gecontroleerde moment, kan veranderen als het gedurende een bepaalde periode niet wordt geaccepteerd)",
-    "special-store": ""
+    "special-store": "Speciale winkel"
   },
   "test": {
     "test": "dit is een test"
@@ -1164,7 +1180,9 @@
     "send": "Versturen",
     "error-signer-not-found": "Ondertekenaar niet gevonden",
     "achievements": "Prestaties",
-    "referral-code": "Verwijzingscode"
+    "referral-code": "Verwijzingscode",
+    "cannot-unlink-primary-wallet": "Kan de primaire portemonnee niet ontkoppelen",
+    "user-not-found": "Gebruiker niet gevonden"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",
@@ -1428,8 +1446,8 @@
     "trn-not-connected": "De Root Network API is niet verbonden of nog niet gereed",
     "invalid-amount-deposit": "Ongeldig stortingsbedrag. Het minimale stortingsbedrag is 0,001 XRP/ZRP.",
     "bridge-notice": "Het storten van geld van The Root Network naar ZerpWallet maakt gebruik van een bridge. Het overbruggen kost tijd en brengt kosten met zich mee.",
-    "daily-withdrawal-limit-reached": "",
-    "user-not-active": "",
+    "daily-withdrawal-limit-reached": "Dagelijkse terugtrekkingslimiet bereikt ({limitamount}).",
+    "user-not-active": "Opnames zijn niet toegestaan ​​voor inactieve rekeningen.",
     "trust-line-established": "TrustLine opgericht",
     "checking-trust-line": "TrustLine controleren",
     "trust-line-required": "TrustLine vereist",
@@ -1440,7 +1458,7 @@
     "trust-line-set-success": "TrustLine is succesvol ingesteld",
     "payment-tx-failed": "Betalingstransactie mislukt",
     "sign-with-xaman": "Teken met Xaman",
-    "error-signer-not-found": "",
+    "error-signer-not-found": "Ondertekenaar niet gevonden",
     "source": "Bron"
   },
   "pre-signing": {
@@ -1537,7 +1555,7 @@
     "select-zerpmon-trainer": "Gefeliciteerd met het voltooien van de tutorial! \nAls beloning selecteer je 3 Zerpmon en 1 Trainer",
     "claim": "Claim",
     "untradeble-nfts-note": "Dit zijn niet-verhandelbare activa buiten de keten waarmee je de game in een offline variant kunt spelen.",
-    "equipments": "",
+    "equipments": "Uitrusting",
     "tutorial-part-1": "Tutorial - Deel 1",
     "tutorial-part-1-content": "Welkom bij deel 1 van de Zerpmon-zelfstudie. \nHier leer je rondkijken in de webapp, buffs toepassen op je Zerpmon en statistieken bekijken.",
     "tutorial-part-2": "Tutorial - Deel 2",

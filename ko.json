@@ -138,7 +138,9 @@
     "send": "보내다",
     "error-signer-not-found": "서명자를 찾을 수 없음",
     "achievements": "업적",
-    "referral-code": "추천 코드"
+    "referral-code": "추천 코드",
+    "cannot-unlink-primary-wallet": "기본 지갑을 풀 수 없습니다",
+    "user-not-found": "사용자는 찾을 수 없습니다"
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",
@@ -278,11 +280,17 @@
     "add-boss-deck": "월드보스 덱 추가",
     "rename-boss-deck": "월드보스 덱 이름 변경",
     "clear-boss-deck": "월드보스 덱 클리어",
-    "no-memecoin-team-joined-error": "",
-    "memecoin-tourney-link": "",
-    "cannot-mix-onchain-and-offchain-nft": "",
-    "offchain-nfts-not-allwed": "",
-    "clear-mission-deck": ""
+    "no-memecoin-team-joined-error": "당신은 아직 Memecoin Tourney Team에 합류하지 않았습니다. \n계속하려면 하나를 선택하십시오!",
+    "memecoin-tourney-link": "사용 가능한 팀을 보려면 여기를 클릭하십시오",
+    "cannot-mix-onchain-and-offchain-nft": "Onchain과 Offchain NFT를 혼합 할 수 없습니다",
+    "offchain-nfts-not-allwed": "offchain nfts는 허용되지 않습니다",
+    "clear-mission-deck": "명확한 미션 데크",
+    "back": "뒤쪽에",
+    "trainer-slot": "트레이너 슬롯",
+    "zerpmon-slot": "Zerpmon 슬롯",
+    "bench-zerpmon-slot": "벤치 Zerpmon 슬롯",
+    "not-logged-in": "로그인하지 않았습니다",
+    "select-zerpmon-first": "Zerpmon을 먼저 선택하십시오"
   },
   "store": {
     "title": "스토어",
@@ -321,7 +329,7 @@
     "evolution-completed": "진화 완료",
     "ascend": "오르다",
     "payment-from-zerpwallet-volatile": "지불은 귀하의 ZerpWallet({amount}) {finalAmount}에서 이루어집니다(마지막으로 확인된 순간, 일정 기간 동안 승인되지 않으면 변경될 수 있음)",
-    "special-store": ""
+    "special-store": "특별한 상점"
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",
@@ -407,8 +415,8 @@
     "gym-points-short": "GP",
     "gym-tier": "층",
     "mp": "마스터리 포인트",
-    "player-count": "",
-    "player-count-short": ""
+    "player-count": "플레이어 수",
+    "player-count-short": "P. 수"
   },
   "analytics": {
     "analytics": "분석",
@@ -490,7 +498,7 @@
     "gold-candy-buff-info": "저르몬의 골드 어택 데미지를 ({percent}%) 증가시킵니다",
     "purple-candy-buff-info": "Zermon의 보라색 능력 별을 (별 1개) 늘립니다.",
     "used-lvl-candy": "{zerpmonName}에서 {candyName}을(를) 성공적으로 사용했습니다. \n이제 레벨이 {lvl}입니다!",
-    "offchain-candy-on-onchain-zerpmon": ""
+    "offchain-candy-on-onchain-zerpmon": "무역 할 수없는 사탕은 Onchain Zerpmon에서 사용할 수 없습니다"
   },
   "safari": {
     "title": "사파리",
@@ -763,13 +771,14 @@
     "mp-earned": "MP 획득",
     "token-wars": "",
     "win-rate": "승리",
-    "zerpmon-ready-to-battle": "",
+    "zerpmon-ready-to-battle": "Zerpmon 전투 준비",
     "slot-empty": "슬롯이 비어 있습니다",
     "season-performance": "계절 성능",
     "buy-ticket-setup-deck": "티켓 구매, 데크 설정, 전투 및 레벨 업",
     "purchase-ticket": "티켓 구매",
     "battle-free": "절대적으로 무료로 싸우십시오",
-    "no-nfts-required": "NFT가 필요하지 않습니다"
+    "no-nfts-required": "NFT가 필요하지 않습니다",
+    "offchain-nfts-not-allwed": "offchain nfts는 허용되지 않습니다"
   },
   "test": {
     "test": "테스트입니다."
@@ -897,7 +906,14 @@
     "items-you-will-receive": "받을 항목",
     "items-you-will-lose": "잃을 항목",
     "accept-offer": "제안 수락",
-    "offer-details": "세부 사항을 제공합니다"
+    "offer-details": "세부 사항을 제공합니다",
+    "not-signed-in": "로그인하지 않았습니다",
+    "failed-to-fetch-sell-offer": "판매 제안을 가져 오지 못했습니다",
+    "expire-ts-too-high": "만료 시간이 너무 높습니다",
+    "expire-ts-too-low": "만료 시간이 너무 낮습니다",
+    "offer-already-accepted": "제안은 이미 받아 들여졌습니다",
+    "trade-offer-missing": "거래 제안은 이용할 수 없습니다",
+    "trade-offer-restricted": "거래 제안은 제한됩니다"
   },
   "manage-listing": {
     "title": "내 NFT",
@@ -960,7 +976,9 @@
     "accepted-by": "수락자",
     "loan-duration": "대출 기간 : {days} 일",
     "loan-price": "대출 가격 : 일일 {price} ZRP",
-    "loan-expires-in": "대출 만료일: {days}일"
+    "loan-expires-in": "대출 만료일: {days}일",
+    "not-signed-in": "로그인하지 않았습니다",
+    "no-loan-listed": "대출이 나열되지 않았습니다"
   },
   "create-listing": {
     "not-signed-in": "로그인하지 않았습니다",
@@ -1037,7 +1055,7 @@
     "save": "구하다",
     "update-failed": "푸시 알림 설정을 업데이트하지 못했습니다.",
     "update-success": "푸시 알림 설정이 업데이트되었습니다.",
-    "offchain-data-not-found": "",
+    "offchain-data-not-found": "Offchain 데이터 누락, Offchain 모드를 한 번 방문했는지 확인하십시오.",
     "no-claimed-rewards": "청구 된 보상은 없었다",
     "claimed-rewards-cleared": "청구 된 보상이 청산되었습니다",
     "clear-claimed": "명확한 주장",
@@ -1428,8 +1446,8 @@
     "trn-not-connected": "루트 네트워크 API가 연결되지 않았거나 아직 준비되지 않았습니다.",
     "invalid-amount-deposit": "입금액이 잘못되었습니다. 최소 입금액은 0.001 XRP/ZRP입니다.",
     "bridge-notice": "루트 네트워크에서 ZerpWallet으로 자금을 입금하는 데는 브리지가 사용됩니다. 브리징에는 시간이 걸리고 수수료가 발생합니다.",
-    "daily-withdrawal-limit-reached": "",
-    "user-not-active": "",
+    "daily-withdrawal-limit-reached": "일일 철수 한도에 도달했습니다 ({limitamount}).",
+    "user-not-active": "비활성 계정은 인출이 허용되지 않습니다.",
     "trust-line-established": "트러스트라인 설립",
     "checking-trust-line": "TrustLine 확인 중",
     "trust-line-required": "TrustLine 필수",
@@ -1440,7 +1458,7 @@
     "trust-line-set-success": "TrustLine이 성공적으로 설정되었습니다.",
     "payment-tx-failed": "결제 거래 실패",
     "sign-with-xaman": "Xaman으로 로그인",
-    "error-signer-not-found": "",
+    "error-signer-not-found": "서명자를 찾을 수 없습니다",
     "source": "원천"
   },
   "pre-signing": {
@@ -1537,7 +1555,7 @@
     "select-zerpmon-trainer": "튜토리얼을 완료한 것을 축하합니다! \n보상으로 제르몬 3명과 트레이너 1명을 선택하세요.",
     "claim": "주장하다",
     "untradeble-nfts-note": "이는 오프라인 변형에서 게임을 플레이할 수 있게 해주는 거래 불가능한 오프체인 자산입니다.",
-    "equipments": "",
+    "equipments": "장비",
     "tutorial-part-1": "튜토리얼 - 1부",
     "tutorial-part-1-content": "Zermon 튜토리얼의 1부에 오신 것을 환영합니다. \n여기에서는 웹앱을 둘러보고, Zermon에 버프를 적용하고, 통계를 보는 방법을 배웁니다.",
     "tutorial-part-2": "튜토리얼 - 2부",
