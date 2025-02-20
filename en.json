@@ -51,7 +51,8 @@
     "Zerpboxes": "ZerpBoxes",
     "zerp-wallet": "ZerpWallet",
     "staking": "Staking",
-    "quick start": "Quick Start"
+    "quick start": "Quick Start",
+    "progress": "Progress"
   },
   "sign-in": {
     "button-label": "Sign In",
@@ -1623,5 +1624,39 @@
     "already-set": "Trustline Set",
     "select": "Select",
     "sign-xaman": "Sign with Xaman"
+  },
+  "progress": {
+    "progress-title": "Track Your Progress",
+    "ttk-resources": "TTK Resources",
+    "ttk-assets": "TTK Assets",
+    "claim": "Claim",
+    "add-a-referrer": "Add a Referrer",
+    "add-referrer": "Add as Referrer",
+    "referrals": "Referrals",
+    "referred-by": "Referred by",
+    "battle-pass": "Battle Pass",
+    "level": "Level",
+    "claimed": "Claimed",
+    "referrer-added": "Referrer Added",
+    "current-tier": "Current Tier",
+    "bronze": "Bronze",
+    "diamond": "Diamond",
+    "gold": "Gold",
+    "legendary": "Legendary",
+    "platinum": "Platinum",
+    "silver": "Silver",
+    "unranked": "Unranked",
+    "novice-referrer": "Novice Referrer",
+    "apprentice-referrer": "Apprentice Referrer",
+    "elite-referrer": "Elite Referrer",
+    "master-referrer": "Master Referrer",
+    "grand-referrer": "Grand Referrer",
+    "legendary-referrer": "Legendary Referrer",
+    "no-referrals": "No Referrals",
+    "referral-rank": "Referral Rank",
+    "referral-reward-claimed": "Referral Reward Claimed",
+    "referral-reward-claim-failed": "Referral Reward Claim Failed",
+    "ttk-reward-claimed": "TTK reward claimed",
+    "ttk-reward-claim-failed": "TTK reward claim failed"
   }
 }

@@ -51,7 +51,8 @@
     "Zerpboxes": "저프박스",
     "zerp-wallet": "Zerp월렛",
     "staking": "스테이 킹",
-    "quick start": "빠른 시작"
+    "quick start": "빠른 시작",
+    "progress": "진전"
   },
   "sign-in": {
     "button-label": "로그인",
@@ -1623,5 +1624,39 @@
     "already-set": "트러스트 라인 세트",
     "select": "선택하다",
     "sign-xaman": "Xaman과 서명하십시오"
+  },
+  "progress": {
+    "progress-title": "진행 상황을 추적하십시오",
+    "ttk-resources": "TTK 리소스",
+    "ttk-assets": "TTK 자산",
+    "claim": "주장하다",
+    "add-a-referrer": "참조자를 추가하십시오",
+    "add-referrer": "참조자로 추가하십시오",
+    "referrals": "추천",
+    "referred-by": "참조",
+    "battle-pass": "전투 패스",
+    "level": "수준",
+    "claimed": "주장했다",
+    "referrer-added": "참조자가 추가되었습니다",
+    "current-tier": "현재 계층",
+    "bronze": "청동",
+    "silver": "은",
+    "gold": "금",
+    "platinum": "백금",
+    "diamond": "다이아몬드",
+    "legendary": "전설",
+    "unranked": "인쇄되지 않았습니다",
+    "novice-referrer": "초보자 추천자",
+    "apprentice-referrer": "견습생 추천자",
+    "elite-referrer": "엘리트 추천자",
+    "master-referrer": "마스터 참조자",
+    "grand-referrer": "그랜드 리퍼러",
+    "legendary-referrer": "전설적인 추천자",
+    "no-referrals": "추천이 없습니다",
+    "referral-rank": "추천 순위",
+    "referral-reward-claimed": "추천 보상 청구",
+    "referral-reward-claim-failed": "추천 보상 청구에 실패했습니다",
+    "ttk-reward-claimed": "TTK 보상은 주장했다",
+    "ttk-reward-claim-failed": "TTK 보상 청구는 실패했습니다"
   }
 }

@@ -922,7 +922,8 @@
     "Zerpboxes": "ZerpBoxes",
     "zerp-wallet": "ZerpWallet",
     "staking": "Jalonnement",
-    "quick start": "Démarrage rapide"
+    "quick start": "Démarrage rapide",
+    "progress": "Progrès"
   },
   "sign-in": {
     "button-label": "Se connecter",
@@ -1623,5 +1624,39 @@
     "already-set": "Ensemble de lignes de confiance",
     "select": "Sélectionner",
     "sign-xaman": "Signer avec Xaman"
+  },
+  "progress": {
+    "progress-title": "Suivez vos progrès",
+    "ttk-resources": "Ressources TTK",
+    "ttk-assets": "Actifs TTK",
+    "claim": "Réclamer",
+    "add-a-referrer": "Ajouter un référent",
+    "add-referrer": "Ajouter en tant que référent",
+    "referrals": "Références",
+    "referred-by": "Référé par",
+    "battle-pass": "Passe de combat",
+    "level": "Niveau",
+    "claimed": "Réclamé",
+    "referrer-added": "Référent ajouté",
+    "current-tier": "Niveau actuel",
+    "bronze": "Bronze",
+    "silver": "Argent",
+    "gold": "Or",
+    "platinum": "Platine",
+    "diamond": "Diamant",
+    "legendary": "Légendaire",
+    "unranked": "Non classé",
+    "novice-referrer": "Référent novice",
+    "apprentice-referrer": "Référent apprenti",
+    "elite-referrer": "Référent d'élite",
+    "master-referrer": "Maître référent",
+    "grand-referrer": "Grand référent",
+    "legendary-referrer": "Référent légendaire",
+    "no-referrals": "Pas de références",
+    "referral-rank": "Rang de référence",
+    "referral-reward-claimed": "Récompense de référence revendiquée",
+    "referral-reward-claim-failed": "La réclamation de récompense de référence a échoué",
+    "ttk-reward-claimed": "TTK Récompense a revendiqué",
+    "ttk-reward-claim-failed": "La réclamation de récompense TTK a échoué"
   }
 }

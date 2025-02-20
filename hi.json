@@ -1051,7 +1051,8 @@
     "Zerpboxes": "ज़र्पबॉक्स",
     "zerp-wallet": "ज़र्पवॉलेट",
     "staking": "जताया",
-    "quick start": "त्वरित शुरुआत"
+    "quick start": "त्वरित शुरुआत",
+    "progress": "प्रगति"
   },
   "sign-in": {
     "button-label": "दाखिल करना",
@@ -1623,5 +1624,39 @@
     "already-set": "ट्रस्टलाइन सेट",
     "select": "चुनना",
     "sign-xaman": "XAMAN के साथ साइन इन करें"
+  },
+  "progress": {
+    "progress-title": "अपनी प्रगति को ट्रैक करें",
+    "ttk-resources": "TTK संसाधन",
+    "ttk-assets": "टीटीके परिसंपत्तियां",
+    "claim": "दावा",
+    "add-a-referrer": "एक रेफ़रर जोड़ें",
+    "add-referrer": "रेफ़रर के रूप में जोड़ें",
+    "referrals": "रेफरल",
+    "referred-by": "द्वारा उल्लिखित",
+    "battle-pass": "बैटल पास",
+    "level": "स्तर",
+    "claimed": "दावा किया",
+    "referrer-added": "रेफ़रर जोड़ा गया",
+    "current-tier": "वर्तमान स्तरीय",
+    "bronze": "पीतल",
+    "silver": "चाँदी",
+    "gold": "सोना",
+    "platinum": "प्लैटिनम",
+    "diamond": "डायमंड",
+    "legendary": "प्रसिद्ध",
+    "unranked": "बिना श्रेणी के",
+    "novice-referrer": "नौसिखिया",
+    "apprentice-referrer": "अपरेंटिस रेफ़रर",
+    "elite-referrer": "अभिजात वर्ग",
+    "master-referrer": "मास्टर रेफ़रर",
+    "grand-referrer": "भव्य रेफ़रर",
+    "legendary-referrer": "पौराणिक संदर्भ",
+    "no-referrals": "कोई रेफरल नहीं",
+    "referral-rank": "रेफरल रैंक",
+    "referral-reward-claimed": "रेफरल इनाम का दावा किया गया",
+    "referral-reward-claim-failed": "रेफरल इनाम का दावा विफल रहा",
+    "ttk-reward-claimed": "TTK इनाम का दावा किया गया",
+    "ttk-reward-claim-failed": "TTK इनाम का दावा विफल रहा"
   }
 }

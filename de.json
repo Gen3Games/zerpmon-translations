@@ -51,7 +51,8 @@
     "Zerpboxes": "ZerpBoxen",
     "zerp-wallet": "ZerpWallet",
     "staking": "Stakel",
-    "quick start": "Schneller Start"
+    "quick start": "Schneller Start",
+    "progress": "Fortschritt"
   },
   "sign-in": {
     "button-label": "Anmelden",
@@ -1623,5 +1624,39 @@
     "already-set": "Trustline -Set",
     "select": "Wählen",
     "sign-xaman": "Unterschreiben Sie mit Xaman"
+  },
+  "progress": {
+    "progress-title": "Verfolgen Sie Ihren Fortschritt",
+    "ttk-resources": "TTK -Ressourcen",
+    "ttk-assets": "TTK -Vermögenswerte",
+    "claim": "Beanspruchen",
+    "add-a-referrer": "Fügen Sie einen Empfehler hinzu",
+    "add-referrer": "Als Empfehler hinzufügen",
+    "referrals": "Überweisungen",
+    "referred-by": "Verwiesen von",
+    "battle-pass": "Schlachtpass",
+    "level": "Ebene",
+    "claimed": "Behauptet",
+    "referrer-added": "Überweisender hinzugefügt",
+    "current-tier": "Aktuelle Stufe",
+    "bronze": "Bronze",
+    "silver": "Silber",
+    "gold": "Gold",
+    "platinum": "Platin",
+    "diamond": "Diamant",
+    "legendary": "Legendär",
+    "unranked": "Nicht eingewechselt",
+    "novice-referrer": "Anfänger",
+    "apprentice-referrer": "Auszubildender Überweiser",
+    "elite-referrer": "Elite Referrer",
+    "master-referrer": "Master Referrer",
+    "grand-referrer": "Grand Referrer",
+    "legendary-referrer": "Legendärer Überweiser",
+    "no-referrals": "Keine Überweisungen",
+    "referral-rank": "Überweisungsrang",
+    "referral-reward-claimed": "Überweisungsbelohnung behauptet",
+    "referral-reward-claim-failed": "Die Belohnungsansprüche der Empfehlung schlug fehl",
+    "ttk-reward-claimed": "TTK -Belohnung behauptet",
+    "ttk-reward-claim-failed": "TTK -Belohnungsanspruch fehlgeschlagen"
   }
 }
