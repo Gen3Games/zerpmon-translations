@@ -779,7 +779,8 @@
     "purchase-ticket": "Kauf ein Ticket",
     "battle-free": "Bekämpfen Sie es absolut kostenlos",
     "no-nfts-required": "Keine NFTs erforderlich",
-    "offchain-nfts-not-allwed": "Offchain NFTs nicht erlaubt"
+    "offchain-nfts-not-allwed": "Offchain NFTs nicht erlaubt",
+    "battle-not-started": ""
   },
   "test": {
     "test": "Dies ist ein Test"

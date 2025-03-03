@@ -779,7 +779,8 @@
     "purchase-ticket": "チケットを購入します",
     "battle-free": "絶対に無料で戦います",
     "no-nfts-required": "NFTは必要ありません",
-    "offchain-nfts-not-allwed": "オフチェーンNFTは許可されていません"
+    "offchain-nfts-not-allwed": "オフチェーンNFTは許可されていません",
+    "battle-not-started": ""
   },
   "test": {
     "test": "これはテストです"

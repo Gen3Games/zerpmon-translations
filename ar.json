@@ -331,7 +331,8 @@
     "purchase-ticket": "شراء تذكرة",
     "battle-free": "خاضها مجانًا تمامًا",
     "no-nfts-required": "لا NFTS مطلوب",
-    "offchain-nfts-not-allwed": "غير مسموح بـ NFTS Offchain"
+    "offchain-nfts-not-allwed": "غير مسموح بـ NFTS Offchain",
+    "battle-not-started": ""
   },
   "buy-zerpmon": {
     "already-bought": "لقد قمت بالفعل بشراء zerpmon",

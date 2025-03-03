@@ -331,7 +331,8 @@
     "purchase-ticket": "Koop een kaartje",
     "battle-free": "Vecht het uit voor absoluut gratis",
     "no-nfts-required": "Geen NFT's vereist",
-    "offchain-nfts-not-allwed": "Offchain nfts niet toegestaan"
+    "offchain-nfts-not-allwed": "Offchain nfts niet toegestaan",
+    "battle-not-started": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

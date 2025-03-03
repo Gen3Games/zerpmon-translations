@@ -331,7 +331,8 @@
     "purchase-ticket": "Acquista un biglietto",
     "battle-free": "Combattere per assolutamente gratuito",
     "no-nfts-required": "Nessun NFTS richiesto",
-    "offchain-nfts-not-allwed": "Nfts offchain non consentito"
+    "offchain-nfts-not-allwed": "Nfts offchain non consentito",
+    "battle-not-started": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

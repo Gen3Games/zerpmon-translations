@@ -779,7 +779,8 @@
     "purchase-ticket": "티켓 구매",
     "battle-free": "절대적으로 무료로 싸우십시오",
     "no-nfts-required": "NFT가 필요하지 않습니다",
-    "offchain-nfts-not-allwed": "offchain nfts는 허용되지 않습니다"
+    "offchain-nfts-not-allwed": "offchain nfts는 허용되지 않습니다",
+    "battle-not-started": ""
   },
   "test": {
     "test": "테스트입니다."

@@ -779,7 +779,8 @@
     "purchase-ticket": "Comprar un boleto",
     "battle-free": "Luchar por completo",
     "no-nfts-required": "No se requieren NFTS",
-    "offchain-nfts-not-allwed": "No se permiten NFTS de cadena"
+    "offchain-nfts-not-allwed": "No se permiten NFTS de cadena",
+    "battle-not-started": ""
   },
   "test": {
     "test": "esto es un test"

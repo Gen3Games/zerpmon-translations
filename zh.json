@@ -779,7 +779,8 @@
     "purchase-ticket": "购买票",
     "battle-free": "绝对自由地战斗",
     "no-nfts-required": "无需NFT",
-    "offchain-nfts-not-allwed": "不允许的链链NFT"
+    "offchain-nfts-not-allwed": "不允许的链链NFT",
+    "battle-not-started": ""
   },
   "test": {
     "test": "这是个测试"

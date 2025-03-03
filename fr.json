@@ -272,7 +272,8 @@
     "purchase-ticket": "Acheter un billet",
     "battle-free": "Se battre pour absolument gratuit",
     "no-nfts-required": "Aucune NFT requise",
-    "offchain-nfts-not-allwed": "Les NFT hors chain non autorisés"
+    "offchain-nfts-not-allwed": "Les NFT hors chain non autorisés",
+    "battle-not-started": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
