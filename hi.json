@@ -173,7 +173,7 @@
     "security-card-pick-msg": "सुरक्षा कार्ड से एक {equipmentName} का पता चला है!",
     "damage-till-ko-trigger-msg": "{zerpmonName} की क्षति KO तक {value} द्वारा {changeType} है!",
     "inc-multiple-move-percents": "{zerpmonName} का {moveColor} प्रत्येक ⬆️ {परिवर्तन}%",
-    "high-dmg-ko-msg": "{हारने वाले} को (विजेता) ने टुकड़े-टुकड़े कर दिया था और जो कुछ बचा था वह लाल धूल था।",
+    "high-dmg-ko-msg": "{loser} को {winner} ने टुकड़े-टुकड़े कर दिया था और जो कुछ बचा था वह लाल धूल था।",
     "blue-change-prevented": "{इक्विपमेंटनाम} ब्लू मूव के अवसर को {परिवर्तन} से रोकता है!",
     "dec-party-percent-trigger-msg": "{zerpmonName} की पार्टी {moveType} ⬇️ {परिवर्तन}%",
     "exhaustion-ko-msg": "{loserName} युद्ध करने में असमर्थ है और थकावट के कारण गिर गया है! \n{विजेतानाम} ने राउंड जीत लिया!",

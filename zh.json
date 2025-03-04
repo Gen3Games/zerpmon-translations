@@ -735,7 +735,7 @@
     "security-card-pick-msg": "安全卡显示了{equipmentName}！",
     "damage-till-ko-trigger-msg": "{zerpmonName} 的伤害为 {changeType}，增加了 {value}，直到 KO！",
     "inc-multiple-move-percents": "{zerpmonName} 的 {moveColor} 各 ⬆️ {change}%",
-    "high-dmg-ko-msg": "{loser}刚刚被(winner)抹成了碎片，剩下的只是红尘。",
+    "high-dmg-ko-msg": "{loser}刚刚被{winner}抹成了碎片，剩下的只是红尘。",
     "blue-change-prevented": "{equipmentName} 阻止了 {change} 的蓝色移动机会！",
     "dec-party-percent-trigger-msg": "{zerpmonName} 的队伍 {moveType} ⬇️ {change}%",
     "exhaustion-ko-msg": "{loserName}无法战斗并因精疲力尽而倒下！ \n{winnerName} 赢得了这一轮！",

@@ -228,7 +228,7 @@
     "security-card-pick-msg": "La carte de sécurité a révélé un {equipmentName} !",
     "damage-till-ko-trigger-msg": "Les dégâts de {zerpmonName} sont de {changeType} de {value} jusqu'à KO !",
     "inc-multiple-move-percents": "Les {moveColor} de {zerpmonName} chacun ⬆️ {change} %",
-    "high-dmg-ko-msg": "{perdant} vient d'être réduit en morceaux par (gagnant) et tout ce qui reste est de la poussière rouge.",
+    "high-dmg-ko-msg": "{loser} vient d'être réduit en morceaux par {winner} et tout ce qui reste est de la poussière rouge.",
     "blue-change-prevented": "{equipmentName} empêche les chances de Blue Move de {change} !",
     "dec-party-percent-trigger-msg": "Le groupe de {zerpmonName} {moveType} ⬇️ {change}%",
     "exhaustion-ko-msg": "{loserName} est incapable de se battre et est tombé à cause de l'épuisement ! \n{winnerName} remporte la manche !",

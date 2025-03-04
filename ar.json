@@ -194,7 +194,7 @@
     "gym-stage-update-failed": "فشل تحديث الصالة الرياضية إلى المرحلة التالية",
     "gym-zerps-not-found": "فشل في العثور على zerpmons الصالة الرياضية",
     "hardware-support": "iOS غير مدعوم حاليًا. \nيرجى استخدام متصفح سطح المكتب أو Android. \nانقر هنا للتحقق من الحد الأدنى لمتطلبات الأجهزة.",
-    "high-dmg-ko-msg": "لقد تم طمس {الخاسر} إلى أجزاء بواسطة (الفائز) وكل ما تبقى هو الغبار الأحمر.",
+    "high-dmg-ko-msg": "لقد تم طمس {loser} إلى أجزاء بواسطة {winner} وكل ما تبقى هو الغبار الأحمر.",
     "hp": "حصان",
     "inc-multiple-move-percents": "{zerpmonName} {moveColor} لكل منهما ⬆️ {change}%",
     "incomplete-deck": "سطح السفينة الخاص بك غير مكتمل",

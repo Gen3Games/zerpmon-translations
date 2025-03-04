@@ -287,7 +287,7 @@
     "security-card-pick-msg": "Beveiligingskaart heeft een {equipmentName} onthuld!",
     "damage-till-ko-trigger-msg": "De schade van {zerpmonName} bedraagt ​​{changeType} met {value} tot KO!",
     "inc-multiple-move-percents": "{zerpmonName}'s {moveColor} elk ⬆️ {change}%",
-    "high-dmg-ko-msg": "{verliezer} is zojuist in stukken vernietigd door (winnaar) en het enige dat overblijft is rood stof.",
+    "high-dmg-ko-msg": "{verliezer} is zojuist in stukken vernietigd door {winner} en het enige dat overblijft is rood stof.",
     "blue-change-prevented": "{equipmentName} verhindert de kans op een Blue Move van {change}!",
     "dec-party-percent-trigger-msg": "Het feest van {zerpmonName} {moveType} ⬇️ {change}%",
     "exhaustion-ko-msg": "{loserName} kan niet vechten en is gevallen door uitputting! \n{winnerName} wint de ronde!",

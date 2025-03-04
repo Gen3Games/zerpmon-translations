@@ -735,7 +735,7 @@
     "security-card-pick-msg": "Eine Security Card hat {equipmentName} enthüllt",
     "damage-till-ko-trigger-msg": "{zerpmonName}'s Schaden ist {changeType} in Höhe von {value} bis zum KO!",
     "inc-multiple-move-percents": "{zerpmonName}'s {moveColor}  jeweils ⬆️ {change}%",
-    "high-dmg-ko-msg": "{loser} wurde gerade von (winner) in alle Teile zerfetzt und alles, was übrig ist, ist roter Staub.",
+    "high-dmg-ko-msg": "{loser} wurde gerade von {winner} in alle Teile zerfetzt und alles, was übrig ist, ist roter Staub.",
     "blue-change-prevented": "{equipmentName} verhindert die Blue Move-Chance um {change}%",
     "dec-party-percent-trigger-msg": "{zerpmonName}'s party {moveType} ⬇️ {change}%",
     "exhaustion-ko-msg": "{loserName} ist erschöpft in die Knie gegangen und kann nicht mehr kämpfen! {winnerName} hat die Runde gewonnen!",

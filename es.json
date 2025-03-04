@@ -735,7 +735,7 @@
     "security-card-pick-msg": "¡La tarjeta de seguridad ha revelado un {equipmentName}!",
     "damage-till-ko-trigger-msg": "¡El daño de {zerpmonName} es de {changeType} por {value} hasta KO!",
     "inc-multiple-move-percents": "{moveColor} de {zerpmonName} cada ⬆️ {cambio}%",
-    "high-dmg-ko-msg": "{perdedor} fue destruido en pedazos por (ganador) y todo lo que queda es polvo rojo.",
+    "high-dmg-ko-msg": "{loser} fue destruido en pedazos por {winner} y todo lo que queda es polvo rojo.",
     "blue-change-prevented": "¡{equipmentName} evita que {cambie} la posibilidad de movimiento azul!",
     "dec-party-percent-trigger-msg": "Grupo de {zerpmonName} {moveType} ⬇️ {cambio}%",
     "exhaustion-ko-msg": "¡{loserName} no puede luchar y ha caído debido al agotamiento! \n¡{winnerName} gana la ronda!",

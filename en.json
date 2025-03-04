@@ -735,7 +735,7 @@
     "security-card-pick-msg": "Security Card has revealed a {equipmentName}!",
     "damage-till-ko-trigger-msg": "{zerpmonName}'s damage is {changeType} by {value} until KO!",
     "inc-multiple-move-percents": "{zerpmonName}'s {moveColor}  each ⬆️ {change}%",
-    "high-dmg-ko-msg": "{loser} was just obliterated into pieces by (winner) and all thats left is red dust.",
+    "high-dmg-ko-msg": "{loser} was just obliterated into pieces by {winner} and all thats left is red dust.",
     "blue-change-prevented": "{equipmentName} prevents Blue Move chance from {change}!",
     "dec-party-percent-trigger-msg": "{zerpmonName}'s party {moveType} ⬇️ {change}%",
     "exhaustion-ko-msg": "{loserName} is unable to battle and has fallen due to exhaustion! {winnerName} wins the round!",
