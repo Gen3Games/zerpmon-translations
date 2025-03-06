@@ -273,7 +273,7 @@
     "battle-free": "Se battre pour absolument gratuit",
     "no-nfts-required": "Aucune NFT requise",
     "offchain-nfts-not-allwed": "Les NFT hors chain non autorisés",
-    "battle-not-started": ""
+    "battle-not-started": "La bataille n'a pas encore commencé"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -1685,5 +1685,43 @@
     "gym-description": "Affrontez les équipes de plus en plus difficiles de 5 zerpmon à travers 20 niveaux avec les dirigeants du gymnase et gagnent du ZRP. \nLes étapes du gymnase réinitialisent tous les 3 jours",
     "one-trainer": "1 entraîneur",
     "gym-deck": "Pont de gymnase"
+  },
+  "zerpmon-auto-manager": {
+    "description": "Configurer les modes de jeu, les decks et les éléments en jeu doivent être utilisés par le gestionnaire d'auto Zerpmon",
+    "history-description": "Découvrez l'histoire de la bataille automatisée et les récompenses gagnées dans les journaux de bataille",
+    "auto-renewal": "Renouvellement automatique",
+    "auto-renewal-description": "S'il est sélectionné, le Zerpmon Auto Manager renouvellera son abonnement après l'expiration en utilisant le zerpwallet sans interaction utilisateur",
+    "use-revive-potions": "Utilisez des potions de réalisation quotidiennement",
+    "how-many-revives": "Combien de relances?",
+    "select-revives-count": "Sélectionner le nombre de revivre",
+    "use-refill-potions": "Utilisez des potions de recharge quotidiennement",
+    "how-many-refills": "Combien de recharges?",
+    "select-refills-count": "Sélectionner le nombre de recharges",
+    "xrp-mode": "Mode XRP",
+    "xrp-mode-battle-count": "Le nombre de bataille en mode XRP?",
+    "select-xrp-mission-count": "Sélectionnez le nombre de mission XRP",
+    "select-deck": "Sélectionner le jeu",
+    "use-gym-refill": "Utilisez la recharge de gym quotidienne",
+    "select-gym-refills-count": "Sélectionner le nombre de recharges de gym",
+    "pvp-description": "Cela sélectionnera et se battra avec les 3 premiers choix de joueurs sur tous les modes de classement.",
+    "note": "Remarque: Pour fonctionner comme prévu, assurez-vous que vos decks pertinents sont remplis de cartes et que vous avez suffisamment de potions dans votre inventaire",
+    "save": "Sauvegarder",
+    "battle-history-unavailable": "L'histoire de combat n'est pas encore disponible",
+    "day": "Jour",
+    "level-up-rewards": "Récompenses de niveau",
+    "view-battle": "Voir la bataille",
+    "missions-was-not-activated": "Les missions n'ont pas été activées",
+    "gyms-were-not-activated": "Les gymnases n'étaient pas activés",
+    "damage-dealt": "Dommages infligés",
+    "world-boss-was-not-activated": "World Boss n'était pas activé",
+    "pvp-battles-was-not-activated": "Les batailles PVP n'ont pas été activées",
+    "offchain-missions-was-not-activated": "Les missions hors chain n'ont pas été activées",
+    "battle-logs": "Journaux de combat",
+    "could-not-fetch-battle-logs": "Je ne pouvais pas récupérer les journaux de bataille",
+    "request-battle-log": "Demandez un journal de bataille dans les batailles ci-dessus",
+    "won": "Gagné",
+    "lost": "Perdu",
+    "something-went-wrong": "Quelque chose s'est mal passé",
+    "settings-updated": "Paramètres mis à jour"
   }
 }

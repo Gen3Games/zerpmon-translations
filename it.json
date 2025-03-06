@@ -332,7 +332,7 @@
     "battle-free": "Combattere per assolutamente gratuito",
     "no-nfts-required": "Nessun NFTS richiesto",
     "offchain-nfts-not-allwed": "Nfts offchain non consentito",
-    "battle-not-started": ""
+    "battle-not-started": "La battaglia non è ancora iniziata"
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -1685,5 +1685,43 @@
     "gym-description": "Affrontare le squadre sempre più difficili di 5 Zerpmon su 20 livelli insieme ai leader della palestra e guadagnare ZRP. \nFase di palestra ripristina ogni 3 giorni",
     "one-trainer": "1 allenatore",
     "gym-deck": "Mazzo da palestra"
+  },
+  "zerpmon-auto-manager": {
+    "description": "Configurare quali modalità di gioco, mazzi e oggetti di gioco devono essere utilizzati da Zerpmon Auto Manager",
+    "history-description": "Dai un'occhiata alla storia automatica della battaglia e ai premi vinti attraverso i registri di battaglia",
+    "auto-renewal": "Rinnovo automatico",
+    "auto-renewal-description": "Se selezionato lo Zerpmon Auto Manager rinnoverà il suo abbonamento dopo la scadenza utilizzando ZerpWallet senza interazione dell'utente",
+    "use-revive-potions": "Usa le pozioni di rianima quotidianamente",
+    "how-many-revives": "Quanti revive?",
+    "select-revives-count": "Seleziona il conteggio dei revive",
+    "use-refill-potions": "Usa le pozioni di ricarica quotidianamente",
+    "how-many-refills": "Quanti ricariche?",
+    "select-refills-count": "Seleziona il conteggio delle ricariche",
+    "xrp-mode": "Modalità XRP",
+    "xrp-mode-battle-count": "Conteggio di battaglia della modalità XRP?",
+    "select-xrp-mission-count": "Seleziona il conteggio delle missioni XRP",
+    "select-deck": "Seleziona il mazzo",
+    "use-gym-refill": "Usa la ricarica della palestra ogni giorno",
+    "select-gym-refills-count": "Seleziona il conteggio delle ricariche in palestra",
+    "pvp-description": "Questo selezionerà e combatterà con le prime 3 scelte di giocatori in tutte le modalità di rango.",
+    "note": "Nota: per lavorare come previsto, assicurati che i tuoi mazzi pertinenti siano popolati con carte e che hai sufficienti pozioni nel tuo inventario",
+    "save": "Salva",
+    "battle-history-unavailable": "La storia della battaglia non è ancora disponibile",
+    "day": "Giorno",
+    "level-up-rewards": "Livellare i premi",
+    "view-battle": "Visualizza la battaglia",
+    "missions-was-not-activated": "Le missioni non sono state attivate",
+    "gyms-were-not-activated": "Le palestre non sono state attivate",
+    "damage-dealt": "Danno inflitto",
+    "world-boss-was-not-activated": "Il capo del mondo non è stato attivato",
+    "pvp-battles-was-not-activated": "Le battaglie PvP non sono state attivate",
+    "offchain-missions-was-not-activated": "Le missioni Offchain non sono state attivate",
+    "battle-logs": "Tronchi di battaglia",
+    "could-not-fetch-battle-logs": "Impossibile recuperare i registri di battaglia",
+    "request-battle-log": "Richiedi un registro di battaglia dalle battaglie sopra",
+    "won": "Vinto",
+    "lost": "Perduto",
+    "something-went-wrong": "Qualcosa è andato storto",
+    "settings-updated": "Impostazioni aggiornate"
   }
 }

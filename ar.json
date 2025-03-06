@@ -332,7 +332,7 @@
     "battle-free": "خاضها مجانًا تمامًا",
     "no-nfts-required": "لا NFTS مطلوب",
     "offchain-nfts-not-allwed": "غير مسموح بـ NFTS Offchain",
-    "battle-not-started": ""
+    "battle-not-started": "لم تبدأ المعركة بعد"
   },
   "buy-zerpmon": {
     "already-bought": "لقد قمت بالفعل بشراء zerpmon",
@@ -1685,5 +1685,43 @@
     "gym-description": "مواجهة ضد فرق متزايدة من 5 Zerpmon عبر 20 مستوى مع قادة الصالة الرياضية وكسب ZRP. \nمراحل الصالة الرياضية إعادة ضبط كل 3 أيام",
     "one-trainer": "1 مدرب",
     "gym-deck": "سطح الصالة الرياضية"
+  },
+  "zerpmon-auto-manager": {
+    "description": "قم بتكوين أوضاع اللعبة والطوابق والعناصر التي يجب استخدامها من قبل Zerpmon Auto Manager",
+    "history-description": "تحقق من تاريخ المعركة الآلي وفوز المكافآت من خلال سجلات المعركة",
+    "auto-renewal": "تجديد السيارات",
+    "auto-renewal-description": "إذا تم تحديد Zerpmon Auto Manager ، فسيقوم Manager بتجديد اشتراكه بعد انتهاء الصلاحية باستخدام Zerpwallet دون تفاعل المستخدم",
+    "use-revive-potions": "استخدم جرعات Revive Daily",
+    "how-many-revives": "كم عدد الإحياء؟",
+    "select-revives-count": "حدد إحياء العد",
+    "use-refill-potions": "استخدم إعادة الملء يوميًا",
+    "how-many-refills": "كم عدد العبوات؟",
+    "select-refills-count": "حدد عبوات العد",
+    "xrp-mode": "وضع XRP",
+    "xrp-mode-battle-count": "عدد معركة وضع XRP؟",
+    "select-xrp-mission-count": "حدد عدد مهمة XRP",
+    "select-deck": "حدد سطح السفينة",
+    "use-gym-refill": "استخدم صالة الألعاب الرياضية يوميًا",
+    "select-gym-refills-count": "حدد عدد عبوات الصالة الرياضية",
+    "pvp-description": "سيؤدي ذلك إلى اختيار ومعركة خيارات اللاعب الثلاثة الأولى عبر جميع أوضاع الرتبة.",
+    "note": "ملاحظة: للعمل كما هو متوقع ، يرجى التأكد من ملء الطوابق ذات الصلة بالبطاقات ولديك جرعات كافية في مخزونك",
+    "save": "يحفظ",
+    "battle-history-unavailable": "تاريخ المعركة غير متوفر بعد",
+    "day": "يوم",
+    "level-up-rewards": "مستوى أعلى المكافآت",
+    "view-battle": "عرض المعركة",
+    "missions-was-not-activated": "لم يتم تنشيط البعثات",
+    "gyms-were-not-activated": "لم يتم تنشيط صالات رياضية",
+    "damage-dealt": "تعرض الضرر",
+    "world-boss-was-not-activated": "لم يتم تنشيط رئيس العالم",
+    "pvp-battles-was-not-activated": "لم يتم تنشيط معارك PVP",
+    "offchain-missions-was-not-activated": "لم يتم تنشيط بعثات الموظفين",
+    "battle-logs": "سجلات المعركة",
+    "could-not-fetch-battle-logs": "لا يمكن أن تجلب سجلات المعركة",
+    "request-battle-log": "اطلب سجل معركة من المعارك أعلاه",
+    "won": "فاز",
+    "lost": "ضائع",
+    "something-went-wrong": "حدث خطأ ما",
+    "settings-updated": "الإعدادات تحديث"
   }
 }

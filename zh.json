@@ -780,7 +780,7 @@
     "battle-free": "绝对自由地战斗",
     "no-nfts-required": "无需NFT",
     "offchain-nfts-not-allwed": "不允许的链链NFT",
-    "battle-not-started": ""
+    "battle-not-started": "战斗还没有开始"
   },
   "test": {
     "test": "这是个测试"
@@ -1685,5 +1685,43 @@
     "gym-description": "面对越来越强大的5个Zerpmon的团队，在20个水平上与健身房的领导者面对面，并赢得ZRP。\n健身舞台每3天重置一次",
     "one-trainer": "1培训师",
     "gym-deck": "健身房甲板"
+  },
+  "zerpmon-auto-manager": {
+    "description": "配置Zerpmon Auto Manager应使用哪些游戏模式，甲板和游戏中的项目",
+    "history-description": "查看自动战斗历史，并通过战斗日志获胜",
+    "auto-renewal": "自动更新",
+    "auto-renewal-description": "如果选择了Zerpmon Auto Manager将在使用Zerpwallet的情况下续订订阅，而无需用户交互",
+    "use-revive-potions": "每天使用复兴的药水",
+    "how-many-revives": "有多少恢复？",
+    "select-revives-count": "选择恢复计数",
+    "use-refill-potions": "每天使用补充药水",
+    "how-many-refills": "多少补充？",
+    "select-refills-count": "选择补充计数",
+    "xrp-mode": "XRP模式",
+    "xrp-mode-battle-count": "XRP模式战斗数？",
+    "select-xrp-mission-count": "选择XRP任务计数",
+    "select-deck": "选择甲板",
+    "use-gym-refill": "每天使用健身房补充",
+    "select-gym-refills-count": "选择健身房补充计数",
+    "pvp-description": "这将在所有排名模式中选择并与前3个播放器选择进行战斗。",
+    "note": "注意：要按预期工作，请确保您的相关甲板装有卡片，并且您的库存中有足够的药水",
+    "save": "节省",
+    "battle-history-unavailable": "战斗历史尚不可用",
+    "day": "天",
+    "level-up-rewards": "升级奖励",
+    "view-battle": "查看战斗",
+    "missions-was-not-activated": "任务未激活",
+    "gyms-were-not-activated": "体育馆没有被激活",
+    "damage-dealt": "造成伤害",
+    "world-boss-was-not-activated": "世界老板没有被激活",
+    "pvp-battles-was-not-activated": "未激活PVP战斗",
+    "offchain-missions-was-not-activated": "离链任务没有被激活",
+    "battle-logs": "战斗日志",
+    "could-not-fetch-battle-logs": "无法获取战斗原木",
+    "request-battle-log": "从上述战斗中要求战斗",
+    "won": "韩元",
+    "lost": "丢失的",
+    "something-went-wrong": "出了点问题",
+    "settings-updated": "设置已更新"
   }
 }

@@ -780,7 +780,7 @@
     "battle-free": "絶対に無料で戦います",
     "no-nfts-required": "NFTは必要ありません",
     "offchain-nfts-not-allwed": "オフチェーンNFTは許可されていません",
-    "battle-not-started": ""
+    "battle-not-started": "戦いはまだ始まっていません"
   },
   "test": {
     "test": "これはテストです"
@@ -1685,5 +1685,43 @@
     "gym-description": "ジムリーダーとともに20レベルで5つのゼルプモンのますますタフなチームと対決し、ZRPを獲得します。\nジムステージは3日ごとにリセットされます",
     "one-trainer": "1人のトレーナー",
     "gym-deck": "ジムデッキ"
+  },
+  "zerpmon-auto-manager": {
+    "description": "Zerpmon Auto Managerが使用するゲームモード、デッキ、ゲーム内のアイテムを構成する",
+    "history-description": "自動化された戦闘の歴史と、戦闘ログを通じて獲得した報酬をチェックしてください",
+    "auto-renewal": "自動更新",
+    "auto-renewal-description": "選択した場合、Zerpmon Auto ManagerはユーザーインタラクションなしでZerpWalletを使用して有効期限を取った後、サブスクリプションを更新します",
+    "use-revive-potions": "Revive Potionsを毎日使用してください",
+    "how-many-revives": "いくつの復活？",
+    "select-revives-count": "[Revives Count]を選択します",
+    "use-refill-potions": "補充ポーションを毎日使用してください",
+    "how-many-refills": "補充はいくつですか？",
+    "select-refills-count": "補充カウントを選択します",
+    "xrp-mode": "XRPモード",
+    "xrp-mode-battle-count": "XRPモードのバトルカウント？",
+    "select-xrp-mission-count": "XRPミッションカウントを選択します",
+    "select-deck": "デッキを選択します",
+    "use-gym-refill": "ジムの補充を毎日使用してください",
+    "select-gym-refills-count": "ジムの補充カウントを選択します",
+    "pvp-description": "これにより、すべてのランクモードで最初の3つのプレーヤーの選択肢を選択して戦います。",
+    "note": "注：期待どおりに機能するには、関連するデッキにカードが入っており、在庫に十分なポーションがあることを確認してください",
+    "save": "保存",
+    "battle-history-unavailable": "バトルの歴史はまだ利用できません",
+    "day": "日",
+    "level-up-rewards": "報酬をレベルアップします",
+    "view-battle": "戦いを見る",
+    "missions-was-not-activated": "ミッションはアクティブになりませんでした",
+    "gyms-were-not-activated": "ジムは活性化されませんでした",
+    "damage-dealt": "ダメージが与えられました",
+    "world-boss-was-not-activated": "世界のボスは活性化されませんでした",
+    "pvp-battles-was-not-activated": "PVPバトルはアクティブになりませんでした",
+    "offchain-missions-was-not-activated": "オフチェーンミッションはアクティブになりませんでした",
+    "battle-logs": "バトルログ",
+    "could-not-fetch-battle-logs": "バトルログを取得できませんでした",
+    "request-battle-log": "上記の戦いから戦闘ログをリクエストしてください",
+    "won": "勝利した",
+    "lost": "失った",
+    "something-went-wrong": "何かがうまくいかなかった",
+    "settings-updated": "更新された設定"
   }
 }

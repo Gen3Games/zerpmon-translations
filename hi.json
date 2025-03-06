@@ -218,7 +218,7 @@
     "battle-free": "इसे पूरी तरह से मुक्त करने के लिए बाहर लड़ाई",
     "no-nfts-required": "कोई एनएफटी की आवश्यकता नहीं है",
     "offchain-nfts-not-allwed": "ऑफचेन एनएफटी की अनुमति नहीं है",
-    "battle-not-started": ""
+    "battle-not-started": "लड़ाई अभी तक शुरू नहीं हुई है"
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
@@ -1685,5 +1685,43 @@
     "gym-description": "जिम नेताओं के साथ 20 स्तरों पर 5 शेरपोन की तेजी से कठिन टीमों के खिलाफ सामना करें और ZRP कमाएं। \nजिम के चरण हर 3 दिन में रीसेट करते हैं",
     "one-trainer": "1 प्रशिक्षक",
     "gym-deck": "जिमी डेक"
+  },
+  "zerpmon-auto-manager": {
+    "description": "कॉन्फ़िगर करें कि कौन से गेम मोड, डेक और इन-गेम आइटम का उपयोग ज़रपोन ऑटो मैनेजर द्वारा किया जाना चाहिए",
+    "history-description": "बैटल लॉग के माध्यम से जीते गए स्वचालित युद्ध इतिहास और पुरस्कारों की जाँच करें",
+    "auto-renewal": "ऑटो नवीकरण",
+    "auto-renewal-description": "यदि Zerpmon ऑटो मैनेजर का चयन किया जाता है, तो उपयोगकर्ता इंटरैक्शन के बिना Zerpwallet का उपयोग करके समाप्ति के बाद इसे सदस्यता का नवीनीकरण करेगा",
+    "use-revive-potions": "प्रतिदिन पुनर्जीवित औषधि का उपयोग करें",
+    "how-many-revives": "कितने पुनर्जीवित हैं?",
+    "select-revives-count": "Revives काउंट का चयन करें",
+    "use-refill-potions": "प्रतिदिन रिफिल औषधि का उपयोग करें",
+    "how-many-refills": "कितने रिफिल?",
+    "select-refills-count": "रिफिल काउंट का चयन करें",
+    "xrp-mode": "XRP मोड",
+    "xrp-mode-battle-count": "XRP मोड बैटल काउंट?",
+    "select-xrp-mission-count": "XRP मिशन काउंट का चयन करें",
+    "select-deck": "डेक का चयन करें",
+    "use-gym-refill": "दैनिक जिम रिफिल का उपयोग करें",
+    "select-gym-refills-count": "जिम रिफिल काउंट का चयन करें",
+    "pvp-description": "यह सभी रैंक मोड में पहले 3 खिलाड़ी विकल्पों के साथ चयन और लड़ाई करेगा।",
+    "note": "नोट: अपेक्षित रूप से काम करने के लिए, कृपया सुनिश्चित करें कि आपके प्रासंगिक डेक कार्ड के साथ आबाद हैं और आपकी इन्वेंट्री में पर्याप्त औषधि है",
+    "save": "बचाना",
+    "battle-history-unavailable": "युद्ध का इतिहास अभी तक उपलब्ध नहीं है",
+    "day": "दिन",
+    "level-up-rewards": "स्तरीय पुरस्कार",
+    "view-battle": "दृश्य",
+    "missions-was-not-activated": "मिशन सक्रिय नहीं थे",
+    "gyms-were-not-activated": "जिम सक्रिय नहीं थे",
+    "damage-dealt": "क्षति निपटा",
+    "world-boss-was-not-activated": "वर्ल्ड बॉस सक्रिय नहीं था",
+    "pvp-battles-was-not-activated": "पीवीपी लड़ाई सक्रिय नहीं थी",
+    "offchain-missions-was-not-activated": "ऑफचेन मिशन सक्रिय नहीं थे",
+    "battle-logs": "युद्ध के लॉग",
+    "could-not-fetch-battle-logs": "युद्ध लॉग नहीं ला सका",
+    "request-battle-log": "उपरोक्त लड़ाई से एक लड़ाई लॉग का अनुरोध करें",
+    "won": "जीत गया",
+    "lost": "खो गया",
+    "something-went-wrong": "कुछ गलत हो गया",
+    "settings-updated": "अद्यतन की गई सेटिंग"
   }
 }

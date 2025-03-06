@@ -780,7 +780,7 @@
     "battle-free": "Bekämpfen Sie es absolut kostenlos",
     "no-nfts-required": "Keine NFTs erforderlich",
     "offchain-nfts-not-allwed": "Offchain NFTs nicht erlaubt",
-    "battle-not-started": ""
+    "battle-not-started": "Die Schlacht hat noch nicht begonnen"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -1685,5 +1685,43 @@
     "gym-description": "Machen Sie sich gegen zunehmend schwierigere Teams von 5 Zerpmon auf 20 Levels zusammen mit den Führungskräften des Fitnessstudio und verdienen Sie ZRP. \nFitnessstufen werden alle 3 Tage zurückgesetzt",
     "one-trainer": "1 Trainer",
     "gym-deck": "Fitnessgrad"
+  },
+  "zerpmon-auto-manager": {
+    "description": "Konfigurieren Sie, welche Spielmodi, Decks und In-Game-Elemente vom Zerpmon Auto Manager verwendet werden sollen",
+    "history-description": "Schauen Sie sich die automatisierte Schlachtgeschichte und Belohnungen an, die durch die Kampfprotokolle gewonnen wurden",
+    "auto-renewal": "Automatische Erneuerung",
+    "auto-renewal-description": "Wenn ausgewählt wird, verlängert der Zerpmon Auto Manager das Abonnement nach Ablauf mit der Zerpwallet ohne Benutzerinteraktion",
+    "use-revive-potions": "Verwenden Sie täglich Revive Potions",
+    "how-many-revives": "Wie viele Wiederbelebungen?",
+    "select-revives-count": "Wählen Sie Revise Count",
+    "use-refill-potions": "Verwenden Sie täglich Nachfülltränke",
+    "how-many-refills": "Wie viele Nachfüllungen?",
+    "select-refills-count": "Wählen Sie Nachfüllzählung",
+    "xrp-mode": "XRP -Modus",
+    "xrp-mode-battle-count": "Battle Count?",
+    "select-xrp-mission-count": "Wählen Sie XRP Mission Count",
+    "select-deck": "Wählen Sie Deck",
+    "use-gym-refill": "Verwenden Sie täglich Fitnessfundierung",
+    "select-gym-refills-count": "Wählen Sie Fitnessstudio -Nachfüllungen zählen",
+    "pvp-description": "Dies wird mit den ersten 3 Spielern in allen Rangmodi ausgewählt und kämpfen.",
+    "note": "Hinweis: Um wie erwartet zu arbeiten",
+    "save": "Speichern",
+    "battle-history-unavailable": "Die Kampfgeschichte ist noch nicht verfügbar",
+    "day": "Tag",
+    "level-up-rewards": "Belohnungen steigen",
+    "view-battle": "Kampf anzeigen",
+    "missions-was-not-activated": "Missionen wurden nicht aktiviert",
+    "gyms-were-not-activated": "Fitnessstudios wurden nicht aktiviert",
+    "damage-dealt": "Schaden behandelt",
+    "world-boss-was-not-activated": "World Boss wurde nicht aktiviert",
+    "pvp-battles-was-not-activated": "PVP -Schlachten wurden nicht aktiviert",
+    "offchain-missions-was-not-activated": "Offchain -Missionen wurden nicht aktiviert",
+    "battle-logs": "Kampfprotokolle",
+    "could-not-fetch-battle-logs": "Konnten keine Kampfprotokolle holen",
+    "request-battle-log": "Fordern Sie ein Kampfprotokoll aus den oben genannten Schlachten an",
+    "won": "Won",
+    "lost": "Verloren",
+    "something-went-wrong": "Etwas lief schief",
+    "settings-updated": "Einstellungen aktualisiert"
   }
 }

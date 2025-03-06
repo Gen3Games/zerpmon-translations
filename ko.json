@@ -780,7 +780,7 @@
     "battle-free": "절대적으로 무료로 싸우십시오",
     "no-nfts-required": "NFT가 필요하지 않습니다",
     "offchain-nfts-not-allwed": "offchain nfts는 허용되지 않습니다",
-    "battle-not-started": ""
+    "battle-not-started": "전투는 아직 시작되지 않았습니다"
   },
   "test": {
     "test": "테스트입니다."
@@ -1685,5 +1685,43 @@
     "gym-description": "체육관 리더들과 함께 20 레벨에서 5 Zerpmon의 점점 더 힘든 팀과 대결하고 ZRP를 얻습니다. \n체육관 무대는 3 일마다 재설정됩니다",
     "one-trainer": "트레이너 1 명",
     "gym-deck": "체육관 데크"
+  },
+  "zerpmon-auto-manager": {
+    "description": "Zerpmon Auto Manager에서 사용해야 할 게임 모드, 데크 및 게임 내 항목을 구성하십시오.",
+    "history-description": "자동 전투 기록과 전투 로그를 통해 우승 한 보상을 확인하십시오.",
+    "auto-renewal": "자동 갱신",
+    "auto-renewal-description": "Zerpmon Auto Manager가 선택한 경우 사용자 상호 작용없이 Zerpwallet을 사용하여 만료 후 구독을 갱신합니다.",
+    "use-revive-potions": "매일 부활 물약을 사용하십시오",
+    "how-many-revives": "얼마나 많은 부활?",
+    "select-revives-count": "Revives Count를 선택하십시오",
+    "use-refill-potions": "매일 리필 물약을 사용하십시오",
+    "how-many-refills": "몇 개의 리필?",
+    "select-refills-count": "리필 수를 선택하십시오",
+    "xrp-mode": "XRP 모드",
+    "xrp-mode-battle-count": "XRP 모드 배틀 카운트?",
+    "select-xrp-mission-count": "XRP 미션 카운트를 선택하십시오",
+    "select-deck": "데크를 선택하십시오",
+    "use-gym-refill": "매일 체육관 리필을 사용하십시오",
+    "select-gym-refills-count": "체육관 리필 수를 선택하십시오",
+    "pvp-description": "이것은 모든 랭크 모드에서 처음 3 명의 플레이어 선택을 선택하고 전투합니다.",
+    "note": "참고 : 예상대로 작동하려면 관련 데크가 카드로 채워져 있고 재고에 충분한 물약이 있는지 확인하십시오.",
+    "save": "구하다",
+    "battle-history-unavailable": "전투 역사는 아직 사용할 수 없습니다",
+    "day": "낮",
+    "level-up-rewards": "레벨 업 보상",
+    "view-battle": "전투를 봅니다",
+    "missions-was-not-activated": "임무는 활성화되지 않았습니다",
+    "gyms-were-not-activated": "체육관은 활성화되지 않았습니다",
+    "damage-dealt": "손상 처리",
+    "world-boss-was-not-activated": "세계 보스는 활성화되지 않았습니다",
+    "pvp-battles-was-not-activated": "PVP 전투는 활성화되지 않았습니다",
+    "offchain-missions-was-not-activated": "Offchain 임무는 활성화되지 않았습니다",
+    "battle-logs": "전투 통나무",
+    "could-not-fetch-battle-logs": "배틀 로그를 가져올 수 없었습니다",
+    "request-battle-log": "위의 전투에서 전투 로그를 요청하십시오",
+    "won": "이겼다",
+    "lost": "잃어버린",
+    "something-went-wrong": "뭔가 잘못되었습니다",
+    "settings-updated": "설정이 업데이트되었습니다"
   }
 }

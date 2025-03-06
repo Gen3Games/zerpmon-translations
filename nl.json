@@ -332,7 +332,7 @@
     "battle-free": "Vecht het uit voor absoluut gratis",
     "no-nfts-required": "Geen NFT's vereist",
     "offchain-nfts-not-allwed": "Offchain nfts niet toegestaan",
-    "battle-not-started": ""
+    "battle-not-started": "De strijd is nog niet begonnen"
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -1685,5 +1685,43 @@
     "gym-description": "Toestaan ​​tegen steeds stoere teams van 5 Zerpmon over 20 niveaus samen met gymleiders en verdien ZRP. \nGymstadia gereset om de 3 dagen",
     "one-trainer": "1 trainer",
     "gym-deck": "Gymdek"
+  },
+  "zerpmon-auto-manager": {
+    "description": "Configureer welke gamemodi, decks en in-game items moeten worden gebruikt door de ZERPMon Auto Manager",
+    "history-description": "Bekijk de geautomatiseerde gevechtsgeschiedenis en beloningen gewonnen via de Battle Logs",
+    "auto-renewal": "Auto vernieuwing",
+    "auto-renewal-description": "Indien geselecteerd, zal de ZERPMon Auto Manager zijn abonnement vernieuwen na het vervallen met behulp van de ZERPWALLET zonder gebruikersinteractie",
+    "use-revive-potions": "Gebruik dagelijks Revive Potions",
+    "how-many-revives": "Hoeveel herleefden?",
+    "select-revives-count": "Selecteer Revives tellen",
+    "use-refill-potions": "Gebruik dagelijks vuldrankjes",
+    "how-many-refills": "Hoeveel vullingen?",
+    "select-refills-count": "Selecteer bijvullen tellen",
+    "xrp-mode": "XRP -modus",
+    "xrp-mode-battle-count": "XRP -modus Battle Count?",
+    "select-xrp-mission-count": "Selecteer XRP -missietelling",
+    "select-deck": "Selecteer dek",
+    "use-gym-refill": "Gebruik dagelijks de gymnebevulling",
+    "select-gym-refills-count": "Selecteer Gymnevees tellen",
+    "pvp-description": "Dit zal selecteren en vechten met de eerste 3 -spelerskeuzes in alle rangmodi.",
+    "note": "Opmerking: om te werken zoals verwacht, zorg er dan voor dat uw relevante decks zijn gevuld met kaarten en u heeft voldoende drankjes in uw inventaris",
+    "save": "Redden",
+    "battle-history-unavailable": "Battle History is nog niet beschikbaar",
+    "day": "Dag",
+    "level-up-rewards": "Registreer beloningen",
+    "view-battle": "Bekijk de strijd",
+    "missions-was-not-activated": "Missies zijn niet geactiveerd",
+    "gyms-were-not-activated": "Sportscholen werden niet geactiveerd",
+    "damage-dealt": "Schade toegebracht",
+    "world-boss-was-not-activated": "Wereldbaas is niet geactiveerd",
+    "pvp-battles-was-not-activated": "PVP -gevechten zijn niet geactiveerd",
+    "offchain-missions-was-not-activated": "Offchain -missies zijn niet geactiveerd",
+    "battle-logs": "Battle Logs",
+    "could-not-fetch-battle-logs": "Kon geen gevechtslogboeken ophalen",
+    "request-battle-log": "Vraag een gevechtslogboek aan bij de bovenstaande gevechten",
+    "won": "Won",
+    "lost": "Kwijt",
+    "something-went-wrong": "Er ging iets mis",
+    "settings-updated": "Instellingen bijgewerkt"
   }
 }
