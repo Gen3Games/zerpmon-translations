@@ -690,7 +690,18 @@
     "gold-candy-buff-info": "Verhoog de schade van Zerpmon's gouden aanval met ({percent}%)",
     "purple-candy-buff-info": "Verhoog de Purple Ability-sterren van Zerpmon met (1 ster)",
     "used-lvl-candy": "Je hebt {candyName} met succes gebruikt op {zerpmonName}. \nHet is nu niveau {lvl}!",
-    "offchain-candy-on-onchain-zerpmon": "Niet -verhandelbare snoepjes kunnen niet worden gebruikt op Onchain Zerpmon"
+    "offchain-candy-on-onchain-zerpmon": "Niet -verhandelbare snoepjes kunnen niet worden gebruikt op Onchain Zerpmon",
+    "used-battle-skip-pass": "Je hebt met succes de Skip Pass geactiveerd",
+    "error-battle-skip-pass": "Er is een fout opgetreden tijdens het activeren van de Skip Pass",
+    "used-zerpmon-auto-manager": "U hebt met succes geactiveerd Zerpmon Auto Manager",
+    "error-zerpmon-auto-manager": "Er is een fout opgetreden bij het activeren van Zerpmon Auto Manager",
+    "used-turbo-time-accelerator": "Je hebt met succes geactiveerd Turbo Time Accelerator",
+    "error-turbo-time-accelerator": "Er is een fout opgetreden tijdens het activeren van Turbo Time Accelerator",
+    "something-went-wrong": "Er ging iets mis. \nProbeer het opnieuw.",
+    "battle-skip-pass-active": "Battle Skip Pass is al actief",
+    "few-breeding-coupon-found": "Er zijn maar weinig broedingscoupons gevonden",
+    "zerpmon-auto-manager-active": "Zerpmon Auto Manager is al actief",
+    "turbo-time-accelerator-active": "Turbo Time Accelerator is al actief"
   },
   "leaderboard-table": {
     "close": "Dichtbij",

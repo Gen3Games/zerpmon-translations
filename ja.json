@@ -499,7 +499,18 @@
     "gold-candy-buff-info": "ザープモンのゴールドアタックのダメージを ({percent}%) 増加させます",
     "purple-candy-buff-info": "ザープモンの紫アビリティの星を(星1つ)増やす",
     "used-lvl-candy": "{zerpmonName} で {candyName} を正常に使用しました。\nレベル {lvl} になりました!",
-    "offchain-candy-on-onchain-zerpmon": "Onchain Zerpmonでは、非取引可能なキャンディーを使用することはできません"
+    "offchain-candy-on-onchain-zerpmon": "Onchain Zerpmonでは、非取引可能なキャンディーを使用することはできません",
+    "used-battle-skip-pass": "バトルスキップパスを正常にアクティブにしました",
+    "error-battle-skip-pass": "バトルスキップパスのアクティブ化中にエラーが発生しました",
+    "used-zerpmon-auto-manager": "Zerpmon Auto Managerを有効にアクティブにしました",
+    "error-zerpmon-auto-manager": "Zerpmon Auto Managerをアクティブにしてエラーが発生しました",
+    "used-turbo-time-accelerator": "ターボタイムアクセラレータを有効にアクティブにしました",
+    "error-turbo-time-accelerator": "ターボタイムアクセラレータのアクティブ化中にエラーが発生しました",
+    "something-went-wrong": "何かがうまくいかなかった。\nもう一度やり直してください。",
+    "battle-skip-pass-active": "バトルスキップパスはすでにアクティブです",
+    "few-breeding-coupon-found": "繁殖クーポンはほとんど見つかりませんでした",
+    "zerpmon-auto-manager-active": "Zerpmon Auto Managerはすでにアクティブです",
+    "turbo-time-accelerator-active": "ターボタイムアクセラレータはすでにアクティブです"
   },
   "safari": {
     "title": "サファリ",

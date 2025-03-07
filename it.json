@@ -690,7 +690,18 @@
     "gold-candy-buff-info": "Aumenta i danni dell'attacco dorato di Zerpmon del ({percent}%)",
     "purple-candy-buff-info": "Aumenta le stelle dell'abilità viola di Zerpmon di (1 stella)",
     "used-lvl-candy": "Hai utilizzato con successo {candyName} su {zerpmonName}. \nOra è al livello {lvl}!",
-    "offchain-candy-on-onchain-zerpmon": "Le caramelle non negoziabili non possono essere utilizzate su Onchain Zerpmon"
+    "offchain-candy-on-onchain-zerpmon": "Le caramelle non negoziabili non possono essere utilizzate su Onchain Zerpmon",
+    "used-battle-skip-pass": "Hai attivato con successo Battle Skip Pass",
+    "error-battle-skip-pass": "Si è verificato un errore durante l'attivazione del pass Battle Skip",
+    "used-zerpmon-auto-manager": "Hai attivato con successo Zerpmon Auto Manager",
+    "error-zerpmon-auto-manager": "Si è verificato un errore durante l'attivazione di Zerpmon Auto Manager",
+    "used-turbo-time-accelerator": "Hai attivato con successo l'acceleratore di tempo turbo",
+    "error-turbo-time-accelerator": "Si è verificato un errore durante l'attivazione dell'acceleratore del tempo turbo",
+    "something-went-wrong": "Qualcosa è andato storto. \nPer favore riprova.",
+    "battle-skip-pass-active": "Battle Skip Pass è già attivo",
+    "few-breeding-coupon-found": "Pochi coupon di riproduzione trovati",
+    "zerpmon-auto-manager-active": "Zerpmon Auto Manager è già attivo",
+    "turbo-time-accelerator-active": "Turbo Time Accelerator è già attivo"
   },
   "leaderboard-table": {
     "close": "Vicino",

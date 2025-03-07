@@ -499,7 +499,18 @@
     "gold-candy-buff-info": "Aumenta el daño del ataque dorado de Zerpmon en un ({percent}%)",
     "purple-candy-buff-info": "Aumentar las estrellas de habilidad púrpura de Zerpmon en (1 estrella)",
     "used-lvl-candy": "Has utilizado {candyName} con éxito en {zerpmonName}. \n¡Ahora es el nivel {lvl}!",
-    "offchain-candy-on-onchain-zerpmon": "Los dulces no comerciables no se pueden usar en Onchain Zerpmon"
+    "offchain-candy-on-onchain-zerpmon": "Los dulces no comerciables no se pueden usar en Onchain Zerpmon",
+    "used-battle-skip-pass": "Has activado con éxito Battle Skip Pass",
+    "error-battle-skip-pass": "Se produjo un error al activar Battle Skip Pass",
+    "used-zerpmon-auto-manager": "Ha activado con éxito Zerpmon Auto Manager",
+    "error-zerpmon-auto-manager": "Se produjo un error al activar Zerpmon Auto Manager",
+    "used-turbo-time-accelerator": "Ha activado con éxito el acelerador de tiempo turbo",
+    "error-turbo-time-accelerator": "Se produjo un error al activar el acelerador de tiempo turbo",
+    "something-went-wrong": "Algo salió mal. \nPor favor intente de nuevo.",
+    "battle-skip-pass-active": "Battle Skip Pass ya está activo",
+    "few-breeding-coupon-found": "Pocos cupones de reproducción encontrados",
+    "zerpmon-auto-manager-active": "Zerpmon Auto Manager ya está activo",
+    "turbo-time-accelerator-active": "Turbo Time Acelerator ya está activo"
   },
   "safari": {
     "title": "Safari",

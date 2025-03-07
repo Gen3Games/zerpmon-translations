@@ -576,7 +576,18 @@
     "gold-candy-buff-info": "Augmente les dégâts de l'attaque dorée de Zerpmon de ({percent}%)",
     "purple-candy-buff-info": "Augmente les étoiles de capacité violette de Zerpmon de (1 étoile)",
     "used-lvl-candy": "Vous avez utilisé avec succès {candyName} sur {zerpmonName}. \nIl est désormais niveau {lvl} !",
-    "offchain-candy-on-onchain-zerpmon": "Les bonbons non négociables ne peuvent pas être utilisés sur onchain zerpmon"
+    "offchain-candy-on-onchain-zerpmon": "Les bonbons non négociables ne peuvent pas être utilisés sur onchain zerpmon",
+    "used-battle-skip-pass": "Vous avez réussi à activer Battle Skip Pass",
+    "error-battle-skip-pass": "Une erreur s'est produite lors de l'activation de Battle Skip Pass",
+    "used-zerpmon-auto-manager": "Vous avez activé avec succès Zerpmon Auto Manager",
+    "error-zerpmon-auto-manager": "Une erreur s'est produite lors de l'activation du gestionnaire d'auto Zerpmon",
+    "used-turbo-time-accelerator": "Vous avez activé avec succès l'accélérateur de temps turbo",
+    "error-turbo-time-accelerator": "Une erreur s'est produite lors de l'activation de l'accélérateur de temps turbo",
+    "something-went-wrong": "Quelque chose s'est mal passé. \nVeuillez réessayer.",
+    "battle-skip-pass-active": "Battle Skip Pass est déjà actif",
+    "few-breeding-coupon-found": "Peu de coupons de reproduction trouvés",
+    "zerpmon-auto-manager-active": "Zerpmon Auto Manager est déjà actif",
+    "turbo-time-accelerator-active": "L'accélérateur Turbo Time est déjà actif"
   },
   "leaderboard-table": {
     "close": "Fermer",

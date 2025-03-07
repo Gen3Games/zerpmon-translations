@@ -499,7 +499,18 @@
     "gold-candy-buff-info": "Increase Zerpmon's Gold Attack damage by ({percent}%)",
     "purple-candy-buff-info": "Increase Zerpmon's Purple Ability stars by (1 star)",
     "used-lvl-candy": "You have successfully used {candyName} on {zerpmonName}. It is now level {lvl}!",
-    "offchain-candy-on-onchain-zerpmon": "Non tradeable candies cannot be used on onchain Zerpmon"
+    "offchain-candy-on-onchain-zerpmon": "Non tradeable candies cannot be used on onchain Zerpmon",
+    "used-battle-skip-pass": "You have successfully activate Battle Skip Pass",
+    "error-battle-skip-pass": "An error occured while activating Battle Skip Pass",
+    "used-zerpmon-auto-manager": "You have successfully activated Zerpmon Auto Manager",
+    "error-zerpmon-auto-manager": "An error occured while activating Zerpmon Auto Manager",
+    "used-turbo-time-accelerator": "You have successfully activated Turbo Time Accelerator",
+    "error-turbo-time-accelerator": "An error occured while activating Turbo Time Accelerator",
+    "something-went-wrong": "Something went wrong. Please try again.",
+    "battle-skip-pass-active": "Battle Skip Pass is already active",
+    "few-breeding-coupon-found": "Few Breeding Coupons Found",
+    "zerpmon-auto-manager-active": "Zerpmon Auto Manager is already active",
+    "turbo-time-accelerator-active": "Turbo Time Accelerator is already active"
   },
   "safari": {
     "title": "Safari",

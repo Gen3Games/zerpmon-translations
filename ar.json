@@ -713,7 +713,18 @@
     "xp-gain": "كسب XP",
     "xp-waste": "نفايات XP",
     "zerpmon-maxed-out": "لقد بلغ Zerpmon الحد الأقصى بالفعل",
-    "offchain-candy-on-onchain-zerpmon": "لا يمكن استخدام الحلوى غير القابلة للتداول على Onchain Zerpmon"
+    "offchain-candy-on-onchain-zerpmon": "لا يمكن استخدام الحلوى غير القابلة للتداول على Onchain Zerpmon",
+    "used-battle-skip-pass": "لقد نجحت في تنشيط Battle Skip Pass",
+    "error-battle-skip-pass": "حدث خطأ أثناء تنشيط معركة Skip Pass",
+    "used-zerpmon-auto-manager": "لقد نجحت في تنشيط Zerpmon Auto Manager",
+    "error-zerpmon-auto-manager": "حدث خطأ أثناء تنشيط Zerpmon Auto Manager",
+    "used-turbo-time-accelerator": "لقد نجحت في تنشيط مسرع وقت توربو",
+    "error-turbo-time-accelerator": "حدث خطأ أثناء تنشيط مسرع وقت توربو",
+    "something-went-wrong": "حدث خطأ ما. \nمن فضلك حاول مرة أخرى.",
+    "battle-skip-pass-active": "Battle Skip Pass نشط بالفعل",
+    "few-breeding-coupon-found": "وجدت عدد قليل من القسائم التكاثر",
+    "zerpmon-auto-manager-active": "Zerpmon Auto Manager نشط بالفعل",
+    "turbo-time-accelerator-active": "مسرع وقت توربو نشط بالفعل"
   },
   "leaderboard-table": {
     "close": "يغلق",

@@ -499,7 +499,18 @@
     "gold-candy-buff-info": "저르몬의 골드 어택 데미지를 ({percent}%) 증가시킵니다",
     "purple-candy-buff-info": "Zermon의 보라색 능력 별을 (별 1개) 늘립니다.",
     "used-lvl-candy": "{zerpmonName}에서 {candyName}을(를) 성공적으로 사용했습니다. \n이제 레벨이 {lvl}입니다!",
-    "offchain-candy-on-onchain-zerpmon": "무역 할 수없는 사탕은 Onchain Zerpmon에서 사용할 수 없습니다"
+    "offchain-candy-on-onchain-zerpmon": "무역 할 수없는 사탕은 Onchain Zerpmon에서 사용할 수 없습니다",
+    "used-battle-skip-pass": "당신은 Battle Skip Pass를 성공적으로 활성화했습니다",
+    "error-battle-skip-pass": "Battle Skip Pass를 활성화하는 동안 오류가 발생했습니다",
+    "used-zerpmon-auto-manager": "Zerpmon Auto Manager를 성공적으로 활성화했습니다",
+    "error-zerpmon-auto-manager": "Zerpmon Auto Manager를 활성화하는 동안 오류가 발생했습니다",
+    "used-turbo-time-accelerator": "터보 시간 가속기를 성공적으로 활성화했습니다",
+    "error-turbo-time-accelerator": "터보 시간 가속기를 활성화하는 동안 오류가 발생했습니다",
+    "something-went-wrong": "뭔가 잘못되었습니다. \n다시 시도하십시오.",
+    "battle-skip-pass-active": "Battle Skip Pass는 이미 활성화되었습니다",
+    "few-breeding-coupon-found": "번식 쿠폰은 거의 없습니다",
+    "zerpmon-auto-manager-active": "Zerpmon Auto Manager는 이미 활동 중입니다",
+    "turbo-time-accelerator-active": "터보 타임 가속기가 이미 활성화되어 있습니다"
   },
   "safari": {
     "title": "사파리",

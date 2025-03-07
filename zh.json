@@ -499,7 +499,18 @@
     "gold-candy-buff-info": "泽拉普兽的黄金攻击力增加 ({percent}%)",
     "purple-candy-buff-info": "泽拉普兽紫色能力星数增加（1星）",
     "used-lvl-candy": "您已在 {zerpmonName} 上成功使用了 {candyName}。\n现在是{lvl}级！",
-    "offchain-candy-on-onchain-zerpmon": "不可交易的糖果不能用于OnChain Zerpmon"
+    "offchain-candy-on-onchain-zerpmon": "不可交易的糖果不能用于OnChain Zerpmon",
+    "used-battle-skip-pass": "您已经成功激活了战斗跳过",
+    "error-battle-skip-pass": "激活战斗跳过时发生了错误",
+    "used-zerpmon-auto-manager": "您已经成功激活了Zerpmon Auto Manager",
+    "error-zerpmon-auto-manager": "激活zerpmon自动管理器时发生错误",
+    "used-turbo-time-accelerator": "您已经成功激活了涡轮时间加速器",
+    "error-turbo-time-accelerator": "激活涡轮时间加速器时发生错误",
+    "something-went-wrong": "出了点问题。\n请重试。",
+    "battle-skip-pass-active": "战斗跳过已经活跃",
+    "few-breeding-coupon-found": "很少有繁殖优惠券",
+    "zerpmon-auto-manager-active": "Zerpmon Auto Manager已经活跃",
+    "turbo-time-accelerator-active": "Turbo Time Accelerator已经活跃"
   },
   "safari": {
     "title": "Safari探险",

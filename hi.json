@@ -690,7 +690,18 @@
     "gold-candy-buff-info": "ज़ेरपमोन के गोल्ड अटैक क्षति को ({प्रतिशत}%) बढ़ाएँ",
     "purple-candy-buff-info": "ज़ेरपमोन के पर्पल एबिलिटी स्टार्स को (1 स्टार) बढ़ाएँ",
     "used-lvl-candy": "आपने {zerpmonName} पर {candyName} का सफलतापूर्वक उपयोग किया है। \nयह अब स्तर {lvl} है!",
-    "offchain-candy-on-onchain-zerpmon": "गैर -पारंपरिक कैंडीज का उपयोग onchain zerpmon पर नहीं किया जा सकता है"
+    "offchain-candy-on-onchain-zerpmon": "गैर -पारंपरिक कैंडीज का उपयोग onchain zerpmon पर नहीं किया जा सकता है",
+    "used-battle-skip-pass": "आपने बैटल स्किप पास को सफलतापूर्वक सक्रिय किया है",
+    "error-battle-skip-pass": "बैटल स्किप पास को सक्रिय करते हुए एक त्रुटि हुई",
+    "used-zerpmon-auto-manager": "आपने सफलतापूर्वक Zerpmon ऑटो मैनेजर को सक्रिय किया है",
+    "error-zerpmon-auto-manager": "Zerpmon ऑटो मैनेजर को सक्रिय करते समय एक त्रुटि हुई",
+    "used-turbo-time-accelerator": "आपने टर्बो टाइम एक्सेलेरेटर को सफलतापूर्वक सक्रिय किया है",
+    "error-turbo-time-accelerator": "टर्बो समय त्वरक को सक्रिय करते समय एक त्रुटि हुई",
+    "something-went-wrong": "कुछ गलत हो गया। \nकृपया पुन: प्रयास करें।",
+    "battle-skip-pass-active": "बैटल स्किप पास पहले से ही सक्रिय है",
+    "few-breeding-coupon-found": "कुछ प्रजनन कूपन पाए गए",
+    "zerpmon-auto-manager-active": "Zerpmon ऑटो मैनेजर पहले से ही सक्रिय है",
+    "turbo-time-accelerator-active": "टर्बो समय त्वरक पहले से ही सक्रिय है"
   },
   "leaderboard-table": {
     "close": "बंद करना",
