@@ -1046,7 +1046,8 @@
     "user-tag-not-found": "找不到用户标签",
     "not-enough-zrp-balance": "ZerpWallet 中的 ZRP 余额不足",
     "zerp-wallet-pending-withdrawal": "请在待处理的提款请求完成后重试",
-    "invalid-per-day-cost": "每日费用无效"
+    "invalid-per-day-cost": "每日费用无效",
+    "cancelled-listing-still-active": ""
   },
   "notifications": {
     "notifications": "通告",

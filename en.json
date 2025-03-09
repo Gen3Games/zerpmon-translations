@@ -1046,7 +1046,8 @@
     "user-tag-not-found": "Could not find user tag",
     "not-enough-zrp-balance": "Not enough ZRP balance in ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Please try again after your pending withdrawal request has completed",
-    "invalid-per-day-cost": "Per day cost is invalid"
+    "invalid-per-day-cost": "Per day cost is invalid",
+    "cancelled-listing-still-active": "Unable to list cancelled loan on the same day, please wait till next reset"
   },
   "notifications": {
     "notifications": "Notifications",

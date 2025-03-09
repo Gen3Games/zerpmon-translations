@@ -413,7 +413,8 @@
     "user-tag-not-found": "Impossibile trovare il tag utente",
     "not-enough-zrp-balance": "Saldo ZRP insufficiente in ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Riprova una volta completata la richiesta di prelievo in sospeso",
-    "invalid-per-day-cost": "Il costo giornaliero non è valido"
+    "invalid-per-day-cost": "Il costo giornaliero non è valido",
+    "cancelled-listing-still-active": ""
   },
   "decks": {
     "add-battle-deck": "Aggiungi mazzo da battaglia",

@@ -413,7 +413,8 @@
     "user-tag-not-found": "Kan gebruikerstag niet vinden",
     "not-enough-zrp-balance": "Niet genoeg ZRP-saldo in ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Probeer het opnieuw nadat uw lopende opnameverzoek is voltooid",
-    "invalid-per-day-cost": "De kosten per dag zijn ongeldig"
+    "invalid-per-day-cost": "De kosten per dag zijn ongeldig",
+    "cancelled-listing-still-active": ""
   },
   "decks": {
     "add-battle-deck": "Voeg gevechtsdek toe",

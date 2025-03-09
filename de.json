@@ -1046,7 +1046,8 @@
     "user-tag-not-found": "Benutzername nicht auffindbar",
     "not-enough-zrp-balance": "Nicht ausreicendes ZRP-Guthaben im ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Bitte versuche es noch einmal, sobald deine ausstehendee Auszahlungsanfrage abgeschlossen ist",
-    "invalid-per-day-cost": "Die Kosten pro Tag sind ungültig"
+    "invalid-per-day-cost": "Die Kosten pro Tag sind ungültig",
+    "cancelled-listing-still-active": ""
   },
   "notifications": {
     "notifications": "Benachrichtigungen",
