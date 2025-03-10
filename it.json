@@ -414,7 +414,7 @@
     "not-enough-zrp-balance": "Saldo ZRP insufficiente in ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Riprova una volta completata la richiesta di prelievo in sospeso",
     "invalid-per-day-cost": "Il costo giornaliero non è valido",
-    "cancelled-listing-still-active": ""
+    "cancelled-listing-still-active": "Impossibile elencare il prestito cancellato lo stesso giorno, attendere fino al prossimo ripristino"
   },
   "decks": {
     "add-battle-deck": "Aggiungi mazzo da battaglia",
@@ -1196,7 +1196,8 @@
     "achievements": "Risultati",
     "referral-code": "Codice di riferimento",
     "cannot-unlink-primary-wallet": "Non può ungare il portafoglio primario",
-    "user-not-found": "Utente non trovato"
+    "user-not-found": "Utente non trovato",
+    "progress": "Progressi"
   },
   "world-boss": {
     "battled-today": "Combattuto oggi",

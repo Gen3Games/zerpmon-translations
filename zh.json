@@ -141,7 +141,8 @@
     "achievements": "成就",
     "referral-code": "推荐代码",
     "cannot-unlink-primary-wallet": "无法解开主钱包",
-    "user-not-found": "找不到用户"
+    "user-not-found": "找不到用户",
+    "progress": "进步"
   },
   "edit-profile": {
     "view-public-profile": "查看公开资料",
@@ -1047,7 +1048,7 @@
     "not-enough-zrp-balance": "ZerpWallet 中的 ZRP 余额不足",
     "zerp-wallet-pending-withdrawal": "请在待处理的提款请求完成后重试",
     "invalid-per-day-cost": "每日费用无效",
-    "cancelled-listing-still-active": ""
+    "cancelled-listing-still-active": "无法在同一天列出取消贷款，请等到下一个重置"
   },
   "notifications": {
     "notifications": "通告",

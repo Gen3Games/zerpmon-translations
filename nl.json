@@ -414,7 +414,7 @@
     "not-enough-zrp-balance": "Niet genoeg ZRP-saldo in ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Probeer het opnieuw nadat uw lopende opnameverzoek is voltooid",
     "invalid-per-day-cost": "De kosten per dag zijn ongeldig",
-    "cancelled-listing-still-active": ""
+    "cancelled-listing-still-active": "Wacht tot de volgende reset niet in staat om de geannuleerde lening op dezelfde dag te vermelden"
   },
   "decks": {
     "add-battle-deck": "Voeg gevechtsdek toe",
@@ -1196,7 +1196,8 @@
     "achievements": "Prestaties",
     "referral-code": "Verwijzingscode",
     "cannot-unlink-primary-wallet": "Kan de primaire portemonnee niet ontkoppelen",
-    "user-not-found": "Gebruiker niet gevonden"
+    "user-not-found": "Gebruiker niet gevonden",
+    "progress": "Voortgang"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Aanvallend",

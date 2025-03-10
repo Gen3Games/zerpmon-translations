@@ -414,7 +414,7 @@
     "user-tag-not-found": "تعذر العثور على علامة المستخدم",
     "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق",
     "invalid-per-day-cost": "التكلفة اليومية غير صالحة",
-    "cancelled-listing-still-active": ""
+    "cancelled-listing-still-active": "غير قادر على إدراج القرض الملغى في نفس اليوم ، يرجى الانتظار حتى إعادة التعيين التالي"
   },
   "decks": {
     "add-battle-deck": "أضف مجموعة المعركة",
@@ -1351,7 +1351,8 @@
     "achievements": "الإنجازات",
     "referral-code": "رمز الإحالة",
     "cannot-unlink-primary-wallet": "لا يمكن إلغاء ربط المحفظة الأولية",
-    "user-not-found": "لم يتم العثور على المستخدم"
+    "user-not-found": "لم يتم العثور على المستخدم",
+    "progress": "تقدم"
   },
   "wallet": {
     "address-copied": "تم نسخ العنوان",

@@ -414,7 +414,7 @@
     "not-enough-zrp-balance": "ZerpWallet में पर्याप्त ZRP बैलेंस नहीं है",
     "zerp-wallet-pending-withdrawal": "कृपया आपका लंबित निकासी अनुरोध पूरा होने के बाद पुनः प्रयास करें",
     "invalid-per-day-cost": "प्रति दिन की लागत अमान्य है",
-    "cancelled-listing-still-active": ""
+    "cancelled-listing-still-active": "उसी दिन रद्द किए गए ऋण को सूचीबद्ध करने में असमर्थ, कृपया अगले रीसेट तक प्रतीक्षा करें"
   },
   "decks": {
     "add-battle-deck": "बैटल डेक जोड़ें",
@@ -1196,7 +1196,8 @@
     "achievements": "उपलब्धियों",
     "referral-code": "रेफरल कोड",
     "cannot-unlink-primary-wallet": "प्राथमिक वॉलेट को अनलिंक नहीं कर सकते",
-    "user-not-found": "उपयोगकर्ता नहीं मिला"
+    "user-not-found": "उपयोगकर्ता नहीं मिला",
+    "progress": "प्रगति"
   },
   "world-boss": {
     "battled-today": "आज संघर्ष किया",

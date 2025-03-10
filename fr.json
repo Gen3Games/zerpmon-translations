@@ -329,7 +329,7 @@
     "not-enough-zrp-balance": "Pas assez de solde ZRP dans ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Veuillez réessayer une fois votre demande de retrait en attente terminée.",
     "invalid-per-day-cost": "Le coût journalier n'est pas valide",
-    "cancelled-listing-still-active": ""
+    "cancelled-listing-still-active": "Impossible de répertorier le prêt annulé le même jour, veuillez attendre la réinitialisation suivante"
   },
   "decks": {
     "add-battle-deck": "Ajouter un deck de combat",
@@ -1067,7 +1067,8 @@
     "achievements": "Réalisations",
     "referral-code": "Code de référence",
     "cannot-unlink-primary-wallet": "Impossible de dissocier le portefeuille primaire",
-    "user-not-found": "Utilisateur introuvable"
+    "user-not-found": "Utilisateur introuvable",
+    "progress": "Progrès"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaquer",

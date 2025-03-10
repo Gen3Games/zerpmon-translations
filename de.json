@@ -141,7 +141,8 @@
     "achievements": "Erfolge",
     "referral-code": "Überweisungscode",
     "cannot-unlink-primary-wallet": "Die Primärbrieftasche kann nicht verkleinert werden",
-    "user-not-found": "Benutzer nicht gefunden"
+    "user-not-found": "Benutzer nicht gefunden",
+    "progress": "Fortschritt"
   },
   "edit-profile": {
     "view-public-profile": "Öffentliches Profil anzeigen",
@@ -1047,7 +1048,7 @@
     "not-enough-zrp-balance": "Nicht ausreicendes ZRP-Guthaben im ZerpWallet",
     "zerp-wallet-pending-withdrawal": "Bitte versuche es noch einmal, sobald deine ausstehendee Auszahlungsanfrage abgeschlossen ist",
     "invalid-per-day-cost": "Die Kosten pro Tag sind ungültig",
-    "cancelled-listing-still-active": ""
+    "cancelled-listing-still-active": "Bitte warten Sie bis zum nächsten Reset, bis zum nächsten Zurücksetzen abgebrochen werden kann"
   },
   "notifications": {
     "notifications": "Benachrichtigungen",

@@ -141,7 +141,8 @@
     "achievements": "Achievements",
     "referral-code": "Referral Code",
     "cannot-unlink-primary-wallet": "Cannot unlink primary wallet",
-    "user-not-found": "User not found"
+    "user-not-found": "User not found",
+    "progress": "Progress"
   },
   "edit-profile": {
     "view-public-profile": "View Public Profile",

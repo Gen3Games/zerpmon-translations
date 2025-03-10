@@ -141,7 +141,8 @@
     "achievements": "업적",
     "referral-code": "추천 코드",
     "cannot-unlink-primary-wallet": "기본 지갑을 풀 수 없습니다",
-    "user-not-found": "사용자는 찾을 수 없습니다"
+    "user-not-found": "사용자는 찾을 수 없습니다",
+    "progress": "진전"
   },
   "edit-profile": {
     "view-public-profile": "공개 프로필 보기",
@@ -1047,7 +1048,7 @@
     "not-enough-zrp-balance": "ZerpWallet에 ZRP 잔액이 충분하지 않습니다.",
     "zerp-wallet-pending-withdrawal": "보류 중인 출금 요청이 완료된 후 다시 시도하십시오.",
     "invalid-per-day-cost": "일일 비용이 잘못되었습니다.",
-    "cancelled-listing-still-active": ""
+    "cancelled-listing-still-active": "같은 날 취소 된 대출을 나열 할 수 없으면 다음 재설정까지 기다리십시오."
   },
   "notifications": {
     "notifications": "알림",

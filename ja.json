@@ -141,7 +141,8 @@
     "achievements": "成果",
     "referral-code": "紹介コード",
     "cannot-unlink-primary-wallet": "プライマリウォレットをリンクできません",
-    "user-not-found": "ユーザーが見つかりません"
+    "user-not-found": "ユーザーが見つかりません",
+    "progress": "進捗"
   },
   "edit-profile": {
     "view-public-profile": "公開プロフィールを見る",
@@ -1047,7 +1048,7 @@
     "not-enough-zrp-balance": "ザープウォレットのZRP残高が足りません",
     "zerp-wallet-pending-withdrawal": "保留中の出金リクエストが完了してからもう一度お試しください",
     "invalid-per-day-cost": "1 日あたりのコストが無効です",
-    "cancelled-listing-still-active": ""
+    "cancelled-listing-still-active": "同じ日にキャンセルされたローンをリストできない場合は、次のリセットまで待ってください"
   },
   "notifications": {
     "notifications": "通知",
