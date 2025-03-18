@@ -1735,6 +1735,7 @@
     "won": "이겼다",
     "lost": "잃어버린",
     "something-went-wrong": "뭔가 잘못되었습니다",
-    "settings-updated": "설정이 업데이트되었습니다"
+    "settings-updated": "설정이 업데이트되었습니다",
+    "battle-royale-description": "이것은 플레이어가 진행중인 모든 것에 들어갑니다"
   }
 }

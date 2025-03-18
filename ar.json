@@ -1735,6 +1735,7 @@
     "won": "فاز",
     "lost": "ضائع",
     "something-went-wrong": "حدث خطأ ما",
-    "settings-updated": "الإعدادات تحديث"
+    "settings-updated": "الإعدادات تحديث",
+    "battle-royale-description": "سيؤدي هذا إلى إدخال اللاعب في كل ما يستمر"
   }
 }

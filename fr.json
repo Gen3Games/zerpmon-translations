@@ -1735,6 +1735,7 @@
     "won": "Gagné",
     "lost": "Perdu",
     "something-went-wrong": "Quelque chose s'est mal passé",
-    "settings-updated": "Paramètres mis à jour"
+    "settings-updated": "Paramètres mis à jour",
+    "battle-royale-description": "Cela entrera dans le joueur dans tous les"
   }
 }

@@ -1735,6 +1735,7 @@
     "won": "Won",
     "lost": "Lost",
     "something-went-wrong": "Something went wrong",
-    "settings-updated": "Settings Updated"
+    "settings-updated": "Settings Updated",
+    "battle-royale-description": "This will enter the player into all the ongoing"
   }
 }

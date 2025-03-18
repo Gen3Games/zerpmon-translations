@@ -1735,6 +1735,7 @@
     "won": "勝利した",
     "lost": "失った",
     "something-went-wrong": "何かがうまくいかなかった",
-    "settings-updated": "更新された設定"
+    "settings-updated": "更新された設定",
+    "battle-royale-description": "これにより、プレーヤーが進行中のすべてに入ります"
   }
 }
