@@ -992,7 +992,8 @@
     "loan-price": "Precio del préstamo: {price} ZRP por día",
     "loan-expires-in": "El préstamo vence en: {days} días",
     "not-signed-in": "No firmado en",
-    "no-loan-listed": "No hay préstamo en la lista"
+    "no-loan-listed": "No hay préstamo en la lista",
+    "loan-price-xrp": ""
   },
   "create-listing": {
     "not-signed-in": "Sin iniciar sesión",

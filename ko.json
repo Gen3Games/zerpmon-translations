@@ -992,7 +992,8 @@
     "loan-price": "대출 가격 : 일일 {price} ZRP",
     "loan-expires-in": "대출 만료일: {days}일",
     "not-signed-in": "로그인하지 않았습니다",
-    "no-loan-listed": "대출이 나열되지 않았습니다"
+    "no-loan-listed": "대출이 나열되지 않았습니다",
+    "loan-price-xrp": ""
   },
   "create-listing": {
     "not-signed-in": "로그인하지 않았습니다",

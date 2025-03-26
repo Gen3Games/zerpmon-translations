@@ -853,7 +853,8 @@
     "user-tag-not-found": "تعذر العثور على علامة المستخدم",
     "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق",
     "not-signed-in": "لم يتم تسجيل الدخول",
-    "no-loan-listed": "لم يتم إدراج قرض"
+    "no-loan-listed": "لم يتم إدراج قرض",
+    "loan-price-xrp": ""
   },
   "marketplace": {
     "accept-loan": "يُقرض",

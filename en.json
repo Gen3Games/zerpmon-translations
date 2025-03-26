@@ -992,7 +992,8 @@
     "loan-price": "Loan Price : {price} ZRP per day",
     "loan-expires-in": "Loan Expires In : {days} days",
     "not-signed-in": "Not signed in",
-    "no-loan-listed": "No loan listed"
+    "no-loan-listed": "No loan listed",
+    "loan-price-xrp": "Loan Price : {price} XRP per day"
   },
   "create-listing": {
     "not-signed-in": "Not logged in",

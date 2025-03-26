@@ -826,7 +826,8 @@
     "loan-price": "Leenprijs: {price} ZRP per dag",
     "loan-expires-in": "Lening vervalt over: {days} dagen",
     "not-signed-in": "Niet aangemeld",
-    "no-loan-listed": "Geen lening vermeld"
+    "no-loan-listed": "Geen lening vermeld",
+    "loan-price-xrp": ""
   },
   "marketplace": {
     "accept-loan": "Lening",

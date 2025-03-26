@@ -826,7 +826,8 @@
     "loan-price": "ऋण मूल्य : {कीमत} ZRP प्रति दिन",
     "loan-expires-in": "ऋण की समाप्ति तिथि : {दिन} दिन है",
     "not-signed-in": "प्रवेश नहीं किया",
-    "no-loan-listed": "कोई ऋण सूचीबद्ध नहीं"
+    "no-loan-listed": "कोई ऋण सूचीबद्ध नहीं",
+    "loan-price-xrp": ""
   },
   "marketplace": {
     "accept-loan": "ऋृण",

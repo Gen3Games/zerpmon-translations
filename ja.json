@@ -992,7 +992,8 @@
     "loan-price": "ローン価格 : 1 日あたり {price} ZRP",
     "loan-expires-in": "ローンの有効期限: {days} 日",
     "not-signed-in": "サインインしていません",
-    "no-loan-listed": "ローンはリストされていません"
+    "no-loan-listed": "ローンはリストされていません",
+    "loan-price-xrp": ""
   },
   "create-listing": {
     "not-signed-in": "ログインしていない",

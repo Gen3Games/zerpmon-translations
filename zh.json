@@ -992,7 +992,8 @@
     "loan-price": "贷款价格：每天 {price} ZRP",
     "loan-expires-in": "贷款到期时间：{days} 天",
     "not-signed-in": "未签名",
-    "no-loan-listed": "未列出贷款"
+    "no-loan-listed": "未列出贷款",
+    "loan-price-xrp": ""
   },
   "create-listing": {
     "not-signed-in": "未登录",

@@ -712,7 +712,8 @@
     "loan-price": "Prix ​​du prêt : {price} ZRP par jour",
     "loan-expires-in": "Le prêt expire dans : {days} jours",
     "not-signed-in": "Non signé",
-    "no-loan-listed": "Aucun prêt répertorié"
+    "no-loan-listed": "Aucun prêt répertorié",
+    "loan-price-xrp": ""
   },
   "marketplace": {
     "accept-loan": "Prêt",

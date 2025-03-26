@@ -992,7 +992,8 @@
     "loan-price": "Leihkosten : {price} ZRP pro Tag",
     "loan-expires-in": "Leihangebot läuft ab in : {days} Tag/en",
     "not-signed-in": "Nicht signiert",
-    "no-loan-listed": "Kein Darlehen aufgelistet"
+    "no-loan-listed": "Kein Darlehen aufgelistet",
+    "loan-price-xrp": ""
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",
