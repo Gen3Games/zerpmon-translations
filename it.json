@@ -334,7 +334,8 @@
     "offchain-nfts-not-allwed": "Nfts offchain non consentito",
     "battle-not-started": "La battaglia non è ancora iniziata",
     "pvp-tournament-full": "Il torneo è pieno",
-    "already-entered-tournament": "Già entrato in torneo"
+    "already-entered-tournament": "Già entrato in torneo",
+    "weather-buff-applied": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

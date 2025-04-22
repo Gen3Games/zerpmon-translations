@@ -794,7 +794,8 @@
     "offchain-nfts-not-allwed": "オフチェーンNFTは許可されていません",
     "battle-not-started": "戦いはまだ始まっていません",
     "pvp-tournament-full": "トーナメントはいっぱいです",
-    "already-entered-tournament": "すでにトーナメントに参加しています"
+    "already-entered-tournament": "すでにトーナメントに参加しています",
+    "weather-buff-applied": ""
   },
   "test": {
     "test": "これはテストです"

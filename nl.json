@@ -334,7 +334,8 @@
     "offchain-nfts-not-allwed": "Offchain nfts niet toegestaan",
     "battle-not-started": "De strijd is nog niet begonnen",
     "pvp-tournament-full": "Toernooi is vol",
-    "already-entered-tournament": "Al in toernooi ingevoerd"
+    "already-entered-tournament": "Al in toernooi ingevoerd",
+    "weather-buff-applied": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

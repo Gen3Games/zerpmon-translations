@@ -794,7 +794,8 @@
     "offchain-nfts-not-allwed": "No se permiten NFTS de cadena",
     "battle-not-started": "La batalla aún no ha comenzado",
     "pvp-tournament-full": "El torneo está lleno",
-    "already-entered-tournament": "Torneo ya ingresado"
+    "already-entered-tournament": "Torneo ya ingresado",
+    "weather-buff-applied": ""
   },
   "test": {
     "test": "esto es un test"

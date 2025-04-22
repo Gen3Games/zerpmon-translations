@@ -794,7 +794,8 @@
     "offchain-nfts-not-allwed": "offchain nfts는 허용되지 않습니다",
     "battle-not-started": "전투는 아직 시작되지 않았습니다",
     "pvp-tournament-full": "토너먼트가 가득합니다",
-    "already-entered-tournament": "이미 토너먼트에 참가했습니다"
+    "already-entered-tournament": "이미 토너먼트에 참가했습니다",
+    "weather-buff-applied": ""
   },
   "test": {
     "test": "테스트입니다."

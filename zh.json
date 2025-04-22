@@ -794,7 +794,8 @@
     "offchain-nfts-not-allwed": "不允许的链链NFT",
     "battle-not-started": "战斗还没有开始",
     "pvp-tournament-full": "锦标赛已满",
-    "already-entered-tournament": "已经参加了比赛"
+    "already-entered-tournament": "已经参加了比赛",
+    "weather-buff-applied": ""
   },
   "test": {
     "test": "这是个测试"

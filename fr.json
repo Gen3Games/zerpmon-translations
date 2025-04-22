@@ -275,7 +275,8 @@
     "offchain-nfts-not-allwed": "Les NFT hors chain non autorisés",
     "battle-not-started": "La bataille n'a pas encore commencé",
     "pvp-tournament-full": "Le tournoi est plein",
-    "already-entered-tournament": "Tournoi déjà entré"
+    "already-entered-tournament": "Tournoi déjà entré",
+    "weather-buff-applied": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

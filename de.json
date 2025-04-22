@@ -794,7 +794,8 @@
     "offchain-nfts-not-allwed": "Offchain NFTs nicht erlaubt",
     "battle-not-started": "Die Schlacht hat noch nicht begonnen",
     "pvp-tournament-full": "Das Turnier ist voll",
-    "already-entered-tournament": "Bereits ein Turnier eingetreten"
+    "already-entered-tournament": "Bereits ein Turnier eingetreten",
+    "weather-buff-applied": ""
   },
   "test": {
     "test": "Dies ist ein Test"
