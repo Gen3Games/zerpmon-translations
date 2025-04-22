@@ -795,7 +795,7 @@
     "battle-not-started": "Battle hasn't started yet",
     "pvp-tournament-full": "Tournament is full",
     "already-entered-tournament": "Already Entered Tournament",
-    "weather-buff-applied": "Boosting {type 1} {type 2} {type 3} and {type 4} Zerpmon by {buff}"
+    "weather-buff-applied": "Boosting {type1} {type2} {type3} and {type4} Zerpmon by {buff}"
   },
   "test": {
     "test": "this is a test"
