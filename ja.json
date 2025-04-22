@@ -792,7 +792,9 @@
     "battle-free": "絶対に無料で戦います",
     "no-nfts-required": "NFTは必要ありません",
     "offchain-nfts-not-allwed": "オフチェーンNFTは許可されていません",
-    "battle-not-started": "戦いはまだ始まっていません"
+    "battle-not-started": "戦いはまだ始まっていません",
+    "pvp-tournament-full": "トーナメントはいっぱいです",
+    "already-entered-tournament": "すでにトーナメントに参加しています"
   },
   "test": {
     "test": "これはテストです"
@@ -993,7 +995,7 @@
     "loan-expires-in": "ローンの有効期限: {days} 日",
     "not-signed-in": "サインインしていません",
     "no-loan-listed": "ローンはリストされていません",
-    "loan-price-xrp": ""
+    "loan-price-xrp": "ローン価格：{価格} XRP 1日あたり"
   },
   "create-listing": {
     "not-signed-in": "ログインしていない",

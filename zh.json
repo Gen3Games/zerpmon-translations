@@ -792,7 +792,9 @@
     "battle-free": "绝对自由地战斗",
     "no-nfts-required": "无需NFT",
     "offchain-nfts-not-allwed": "不允许的链链NFT",
-    "battle-not-started": "战斗还没有开始"
+    "battle-not-started": "战斗还没有开始",
+    "pvp-tournament-full": "锦标赛已满",
+    "already-entered-tournament": "已经参加了比赛"
   },
   "test": {
     "test": "这是个测试"
@@ -993,7 +995,7 @@
     "loan-expires-in": "贷款到期时间：{days} 天",
     "not-signed-in": "未签名",
     "no-loan-listed": "未列出贷款",
-    "loan-price-xrp": ""
+    "loan-price-xrp": "贷款价格：{Price} XRP每天"
   },
   "create-listing": {
     "not-signed-in": "未登录",

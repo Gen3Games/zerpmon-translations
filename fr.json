@@ -273,7 +273,9 @@
     "battle-free": "Se battre pour absolument gratuit",
     "no-nfts-required": "Aucune NFT requise",
     "offchain-nfts-not-allwed": "Les NFT hors chain non autorisés",
-    "battle-not-started": "La bataille n'a pas encore commencé"
+    "battle-not-started": "La bataille n'a pas encore commencé",
+    "pvp-tournament-full": "Le tournoi est plein",
+    "already-entered-tournament": "Tournoi déjà entré"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -713,7 +715,7 @@
     "loan-expires-in": "Le prêt expire dans : {days} jours",
     "not-signed-in": "Non signé",
     "no-loan-listed": "Aucun prêt répertorié",
-    "loan-price-xrp": ""
+    "loan-price-xrp": "Prix ​​du prêt: {Prix} xrp par jour"
   },
   "marketplace": {
     "accept-loan": "Prêt",

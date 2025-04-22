@@ -332,7 +332,9 @@
     "battle-free": "Vecht het uit voor absoluut gratis",
     "no-nfts-required": "Geen NFT's vereist",
     "offchain-nfts-not-allwed": "Offchain nfts niet toegestaan",
-    "battle-not-started": "De strijd is nog niet begonnen"
+    "battle-not-started": "De strijd is nog niet begonnen",
+    "pvp-tournament-full": "Toernooi is vol",
+    "already-entered-tournament": "Al in toernooi ingevoerd"
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -827,7 +829,7 @@
     "loan-expires-in": "Lening vervalt over: {days} dagen",
     "not-signed-in": "Niet aangemeld",
     "no-loan-listed": "Geen lening vermeld",
-    "loan-price-xrp": ""
+    "loan-price-xrp": "Leningprijs: {prijs} XRP per dag"
   },
   "marketplace": {
     "accept-loan": "Lening",

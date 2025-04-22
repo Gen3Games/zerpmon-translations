@@ -792,7 +792,9 @@
     "battle-free": "Luchar por completo",
     "no-nfts-required": "No se requieren NFTS",
     "offchain-nfts-not-allwed": "No se permiten NFTS de cadena",
-    "battle-not-started": "La batalla aún no ha comenzado"
+    "battle-not-started": "La batalla aún no ha comenzado",
+    "pvp-tournament-full": "El torneo está lleno",
+    "already-entered-tournament": "Torneo ya ingresado"
   },
   "test": {
     "test": "esto es un test"
@@ -993,7 +995,7 @@
     "loan-expires-in": "El préstamo vence en: {days} días",
     "not-signed-in": "No firmado en",
     "no-loan-listed": "No hay préstamo en la lista",
-    "loan-price-xrp": ""
+    "loan-price-xrp": "Precio del préstamo: {precio} XRP por día"
   },
   "create-listing": {
     "not-signed-in": "Sin iniciar sesión",

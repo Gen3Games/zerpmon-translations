@@ -332,7 +332,9 @@
     "battle-free": "خاضها مجانًا تمامًا",
     "no-nfts-required": "لا NFTS مطلوب",
     "offchain-nfts-not-allwed": "غير مسموح بـ NFTS Offchain",
-    "battle-not-started": "لم تبدأ المعركة بعد"
+    "battle-not-started": "لم تبدأ المعركة بعد",
+    "pvp-tournament-full": "البطولة ممتلئة",
+    "already-entered-tournament": "دخلت بالفعل البطولة"
   },
   "buy-zerpmon": {
     "already-bought": "لقد قمت بالفعل بشراء zerpmon",
@@ -854,7 +856,7 @@
     "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق",
     "not-signed-in": "لم يتم تسجيل الدخول",
     "no-loan-listed": "لم يتم إدراج قرض",
-    "loan-price-xrp": ""
+    "loan-price-xrp": "سعر القرض: {Price} XRP يوميًا"
   },
   "marketplace": {
     "accept-loan": "يُقرض",

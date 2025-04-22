@@ -792,7 +792,9 @@
     "battle-free": "Bekämpfen Sie es absolut kostenlos",
     "no-nfts-required": "Keine NFTs erforderlich",
     "offchain-nfts-not-allwed": "Offchain NFTs nicht erlaubt",
-    "battle-not-started": "Die Schlacht hat noch nicht begonnen"
+    "battle-not-started": "Die Schlacht hat noch nicht begonnen",
+    "pvp-tournament-full": "Das Turnier ist voll",
+    "already-entered-tournament": "Bereits ein Turnier eingetreten"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -993,7 +995,7 @@
     "loan-expires-in": "Leihangebot läuft ab in : {days} Tag/en",
     "not-signed-in": "Nicht signiert",
     "no-loan-listed": "Kein Darlehen aufgelistet",
-    "loan-price-xrp": ""
+    "loan-price-xrp": "Kreditpreis: {Preis} XRP pro Tag"
   },
   "create-listing": {
     "not-signed-in": "Du bist nicht eingeloggt",

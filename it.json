@@ -332,7 +332,9 @@
     "battle-free": "Combattere per assolutamente gratuito",
     "no-nfts-required": "Nessun NFTS richiesto",
     "offchain-nfts-not-allwed": "Nfts offchain non consentito",
-    "battle-not-started": "La battaglia non è ancora iniziata"
+    "battle-not-started": "La battaglia non è ancora iniziata",
+    "pvp-tournament-full": "Il torneo è pieno",
+    "already-entered-tournament": "Già entrato in torneo"
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -827,7 +829,7 @@
     "loan-expires-in": "Il prestito scade tra: {days} giorni",
     "not-signed-in": "Non firmato",
     "no-loan-listed": "Nessun prestito elencato",
-    "loan-price-xrp": ""
+    "loan-price-xrp": "Prezzo del prestito: {Price} XRP al giorno"
   },
   "marketplace": {
     "accept-loan": "Prestito",

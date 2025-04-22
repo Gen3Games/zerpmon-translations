@@ -792,7 +792,9 @@
     "battle-free": "Battle it out for absolutely free",
     "no-nfts-required": "No nfts required",
     "offchain-nfts-not-allwed": "Offchain NFTs not allowed",
-    "battle-not-started": "Battle hasn't started yet"
+    "battle-not-started": "Battle hasn't started yet",
+    "pvp-tournament-full": "Tournament is full",
+    "already-entered-tournament": "Already Entered Tournament"
   },
   "test": {
     "test": "this is a test"

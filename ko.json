@@ -792,7 +792,9 @@
     "battle-free": "절대적으로 무료로 싸우십시오",
     "no-nfts-required": "NFT가 필요하지 않습니다",
     "offchain-nfts-not-allwed": "offchain nfts는 허용되지 않습니다",
-    "battle-not-started": "전투는 아직 시작되지 않았습니다"
+    "battle-not-started": "전투는 아직 시작되지 않았습니다",
+    "pvp-tournament-full": "토너먼트가 가득합니다",
+    "already-entered-tournament": "이미 토너먼트에 참가했습니다"
   },
   "test": {
     "test": "테스트입니다."
@@ -993,7 +995,7 @@
     "loan-expires-in": "대출 만료일: {days}일",
     "not-signed-in": "로그인하지 않았습니다",
     "no-loan-listed": "대출이 나열되지 않았습니다",
-    "loan-price-xrp": ""
+    "loan-price-xrp": "대출 가격 : {price} 하루에 XRP"
   },
   "create-listing": {
     "not-signed-in": "로그인하지 않았습니다",
