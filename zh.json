@@ -331,7 +331,8 @@
     "evolution-completed": "进化完成",
     "ascend": "登高",
     "payment-from-zerpwallet-volatile": "付款将从您的 ZerpWallet ({amount}) {finalAmount} 中扣除（最后检查的时刻，如果一段时间内未接受，可能会发生变化）",
-    "special-store": "特殊商店"
+    "special-store": "特殊商店",
+    "item-store": ""
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

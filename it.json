@@ -1148,7 +1148,8 @@
     "evolution-completed": "Evoluzione completata",
     "ascend": "Ascendere",
     "payment-from-zerpwallet-volatile": "Il pagamento verrà prelevato dal tuo ZerpWallet ({amount}) {finalAmount} (all'ultimo momento controllato, potrebbe cambiare se non accettato per un periodo di tempo)",
-    "special-store": "Negozio speciale"
+    "special-store": "Negozio speciale",
+    "item-store": ""
   },
   "test": {
     "test": "questa è una prova"

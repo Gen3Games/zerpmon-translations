@@ -331,7 +331,8 @@
     "evolution-completed": "Evolución completada",
     "ascend": "Ascender",
     "payment-from-zerpwallet-volatile": "El pago se cobrará de su ZerpWallet ({amount}) {finalAmount} (en el último momento verificado, podría cambiar si no se acepta por un período de tiempo)",
-    "special-store": "Tienda especial"
+    "special-store": "Tienda especial",
+    "item-store": ""
   },
   "home": {
     "catch-your-zerpmon-now": "¡Atrapa tu Zerpmon ahora!",
