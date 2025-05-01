@@ -371,7 +371,8 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "카이주 지갑 방문하기",
     "zerpmon-knocked-out": "저르몬이 쓰러졌다",
-    "confirm-use-potion": "{inventoryItem}을(를) 사용하시겠습니까?"
+    "confirm-use-potion": "{inventoryItem}을(를) 사용하시겠습니까?",
+    "zmc-balance": ""
   },
   "leaderboard": {
     "title": "리더보드",

@@ -658,7 +658,8 @@
     "zerpmon-knocked-out": "تم طرد زيربمون",
     "zerpwallet": "ZerpWallet",
     "zrp-balance": "رصيد ZRP",
-    "zrp-earned-today": "تم ربح ZRP اليوم"
+    "zrp-earned-today": "تم ربح ZRP اليوم",
+    "zmc-balance": ""
   },
   "inventory": {
     "candy-active": "لدى Zerpmon بالفعل نوع مماثل من الحلوى النشطة",

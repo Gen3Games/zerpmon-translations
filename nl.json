@@ -635,7 +635,8 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Bezoek Kaiju-portemonnee",
     "zerpmon-knocked-out": "Zerpmon is uitgeschakeld",
-    "confirm-use-potion": "Weet u zeker dat u een {inventoryItem} wilt gebruiken?"
+    "confirm-use-potion": "Weet u zeker dat u een {inventoryItem} wilt gebruiken?",
+    "zmc-balance": ""
   },
   "inventory": {
     "candy-active": "Zerpmon heeft al een soortgelijk soort snoep actief",

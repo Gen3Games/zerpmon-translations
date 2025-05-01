@@ -371,7 +371,8 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Visit Kaiju Wallet",
     "zerpmon-knocked-out": "Zerpmon Knocked Out",
-    "confirm-use-potion": "Are you sure you want to use a {inventoryItem} ?"
+    "confirm-use-potion": "Are you sure you want to use a {inventoryItem} ?",
+    "zmc-balance": "Zerp Crystals"
   },
   "leaderboard": {
     "title": "Leaderboard",

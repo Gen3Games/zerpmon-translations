@@ -371,7 +371,8 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "访问 Kaiju 钱包",
     "zerpmon-knocked-out": "泽拉普兽被击倒",
-    "confirm-use-potion": "您确定要使用 {inventoryItem} 吗？"
+    "confirm-use-potion": "您确定要使用 {inventoryItem} 吗？",
+    "zmc-balance": ""
   },
   "leaderboard": {
     "title": "排行榜",

@@ -635,7 +635,8 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "काइजू वॉलेट पर जाएँ",
     "zerpmon-knocked-out": "ज़र्पमोन नॉक आउट",
-    "confirm-use-potion": "क्या आप वाकई {inventoryItem} का उपयोग करना चाहते हैं?"
+    "confirm-use-potion": "क्या आप वाकई {inventoryItem} का उपयोग करना चाहते हैं?",
+    "zmc-balance": ""
   },
   "inventory": {
     "candy-active": "ज़र्पमोन के पास पहले से ही इसी प्रकार की कैंडी सक्रिय है",

@@ -371,7 +371,8 @@
     "zerpwallet": "ザープウォレット",
     "visit-kaiju-wallet": "Kaiju ウォレットにアクセス",
     "zerpmon-knocked-out": "ザープモンがノックアウトされました",
-    "confirm-use-potion": "{inventoryItem} を使用してもよろしいですか?"
+    "confirm-use-potion": "{inventoryItem} を使用してもよろしいですか?",
+    "zmc-balance": ""
   },
   "leaderboard": {
     "title": "リーダーボード",

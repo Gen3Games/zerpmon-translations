@@ -635,7 +635,8 @@
     "zerpwallet": "ZerpWallet",
     "visit-kaiju-wallet": "Visita il Portafoglio Kaiju",
     "zerpmon-knocked-out": "Zerpmon messo KO",
-    "confirm-use-potion": "Sei sicuro di voler utilizzare un {inventoryItem}?"
+    "confirm-use-potion": "Sei sicuro di voler utilizzare un {inventoryItem}?",
+    "zmc-balance": ""
   },
   "inventory": {
     "candy-active": "Zerpmon ha già attivo un tipo di caramella simile",
