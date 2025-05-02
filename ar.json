@@ -1221,7 +1221,8 @@
     "zerp-wallet-pending-withdrawal": "يرجى المحاولة مرة أخرى بعد اكتمال طلب السحب المعلق",
     "zrp-store": "متجر زي آر بي",
     "special-store": "متجر خاص",
-    "item-store": ""
+    "item-store": "",
+    "claim-zmc-token-msg": ""
   },
   "terms-of-service": {
     "account-registration": "تسجيل الحساب",

@@ -1150,7 +1150,8 @@
     "ascend": "Stijgen",
     "payment-from-zerpwallet-volatile": "De betaling wordt afgeschreven van uw ZerpWallet ({amount}) {finalAmount} (op het laatst gecontroleerde moment, kan veranderen als het gedurende een bepaalde periode niet wordt geaccepteerd)",
     "special-store": "Speciale winkel",
-    "item-store": ""
+    "item-store": "",
+    "claim-zmc-token-msg": ""
   },
   "test": {
     "test": "dit is een test"

@@ -1021,7 +1021,8 @@
     "ascend": "Monter",
     "payment-from-zerpwallet-volatile": "Le paiement sera prélevé sur votre ZerpWallet ({amount}) {finalAmount} (au dernier moment vérifié, pourrait changer s'il n'est pas accepté pendant un certain temps)",
     "special-store": "Magasin spécial",
-    "item-store": ""
+    "item-store": "",
+    "claim-zmc-token-msg": ""
   },
   "test": {
     "test": "c'est un test"

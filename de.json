@@ -332,7 +332,8 @@
     "ascend": "Hochstufen",
     "payment-from-zerpwallet-volatile": "Die Bezahlung erfolgt über dein ZerpWallet ({amount}) {finalAmount} (Stand nach letzter Überprüfung. Kann abweichen, wenn lange nicht aktualisiert)",
     "special-store": "Sondergeschäft",
-    "item-store": ""
+    "item-store": "",
+    "claim-zmc-token-msg": ""
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",

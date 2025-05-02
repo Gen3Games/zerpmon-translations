@@ -332,7 +332,8 @@
     "ascend": "Ascender",
     "payment-from-zerpwallet-volatile": "El pago se cobrará de su ZerpWallet ({amount}) {finalAmount} (en el último momento verificado, podría cambiar si no se acepta por un período de tiempo)",
     "special-store": "Tienda especial",
-    "item-store": ""
+    "item-store": "",
+    "claim-zmc-token-msg": ""
   },
   "home": {
     "catch-your-zerpmon-now": "¡Atrapa tu Zerpmon ahora!",

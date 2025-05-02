@@ -332,7 +332,8 @@
     "ascend": "Ascend",
     "payment-from-zerpwallet-volatile": "Payment will be taken from your ZerpWallet ({amount}) {finalAmount} (at last checked moment, could change if not accepted for a period of time)",
     "special-store": "Special Store",
-    "item-store": "Item Store"
+    "item-store": "Item Store",
+    "claim-zmc-token-msg": "Would you like to claim your Zerpmon Evolved?"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",
