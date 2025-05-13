@@ -332,8 +332,8 @@
     "ascend": "Hochstufen",
     "payment-from-zerpwallet-volatile": "Die Bezahlung erfolgt über dein ZerpWallet ({amount}) {finalAmount} (Stand nach letzter Überprüfung. Kann abweichen, wenn lange nicht aktualisiert)",
     "special-store": "Sondergeschäft",
-    "item-store": "",
-    "claim-zmc-token-msg": ""
+    "item-store": "Item Store",
+    "claim-zmc-token-msg": "Möchten Sie behaupten, Ihr Zerpmon hat sich weiterentwickelt? \nIhr Zerp -Kristall ist auf dem Weg und kann bis zu 30 Sekunden dauern."
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",
@@ -373,7 +373,7 @@
     "visit-kaiju-wallet": "Besuche das Kaiju-Wallet",
     "zerpmon-knocked-out": "Zerpmon ausgeschaltet",
     "confirm-use-potion": "Bist du sicher, dass du {inventoryItem} verwenden möchtest?",
-    "zmc-balance": ""
+    "zmc-balance": "Zerp -Kristalle"
   },
   "leaderboard": {
     "title": "Bestenliste",
@@ -798,7 +798,7 @@
     "battle-not-started": "Die Schlacht hat noch nicht begonnen",
     "pvp-tournament-full": "Das Turnier ist voll",
     "already-entered-tournament": "Bereits ein Turnier eingetreten",
-    "weather-buff-applied": ""
+    "weather-buff-applied": "Boosting {type1} {type2} {type3} und {type4} zerpmon von {buff}"
   },
   "test": {
     "test": "Dies ist ein Test"
@@ -933,7 +933,8 @@
     "expire-ts-too-low": "Auslaufzeit ist zu niedrig",
     "offer-already-accepted": "Das Angebot wird bereits angenommen",
     "trade-offer-missing": "Handelsangebot ist nicht verfügbar",
-    "trade-offer-restricted": "Handelsangebot ist eingeschränkt"
+    "trade-offer-restricted": "Handelsangebot ist eingeschränkt",
+    "equipments-not-allowed": "Ausrüstungen sind nicht erlaubt"
   },
   "manage-listing": {
     "title": "Meine NFT's",

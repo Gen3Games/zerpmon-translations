@@ -221,7 +221,7 @@
     "battle-not-started": "लड़ाई अभी तक शुरू नहीं हुई है",
     "pvp-tournament-full": "टूर्नामेंट भरा हुआ है",
     "already-entered-tournament": "पहले से ही टूर्नामेंट में प्रवेश किया",
-    "weather-buff-applied": ""
+    "weather-buff-applied": "बूस्टिंग {type1} {type2} {type3} और {type4} zerpmon by {buff}"
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
@@ -636,7 +636,7 @@
     "visit-kaiju-wallet": "काइजू वॉलेट पर जाएँ",
     "zerpmon-knocked-out": "ज़र्पमोन नॉक आउट",
     "confirm-use-potion": "क्या आप वाकई {inventoryItem} का उपयोग करना चाहते हैं?",
-    "zmc-balance": ""
+    "zmc-balance": "ज़रप क्रिस्टल"
   },
   "inventory": {
     "candy-active": "ज़र्पमोन के पास पहले से ही इसी प्रकार की कैंडी सक्रिय है",
@@ -941,7 +941,8 @@
     "expire-ts-too-low": "समय समाप्त होने का समय बहुत कम है",
     "offer-already-accepted": "प्रस्ताव पहले से ही स्वीकार कर लिया गया है",
     "trade-offer-missing": "व्यापार प्रस्ताव उपलब्ध नहीं है",
-    "trade-offer-restricted": "व्यापार प्रस्ताव प्रतिबंधित है"
+    "trade-offer-restricted": "व्यापार प्रस्ताव प्रतिबंधित है",
+    "equipments-not-allowed": "उपकरणों की अनुमति नहीं है"
   },
   "mint": {
     "days": "दिन",
@@ -1150,8 +1151,8 @@
     "ascend": "Ascend",
     "payment-from-zerpwallet-volatile": "भुगतान आपके ZerpWallet ({राशि}) {अंतिम राशि} से लिया जाएगा (अंतिम जांच के समय, यदि कुछ समय तक स्वीकार नहीं किया गया तो बदल सकता है)",
     "special-store": "विशेष भंडार",
-    "item-store": "",
-    "claim-zmc-token-msg": ""
+    "item-store": "आइटम -भंडार",
+    "claim-zmc-token-msg": "क्या आप अपने Zerpmon विकसित होने का दावा करना चाहेंगे? \nआपका ZERP क्रिस्टल इस रास्ते पर है और 30 सेकंड तक का समय लग सकता है।"
   },
   "test": {
     "test": "यह टेस्ट है"

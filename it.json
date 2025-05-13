@@ -335,7 +335,7 @@
     "battle-not-started": "La battaglia non è ancora iniziata",
     "pvp-tournament-full": "Il torneo è pieno",
     "already-entered-tournament": "Già entrato in torneo",
-    "weather-buff-applied": ""
+    "weather-buff-applied": "Boost {type1} {type2} {type3} e {type4} zerpmon di {buff}"
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -636,7 +636,7 @@
     "visit-kaiju-wallet": "Visita il Portafoglio Kaiju",
     "zerpmon-knocked-out": "Zerpmon messo KO",
     "confirm-use-potion": "Sei sicuro di voler utilizzare un {inventoryItem}?",
-    "zmc-balance": ""
+    "zmc-balance": "Cristalli zerp"
   },
   "inventory": {
     "candy-active": "Zerpmon ha già attivo un tipo di caramella simile",
@@ -941,7 +941,8 @@
     "expire-ts-too-low": "Il tempo di scadenza è troppo basso",
     "offer-already-accepted": "L'offerta è già accettata",
     "trade-offer-missing": "L'offerta commerciale non è disponibile",
-    "trade-offer-restricted": "L'offerta commerciale è limitata"
+    "trade-offer-restricted": "L'offerta commerciale è limitata",
+    "equipments-not-allowed": "Le attrezzature non sono consentite"
   },
   "mint": {
     "days": "giorni",
@@ -1150,8 +1151,8 @@
     "ascend": "Ascendere",
     "payment-from-zerpwallet-volatile": "Il pagamento verrà prelevato dal tuo ZerpWallet ({amount}) {finalAmount} (all'ultimo momento controllato, potrebbe cambiare se non accettato per un periodo di tempo)",
     "special-store": "Negozio speciale",
-    "item-store": "",
-    "claim-zmc-token-msg": ""
+    "item-store": "Negozio di articoli",
+    "claim-zmc-token-msg": "Vorresti rivendicare il tuo Zerpmon evoluto? \nIl tuo cristallo Zerp è in arrivo e potrebbe richiedere fino a 30 secondi."
   },
   "test": {
     "test": "questa è una prova"

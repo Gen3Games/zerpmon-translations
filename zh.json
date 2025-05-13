@@ -332,8 +332,8 @@
     "ascend": "登高",
     "payment-from-zerpwallet-volatile": "付款将从您的 ZerpWallet ({amount}) {finalAmount} 中扣除（最后检查的时刻，如果一段时间内未接受，可能会发生变化）",
     "special-store": "特殊商店",
-    "item-store": "",
-    "claim-zmc-token-msg": ""
+    "item-store": "项目商店",
+    "claim-zmc-token-msg": "您想声称自己的Zerpmon进化吗？\n您的ZERP水晶在路上，最多可能需要30秒。"
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",
@@ -373,7 +373,7 @@
     "visit-kaiju-wallet": "访问 Kaiju 钱包",
     "zerpmon-knocked-out": "泽拉普兽被击倒",
     "confirm-use-potion": "您确定要使用 {inventoryItem} 吗？",
-    "zmc-balance": ""
+    "zmc-balance": "ZERP晶体"
   },
   "leaderboard": {
     "title": "排行榜",
@@ -798,7 +798,7 @@
     "battle-not-started": "战斗还没有开始",
     "pvp-tournament-full": "锦标赛已满",
     "already-entered-tournament": "已经参加了比赛",
-    "weather-buff-applied": ""
+    "weather-buff-applied": "提升{type1} {type2} {type3}和{type4} zerpmon {buff}"
   },
   "test": {
     "test": "这是个测试"
@@ -933,7 +933,8 @@
     "expire-ts-too-low": "到期时间太低",
     "offer-already-accepted": "报价已经被接受",
     "trade-offer-missing": "贸易优惠不可用",
-    "trade-offer-restricted": "贸易要约受限制"
+    "trade-offer-restricted": "贸易要约受限制",
+    "equipments-not-allowed": "不允许设备"
   },
   "manage-listing": {
     "title": "我的 NFTs",

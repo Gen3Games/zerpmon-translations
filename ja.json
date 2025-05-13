@@ -332,8 +332,8 @@
     "ascend": "昇る",
     "payment-from-zerpwallet-volatile": "支払いはザープウォレット ({amount}) {finalAmount} から引き落とされます (最後に確認された時点で、一定期間受け入れられない場合は変更される可能性があります)",
     "special-store": "特別店",
-    "item-store": "",
-    "claim-zmc-token-msg": ""
+    "item-store": "アイテムストア",
+    "claim-zmc-token-msg": "あなたのZerpmonが進化したと主張しますか？\nあなたのZERPクリスタルはその道を進んでおり、最大30秒かかる場合があります。"
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",
@@ -373,7 +373,7 @@
     "visit-kaiju-wallet": "Kaiju ウォレットにアクセス",
     "zerpmon-knocked-out": "ザープモンがノックアウトされました",
     "confirm-use-potion": "{inventoryItem} を使用してもよろしいですか?",
-    "zmc-balance": ""
+    "zmc-balance": "ZERPクリスタル"
   },
   "leaderboard": {
     "title": "リーダーボード",
@@ -798,7 +798,7 @@
     "battle-not-started": "戦いはまだ始まっていません",
     "pvp-tournament-full": "トーナメントはいっぱいです",
     "already-entered-tournament": "すでにトーナメントに参加しています",
-    "weather-buff-applied": ""
+    "weather-buff-applied": "boosting {type1} {type2} {type3}および{type4} zerpmon by {buff}"
   },
   "test": {
     "test": "これはテストです"
@@ -933,7 +933,8 @@
     "expire-ts-too-low": "期限切れは低すぎます",
     "offer-already-accepted": "オファーはすでに受け入れられています",
     "trade-offer-missing": "貿易オファーは利用できません",
-    "trade-offer-restricted": "貿易オファーは制限されています"
+    "trade-offer-restricted": "貿易オファーは制限されています",
+    "equipments-not-allowed": "機器は許可されていません"
   },
   "manage-listing": {
     "title": "私のNFT",

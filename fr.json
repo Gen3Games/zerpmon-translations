@@ -276,7 +276,7 @@
     "battle-not-started": "La bataille n'a pas encore commencé",
     "pvp-tournament-full": "Le tournoi est plein",
     "already-entered-tournament": "Tournoi déjà entré",
-    "weather-buff-applied": ""
+    "weather-buff-applied": "Boost {type1} {type2} {type3} et {type4} zerpmon par {buff}"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -522,7 +522,7 @@
     "visit-kaiju-wallet": "Visitez le portefeuille Kaiju",
     "zerpmon-knocked-out": "Zerpmon éliminé",
     "confirm-use-potion": "Êtes-vous sûr de vouloir utiliser un {inventoryItem} ?",
-    "zmc-balance": ""
+    "zmc-balance": "Cristaux zerp"
   },
   "inventory": {
     "candy-active": "Zerpmon a déjà un type de bonbon actif similaire",
@@ -827,7 +827,8 @@
     "expire-ts-too-low": "Expirer le temps est trop bas",
     "offer-already-accepted": "L'offre est déjà acceptée",
     "trade-offer-missing": "L'offre commerciale n'est pas disponible",
-    "trade-offer-restricted": "L'offre commerciale est limitée"
+    "trade-offer-restricted": "L'offre commerciale est limitée",
+    "equipments-not-allowed": "Les équipements ne sont pas autorisés"
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",
@@ -1021,8 +1022,8 @@
     "ascend": "Monter",
     "payment-from-zerpwallet-volatile": "Le paiement sera prélevé sur votre ZerpWallet ({amount}) {finalAmount} (au dernier moment vérifié, pourrait changer s'il n'est pas accepté pendant un certain temps)",
     "special-store": "Magasin spécial",
-    "item-store": "",
-    "claim-zmc-token-msg": ""
+    "item-store": "Magasin d'articles",
+    "claim-zmc-token-msg": "Souhaitez-vous prétendre que votre zerpmon a évolué? \nVotre cristal zerp est en route et peut prendre jusqu'à 30 secondes."
   },
   "test": {
     "test": "c'est un test"

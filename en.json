@@ -933,7 +933,8 @@
     "expire-ts-too-low": "Expire time is too low",
     "offer-already-accepted": "Offer is already accepted",
     "trade-offer-missing": "Trade offer is not available",
-    "trade-offer-restricted": "Trade offer is restricted"
+    "trade-offer-restricted": "Trade offer is restricted",
+    "equipments-not-allowed": "Equipments are not allowed"
   },
   "manage-listing": {
     "title": "My NFTs",

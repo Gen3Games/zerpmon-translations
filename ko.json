@@ -332,8 +332,8 @@
     "ascend": "오르다",
     "payment-from-zerpwallet-volatile": "지불은 귀하의 ZerpWallet({amount}) {finalAmount}에서 이루어집니다(마지막으로 확인된 순간, 일정 기간 동안 승인되지 않으면 변경될 수 있음)",
     "special-store": "특별한 상점",
-    "item-store": "",
-    "claim-zmc-token-msg": ""
+    "item-store": "항목 상점",
+    "claim-zmc-token-msg": "Zerpmon이 진화했다고 주장하고 싶습니까? \n당신의 Zerp Crystal이 그 길에 있으며 최대 30 초가 걸릴 수 있습니다."
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",
@@ -373,7 +373,7 @@
     "visit-kaiju-wallet": "카이주 지갑 방문하기",
     "zerpmon-knocked-out": "저르몬이 쓰러졌다",
     "confirm-use-potion": "{inventoryItem}을(를) 사용하시겠습니까?",
-    "zmc-balance": ""
+    "zmc-balance": "제퍼 결정"
   },
   "leaderboard": {
     "title": "리더보드",
@@ -798,7 +798,7 @@
     "battle-not-started": "전투는 아직 시작되지 않았습니다",
     "pvp-tournament-full": "토너먼트가 가득합니다",
     "already-entered-tournament": "이미 토너먼트에 참가했습니다",
-    "weather-buff-applied": ""
+    "weather-buff-applied": "부스트 {type1} {type2} {type3} 및 {type4} zerpmon by {buff}"
   },
   "test": {
     "test": "테스트입니다."
@@ -933,7 +933,8 @@
     "expire-ts-too-low": "만료 시간이 너무 낮습니다",
     "offer-already-accepted": "제안은 이미 받아 들여졌습니다",
     "trade-offer-missing": "거래 제안은 이용할 수 없습니다",
-    "trade-offer-restricted": "거래 제안은 제한됩니다"
+    "trade-offer-restricted": "거래 제안은 제한됩니다",
+    "equipments-not-allowed": "장비는 허용되지 않습니다"
   },
   "manage-listing": {
     "title": "내 NFT",
