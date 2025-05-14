@@ -335,7 +335,9 @@
     "battle-not-started": "De strijd is nog niet begonnen",
     "pvp-tournament-full": "Toernooi is vol",
     "already-entered-tournament": "Al in toernooi ingevoerd",
-    "weather-buff-applied": "Boosting {Type1} {Type2} {Type3} en {Type4} ZERPMON door {buff}"
+    "weather-buff-applied": "Boosting {Type1} {Type2} {Type3} en {Type4} ZERPMON door {buff}",
+    "zerpmon-allowed": "Zerkmon in dek niet toegestaan. \nControleer of toegestaan ​​Zerpmon",
+    "equipments-not-allowed": "Apparatuur is niet toegestaan"
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -941,8 +943,7 @@
     "expire-ts-too-low": "Verlagstijd is te laag",
     "offer-already-accepted": "Aanbieding is al geaccepteerd",
     "trade-offer-missing": "Handelsaanbieding is niet beschikbaar",
-    "trade-offer-restricted": "Handelsaanbod is beperkt",
-    "equipments-not-allowed": "Apparatuur is niet toegestaan"
+    "trade-offer-restricted": "Handelsaanbod is beperkt"
   },
   "mint": {
     "days": "dagen",

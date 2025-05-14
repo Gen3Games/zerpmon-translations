@@ -276,7 +276,9 @@
     "battle-not-started": "La bataille n'a pas encore commencé",
     "pvp-tournament-full": "Le tournoi est plein",
     "already-entered-tournament": "Tournoi déjà entré",
-    "weather-buff-applied": "Boost {type1} {type2} {type3} et {type4} zerpmon par {buff}"
+    "weather-buff-applied": "Boost {type1} {type2} {type3} et {type4} zerpmon par {buff}",
+    "zerpmon-allowed": "Zerpmon dans le pont non autorisé. \nVeuillez vérifier Zerpmon autorisé",
+    "equipments-not-allowed": "Les équipements ne sont pas autorisés"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -827,8 +829,7 @@
     "expire-ts-too-low": "Expirer le temps est trop bas",
     "offer-already-accepted": "L'offre est déjà acceptée",
     "trade-offer-missing": "L'offre commerciale n'est pas disponible",
-    "trade-offer-restricted": "L'offre commerciale est limitée",
-    "equipments-not-allowed": "Les équipements ne sont pas autorisés"
+    "trade-offer-restricted": "L'offre commerciale est limitée"
   },
   "notifications": {
     "ios-setup-step-1": "1. Appuyez sur le bouton Partager dans le coin supérieur droit",

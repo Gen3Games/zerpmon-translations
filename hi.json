@@ -221,7 +221,9 @@
     "battle-not-started": "लड़ाई अभी तक शुरू नहीं हुई है",
     "pvp-tournament-full": "टूर्नामेंट भरा हुआ है",
     "already-entered-tournament": "पहले से ही टूर्नामेंट में प्रवेश किया",
-    "weather-buff-applied": "बूस्टिंग {type1} {type2} {type3} और {type4} zerpmon by {buff}"
+    "weather-buff-applied": "बूस्टिंग {type1} {type2} {type3} और {type4} zerpmon by {buff}",
+    "zerpmon-allowed": "डेक में शेरपोन की अनुमति नहीं है। \nकृपया Zerpmon की अनुमति दें",
+    "equipments-not-allowed": "उपकरणों की अनुमति नहीं है"
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
@@ -941,8 +943,7 @@
     "expire-ts-too-low": "समय समाप्त होने का समय बहुत कम है",
     "offer-already-accepted": "प्रस्ताव पहले से ही स्वीकार कर लिया गया है",
     "trade-offer-missing": "व्यापार प्रस्ताव उपलब्ध नहीं है",
-    "trade-offer-restricted": "व्यापार प्रस्ताव प्रतिबंधित है",
-    "equipments-not-allowed": "उपकरणों की अनुमति नहीं है"
+    "trade-offer-restricted": "व्यापार प्रस्ताव प्रतिबंधित है"
   },
   "mint": {
     "days": "दिन",

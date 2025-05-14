@@ -798,7 +798,9 @@
     "battle-not-started": "Battle hasn't started yet",
     "pvp-tournament-full": "Tournament is full",
     "already-entered-tournament": "Already Entered Tournament",
-    "weather-buff-applied": "Boosting {type1} {type2} {type3} and {type4} Zerpmon by {buff}"
+    "weather-buff-applied": "Boosting {type1} {type2} {type3} and {type4} Zerpmon by {buff}",
+    "zerpmon-allowed": "Zerpmon in deck not allowed. Please check Zerpmon allowed",
+    "equipments-not-allowed": "Equipments are not allowed"
   },
   "test": {
     "test": "this is a test"
@@ -933,8 +935,7 @@
     "expire-ts-too-low": "Expire time is too low",
     "offer-already-accepted": "Offer is already accepted",
     "trade-offer-missing": "Trade offer is not available",
-    "trade-offer-restricted": "Trade offer is restricted",
-    "equipments-not-allowed": "Equipments are not allowed"
+    "trade-offer-restricted": "Trade offer is restricted"
   },
   "manage-listing": {
     "title": "My NFTs",

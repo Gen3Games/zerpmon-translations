@@ -335,7 +335,9 @@
     "battle-not-started": "La battaglia non è ancora iniziata",
     "pvp-tournament-full": "Il torneo è pieno",
     "already-entered-tournament": "Già entrato in torneo",
-    "weather-buff-applied": "Boost {type1} {type2} {type3} e {type4} zerpmon di {buff}"
+    "weather-buff-applied": "Boost {type1} {type2} {type3} e {type4} zerpmon di {buff}",
+    "zerpmon-allowed": "Zerpmon nel mazzo non consentito. \nSi prega di controllare Zerpmon consentito",
+    "equipments-not-allowed": "Le attrezzature non sono consentite"
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -941,8 +943,7 @@
     "expire-ts-too-low": "Il tempo di scadenza è troppo basso",
     "offer-already-accepted": "L'offerta è già accettata",
     "trade-offer-missing": "L'offerta commerciale non è disponibile",
-    "trade-offer-restricted": "L'offerta commerciale è limitata",
-    "equipments-not-allowed": "Le attrezzature non sono consentite"
+    "trade-offer-restricted": "L'offerta commerciale è limitata"
   },
   "mint": {
     "days": "giorni",

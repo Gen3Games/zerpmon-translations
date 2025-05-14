@@ -798,7 +798,9 @@
     "battle-not-started": "战斗还没有开始",
     "pvp-tournament-full": "锦标赛已满",
     "already-entered-tournament": "已经参加了比赛",
-    "weather-buff-applied": "提升{type1} {type2} {type3}和{type4} zerpmon {buff}"
+    "weather-buff-applied": "提升{type1} {type2} {type3}和{type4} zerpmon {buff}",
+    "zerpmon-allowed": "甲板上的Zerpmon不允许。\n请检查允许的zerpmon",
+    "equipments-not-allowed": "不允许设备"
   },
   "test": {
     "test": "这是个测试"
@@ -933,8 +935,7 @@
     "expire-ts-too-low": "到期时间太低",
     "offer-already-accepted": "报价已经被接受",
     "trade-offer-missing": "贸易优惠不可用",
-    "trade-offer-restricted": "贸易要约受限制",
-    "equipments-not-allowed": "不允许设备"
+    "trade-offer-restricted": "贸易要约受限制"
   },
   "manage-listing": {
     "title": "我的 NFTs",

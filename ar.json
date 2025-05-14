@@ -335,7 +335,9 @@
     "battle-not-started": "لم تبدأ المعركة بعد",
     "pvp-tournament-full": "البطولة ممتلئة",
     "already-entered-tournament": "دخلت بالفعل البطولة",
-    "weather-buff-applied": "تعزيز {type1} {type2} {type3} و {type4} zerpmon بواسطة {buff}"
+    "weather-buff-applied": "تعزيز {type1} {type2} {type3} و {type4} zerpmon بواسطة {buff}",
+    "zerpmon-allowed": "Zerpmon في سطح السفينة غير مسموح. \nيرجى التحقق من zerpmon المسموح بها",
+    "equipments-not-allowed": "المعدات غير مسموح بها"
   },
   "buy-zerpmon": {
     "already-bought": "لقد قمت بالفعل بشراء zerpmon",
@@ -968,8 +970,7 @@
     "expire-ts-too-low": "وقت انتهاء صلاحيته منخفض للغاية",
     "offer-already-accepted": "العرض مقبول بالفعل",
     "trade-offer-missing": "العرض التجاري غير متوفر",
-    "trade-offer-restricted": "العرض التجاري مقيد",
-    "equipments-not-allowed": "المعدات غير مسموح بها"
+    "trade-offer-restricted": "العرض التجاري مقيد"
   },
   "metadata": {
     "auction-not-found": "لم يتم العثور على المزاد",

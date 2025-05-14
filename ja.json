@@ -798,7 +798,9 @@
     "battle-not-started": "戦いはまだ始まっていません",
     "pvp-tournament-full": "トーナメントはいっぱいです",
     "already-entered-tournament": "すでにトーナメントに参加しています",
-    "weather-buff-applied": "boosting {type1} {type2} {type3}および{type4} zerpmon by {buff}"
+    "weather-buff-applied": "boosting {type1} {type2} {type3}および{type4} zerpmon by {buff}",
+    "zerpmon-allowed": "デッキのZerpmonは許可されていません。\n許可されているZerpmonを確認してください",
+    "equipments-not-allowed": "機器は許可されていません"
   },
   "test": {
     "test": "これはテストです"
@@ -933,8 +935,7 @@
     "expire-ts-too-low": "期限切れは低すぎます",
     "offer-already-accepted": "オファーはすでに受け入れられています",
     "trade-offer-missing": "貿易オファーは利用できません",
-    "trade-offer-restricted": "貿易オファーは制限されています",
-    "equipments-not-allowed": "機器は許可されていません"
+    "trade-offer-restricted": "貿易オファーは制限されています"
   },
   "manage-listing": {
     "title": "私のNFT",
