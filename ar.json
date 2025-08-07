@@ -1616,7 +1616,8 @@
     "boost-table-title": "تعزيزات النشط النشط",
     "staking-reward": "مكافآت Staking",
     "reward-share-wait-note": "يرجى الانتظار على مدار 24 ساعة حتى تظهر NFTS ضمن حساب مشاركة المكافآت",
-    "claim-success": "تم المطالبة بنجاح بمكافآت Staking ، يجب أن تظهر قريبًا في Zerpwallet"
+    "claim-success": "تم المطالبة بنجاح بمكافآت Staking ، يجب أن تظهر قريبًا في Zerpwallet",
+    "futurepass-xrp-balance-low": ""
   },
   "achievements": {
     "title": "الإنجازات",

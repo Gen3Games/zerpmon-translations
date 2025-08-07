@@ -1616,7 +1616,8 @@
     "boost-table-title": "Aktive Stakelschubs",
     "staking-reward": "Belohnungen einstellen",
     "reward-share-wait-note": "Bitte warten Sie 24 Stunden, bis NFTs in der Berechnung der Belohnungsfreigabe angezeigt werden",
-    "claim-success": "Erfolgreich behauptete Belohnungen, sollte bald in Ihrer Nerpwallet auftauchen"
+    "claim-success": "Erfolgreich behauptete Belohnungen, sollte bald in Ihrer Nerpwallet auftauchen",
+    "futurepass-xrp-balance-low": ""
   },
   "achievements": {
     "title": "Erfolge",

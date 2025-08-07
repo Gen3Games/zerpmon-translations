@@ -1616,7 +1616,8 @@
     "boost-table-title": "Booss de jalonnement actif",
     "staking-reward": "Priser les récompenses",
     "reward-share-wait-note": "Veuillez patienter les 24 heures pour que les NFT se présentent dans le calcul de la part de récompense",
-    "claim-success": "Affirmé avec succès des récompenses de jalonnement, devrait bientôt apparaître dans votre zerpwallet"
+    "claim-success": "Affirmé avec succès des récompenses de jalonnement, devrait bientôt apparaître dans votre zerpwallet",
+    "futurepass-xrp-balance-low": ""
   },
   "achievements": {
     "title": "Réalisations",

@@ -1616,7 +1616,8 @@
     "boost-table-title": "सक्रिय स्टैकिंग बूस्ट",
     "staking-reward": "स्टेकिंग रिवार्ड्स",
     "reward-share-wait-note": "कृपया एनएफटी के लिए 24hrs प्रतीक्षा करें ताकि इनाम शेयर गणना के भीतर दिखाया जा सके",
-    "claim-success": "सफलतापूर्वक दावा किया गया कि रिवार्ड्स, जल्द ही अपने Zerpwallet में दिखाना चाहिए"
+    "claim-success": "सफलतापूर्वक दावा किया गया कि रिवार्ड्स, जल्द ही अपने Zerpwallet में दिखाना चाहिए",
+    "futurepass-xrp-balance-low": ""
   },
   "achievements": {
     "title": "उपलब्धियों",

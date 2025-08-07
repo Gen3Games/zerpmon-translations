@@ -1616,7 +1616,8 @@
     "boost-table-title": "Actieve staking boosts",
     "staking-reward": "Beloningen opstellen",
     "reward-share-wait-note": "Wacht 24 uur op NFT's om te verschijnen in de berekening van het beloningsaandeel",
-    "claim-success": "Met succes beweerde beloningen, zou binnenkort moeten verschijnen in uw ZERPWALLET"
+    "claim-success": "Met succes beweerde beloningen, zou binnenkort moeten verschijnen in uw ZERPWALLET",
+    "futurepass-xrp-balance-low": ""
   },
   "achievements": {
     "title": "Prestaties",

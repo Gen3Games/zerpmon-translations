@@ -1616,7 +1616,8 @@
     "boost-table-title": "활발한 스테이 킹 향상",
     "staking-reward": "스테이 킹 보상",
     "reward-share-wait-note": "보상 공유 계산 내에 NFTS가 나타날 때까지 24 시간 기다려주세요.",
-    "claim-success": "스테이 킹 보상을 성공적으로 주장하고 곧 Zerpwallet에 나타날 것입니다."
+    "claim-success": "스테이 킹 보상을 성공적으로 주장하고 곧 Zerpwallet에 나타날 것입니다.",
+    "futurepass-xrp-balance-low": ""
   },
   "achievements": {
     "title": "업적",

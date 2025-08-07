@@ -1616,7 +1616,8 @@
     "boost-table-title": "积极的积分提升",
     "staking-reward": "放下奖励",
     "reward-share-wait-note": "请等待24小时内NFT在奖励共享计算中出现",
-    "claim-success": "成功地声称获得了奖励，应该很快出现在您的Zerpwallet中"
+    "claim-success": "成功地声称获得了奖励，应该很快出现在您的Zerpwallet中",
+    "futurepass-xrp-balance-low": ""
   },
   "achievements": {
     "title": "成就",

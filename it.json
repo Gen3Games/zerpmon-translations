@@ -1616,7 +1616,8 @@
     "boost-table-title": "Aumenta di punta attiva",
     "staking-reward": "Ricompensa",
     "reward-share-wait-note": "Si prega di attendere 24 ore che NFTS venga visualizzato nel calcolo della condivisione di ricompensa",
-    "claim-success": "Reclamati con successo ricompense di picchettamento, dovrebbe presto presentarsi nel tuo zerpwallet"
+    "claim-success": "Reclamati con successo ricompense di picchettamento, dovrebbe presto presentarsi nel tuo zerpwallet",
+    "futurepass-xrp-balance-low": ""
   },
   "achievements": {
     "title": "Risultati",

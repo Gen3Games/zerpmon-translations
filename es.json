@@ -1616,7 +1616,8 @@
     "boost-table-title": "Aumentos activos de replanteo",
     "staking-reward": "Recompensas de referencia",
     "reward-share-wait-note": "Espere las 24 horas para que los NFT se muestren dentro del cálculo de recompensas compartidas",
-    "claim-success": "Reclamó con éxito recompensas en referencia, pronto debería aparecer en su zerpwallet"
+    "claim-success": "Reclamó con éxito recompensas en referencia, pronto debería aparecer en su zerpwallet",
+    "futurepass-xrp-balance-low": ""
   },
   "achievements": {
     "title": "Logros",

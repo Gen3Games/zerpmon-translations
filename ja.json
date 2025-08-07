@@ -1616,7 +1616,8 @@
     "boost-table-title": "進行中のステーキングブースト",
     "staking-reward": "ステーキング報酬",
     "reward-share-wait-note": "報酬シェア計算にNFTが反映されるまで24時間お待ちください",
-    "claim-success": "ステーキング報酬を受け取りました。ZerpWalletで表示されます"
+    "claim-success": "ステーキング報酬を受け取りました。ZerpWalletで表示されます",
+    "futurepass-xrp-balance-low": ""
   },
   "achievements": {
     "title": "実績",
