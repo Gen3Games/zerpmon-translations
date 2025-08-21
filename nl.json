@@ -709,7 +709,9 @@
     "battle-skip-pass-active": "Battle Skip Pass is al actief",
     "few-breeding-coupon-found": "Er zijn maar weinig broedingscoupons gevonden",
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager is al actief",
-    "turbo-time-accelerator-active": "Turbo Time Accelerator is al actief"
+    "turbo-time-accelerator-active": "Turbo Time Accelerator is al actief",
+    "used-tower-rush-ticket": "Je hebt met succes een torenstruikticket gebruikt.",
+    "error-tower-rush-ticket": "Er is een fout opgetreden tijdens het gebruik van een torenheupticket."
   },
   "leaderboard-table": {
     "close": "Dichtbij",
@@ -1618,7 +1620,7 @@
     "staking-reward": "Beloningen opstellen",
     "reward-share-wait-note": "Wacht 24 uur op NFT's om te verschijnen in de berekening van het beloningsaandeel",
     "claim-success": "Met succes beweerde beloningen, zou binnenkort moeten verschijnen in uw ZERPWALLET",
-    "futurepass-xrp-balance-low": ""
+    "futurepass-xrp-balance-low": "FuturePass heeft een lage XRP -balans (XRP is nodig voor niet -instantie afgezien van het token van gasfeet)"
   },
   "achievements": {
     "title": "Prestaties",

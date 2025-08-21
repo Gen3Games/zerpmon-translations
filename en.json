@@ -514,7 +514,9 @@
     "battle-skip-pass-active": "Battle Skip Pass is already active",
     "few-breeding-coupon-found": "Few Breeding Coupons Found",
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager is already active",
-    "turbo-time-accelerator-active": "Turbo Time Accelerator is already active"
+    "turbo-time-accelerator-active": "Turbo Time Accelerator is already active",
+    "used-tower-rush-ticket": "You have successfully used a Tower Rush Ticket.",
+    "error-tower-rush-ticket": "An error occurred while using a Tower Rush Ticket."
   },
   "safari": {
     "title": "Safari",

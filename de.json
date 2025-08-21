@@ -514,7 +514,9 @@
     "battle-skip-pass-active": "Battle Skip Pass ist bereits aktiv",
     "few-breeding-coupon-found": "Wenige Zuchtkupons gefunden",
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager ist bereits aktiv",
-    "turbo-time-accelerator-active": "Turbo Time Accelerator ist bereits aktiv"
+    "turbo-time-accelerator-active": "Turbo Time Accelerator ist bereits aktiv",
+    "used-tower-rush-ticket": "Sie haben erfolgreich ein Tower Rush Ticket genutzt.",
+    "error-tower-rush-ticket": "Bei der Verwendung eines Turm -Rushtickets trat ein Fehler auf."
   },
   "safari": {
     "title": "Safari",
@@ -1618,7 +1620,7 @@
     "staking-reward": "Belohnungen einstellen",
     "reward-share-wait-note": "Bitte warten Sie 24 Stunden, bis NFTs in der Berechnung der Belohnungsfreigabe angezeigt werden",
     "claim-success": "Erfolgreich behauptete Belohnungen, sollte bald in Ihrer Nerpwallet auftauchen",
-    "futurepass-xrp-balance-low": ""
+    "futurepass-xrp-balance-low": "FuturePass hat einen niedrigen XRP -Gleichgewicht (XRP wird abgesehen von Gasgebühren -Token erforderlich)"
   },
   "achievements": {
     "title": "Erfolge",

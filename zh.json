@@ -514,7 +514,9 @@
     "battle-skip-pass-active": "战斗跳过已经活跃",
     "few-breeding-coupon-found": "很少有繁殖优惠券",
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager已经活跃",
-    "turbo-time-accelerator-active": "Turbo Time Accelerator已经活跃"
+    "turbo-time-accelerator-active": "Turbo Time Accelerator已经活跃",
+    "used-tower-rush-ticket": "您已经成功使用了一张塔式票。",
+    "error-tower-rush-ticket": "使用Tower Rush票时发生了错误。"
   },
   "safari": {
     "title": "Safari探险",
@@ -1618,7 +1620,7 @@
     "staking-reward": "放下奖励",
     "reward-share-wait-note": "请等待24小时内NFT在奖励共享计算中出现",
     "claim-success": "成功地声称获得了奖励，应该很快出现在您的Zerpwallet中",
-    "futurepass-xrp-balance-low": ""
+    "futurepass-xrp-balance-low": "FuturePass具有较低的XRP余额（除了汽油费用外，还需要XRP）"
   },
   "achievements": {
     "title": "成就",

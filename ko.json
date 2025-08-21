@@ -514,7 +514,9 @@
     "battle-skip-pass-active": "Battle Skip Pass는 이미 활성화되었습니다",
     "few-breeding-coupon-found": "번식 쿠폰은 거의 없습니다",
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager는 이미 활동 중입니다",
-    "turbo-time-accelerator-active": "터보 타임 가속기가 이미 활성화되어 있습니다"
+    "turbo-time-accelerator-active": "터보 타임 가속기가 이미 활성화되어 있습니다",
+    "used-tower-rush-ticket": "타워 러쉬 티켓을 성공적으로 사용했습니다.",
+    "error-tower-rush-ticket": "타워 러시 티켓을 사용하는 동안 오류가 발생했습니다."
   },
   "safari": {
     "title": "사파리",
@@ -1618,7 +1620,7 @@
     "staking-reward": "스테이 킹 보상",
     "reward-share-wait-note": "보상 공유 계산 내에 NFTS가 나타날 때까지 24 시간 기다려주세요.",
     "claim-success": "스테이 킹 보상을 성공적으로 주장하고 곧 Zerpwallet에 나타날 것입니다.",
-    "futurepass-xrp-balance-low": ""
+    "futurepass-xrp-balance-low": "FuturePass는 XRP 균형이 낮습니다 (가스 수수료 토큰을 제외하고 XRP가 필요합니다)"
   },
   "achievements": {
     "title": "업적",

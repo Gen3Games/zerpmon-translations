@@ -514,7 +514,9 @@
     "battle-skip-pass-active": "バトルスキップパスはすでにアクティブです",
     "few-breeding-coupon-found": "繁殖クーポンはほとんど見つかりませんでした",
     "zerpmon-auto-manager-active": "Zerpmon Auto Managerはすでにアクティブです",
-    "turbo-time-accelerator-active": "ターボタイムアクセラレータはすでにアクティブです"
+    "turbo-time-accelerator-active": "ターボタイムアクセラレータはすでにアクティブです",
+    "used-tower-rush-ticket": "タワーラッシュチケットを正常に使用しました。",
+    "error-tower-rush-ticket": "タワーラッシュチケットの使用中にエラーが発生しました。"
   },
   "safari": {
     "title": "サファリ",
@@ -1618,7 +1620,7 @@
     "staking-reward": "ステーキング報酬",
     "reward-share-wait-note": "報酬シェア計算にNFTが反映されるまで24時間お待ちください",
     "claim-success": "ステーキング報酬を受け取りました。ZerpWalletで表示されます",
-    "futurepass-xrp-balance-low": ""
+    "futurepass-xrp-balance-low": "FuturePassのXRPバランスは低いです（XRPがガス料金のトークン以外にステーキングをするために必要です）"
   },
   "achievements": {
     "title": "実績",

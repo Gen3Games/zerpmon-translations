@@ -732,7 +732,9 @@
     "battle-skip-pass-active": "Battle Skip Pass نشط بالفعل",
     "few-breeding-coupon-found": "وجدت عدد قليل من القسائم التكاثر",
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager نشط بالفعل",
-    "turbo-time-accelerator-active": "مسرع وقت توربو نشط بالفعل"
+    "turbo-time-accelerator-active": "مسرع وقت توربو نشط بالفعل",
+    "used-tower-rush-ticket": "لقد استخدمت بنجاح تذكرة برج الذروة.",
+    "error-tower-rush-ticket": "حدث خطأ أثناء استخدام تذكرة برج الذروة."
   },
   "leaderboard-table": {
     "close": "يغلق",
@@ -1618,7 +1620,7 @@
     "staking-reward": "مكافآت Staking",
     "reward-share-wait-note": "يرجى الانتظار على مدار 24 ساعة حتى تظهر NFTS ضمن حساب مشاركة المكافآت",
     "claim-success": "تم المطالبة بنجاح بمكافآت Staking ، يجب أن تظهر قريبًا في Zerpwallet",
-    "futurepass-xrp-balance-low": ""
+    "futurepass-xrp-balance-low": "يحتوي FuturePass على رصيد XRP منخفض (مطلوب XRP للاضطراب بصرف النظر عن رمز رسوم الغاز)"
   },
   "achievements": {
     "title": "الإنجازات",

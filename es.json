@@ -514,7 +514,9 @@
     "battle-skip-pass-active": "Battle Skip Pass ya está activo",
     "few-breeding-coupon-found": "Pocos cupones de reproducción encontrados",
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager ya está activo",
-    "turbo-time-accelerator-active": "Turbo Time Acelerator ya está activo"
+    "turbo-time-accelerator-active": "Turbo Time Acelerator ya está activo",
+    "used-tower-rush-ticket": "Has utilizado con éxito un boleto de Tower Rush.",
+    "error-tower-rush-ticket": "Se produjo un error mientras usaba un boleto de torre."
   },
   "safari": {
     "title": "Safari",
@@ -1618,7 +1620,7 @@
     "staking-reward": "Recompensas de referencia",
     "reward-share-wait-note": "Espere las 24 horas para que los NFT se muestren dentro del cálculo de recompensas compartidas",
     "claim-success": "Reclamó con éxito recompensas en referencia, pronto debería aparecer en su zerpwallet",
-    "futurepass-xrp-balance-low": ""
+    "futurepass-xrp-balance-low": "FuturePass tiene un saldo de XRP bajo (se necesita XRP para innecesar aparte del token de tarifa de gas)"
   },
   "achievements": {
     "title": "Logros",

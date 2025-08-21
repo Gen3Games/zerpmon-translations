@@ -709,7 +709,9 @@
     "battle-skip-pass-active": "Battle Skip Pass è già attivo",
     "few-breeding-coupon-found": "Pochi coupon di riproduzione trovati",
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager è già attivo",
-    "turbo-time-accelerator-active": "Turbo Time Accelerator è già attivo"
+    "turbo-time-accelerator-active": "Turbo Time Accelerator è già attivo",
+    "used-tower-rush-ticket": "Hai usato con successo un biglietto della torre.",
+    "error-tower-rush-ticket": "Si è verificato un errore durante l'utilizzo di un biglietto per la corsa alla torre."
   },
   "leaderboard-table": {
     "close": "Vicino",
@@ -1618,7 +1620,7 @@
     "staking-reward": "Ricompensa",
     "reward-share-wait-note": "Si prega di attendere 24 ore che NFTS venga visualizzato nel calcolo della condivisione di ricompensa",
     "claim-success": "Reclamati con successo ricompense di picchettamento, dovrebbe presto presentarsi nel tuo zerpwallet",
-    "futurepass-xrp-balance-low": ""
+    "futurepass-xrp-balance-low": "FuturePass ha un basso saldo XRP (XRP è necessario per spargere a parte il token a commissione del gas)"
   },
   "achievements": {
     "title": "Risultati",

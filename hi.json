@@ -709,7 +709,9 @@
     "battle-skip-pass-active": "बैटल स्किप पास पहले से ही सक्रिय है",
     "few-breeding-coupon-found": "कुछ प्रजनन कूपन पाए गए",
     "zerpmon-auto-manager-active": "Zerpmon ऑटो मैनेजर पहले से ही सक्रिय है",
-    "turbo-time-accelerator-active": "टर्बो समय त्वरक पहले से ही सक्रिय है"
+    "turbo-time-accelerator-active": "टर्बो समय त्वरक पहले से ही सक्रिय है",
+    "used-tower-rush-ticket": "आपने एक टॉवर रश टिकट का सफलतापूर्वक उपयोग किया है।",
+    "error-tower-rush-ticket": "टॉवर रश टिकट का उपयोग करते समय एक त्रुटि हुई।"
   },
   "leaderboard-table": {
     "close": "बंद करना",
@@ -1618,7 +1620,7 @@
     "staking-reward": "स्टेकिंग रिवार्ड्स",
     "reward-share-wait-note": "कृपया एनएफटी के लिए 24hrs प्रतीक्षा करें ताकि इनाम शेयर गणना के भीतर दिखाया जा सके",
     "claim-success": "सफलतापूर्वक दावा किया गया कि रिवार्ड्स, जल्द ही अपने Zerpwallet में दिखाना चाहिए",
-    "futurepass-xrp-balance-low": ""
+    "futurepass-xrp-balance-low": "FuctionPass में कम XRP बैलेंस है (XRP को गैस शुल्क टोकन से अलग करने के लिए आवश्यक है)"
   },
   "achievements": {
     "title": "उपलब्धियों",

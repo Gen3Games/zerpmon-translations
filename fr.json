@@ -595,7 +595,9 @@
     "battle-skip-pass-active": "Battle Skip Pass est déjà actif",
     "few-breeding-coupon-found": "Peu de coupons de reproduction trouvés",
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager est déjà actif",
-    "turbo-time-accelerator-active": "L'accélérateur Turbo Time est déjà actif"
+    "turbo-time-accelerator-active": "L'accélérateur Turbo Time est déjà actif",
+    "used-tower-rush-ticket": "Vous avez réussi à utiliser un billet Rush Tower.",
+    "error-tower-rush-ticket": "Une erreur s'est produite lors de l'utilisation d'un billet de pointe de la tour."
   },
   "leaderboard-table": {
     "close": "Fermer",
@@ -1618,7 +1620,7 @@
     "staking-reward": "Priser les récompenses",
     "reward-share-wait-note": "Veuillez patienter les 24 heures pour que les NFT se présentent dans le calcul de la part de récompense",
     "claim-success": "Affirmé avec succès des récompenses de jalonnement, devrait bientôt apparaître dans votre zerpwallet",
-    "futurepass-xrp-balance-low": ""
+    "futurepass-xrp-balance-low": "FuturePass a un faible équilibre XRP (XRP est nécessaire pour déconcerter en dehors des jetons de frais de gaz)"
   },
   "achievements": {
     "title": "Réalisations",
