@@ -791,7 +791,7 @@
     "slot-empty": "插槽空",
     "season-performance": "季节表现",
     "buy-ticket-setup-deck": "购买票，设置甲板并根据性能赚取ZRP",
-    "purchase-ticket": "购买票",
+    "purchase-ticket": "买票",
     "battle-free": "绝对自由地战斗",
     "no-nfts-required": "无需NFT",
     "offchain-nfts-not-allwed": "不允许的链链NFT",
@@ -800,7 +800,8 @@
     "already-entered-tournament": "已经参加了比赛",
     "weather-buff-applied": "提升{type1} {type2} {type3}和{type4} zerpmon {buff}",
     "zerpmon-allowed": "甲板上的Zerpmon不允许。\n请检查允许的zerpmon",
-    "equipments-not-allowed": "不允许设备"
+    "equipments-not-allowed": "不允许设备",
+    "used-tower-rush-ticket": "Tower Rush票成功使用"
   },
   "test": {
     "test": "这是个测试"

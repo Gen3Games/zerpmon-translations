@@ -800,7 +800,8 @@
     "already-entered-tournament": "Torneo ya ingresado",
     "weather-buff-applied": "Boosting {type1} {type2} {type3} y {type4} zerpmon por {buff}",
     "zerpmon-allowed": "Zerpmon en la cubierta no está permitido. \nPor favor, consulte Zerpmon permitido",
-    "equipments-not-allowed": "No se permiten equipos"
+    "equipments-not-allowed": "No se permiten equipos",
+    "used-tower-rush-ticket": "Tower Rush Ticket utilizado con éxito"
   },
   "test": {
     "test": "esto es un test"

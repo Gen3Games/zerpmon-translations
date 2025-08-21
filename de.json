@@ -791,7 +791,7 @@
     "slot-empty": "Slot leer",
     "season-performance": "Saisonleistung",
     "buy-ticket-setup-deck": "Kaufen Sie ein Ticket, richten Sie ein Deck ein und verdienen Sie ZRP basierend auf der Leistung",
-    "purchase-ticket": "Kauf ein Ticket",
+    "purchase-ticket": "Kaufen Sie ein Ticket",
     "battle-free": "Bekämpfen Sie es absolut kostenlos",
     "no-nfts-required": "Keine NFTs erforderlich",
     "offchain-nfts-not-allwed": "Offchain NFTs nicht erlaubt",
@@ -800,7 +800,8 @@
     "already-entered-tournament": "Bereits ein Turnier eingetreten",
     "weather-buff-applied": "Boosting {type1} {type2} {type3} und {type4} zerpmon von {buff}",
     "zerpmon-allowed": "Zerpmon in Deck nicht erlaubt. \nBitte überprüfen Sie Zerpmon erlaubt",
-    "equipments-not-allowed": "Ausrüstungen sind nicht erlaubt"
+    "equipments-not-allowed": "Ausrüstungen sind nicht erlaubt",
+    "used-tower-rush-ticket": "Tower Rush Ticket erfolgreich eingesetzt"
   },
   "test": {
     "test": "Dies ist ein Test"

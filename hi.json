@@ -214,7 +214,7 @@
     "slot-empty": "स्लॉट खाली",
     "season-performance": "सीज़न प्रदर्शन",
     "buy-ticket-setup-deck": "एक टिकट खरीदें, एक डेक सेट करें और प्रदर्शन के आधार पर ZRP अर्जित करें",
-    "purchase-ticket": "टिकट खरीदना",
+    "purchase-ticket": "एक टिकट खरीदें",
     "battle-free": "इसे पूरी तरह से मुक्त करने के लिए बाहर लड़ाई",
     "no-nfts-required": "कोई एनएफटी की आवश्यकता नहीं है",
     "offchain-nfts-not-allwed": "ऑफचेन एनएफटी की अनुमति नहीं है",
@@ -223,7 +223,8 @@
     "already-entered-tournament": "पहले से ही टूर्नामेंट में प्रवेश किया",
     "weather-buff-applied": "बूस्टिंग {type1} {type2} {type3} और {type4} zerpmon by {buff}",
     "zerpmon-allowed": "डेक में शेरपोन की अनुमति नहीं है। \nकृपया Zerpmon की अनुमति दें",
-    "equipments-not-allowed": "उपकरणों की अनुमति नहीं है"
+    "equipments-not-allowed": "उपकरणों की अनुमति नहीं है",
+    "used-tower-rush-ticket": "टॉवर रश टिकट सफलतापूर्वक इस्तेमाल किया"
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
