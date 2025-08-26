@@ -338,7 +338,8 @@
     "weather-buff-applied": "Boosting {Type1} {Type2} {Type3} en {Type4} ZERPMON door {buff}",
     "zerpmon-allowed": "Zerkmon in dek niet toegestaan. \nControleer of toegestaan ​​Zerpmon",
     "equipments-not-allowed": "Apparatuur is niet toegestaan",
-    "used-tower-rush-ticket": "Tower Rush -ticket met succes gebruikt"
+    "used-tower-rush-ticket": "Tower Rush -ticket met succes gebruikt",
+    "percentiles": ""
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",

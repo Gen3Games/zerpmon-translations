@@ -224,7 +224,8 @@
     "weather-buff-applied": "बूस्टिंग {type1} {type2} {type3} और {type4} zerpmon by {buff}",
     "zerpmon-allowed": "डेक में शेरपोन की अनुमति नहीं है। \nकृपया Zerpmon की अनुमति दें",
     "equipments-not-allowed": "उपकरणों की अनुमति नहीं है",
-    "used-tower-rush-ticket": "टॉवर रश टिकट सफलतापूर्वक इस्तेमाल किया"
+    "used-tower-rush-ticket": "टॉवर रश टिकट सफलतापूर्वक इस्तेमाल किया",
+    "percentiles": ""
   },
   "analytics": {
     "analytics": "एनालिटिक्स",

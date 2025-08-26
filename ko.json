@@ -803,7 +803,8 @@
     "weather-buff-applied": "부스트 {type1} {type2} {type3} 및 {type4} zerpmon by {buff}",
     "zerpmon-allowed": "데크의 zerpmon은 허용되지 않습니다. \nZerpmon 허용을 확인하십시오",
     "equipments-not-allowed": "장비는 허용되지 않습니다",
-    "used-tower-rush-ticket": "타워 러시 티켓은 성공적으로 사용되었습니다"
+    "used-tower-rush-ticket": "타워 러시 티켓은 성공적으로 사용되었습니다",
+    "percentiles": ""
   },
   "test": {
     "test": "테스트입니다."

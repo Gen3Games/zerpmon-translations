@@ -803,7 +803,8 @@
     "weather-buff-applied": "Boosting {type1} {type2} {type3} and {type4} Zerpmon by {buff}",
     "zerpmon-allowed": "Zerpmon in deck not allowed. Please check Zerpmon allowed",
     "equipments-not-allowed": "Equipments are not allowed",
-    "used-tower-rush-ticket": "Tower Rush ticket used successfully"
+    "used-tower-rush-ticket": "Tower Rush ticket used successfully",
+    "percentiles": "Percentiles"
   },
   "test": {
     "test": "this is a test"

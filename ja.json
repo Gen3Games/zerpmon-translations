@@ -803,7 +803,8 @@
     "weather-buff-applied": "boosting {type1} {type2} {type3}および{type4} zerpmon by {buff}",
     "zerpmon-allowed": "デッキのZerpmonは許可されていません。\n許可されているZerpmonを確認してください",
     "equipments-not-allowed": "機器は許可されていません",
-    "used-tower-rush-ticket": "タワーラッシュチケットは正常に使用されました"
+    "used-tower-rush-ticket": "タワーラッシュチケットは正常に使用されました",
+    "percentiles": ""
   },
   "test": {
     "test": "これはテストです"

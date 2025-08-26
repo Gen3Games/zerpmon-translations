@@ -338,7 +338,8 @@
     "weather-buff-applied": "Boost {type1} {type2} {type3} e {type4} zerpmon di {buff}",
     "zerpmon-allowed": "Zerpmon nel mazzo non consentito. \nSi prega di controllare Zerpmon consentito",
     "equipments-not-allowed": "Le attrezzature non sono consentite",
-    "used-tower-rush-ticket": "Torre Rush Ticket usato con successo"
+    "used-tower-rush-ticket": "Torre Rush Ticket usato con successo",
+    "percentiles": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

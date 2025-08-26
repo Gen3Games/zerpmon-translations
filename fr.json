@@ -279,7 +279,8 @@
     "weather-buff-applied": "Boost {type1} {type2} {type3} et {type4} zerpmon par {buff}",
     "zerpmon-allowed": "Zerpmon dans le pont non autorisé. \nVeuillez vérifier Zerpmon autorisé",
     "equipments-not-allowed": "Les équipements ne sont pas autorisés",
-    "used-tower-rush-ticket": "Bicket Rush Tower utilisé avec succès"
+    "used-tower-rush-ticket": "Bicket Rush Tower utilisé avec succès",
+    "percentiles": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

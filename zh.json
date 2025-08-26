@@ -803,7 +803,8 @@
     "weather-buff-applied": "提升{type1} {type2} {type3}和{type4} zerpmon {buff}",
     "zerpmon-allowed": "甲板上的Zerpmon不允许。\n请检查允许的zerpmon",
     "equipments-not-allowed": "不允许设备",
-    "used-tower-rush-ticket": "Tower Rush票成功使用"
+    "used-tower-rush-ticket": "Tower Rush票成功使用",
+    "percentiles": ""
   },
   "test": {
     "test": "这是个测试"
