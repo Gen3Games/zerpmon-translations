@@ -750,7 +750,8 @@
     "zerpmons": "Zerpmon",
     "mp": "Meesterschapspunten",
     "player-count": "Player Count",
-    "player-count-short": "P. Tellen"
+    "player-count-short": "P. Tellen",
+    "rank": ""
   },
   "leaderboard": {
     "dropdown-mission": "Missie aller tijden",

@@ -636,7 +636,8 @@
     "zerpmons": "Zerpmon",
     "mp": "Points de maîtrise",
     "player-count": "Compter les joueurs",
-    "player-count-short": "P. Count"
+    "player-count-short": "P. Count",
+    "rank": ""
   },
   "leaderboard": {
     "dropdown-mission": "Mission de tous les temps",

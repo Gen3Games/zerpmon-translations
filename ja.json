@@ -421,7 +421,8 @@
     "gym-tier": "階層",
     "mp": "マスタリーポイント",
     "player-count": "プレイヤーカウント",
-    "player-count-short": "P.カウント"
+    "player-count-short": "P.カウント",
+    "rank": ""
   },
   "analytics": {
     "analytics": "分析",

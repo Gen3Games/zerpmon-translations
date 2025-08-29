@@ -421,7 +421,8 @@
     "gym-tier": "层",
     "mp": "精通点数",
     "player-count": "播放器计数",
-    "player-count-short": "P.计数"
+    "player-count-short": "P.计数",
+    "rank": ""
   },
   "analytics": {
     "analytics": "分析",

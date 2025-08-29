@@ -750,7 +750,8 @@
     "zerpmons": "Zerpmon",
     "mp": "Punti maestria",
     "player-count": "Conteggio dei giocatori",
-    "player-count-short": "P. Count"
+    "player-count-short": "P. Count",
+    "rank": ""
   },
   "leaderboard": {
     "dropdown-mission": "Missione di tutti i tempi",

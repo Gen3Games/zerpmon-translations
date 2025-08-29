@@ -750,7 +750,8 @@
     "zerpmons": "ज़र्पमोन",
     "mp": "महारत अंक",
     "player-count": "खिलाड़ी गिनती",
-    "player-count-short": "पी। गिनती"
+    "player-count-short": "पी। गिनती",
+    "rank": ""
   },
   "leaderboard": {
     "dropdown-mission": "सर्वकालिक मिशन",

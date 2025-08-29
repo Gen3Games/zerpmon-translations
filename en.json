@@ -421,7 +421,8 @@
     "gym-tier": "Tier",
     "mp": "Mastery Points",
     "player-count": "Player Count",
-    "player-count-short": "P. Count"
+    "player-count-short": "P. Count",
+    "rank": "Rank"
   },
   "analytics": {
     "analytics": "Analytics",

@@ -773,7 +773,8 @@
     "zerpmon-not-set": "زيربمون",
     "zerpmons": "زيربمون",
     "player-count": "عدد اللاعب",
-    "player-count-short": "P. العد"
+    "player-count-short": "P. العد",
+    "rank": ""
   },
   "leaderboard": {
     "dropdown-mission": "مهمة طوال الوقت",

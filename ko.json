@@ -421,7 +421,8 @@
     "gym-tier": "층",
     "mp": "마스터리 포인트",
     "player-count": "플레이어 수",
-    "player-count-short": "P. 수"
+    "player-count-short": "P. 수",
+    "rank": ""
   },
   "analytics": {
     "analytics": "분석",

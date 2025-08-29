@@ -421,7 +421,8 @@
     "gym-tier": "Nivel",
     "mp": "Puntos de maestría",
     "player-count": "Recuento de jugadores",
-    "player-count-short": "P."
+    "player-count-short": "P.",
+    "rank": ""
   },
   "analytics": {
     "analytics": "Análisis",

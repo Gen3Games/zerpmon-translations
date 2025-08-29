@@ -421,7 +421,8 @@
     "gym-tier": "Stufe",
     "mp": "Mastery Punkte",
     "player-count": "Gesamtzahl Spieler",
-    "player-count-short": "Spieler ges."
+    "player-count-short": "Spieler ges.",
+    "rank": ""
   },
   "analytics": {
     "analytics": "Auswertung",
