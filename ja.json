@@ -422,7 +422,7 @@
     "mp": "マスタリーポイント",
     "player-count": "プレイヤーカウント",
     "player-count-short": "P.カウント",
-    "rank": ""
+    "rank": "ランク"
   },
   "analytics": {
     "analytics": "分析",
@@ -794,7 +794,7 @@
     "slot-empty": "スロットが空です",
     "season-performance": "シーズンパフォーマンス",
     "buy-ticket-setup-deck": "チケットを購入し、デッキをセットアップし、パフォーマンスに基づいてZRPを獲得します",
-    "purchase-ticket": "チケットを購入します",
+    "purchase-ticket": "チケットを使用します",
     "battle-free": "絶対に無料で戦います",
     "no-nfts-required": "NFTは必要ありません",
     "offchain-nfts-not-allwed": "オフチェーンNFTは許可されていません",
@@ -805,7 +805,12 @@
     "zerpmon-allowed": "デッキのZerpmonは許可されていません。\n許可されているZerpmonを確認してください",
     "equipments-not-allowed": "機器は許可されていません",
     "used-tower-rush-ticket": "タワーラッシュチケットは正常に使用されました",
-    "percentiles": ""
+    "percentiles": "パーセンタイル",
+    "no-tower-rush-ticket": "タワーラッシュチケットが見つかりません、店から購入する",
+    "quit": "やめる",
+    "total-zrp-earned": "合計ZRPが獲得しました",
+    "total-tower-points": "総タワーポイント",
+    "lives-left": "残った生活"
   },
   "test": {
     "test": "これはテストです"

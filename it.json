@@ -328,7 +328,7 @@
     "slot-empty": "Slot vuoto",
     "season-performance": "Performance della stagione",
     "buy-ticket-setup-deck": "Acquista un biglietto, imposta un mazzo e guadagna ZRP in base alle prestazioni",
-    "purchase-ticket": "Acquista un biglietto",
+    "purchase-ticket": "Usa il biglietto",
     "battle-free": "Combattere per assolutamente gratuito",
     "no-nfts-required": "Nessun NFTS richiesto",
     "offchain-nfts-not-allwed": "Nfts offchain non consentito",
@@ -339,7 +339,12 @@
     "zerpmon-allowed": "Zerpmon nel mazzo non consentito. \nSi prega di controllare Zerpmon consentito",
     "equipments-not-allowed": "Le attrezzature non sono consentite",
     "used-tower-rush-ticket": "Torre Rush Ticket usato con successo",
-    "percentiles": ""
+    "percentiles": "Percentili",
+    "no-tower-rush-ticket": "Torre Rush Ticket non trovato, acquista uno dal negozio",
+    "quit": "Esentato",
+    "total-zrp-earned": "ZRP totale guadagnato",
+    "total-tower-points": "Punti torre totali",
+    "lives-left": "Vite rimaste"
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",
@@ -751,7 +756,7 @@
     "mp": "Punti maestria",
     "player-count": "Conteggio dei giocatori",
     "player-count-short": "P. Count",
-    "rank": ""
+    "rank": "Rango"
   },
   "leaderboard": {
     "dropdown-mission": "Missione di tutti i tempi",

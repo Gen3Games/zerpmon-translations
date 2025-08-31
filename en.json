@@ -794,7 +794,7 @@
     "slot-empty": "Slot Empty",
     "season-performance": "Season Performance",
     "buy-ticket-setup-deck": "Buy a Ticket, Setup a Deck and Earn ZRP based on performance",
-    "purchase-ticket": "Buy a Ticket",
+    "purchase-ticket": "Use Ticket",
     "battle-free": "Battle it out for absolutely free",
     "no-nfts-required": "No nfts required",
     "offchain-nfts-not-allwed": "Offchain NFTs not allowed",
@@ -805,7 +805,12 @@
     "zerpmon-allowed": "Zerpmon in deck not allowed. Please check Zerpmon allowed",
     "equipments-not-allowed": "Equipments are not allowed",
     "used-tower-rush-ticket": "Tower Rush ticket used successfully",
-    "percentiles": "Percentiles"
+    "percentiles": "Percentiles",
+    "no-tower-rush-ticket": "Tower Rush ticket not found, buy one from the store",
+    "quit": "Quit",
+    "total-zrp-earned": "Total ZRP Earned",
+    "total-tower-points": "Total Tower Points",
+    "lives-left": "Lives Left"
   },
   "test": {
     "test": "this is a test"

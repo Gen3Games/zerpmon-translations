@@ -422,7 +422,7 @@
     "mp": "Puntos de maestría",
     "player-count": "Recuento de jugadores",
     "player-count-short": "P.",
-    "rank": ""
+    "rank": "Rango"
   },
   "analytics": {
     "analytics": "Análisis",
@@ -794,7 +794,7 @@
     "slot-empty": "Ranura vacía",
     "season-performance": "Rendimiento de la temporada",
     "buy-ticket-setup-deck": "Comprar un boleto, configurar un mazo y ganar ZRP según el rendimiento",
-    "purchase-ticket": "Comprar un boleto",
+    "purchase-ticket": "Utilice el boleto",
     "battle-free": "Luchar por completo",
     "no-nfts-required": "No se requieren NFTS",
     "offchain-nfts-not-allwed": "No se permiten NFTS de cadena",
@@ -805,7 +805,12 @@
     "zerpmon-allowed": "Zerpmon en la cubierta no está permitido. \nPor favor, consulte Zerpmon permitido",
     "equipments-not-allowed": "No se permiten equipos",
     "used-tower-rush-ticket": "Tower Rush Ticket utilizado con éxito",
-    "percentiles": ""
+    "percentiles": "Percentiles",
+    "no-tower-rush-ticket": "Tower Rush Boleto no encontrado, compre uno en la tienda",
+    "quit": "Abandonar",
+    "total-zrp-earned": "Total de ZRP ganado",
+    "total-tower-points": "Puntos de la torre total",
+    "lives-left": "Vidas a la izquierda"
   },
   "test": {
     "test": "esto es un test"

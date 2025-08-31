@@ -214,7 +214,7 @@
     "slot-empty": "स्लॉट खाली",
     "season-performance": "सीज़न प्रदर्शन",
     "buy-ticket-setup-deck": "एक टिकट खरीदें, एक डेक सेट करें और प्रदर्शन के आधार पर ZRP अर्जित करें",
-    "purchase-ticket": "एक टिकट खरीदें",
+    "purchase-ticket": "उपयोग टिकट",
     "battle-free": "इसे पूरी तरह से मुक्त करने के लिए बाहर लड़ाई",
     "no-nfts-required": "कोई एनएफटी की आवश्यकता नहीं है",
     "offchain-nfts-not-allwed": "ऑफचेन एनएफटी की अनुमति नहीं है",
@@ -225,7 +225,12 @@
     "zerpmon-allowed": "डेक में शेरपोन की अनुमति नहीं है। \nकृपया Zerpmon की अनुमति दें",
     "equipments-not-allowed": "उपकरणों की अनुमति नहीं है",
     "used-tower-rush-ticket": "टॉवर रश टिकट सफलतापूर्वक इस्तेमाल किया",
-    "percentiles": ""
+    "percentiles": "प्रतिशतक",
+    "no-tower-rush-ticket": "टॉवर रश टिकट नहीं मिला, स्टोर से एक खरीदें",
+    "quit": "छोड़ना",
+    "total-zrp-earned": "कुल ZRP अर्जित",
+    "total-tower-points": "कुल टॉवर अंक",
+    "lives-left": "जीवन छोड़ दिया"
   },
   "analytics": {
     "analytics": "एनालिटिक्स",
@@ -751,7 +756,7 @@
     "mp": "महारत अंक",
     "player-count": "खिलाड़ी गिनती",
     "player-count-short": "पी। गिनती",
-    "rank": ""
+    "rank": "रैंक"
   },
   "leaderboard": {
     "dropdown-mission": "सर्वकालिक मिशन",

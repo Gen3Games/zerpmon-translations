@@ -269,7 +269,7 @@
     "slot-empty": "Fente vide",
     "season-performance": "Performance de saison",
     "buy-ticket-setup-deck": "Achetez un billet, configurez un deck et gagnez ZRP en fonction des performances",
-    "purchase-ticket": "Acheter un billet",
+    "purchase-ticket": "Utiliser un billet",
     "battle-free": "Se battre pour absolument gratuit",
     "no-nfts-required": "Aucune NFT requise",
     "offchain-nfts-not-allwed": "Les NFT hors chain non autorisés",
@@ -280,7 +280,12 @@
     "zerpmon-allowed": "Zerpmon dans le pont non autorisé. \nVeuillez vérifier Zerpmon autorisé",
     "equipments-not-allowed": "Les équipements ne sont pas autorisés",
     "used-tower-rush-ticket": "Bicket Rush Tower utilisé avec succès",
-    "percentiles": ""
+    "percentiles": "Centiles",
+    "no-tower-rush-ticket": "Ticket Tower Rush non trouvé, achetez-en un dans le magasin",
+    "quit": "Quitter",
+    "total-zrp-earned": "ZRP total gagné",
+    "total-tower-points": "Points de la tour totale",
+    "lives-left": "Vie à gauche"
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
@@ -637,7 +642,7 @@
     "mp": "Points de maîtrise",
     "player-count": "Compter les joueurs",
     "player-count-short": "P. Count",
-    "rank": ""
+    "rank": "Rang"
   },
   "leaderboard": {
     "dropdown-mission": "Mission de tous les temps",

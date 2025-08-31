@@ -328,7 +328,7 @@
     "slot-empty": "Slot leeg",
     "season-performance": "Seizoenprestatie",
     "buy-ticket-setup-deck": "Koop een kaartje, stel een dek in en verdien ZRP op basis van prestaties",
-    "purchase-ticket": "Koop een kaartje",
+    "purchase-ticket": "Gebruik ticket",
     "battle-free": "Vecht het uit voor absoluut gratis",
     "no-nfts-required": "Geen NFT's vereist",
     "offchain-nfts-not-allwed": "Offchain nfts niet toegestaan",
@@ -339,7 +339,12 @@
     "zerpmon-allowed": "Zerkmon in dek niet toegestaan. \nControleer of toegestaan ​​Zerpmon",
     "equipments-not-allowed": "Apparatuur is niet toegestaan",
     "used-tower-rush-ticket": "Tower Rush -ticket met succes gebruikt",
-    "percentiles": ""
+    "percentiles": "Percentiel",
+    "no-tower-rush-ticket": "Tower Rush -ticket niet gevonden, koop er een uit de winkel",
+    "quit": "Ontslag nemen",
+    "total-zrp-earned": "Totale ZRP verdiend",
+    "total-tower-points": "Totale torenpunten",
+    "lives-left": "Leeft links"
   },
   "buy-zerpmon": {
     "already-bought": "Je hebt al een zerpmon gekocht",
@@ -751,7 +756,7 @@
     "mp": "Meesterschapspunten",
     "player-count": "Player Count",
     "player-count-short": "P. Tellen",
-    "rank": ""
+    "rank": "Rang"
   },
   "leaderboard": {
     "dropdown-mission": "Missie aller tijden",

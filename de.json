@@ -422,7 +422,7 @@
     "mp": "Mastery Punkte",
     "player-count": "Gesamtzahl Spieler",
     "player-count-short": "Spieler ges.",
-    "rank": ""
+    "rank": "Rang"
   },
   "analytics": {
     "analytics": "Auswertung",
@@ -794,7 +794,7 @@
     "slot-empty": "Slot leer",
     "season-performance": "Saisonleistung",
     "buy-ticket-setup-deck": "Kaufen Sie ein Ticket, richten Sie ein Deck ein und verdienen Sie ZRP basierend auf der Leistung",
-    "purchase-ticket": "Kaufen Sie ein Ticket",
+    "purchase-ticket": "Ticket verwenden",
     "battle-free": "Bekämpfen Sie es absolut kostenlos",
     "no-nfts-required": "Keine NFTs erforderlich",
     "offchain-nfts-not-allwed": "Offchain NFTs nicht erlaubt",
@@ -805,7 +805,12 @@
     "zerpmon-allowed": "Zerpmon in Deck nicht erlaubt. \nBitte überprüfen Sie Zerpmon erlaubt",
     "equipments-not-allowed": "Ausrüstungen sind nicht erlaubt",
     "used-tower-rush-ticket": "Tower Rush Ticket erfolgreich eingesetzt",
-    "percentiles": ""
+    "percentiles": "Perzentile",
+    "no-tower-rush-ticket": "Tower Rush Ticket nicht gefunden, einen im Laden kaufen",
+    "quit": "Aufhören",
+    "total-zrp-earned": "Total ZRP verdient",
+    "total-tower-points": "Gesamtturmpunkte",
+    "lives-left": "Leben übrig"
   },
   "test": {
     "test": "Dies ist ein Test"

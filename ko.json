@@ -422,7 +422,7 @@
     "mp": "마스터리 포인트",
     "player-count": "플레이어 수",
     "player-count-short": "P. 수",
-    "rank": ""
+    "rank": "계급"
   },
   "analytics": {
     "analytics": "분석",
@@ -794,7 +794,7 @@
     "slot-empty": "슬롯이 비어 있습니다",
     "season-performance": "계절 성능",
     "buy-ticket-setup-deck": "티켓 구매, 데크를 설정하고 성능을 바탕으로 ZRP를 얻으십시오.",
-    "purchase-ticket": "티켓을 사십시오",
+    "purchase-ticket": "티켓 사용",
     "battle-free": "절대적으로 무료로 싸우십시오",
     "no-nfts-required": "NFT가 필요하지 않습니다",
     "offchain-nfts-not-allwed": "offchain nfts는 허용되지 않습니다",
@@ -805,7 +805,12 @@
     "zerpmon-allowed": "데크의 zerpmon은 허용되지 않습니다. \nZerpmon 허용을 확인하십시오",
     "equipments-not-allowed": "장비는 허용되지 않습니다",
     "used-tower-rush-ticket": "타워 러시 티켓은 성공적으로 사용되었습니다",
-    "percentiles": ""
+    "percentiles": "백분위 수",
+    "no-tower-rush-ticket": "타워 러쉬 티켓을 찾을 수없고, 상점에서 하나를 사십시오",
+    "quit": "그만두다",
+    "total-zrp-earned": "총 ZRP 획득",
+    "total-tower-points": "총 타워 포인트",
+    "lives-left": "왼쪽에 살고 있습니다"
   },
   "test": {
     "test": "테스트입니다."

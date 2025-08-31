@@ -328,7 +328,7 @@
     "slot-empty": "فتحة فارغة",
     "season-performance": "أداء الموسم",
     "buy-ticket-setup-deck": "شراء تذكرة وإعداد سطح السفينة وكسب ZRP بناء على الأداء",
-    "purchase-ticket": "شراء تذكرة",
+    "purchase-ticket": "استخدم التذكرة",
     "battle-free": "خاضها مجانًا تمامًا",
     "no-nfts-required": "لا NFTS مطلوب",
     "offchain-nfts-not-allwed": "غير مسموح بـ NFTS Offchain",
@@ -339,7 +339,12 @@
     "zerpmon-allowed": "Zerpmon في سطح السفينة غير مسموح. \nيرجى التحقق من zerpmon المسموح بها",
     "equipments-not-allowed": "المعدات غير مسموح بها",
     "used-tower-rush-ticket": "تستخدم تذكرة برج الاندفاع بنجاح",
-    "percentiles": ""
+    "percentiles": "المئوية",
+    "no-tower-rush-ticket": "Tower Rush Ticket لم يتم العثور عليها ، اشتر واحدة من المتجر",
+    "quit": "يترك",
+    "total-zrp-earned": "إجمالي ZRP كسب",
+    "total-tower-points": "إجمالي نقاط البرج",
+    "lives-left": "اليسار اليسار"
   },
   "buy-zerpmon": {
     "already-bought": "لقد قمت بالفعل بشراء zerpmon",
@@ -774,7 +779,7 @@
     "zerpmons": "زيربمون",
     "player-count": "عدد اللاعب",
     "player-count-short": "P. العد",
-    "rank": ""
+    "rank": "رتبة"
   },
   "leaderboard": {
     "dropdown-mission": "مهمة طوال الوقت",

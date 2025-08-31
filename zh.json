@@ -422,7 +422,7 @@
     "mp": "精通点数",
     "player-count": "播放器计数",
     "player-count-short": "P.计数",
-    "rank": ""
+    "rank": "秩"
   },
   "analytics": {
     "analytics": "分析",
@@ -794,7 +794,7 @@
     "slot-empty": "插槽空",
     "season-performance": "季节表现",
     "buy-ticket-setup-deck": "购买票，设置甲板并根据性能赚取ZRP",
-    "purchase-ticket": "买票",
+    "purchase-ticket": "使用票",
     "battle-free": "绝对自由地战斗",
     "no-nfts-required": "无需NFT",
     "offchain-nfts-not-allwed": "不允许的链链NFT",
@@ -805,7 +805,12 @@
     "zerpmon-allowed": "甲板上的Zerpmon不允许。\n请检查允许的zerpmon",
     "equipments-not-allowed": "不允许设备",
     "used-tower-rush-ticket": "Tower Rush票成功使用",
-    "percentiles": ""
+    "percentiles": "百分位数",
+    "no-tower-rush-ticket": "找不到Tower Rush票，从商店买一张",
+    "quit": "辞职",
+    "total-zrp-earned": "ZRP总赚取",
+    "total-tower-points": "总塔点",
+    "lives-left": "剩下的生活"
   },
   "test": {
     "test": "这是个测试"
