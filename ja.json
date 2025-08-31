@@ -1756,6 +1756,8 @@
     "lost": "失った",
     "something-went-wrong": "何かがうまくいかなかった",
     "settings-updated": "更新された設定",
-    "battle-royale-description": "これにより、プレーヤーが進行中のすべてに入ります"
+    "battle-royale-description": "これにより、プレーヤーが進行中のすべてに入ります",
+    "max-total-of-10-battles": "1日あたりの合計10バトルの最大",
+    "number-of-battles": "戦いの数"
   }
 }

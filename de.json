@@ -1756,6 +1756,8 @@
     "lost": "Verloren",
     "something-went-wrong": "Etwas lief schief",
     "settings-updated": "Einstellungen aktualisiert",
-    "battle-royale-description": "Dadurch wird der Spieler in alle laufenden einbezogen"
+    "battle-royale-description": "Dadurch wird der Spieler in alle laufenden einbezogen",
+    "max-total-of-10-battles": "Maximal insgesamt 10 Schlachten pro Tag erlaubt",
+    "number-of-battles": "Anzahl der Schlachten"
   }
 }

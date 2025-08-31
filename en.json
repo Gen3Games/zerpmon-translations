@@ -1756,6 +1756,8 @@
     "lost": "Lost",
     "something-went-wrong": "Something went wrong",
     "settings-updated": "Settings Updated",
-    "battle-royale-description": "This will enter the player into all the ongoing"
+    "battle-royale-description": "This will enter the player into all the ongoing",
+    "max-total-of-10-battles": "Max total of 10 battles allowed per day",
+    "number-of-battles": "Number of battles"
   }
 }

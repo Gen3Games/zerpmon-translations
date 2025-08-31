@@ -1756,6 +1756,8 @@
     "lost": "खो गया",
     "something-went-wrong": "कुछ गलत हो गया",
     "settings-updated": "अद्यतन की गई सेटिंग",
-    "battle-royale-description": "यह खिलाड़ी को सभी चल रहे हैं"
+    "battle-royale-description": "यह खिलाड़ी को सभी चल रहे हैं",
+    "max-total-of-10-battles": "अधिकतम कुल 10 लड़ाइयों की अनुमति प्रति दिन की अनुमति है",
+    "number-of-battles": "लड़ाइयों की संख्या"
   }
 }

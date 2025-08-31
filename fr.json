@@ -1756,6 +1756,8 @@
     "lost": "Perdu",
     "something-went-wrong": "Quelque chose s'est mal passé",
     "settings-updated": "Paramètres mis à jour",
-    "battle-royale-description": "Cela entrera dans le joueur dans tous les"
+    "battle-royale-description": "Cela entrera dans le joueur dans tous les",
+    "max-total-of-10-battles": "Total maximum de 10 batailles autorisées par jour",
+    "number-of-battles": "Nombre de batailles"
   }
 }

@@ -1756,6 +1756,8 @@
     "lost": "Perduto",
     "something-went-wrong": "Qualcosa è andato storto",
     "settings-updated": "Impostazioni aggiornate",
-    "battle-royale-description": "Questo entrerà al giocatore in tutti i continui"
+    "battle-royale-description": "Questo entrerà al giocatore in tutti i continui",
+    "max-total-of-10-battles": "Totale massimo di 10 battaglie consentite al giorno",
+    "number-of-battles": "Numero di battaglie"
   }
 }

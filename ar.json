@@ -1756,6 +1756,8 @@
     "lost": "ضائع",
     "something-went-wrong": "حدث خطأ ما",
     "settings-updated": "الإعدادات تحديث",
-    "battle-royale-description": "سيؤدي هذا إلى إدخال اللاعب في كل ما يستمر"
+    "battle-royale-description": "سيؤدي هذا إلى إدخال اللاعب في كل ما يستمر",
+    "max-total-of-10-battles": "إجمالي 10 معارك مسموح بها يوميًا",
+    "number-of-battles": "عدد المعارك"
   }
 }

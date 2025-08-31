@@ -1756,6 +1756,8 @@
     "lost": "丢失的",
     "something-went-wrong": "出了点问题",
     "settings-updated": "设置已更新",
-    "battle-royale-description": "这将使播放器进入所有正在进行的"
+    "battle-royale-description": "这将使播放器进入所有正在进行的",
+    "max-total-of-10-battles": "最大每天允许的10次战斗",
+    "number-of-battles": "战斗数量"
   }
 }

@@ -1756,6 +1756,8 @@
     "lost": "잃어버린",
     "something-went-wrong": "뭔가 잘못되었습니다",
     "settings-updated": "설정이 업데이트되었습니다",
-    "battle-royale-description": "이것은 플레이어가 진행중인 모든 것에 들어갑니다"
+    "battle-royale-description": "이것은 플레이어가 진행중인 모든 것에 들어갑니다",
+    "max-total-of-10-battles": "하루에 총 10 번의 전투가 허용됩니다",
+    "number-of-battles": "전투 수"
   }
 }
