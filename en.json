@@ -1736,7 +1736,7 @@
     "select-deck": "Select deck",
     "use-gym-refill": "Use Gym Refill Daily",
     "select-gym-refills-count": "Select gym refills count",
-    "pvp-description": "This will select and battle with the first 3 player choices across all Rank Modes.",
+    "pvp-description": "Spread a total battles of 10 across the 3 leagues below",
     "note": "Note: To work as expected, please make sure your relevant Decks are populated with cards and you have sufficient Potions in your Inventory",
     "save": "Save",
     "battle-history-unavailable": "Battle History is not available yet",

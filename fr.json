@@ -1736,7 +1736,7 @@
     "select-deck": "Sélectionner le jeu",
     "use-gym-refill": "Utilisez la recharge de gym quotidienne",
     "select-gym-refills-count": "Sélectionner le nombre de recharges de gym",
-    "pvp-description": "Cela sélectionnera et se battra avec les 3 premiers choix de joueurs sur tous les modes de classement.",
+    "pvp-description": "Répartir un total de batailles de 10 dans les 3 lieues ci-dessous",
     "note": "Remarque: Pour fonctionner comme prévu, assurez-vous que vos decks pertinents sont remplis de cartes et que vous avez suffisamment de potions dans votre inventaire",
     "save": "Sauvegarder",
     "battle-history-unavailable": "L'histoire de combat n'est pas encore disponible",
