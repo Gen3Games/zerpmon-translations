@@ -1163,7 +1163,8 @@
     "payment-from-zerpwallet-volatile": "Il pagamento verrà prelevato dal tuo ZerpWallet ({amount}) {finalAmount} (all'ultimo momento controllato, potrebbe cambiare se non accettato per un periodo di tempo)",
     "special-store": "Negozio speciale",
     "item-store": "Negozio di articoli",
-    "claim-zmc-token-msg": "Vorresti rivendicare il tuo Zerpmon evoluto? \nIl tuo cristallo Zerp è in arrivo e potrebbe richiedere fino a 30 secondi."
+    "claim-zmc-token-msg": "Vorresti rivendicare il tuo Zerpmon evoluto? \nIl tuo cristallo Zerp è in arrivo e potrebbe richiedere fino a 30 secondi.",
+    "confirm-trainer-type-change": ""
   },
   "test": {
     "test": "questa è una prova"

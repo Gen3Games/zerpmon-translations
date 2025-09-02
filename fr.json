@@ -1034,7 +1034,8 @@
     "payment-from-zerpwallet-volatile": "Le paiement sera prélevé sur votre ZerpWallet ({amount}) {finalAmount} (au dernier moment vérifié, pourrait changer s'il n'est pas accepté pendant un certain temps)",
     "special-store": "Magasin spécial",
     "item-store": "Magasin d'articles",
-    "claim-zmc-token-msg": "Souhaitez-vous prétendre que votre zerpmon a évolué? \nVotre cristal zerp est en route et peut prendre jusqu'à 30 secondes."
+    "claim-zmc-token-msg": "Souhaitez-vous prétendre que votre zerpmon a évolué? \nVotre cristal zerp est en route et peut prendre jusqu'à 30 secondes.",
+    "confirm-trainer-type-change": ""
   },
   "test": {
     "test": "c'est un test"

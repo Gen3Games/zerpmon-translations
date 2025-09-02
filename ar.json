@@ -1234,7 +1234,8 @@
     "zrp-store": "متجر زي آر بي",
     "special-store": "متجر خاص",
     "item-store": "متجر البند",
-    "claim-zmc-token-msg": "هل ترغب في المطالبة بتطور Zerpmon الخاص بك؟ \nبلورة Zerp الخاصة بك في طريقها وقد تستغرق ما يصل إلى 30 ثانية."
+    "claim-zmc-token-msg": "هل ترغب في المطالبة بتطور Zerpmon الخاص بك؟ \nبلورة Zerp الخاصة بك في طريقها وقد تستغرق ما يصل إلى 30 ثانية.",
+    "confirm-trainer-type-change": ""
   },
   "terms-of-service": {
     "account-registration": "تسجيل الحساب",

@@ -333,7 +333,8 @@
     "payment-from-zerpwallet-volatile": "Die Bezahlung erfolgt über dein ZerpWallet ({amount}) {finalAmount} (Stand nach letzter Überprüfung. Kann abweichen, wenn lange nicht aktualisiert)",
     "special-store": "Sondergeschäft",
     "item-store": "Item Store",
-    "claim-zmc-token-msg": "Möchten Sie behaupten, Ihr Zerpmon hat sich weiterentwickelt? \nIhr Zerp -Kristall ist auf dem Weg und kann bis zu 30 Sekunden dauern."
+    "claim-zmc-token-msg": "Möchten Sie behaupten, Ihr Zerpmon hat sich weiterentwickelt? \nIhr Zerp -Kristall ist auf dem Weg und kann bis zu 30 Sekunden dauern.",
+    "confirm-trainer-type-change": ""
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",

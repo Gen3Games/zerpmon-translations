@@ -333,7 +333,8 @@
     "payment-from-zerpwallet-volatile": "支払いはザープウォレット ({amount}) {finalAmount} から引き落とされます (最後に確認された時点で、一定期間受け入れられない場合は変更される可能性があります)",
     "special-store": "特別店",
     "item-store": "アイテムストア",
-    "claim-zmc-token-msg": "あなたのZerpmonが進化したと主張しますか？\nあなたのZERPクリスタルはその道を進んでおり、最大30秒かかる場合があります。"
+    "claim-zmc-token-msg": "あなたのZerpmonが進化したと主張しますか？\nあなたのZERPクリスタルはその道を進んでおり、最大30秒かかる場合があります。",
+    "confirm-trainer-type-change": ""
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",

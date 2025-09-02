@@ -333,7 +333,8 @@
     "payment-from-zerpwallet-volatile": "付款将从您的 ZerpWallet ({amount}) {finalAmount} 中扣除（最后检查的时刻，如果一段时间内未接受，可能会发生变化）",
     "special-store": "特殊商店",
     "item-store": "项目商店",
-    "claim-zmc-token-msg": "您想声称自己的Zerpmon进化吗？\n您的ZERP水晶在路上，最多可能需要30秒。"
+    "claim-zmc-token-msg": "您想声称自己的Zerpmon进化吗？\n您的ZERP水晶在路上，最多可能需要30秒。",
+    "confirm-trainer-type-change": ""
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

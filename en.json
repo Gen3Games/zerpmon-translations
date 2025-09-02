@@ -333,7 +333,8 @@
     "payment-from-zerpwallet-volatile": "Payment will be taken from your ZerpWallet ({amount}) {finalAmount} (at last checked moment, could change if not accepted for a period of time)",
     "special-store": "Special Store",
     "item-store": "Item Store",
-    "claim-zmc-token-msg": "Would you like to claim your Zerpmon Evolved? Your Zerp Crystal is on it's way and may take up to 30 seconds."
+    "claim-zmc-token-msg": "Would you like to claim your Zerpmon Evolved? Your Zerp Crystal is on it's way and may take up to 30 seconds.",
+    "confirm-trainer-type-change": "Are you sure you want to use {newType} for {trainer} ?"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",
