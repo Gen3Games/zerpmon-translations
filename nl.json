@@ -1240,7 +1240,9 @@
     "hp-remaining": "HP resterend",
     "zrp-share": "ZRP-aandeel",
     "battle": "Strijd",
-    "trainer-not-found": "Trainer niet gevonden"
+    "trainer-not-found": "Trainer niet gevonden",
+    "max-damage": "Maximale schade",
+    "total-boss-hp": "Totaal baas HP"
   },
   "nft-details-popup": {
     "level": "Niveau"

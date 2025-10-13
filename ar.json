@@ -1484,7 +1484,9 @@
     "world-boss": "رئيس العالم",
     "world-boss-total-damage": "كل الضرر الوقت",
     "zrp-share": "مشاركة ZRP",
-    "trainer-not-found": "لم يتم العثور على المدرب"
+    "trainer-not-found": "لم يتم العثور على المدرب",
+    "max-damage": "أقصى ضرر",
+    "total-boss-hp": "إجمالي بوس HP"
   },
   "zerpmon-types-damage-table": {
     "attacking": "مهاجمة",

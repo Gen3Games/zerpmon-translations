@@ -1240,7 +1240,9 @@
     "hp-remaining": "PV restants",
     "zrp-share": "Partager ZRP",
     "battle": "Bataille",
-    "trainer-not-found": "Entraîneur introuvable"
+    "trainer-not-found": "Entraîneur introuvable",
+    "max-damage": "Dégâts maximum",
+    "total-boss-hp": "PV totaux du boss"
   },
   "nft-details-popup": {
     "level": "Niveau"

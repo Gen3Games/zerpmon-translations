@@ -1240,7 +1240,9 @@
     "hp-remaining": "HP restantes",
     "zrp-share": "Compartir ZRP",
     "battle": "Batalla",
-    "trainer-not-found": "Entrenador no encontrado"
+    "trainer-not-found": "Entrenador no encontrado",
+    "max-damage": "Daño máximo",
+    "total-boss-hp": "HP total del jefe"
   },
   "nft-details-popup": {
     "level": "Nivel"

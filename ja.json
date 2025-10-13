@@ -1240,7 +1240,9 @@
     "world-boss-total-damage": "オールタイムダメージ",
     "zrp-share": "ZRP シェア",
     "battle": "戦い",
-    "trainer-not-found": "トレーナーが見つかりません"
+    "trainer-not-found": "トレーナーが見つかりません",
+    "max-damage": "最大ダメージ",
+    "total-boss-hp": "ボス総HP"
   },
   "nft-details-popup": {
     "level": "レベル"

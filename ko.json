@@ -1240,7 +1240,9 @@
     "world-boss-total-damage": "올타임 데미지",
     "zrp-share": "ZRP 공유",
     "battle": "전투",
-    "trainer-not-found": "트레이너를 찾을 수 없습니다"
+    "trainer-not-found": "트레이너를 찾을 수 없습니다",
+    "max-damage": "최대 데미지",
+    "total-boss-hp": "총 보스 HP"
   },
   "nft-details-popup": {
     "level": "수준"

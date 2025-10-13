@@ -1240,7 +1240,9 @@
     "hp-remaining": "剩余生命值",
     "zrp-share": "中荣股份",
     "battle": "战斗",
-    "trainer-not-found": "找不到培训师"
+    "trainer-not-found": "找不到培训师",
+    "max-damage": "最大伤害",
+    "total-boss-hp": "首领总生命值"
   },
   "nft-details-popup": {
     "level": "等级"

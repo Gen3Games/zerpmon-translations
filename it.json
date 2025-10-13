@@ -1229,7 +1229,9 @@
     "world-boss-total-damage": "Danni di tutti i tempi",
     "zrp-share": "Condivisione ZRP",
     "battle": "Battaglia",
-    "trainer-not-found": "Allenatore non trovato"
+    "trainer-not-found": "Allenatore non trovato",
+    "max-damage": "Danno massimo",
+    "total-boss-hp": "HP totali del boss"
   },
   "zerpmon-types-damage-table": {
     "attacking": "Attaccare",

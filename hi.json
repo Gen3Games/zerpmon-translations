@@ -1229,7 +1229,9 @@
     "world-boss-total-damage": "सर्वकालिक क्षति",
     "zrp-share": "जेआरपी शेयर",
     "battle": "युद्ध",
-    "trainer-not-found": "ट्रेनर नहीं मिला"
+    "trainer-not-found": "ट्रेनर नहीं मिला",
+    "max-damage": "अधिकतम क्षति",
+    "total-boss-hp": "टोटल बॉस एचपी"
   },
   "zerpmon-types-damage-table": {
     "attacking": "हमला",
