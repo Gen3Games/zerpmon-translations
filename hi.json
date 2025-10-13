@@ -717,7 +717,8 @@
     "zerpmon-auto-manager-active": "Zerpmon ऑटो मैनेजर पहले से ही सक्रिय है",
     "turbo-time-accelerator-active": "टर्बो समय त्वरक पहले से ही सक्रिय है",
     "used-tower-rush-ticket": "आपने एक टॉवर रश टिकट का सफलतापूर्वक उपयोग किया है।",
-    "error-tower-rush-ticket": "टॉवर रश टिकट का उपयोग करते समय एक त्रुटि हुई।"
+    "error-tower-rush-ticket": "टॉवर रश टिकट का उपयोग करते समय एक त्रुटि हुई।",
+    "extract-serum": "आपने {zerpmonName} से {count} सीरम सफलतापूर्वक निकाल लिया है"
   },
   "leaderboard-table": {
     "close": "बंद करना",

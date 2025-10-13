@@ -717,7 +717,8 @@
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager è già attivo",
     "turbo-time-accelerator-active": "Turbo Time Accelerator è già attivo",
     "used-tower-rush-ticket": "Hai usato con successo un biglietto della torre.",
-    "error-tower-rush-ticket": "Si è verificato un errore durante l'utilizzo di un biglietto per la corsa alla torre."
+    "error-tower-rush-ticket": "Si è verificato un errore durante l'utilizzo di un biglietto per la corsa alla torre.",
+    "extract-serum": "Hai estratto correttamente il siero {count} da {zerpmonname}"
   },
   "leaderboard-table": {
     "close": "Vicino",

@@ -518,7 +518,8 @@
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager已经活跃",
     "turbo-time-accelerator-active": "Turbo Time Accelerator已经活跃",
     "used-tower-rush-ticket": "您已经成功使用了一张塔式票。",
-    "error-tower-rush-ticket": "使用Tower Rush票时发生了错误。"
+    "error-tower-rush-ticket": "使用Tower Rush票时发生了错误。",
+    "extract-serum": ""
   },
   "safari": {
     "title": "Safari探险",

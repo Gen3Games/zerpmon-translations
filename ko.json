@@ -518,7 +518,8 @@
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager는 이미 활동 중입니다",
     "turbo-time-accelerator-active": "터보 타임 가속기가 이미 활성화되어 있습니다",
     "used-tower-rush-ticket": "타워 러쉬 티켓을 성공적으로 사용했습니다.",
-    "error-tower-rush-ticket": "타워 러시 티켓을 사용하는 동안 오류가 발생했습니다."
+    "error-tower-rush-ticket": "타워 러시 티켓을 사용하는 동안 오류가 발생했습니다.",
+    "extract-serum": "{zerpmonName}에서 {count}개의 혈청을 성공적으로 추출했습니다."
   },
   "safari": {
     "title": "사파리",

@@ -740,7 +740,8 @@
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager نشط بالفعل",
     "turbo-time-accelerator-active": "مسرع وقت توربو نشط بالفعل",
     "used-tower-rush-ticket": "لقد استخدمت بنجاح تذكرة برج الذروة.",
-    "error-tower-rush-ticket": "حدث خطأ أثناء استخدام تذكرة برج الذروة."
+    "error-tower-rush-ticket": "حدث خطأ أثناء استخدام تذكرة برج الذروة.",
+    "extract-serum": "لقد نجحت في استخراج {count} مصل من {zerpmonName}"
   },
   "leaderboard-table": {
     "close": "يغلق",

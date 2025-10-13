@@ -603,7 +603,8 @@
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager est déjà actif",
     "turbo-time-accelerator-active": "L'accélérateur Turbo Time est déjà actif",
     "used-tower-rush-ticket": "Vous avez réussi à utiliser un billet Rush Tower.",
-    "error-tower-rush-ticket": "Une erreur s'est produite lors de l'utilisation d'un billet de pointe de la tour."
+    "error-tower-rush-ticket": "Une erreur s'est produite lors de l'utilisation d'un billet de pointe de la tour.",
+    "extract-serum": "Vous avez réussi à extraire {count} sérum de {zerpmonname}"
   },
   "leaderboard-table": {
     "close": "Fermer",

@@ -518,7 +518,8 @@
     "zerpmon-auto-manager-active": "Zerpmon Auto Manager is already active",
     "turbo-time-accelerator-active": "Turbo Time Accelerator is already active",
     "used-tower-rush-ticket": "You have successfully used a Tower Rush Ticket.",
-    "error-tower-rush-ticket": "An error occurred while using a Tower Rush Ticket."
+    "error-tower-rush-ticket": "An error occurred while using a Tower Rush Ticket.",
+    "extract-serum": "You have successfully extracted {count} Serum from {zerpmonName}"
   },
   "safari": {
     "title": "Safari",
