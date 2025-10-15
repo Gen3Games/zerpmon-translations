@@ -519,7 +519,8 @@
     "turbo-time-accelerator-active": "Turbo Time Accelerator ist bereits aktiv",
     "used-tower-rush-ticket": "Sie haben erfolgreich ein Tower Rush Ticket genutzt.",
     "error-tower-rush-ticket": "Bei der Verwendung eines Turm -Rushtickets trat ein Fehler auf.",
-    "extract-serum": "Sie haben erfolgreich {count} Serum aus {zerpmonName} extrahiert"
+    "extract-serum": "Sie haben erfolgreich {count} Serum aus {zerpmonName} extrahiert",
+    "confirm-serum-extract": "Sind Sie sicher, dass Sie Ihr {zerpmonName} für {serumQty} Serum auf Stufe 0 zurücksetzen möchten?"
   },
   "safari": {
     "title": "Safari",
