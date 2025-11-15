@@ -872,7 +872,11 @@
     "clear-all-claimed": "Effacer toutes les récompenses revendiquées?",
     "clear": "Clair",
     "cancel": "Annuler",
-    "reward-claimed": "Récompense revendiquée!"
+    "reward-claimed": "Récompense revendiquée!",
+    "battle_royale": "Bataille Royale",
+    "daily_reset": "Réinitialisation quotidienne",
+    "trade_offer": "Offre commerciale",
+    "trade-offer-description": "Recevez des notifications d'offres commerciales même pour les NFT jalonnés"
   },
   "safari": {
     "bg": "Zone de combats",

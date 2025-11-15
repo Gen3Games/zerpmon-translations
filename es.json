@@ -1101,7 +1101,11 @@
     "clear-all-claimed": "¿Claro todas las recompensas reclamadas?",
     "clear": "Claro",
     "cancel": "Cancelar",
-    "reward-claimed": "¡Recompensa reclamada!"
+    "reward-claimed": "¡Recompensa reclamada!",
+    "battle_royale": "Batalla real",
+    "daily_reset": "Reinicio diario",
+    "trade_offer": "Oferta comercial",
+    "trade-offer-description": "Reciba notificaciones de ofertas comerciales incluso para NFT apostadas"
   },
   "settings": {
     "language": "Idioma",

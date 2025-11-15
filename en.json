@@ -1101,7 +1101,11 @@
     "clear-all-claimed": "Clear All Claimed Rewards ?",
     "clear": "Clear",
     "cancel": "Cancel",
-    "reward-claimed": "Reward Claimed!"
+    "reward-claimed": "Reward Claimed!",
+    "battle_royale": "Battle Royale",
+    "daily_reset": "Daily Reset",
+    "trade_offer": "Trade Offer",
+    "trade-offer-description": "Receive trade offer notifications even for Staked NFTs"
   },
   "settings": {
     "language": "Language",

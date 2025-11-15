@@ -1101,7 +1101,11 @@
     "clear-all-claimed": "청구 된 모든 보상을 지우셨습니까?",
     "clear": "분명한",
     "cancel": "취소",
-    "reward-claimed": "보상 청구!"
+    "reward-claimed": "보상 청구!",
+    "battle_royale": "배틀로얄",
+    "daily_reset": "일일 재설정",
+    "trade_offer": "거래 제안",
+    "trade-offer-description": "스테이킹된 NFT에 대해서도 거래 제안 알림을 받습니다."
   },
   "settings": {
     "language": "언어",

@@ -1101,7 +1101,11 @@
     "clear-all-claimed": "清除所有声称的奖励？",
     "clear": "清除",
     "cancel": "取消",
-    "reward-claimed": "奖励要求！"
+    "reward-claimed": "奖励要求！",
+    "battle_royale": "",
+    "daily_reset": "",
+    "trade_offer": "",
+    "trade-offer-description": ""
   },
   "settings": {
     "language": "语言",

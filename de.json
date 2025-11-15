@@ -1101,7 +1101,11 @@
     "clear-all-claimed": "Alle beanspruchten Belohnungen klären?",
     "clear": "Klar",
     "cancel": "Stornieren",
-    "reward-claimed": "Belohnung behauptet!"
+    "reward-claimed": "Belohnung behauptet!",
+    "battle_royale": "Battle Royale",
+    "daily_reset": "Täglicher Reset",
+    "trade_offer": "Handelsangebot",
+    "trade-offer-description": "Erhalten Sie Benachrichtigungen zu Handelsangeboten, auch für Staked NFTs"
   },
   "settings": {
     "language": "Sprache",

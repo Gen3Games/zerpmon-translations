@@ -1101,7 +1101,11 @@
     "clear-all-claimed": "すべての報酬をクリアしますか？",
     "clear": "クリア",
     "cancel": "キャンセル",
-    "reward-claimed": "報酬が主張されました！"
+    "reward-claimed": "報酬が主張されました！",
+    "battle_royale": "バトルロワイヤル",
+    "daily_reset": "デイリーリセット",
+    "trade_offer": "トレードオファー",
+    "trade-offer-description": "ステークされたNFTについてもトレードオファー通知を受け取る"
   },
   "settings": {
     "language": "言語",

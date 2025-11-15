@@ -993,7 +993,11 @@
     "clear-all-claimed": "Alle geclaimde beloningen duidelijk?",
     "clear": "Duidelijk",
     "cancel": "Annuleren",
-    "reward-claimed": "Beloning geclaimd!"
+    "reward-claimed": "Beloning geclaimd!",
+    "battle_royale": "",
+    "daily_reset": "",
+    "trade_offer": "",
+    "trade-offer-description": ""
   },
   "safari": {
     "bg": "Gevechtszone",

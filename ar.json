@@ -1031,7 +1031,11 @@
     "clear-all-claimed": "مسح كل المكافآت المطالبة؟",
     "clear": "واضح",
     "cancel": "يلغي",
-    "reward-claimed": "مكافأة ادعى!"
+    "reward-claimed": "مكافأة ادعى!",
+    "battle_royale": "معركة رويال",
+    "daily_reset": "إعادة الضبط اليومي",
+    "trade_offer": "عرض التجارة",
+    "trade-offer-description": "احصل على إشعارات العروض التجارية حتى بالنسبة لـ Staked NFTs"
   },
   "privacy-policy": {
     "changes-to-this-policy": "التغييرات على هذه السياسة",

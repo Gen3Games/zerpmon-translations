@@ -993,7 +993,11 @@
     "clear-all-claimed": "सभी का दावा किया गया पुरस्कार?",
     "clear": "स्पष्ट",
     "cancel": "रद्द करना",
-    "reward-claimed": "इनाम का दावा!"
+    "reward-claimed": "इनाम का दावा!",
+    "battle_royale": "लड़ाई रोयाले",
+    "daily_reset": "दैनिक रीसेट",
+    "trade_offer": "व्यापार का प्रस्ताव",
+    "trade-offer-description": "स्टेक्ड एनएफटी के लिए भी व्यापार प्रस्ताव सूचनाएं प्राप्त करें"
   },
   "safari": {
     "bg": "युद्ध क्षेत्र",
