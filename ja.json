@@ -292,7 +292,10 @@
     "zerpmon-slot": "Zerpmonスロット",
     "bench-zerpmon-slot": "ベンチZerpmonスロット",
     "not-logged-in": "ログインしていません",
-    "select-zerpmon-first": "最初にZerpmonを選択してください"
+    "select-zerpmon-first": "最初にZerpmonを選択してください",
+    "no-battle-zones-found": "",
+    "do-not-own-battle-zone": "",
+    "battle-zone-type-invalid": ""
   },
   "store": {
     "title": "ショップ",

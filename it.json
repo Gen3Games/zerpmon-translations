@@ -552,7 +552,10 @@
     "zerpmon-slot": "Slot Zerpmon",
     "bench-zerpmon-slot": "Slot Zerpmon da banco",
     "not-logged-in": "Non connesso",
-    "select-zerpmon-first": "Seleziona prima uno zerpmon"
+    "select-zerpmon-first": "Seleziona prima uno zerpmon",
+    "no-battle-zones-found": "",
+    "do-not-own-battle-zone": "",
+    "battle-zone-type-invalid": ""
   },
   "edit-profile": {
     "basic-info": "Informazioni basilari",

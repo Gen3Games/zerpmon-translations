@@ -552,7 +552,10 @@
     "zerpmon-slot": "ज़ीरपोन स्लॉट",
     "bench-zerpmon-slot": "बेंच ज़ेरपोन स्लॉट",
     "not-logged-in": "अंदर प्रवेश की अनुमति नहीं है",
-    "select-zerpmon-first": "कृपया पहले एक Zerpmon चुनें"
+    "select-zerpmon-first": "कृपया पहले एक Zerpmon चुनें",
+    "no-battle-zones-found": "",
+    "do-not-own-battle-zone": "",
+    "battle-zone-type-invalid": ""
   },
   "edit-profile": {
     "basic-info": "बुनियादी जानकारी",

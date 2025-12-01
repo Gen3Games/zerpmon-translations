@@ -552,7 +552,10 @@
     "zerpmon-slot": "Zerkmonsleuf",
     "bench-zerpmon-slot": "Bench Zerpmon slot",
     "not-logged-in": "Niet ingelogd",
-    "select-zerpmon-first": "Selecteer eerst een Zerpmon"
+    "select-zerpmon-first": "Selecteer eerst een Zerpmon",
+    "no-battle-zones-found": "",
+    "do-not-own-battle-zone": "",
+    "battle-zone-type-invalid": ""
   },
   "edit-profile": {
     "basic-info": "Basis informatie",

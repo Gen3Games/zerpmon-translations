@@ -292,7 +292,10 @@
     "zerpmon-slot": "Zerpmon Slot",
     "bench-zerpmon-slot": "Bench Zerpmon Slot",
     "not-logged-in": "Nicht angemeldet",
-    "select-zerpmon-first": "Bitte wählen Sie zuerst ein Zerpmon aus"
+    "select-zerpmon-first": "Bitte wählen Sie zuerst ein Zerpmon aus",
+    "no-battle-zones-found": "",
+    "do-not-own-battle-zone": "",
+    "battle-zone-type-invalid": ""
   },
   "store": {
     "title": "Shop",

@@ -292,7 +292,10 @@
     "zerpmon-slot": "Zerpmon Slot",
     "bench-zerpmon-slot": "Bench Zerpmon Slot",
     "not-logged-in": "Not logged in",
-    "select-zerpmon-first": "Please select a zerpmon first"
+    "select-zerpmon-first": "Please select a zerpmon first",
+    "no-battle-zones-found": "No Battle Zone found",
+    "do-not-own-battle-zone": "Battle Zone missing",
+    "battle-zone-type-invalid": "Battle Zone type mismatch with Trainer"
   },
   "store": {
     "title": "Store",

@@ -292,7 +292,10 @@
     "zerpmon-slot": "Ranura zerpmon",
     "bench-zerpmon-slot": "Banca de la ranura Zerpmon",
     "not-logged-in": "No iniciado sesión",
-    "select-zerpmon-first": "Seleccione primero un Zerpmon"
+    "select-zerpmon-first": "Seleccione primero un Zerpmon",
+    "no-battle-zones-found": "",
+    "do-not-own-battle-zone": "",
+    "battle-zone-type-invalid": ""
   },
   "store": {
     "title": "Tienda",

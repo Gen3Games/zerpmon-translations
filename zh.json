@@ -292,7 +292,10 @@
     "zerpmon-slot": "zerpmon插槽",
     "bench-zerpmon-slot": "板凳zerpmon插槽",
     "not-logged-in": "未登录",
-    "select-zerpmon-first": "请先选择zerpmon"
+    "select-zerpmon-first": "请先选择zerpmon",
+    "no-battle-zones-found": "",
+    "do-not-own-battle-zone": "",
+    "battle-zone-type-invalid": ""
   },
   "store": {
     "title": "商店",

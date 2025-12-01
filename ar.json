@@ -552,7 +552,10 @@
     "zerpmon-slot": "فتحة zerpmon",
     "bench-zerpmon-slot": "مقعد Zerpmon فتحة",
     "not-logged-in": "لم يتم تسجيل الدخول",
-    "select-zerpmon-first": "الرجاء تحديد Zerpmon أولاً"
+    "select-zerpmon-first": "الرجاء تحديد Zerpmon أولاً",
+    "no-battle-zones-found": "",
+    "do-not-own-battle-zone": "",
+    "battle-zone-type-invalid": ""
   },
   "edit-profile": {
     "basic-info": "معلومات أساسية",
