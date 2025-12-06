@@ -816,7 +816,8 @@
     "quit": "Quit",
     "total-zrp-earned": "Total ZRP Earned",
     "total-tower-points": "Total Tower Points",
-    "lives-left": "Lives Left"
+    "lives-left": "Lives Left",
+    "raw": "{rawValue}"
   },
   "test": {
     "test": "this is a test"

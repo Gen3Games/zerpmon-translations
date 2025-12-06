@@ -816,7 +816,8 @@
     "quit": "그만두다",
     "total-zrp-earned": "총 ZRP 획득",
     "total-tower-points": "총 타워 포인트",
-    "lives-left": "왼쪽에 살고 있습니다"
+    "lives-left": "왼쪽에 살고 있습니다",
+    "raw": ""
   },
   "test": {
     "test": "테스트입니다."

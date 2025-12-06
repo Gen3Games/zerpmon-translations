@@ -285,7 +285,8 @@
     "quit": "Quitter",
     "total-zrp-earned": "ZRP total gagné",
     "total-tower-points": "Points de la tour totale",
-    "lives-left": "Vie à gauche"
+    "lives-left": "Vie à gauche",
+    "raw": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",
