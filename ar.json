@@ -556,7 +556,8 @@
     "select-zerpmon-first": "الرجاء تحديد Zerpmon أولاً",
     "no-battle-zones-found": "",
     "do-not-own-battle-zone": "",
-    "battle-zone-type-invalid": ""
+    "battle-zone-type-invalid": "",
+    "battle-zone-card": ""
   },
   "edit-profile": {
     "basic-info": "معلومات أساسية",

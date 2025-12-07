@@ -295,7 +295,8 @@
     "select-zerpmon-first": "请先选择zerpmon",
     "no-battle-zones-found": "",
     "do-not-own-battle-zone": "",
-    "battle-zone-type-invalid": ""
+    "battle-zone-type-invalid": "",
+    "battle-zone-card": ""
   },
   "store": {
     "title": "商店",

@@ -471,7 +471,8 @@
     "select-zerpmon-first": "Veuillez d'abord sélectionner un zerpmon",
     "no-battle-zones-found": "",
     "do-not-own-battle-zone": "",
-    "battle-zone-type-invalid": ""
+    "battle-zone-type-invalid": "",
+    "battle-zone-card": ""
   },
   "edit-profile": {
     "basic-info": "Informations de base",

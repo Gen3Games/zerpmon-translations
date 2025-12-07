@@ -295,7 +295,8 @@
     "select-zerpmon-first": "最初にZerpmonを選択してください",
     "no-battle-zones-found": "",
     "do-not-own-battle-zone": "",
-    "battle-zone-type-invalid": ""
+    "battle-zone-type-invalid": "",
+    "battle-zone-card": ""
   },
   "store": {
     "title": "ショップ",
