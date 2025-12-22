@@ -1175,7 +1175,9 @@
     "special-store": "Speciale winkel",
     "item-store": "Artikelwinkel",
     "claim-zmc-token-msg": "Wilt u beweren dat uw Zerkmon is geëvolueerd? \nJe ZERP -kristal is op weg en kan tot 30 seconden duren.",
-    "confirm-trainer-type-change": ""
+    "confirm-trainer-type-change": "",
+    "payment-battlezone-shards": "Deze actie verbruikt je {shards}",
+    "battle-zone-shards-low": "Er zijn bijna geen Battle Zone Shards meer"
   },
   "test": {
     "test": "dit is een test"

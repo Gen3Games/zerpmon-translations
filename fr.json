@@ -1046,7 +1046,9 @@
     "special-store": "Magasin spécial",
     "item-store": "Magasin d'articles",
     "claim-zmc-token-msg": "Souhaitez-vous prétendre que votre zerpmon a évolué? \nVotre cristal zerp est en route et peut prendre jusqu'à 30 secondes.",
-    "confirm-trainer-type-change": ""
+    "confirm-trainer-type-change": "",
+    "payment-battlezone-shards": "Cette action consommera vos {shards}",
+    "battle-zone-shards-low": "À court d’éclats de zone de combat"
   },
   "test": {
     "test": "c'est un test"

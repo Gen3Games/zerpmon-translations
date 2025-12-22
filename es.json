@@ -338,7 +338,9 @@
     "special-store": "Tienda especial",
     "item-store": "Tienda de artículos",
     "claim-zmc-token-msg": "¿Le gustaría reclamar que su Zerpmon evolucionó? \nSu cristal Zerp está en camino y puede tomar hasta 30 segundos.",
-    "confirm-trainer-type-change": ""
+    "confirm-trainer-type-change": "",
+    "payment-battlezone-shards": "Esta acción consumirá tus {fragmentos}",
+    "battle-zone-shards-low": "Se están agotando los fragmentos de Battle Zone"
   },
   "home": {
     "catch-your-zerpmon-now": "¡Atrapa tu Zerpmon ahora!",

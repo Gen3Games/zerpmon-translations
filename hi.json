@@ -1175,7 +1175,9 @@
     "special-store": "विशेष भंडार",
     "item-store": "आइटम -भंडार",
     "claim-zmc-token-msg": "क्या आप अपने Zerpmon विकसित होने का दावा करना चाहेंगे? \nआपका ZERP क्रिस्टल इस रास्ते पर है और 30 सेकंड तक का समय लग सकता है।",
-    "confirm-trainer-type-change": ""
+    "confirm-trainer-type-change": "",
+    "payment-battlezone-shards": "यह क्रिया आपके {शार्कों} को भस्म कर देगी",
+    "battle-zone-shards-low": "बैटल जोन शार्ड्स की कमी हो रही है"
   },
   "test": {
     "test": "यह टेस्ट है"

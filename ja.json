@@ -338,7 +338,9 @@
     "special-store": "特別店",
     "item-store": "アイテムストア",
     "claim-zmc-token-msg": "あなたのZerpmonが進化したと主張しますか？\nあなたのZERPクリスタルはその道を進んでおり、最大30秒かかる場合があります。",
-    "confirm-trainer-type-change": ""
+    "confirm-trainer-type-change": "",
+    "payment-battlezone-shards": "このアクションにより、{shards} が消費されます",
+    "battle-zone-shards-low": "バトルゾーンのシャードが不足しています"
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",
