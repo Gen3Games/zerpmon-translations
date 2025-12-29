@@ -820,7 +820,8 @@
     "total-zrp-earned": "合計ZRPが獲得しました",
     "total-tower-points": "総タワーポイント",
     "lives-left": "残った生活",
-    "raw": ""
+    "raw": "",
+    "coin-flip": ""
   },
   "test": {
     "test": "これはテストです"

@@ -820,7 +820,8 @@
     "total-zrp-earned": "ZRP总赚取",
     "total-tower-points": "总塔点",
     "lives-left": "剩下的生活",
-    "raw": ""
+    "raw": "",
+    "coin-flip": ""
   },
   "test": {
     "test": "这是个测试"

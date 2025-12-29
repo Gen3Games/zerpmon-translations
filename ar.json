@@ -345,7 +345,8 @@
     "total-zrp-earned": "إجمالي ZRP كسب",
     "total-tower-points": "إجمالي نقاط البرج",
     "lives-left": "اليسار اليسار",
-    "raw": ""
+    "raw": "",
+    "coin-flip": ""
   },
   "buy-zerpmon": {
     "already-bought": "لقد قمت بالفعل بشراء zerpmon",

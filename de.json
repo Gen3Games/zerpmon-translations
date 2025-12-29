@@ -820,7 +820,8 @@
     "total-zrp-earned": "Total ZRP verdient",
     "total-tower-points": "Gesamtturmpunkte",
     "lives-left": "Leben übrig",
-    "raw": ""
+    "raw": "",
+    "coin-flip": ""
   },
   "test": {
     "test": "Dies ist ein Test"

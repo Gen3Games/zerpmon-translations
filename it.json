@@ -345,7 +345,8 @@
     "total-zrp-earned": "ZRP totale guadagnato",
     "total-tower-points": "Punti torre totali",
     "lives-left": "Vite rimaste",
-    "raw": ""
+    "raw": "",
+    "coin-flip": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

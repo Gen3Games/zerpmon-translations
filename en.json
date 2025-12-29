@@ -820,7 +820,8 @@
     "total-zrp-earned": "Total ZRP Earned",
     "total-tower-points": "Total Tower Points",
     "lives-left": "Lives Left",
-    "raw": "{rawValue}"
+    "raw": "{rawValue}",
+    "coin-flip": "COIN FLIP!"
   },
   "test": {
     "test": "this is a test"

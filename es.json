@@ -820,7 +820,8 @@
     "total-zrp-earned": "Total de ZRP ganado",
     "total-tower-points": "Puntos de la torre total",
     "lives-left": "Vidas a la izquierda",
-    "raw": ""
+    "raw": "",
+    "coin-flip": ""
   },
   "test": {
     "test": "esto es un test"
