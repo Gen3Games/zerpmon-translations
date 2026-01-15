@@ -822,7 +822,7 @@
     "lives-left": "Lives Left",
     "raw": "{rawValue}",
     "coin-flip": "COIN FLIP!",
-    "mission-xp-multiplier": "XP Multiplier -{value}x"
+    "mission-xp-multiplier": "XP Multiplier - {value}x"
   },
   "test": {
     "test": "this is a test"
