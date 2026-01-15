@@ -288,7 +288,8 @@
     "lives-left": "Vie à gauche",
     "raw": "",
     "coin-flip": "",
-    "mission-xp-multiplier": ""
+    "mission-xp-multiplier": "",
+    "battle-zones-not-allowed": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

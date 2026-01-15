@@ -347,7 +347,8 @@
     "lives-left": "Vite rimaste",
     "raw": "",
     "coin-flip": "",
-    "mission-xp-multiplier": ""
+    "mission-xp-multiplier": "",
+    "battle-zones-not-allowed": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

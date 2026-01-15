@@ -347,7 +347,8 @@
     "lives-left": "اليسار اليسار",
     "raw": "",
     "coin-flip": "",
-    "mission-xp-multiplier": ""
+    "mission-xp-multiplier": "",
+    "battle-zones-not-allowed": ""
   },
   "buy-zerpmon": {
     "already-bought": "لقد قمت بالفعل بشراء zerpmon",

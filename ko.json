@@ -822,7 +822,8 @@
     "lives-left": "왼쪽에 살고 있습니다",
     "raw": "",
     "coin-flip": "",
-    "mission-xp-multiplier": ""
+    "mission-xp-multiplier": "",
+    "battle-zones-not-allowed": ""
   },
   "test": {
     "test": "테스트입니다."

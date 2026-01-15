@@ -822,7 +822,8 @@
     "lives-left": "Lives Left",
     "raw": "{rawValue}",
     "coin-flip": "COIN FLIP!",
-    "mission-xp-multiplier": "XP Multiplier - {value}x"
+    "mission-xp-multiplier": "XP Multiplier - {value}x",
+    "battle-zones-not-allowed": "Battle Zones are not allowed"
   },
   "test": {
     "test": "this is a test"

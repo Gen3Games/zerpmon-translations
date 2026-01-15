@@ -822,7 +822,8 @@
     "lives-left": "剩下的生活",
     "raw": "",
     "coin-flip": "",
-    "mission-xp-multiplier": ""
+    "mission-xp-multiplier": "",
+    "battle-zones-not-allowed": ""
   },
   "test": {
     "test": "这是个测试"
