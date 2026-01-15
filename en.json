@@ -821,7 +821,8 @@
     "total-tower-points": "Total Tower Points",
     "lives-left": "Lives Left",
     "raw": "{rawValue}",
-    "coin-flip": "COIN FLIP!"
+    "coin-flip": "COIN FLIP!",
+    "mission-xp-multiplier": "XP Multiplier -{value}x"
   },
   "test": {
     "test": "this is a test"

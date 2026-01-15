@@ -821,7 +821,8 @@
     "total-tower-points": "Puntos de la torre total",
     "lives-left": "Vidas a la izquierda",
     "raw": "",
-    "coin-flip": ""
+    "coin-flip": "",
+    "mission-xp-multiplier": ""
   },
   "test": {
     "test": "esto es un test"

@@ -346,7 +346,8 @@
     "total-tower-points": "Punti torre totali",
     "lives-left": "Vite rimaste",
     "raw": "",
-    "coin-flip": ""
+    "coin-flip": "",
+    "mission-xp-multiplier": ""
   },
   "buy-zerpmon": {
     "already-bought": "Hai già acquistato uno zerpmon",

@@ -821,7 +821,8 @@
     "total-tower-points": "Gesamtturmpunkte",
     "lives-left": "Leben übrig",
     "raw": "",
-    "coin-flip": ""
+    "coin-flip": "",
+    "mission-xp-multiplier": ""
   },
   "test": {
     "test": "Dies ist ein Test"

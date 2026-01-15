@@ -287,7 +287,8 @@
     "total-tower-points": "Points de la tour totale",
     "lives-left": "Vie à gauche",
     "raw": "",
-    "coin-flip": ""
+    "coin-flip": "",
+    "mission-xp-multiplier": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

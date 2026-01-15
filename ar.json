@@ -346,7 +346,8 @@
     "total-tower-points": "إجمالي نقاط البرج",
     "lives-left": "اليسار اليسار",
     "raw": "",
-    "coin-flip": ""
+    "coin-flip": "",
+    "mission-xp-multiplier": ""
   },
   "buy-zerpmon": {
     "already-bought": "لقد قمت بالفعل بشراء zerpmon",
