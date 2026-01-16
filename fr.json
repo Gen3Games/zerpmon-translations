@@ -289,7 +289,8 @@
     "raw": "",
     "coin-flip": "",
     "mission-xp-multiplier": "",
-    "battle-zones-not-allowed": ""
+    "battle-zones-not-allowed": "",
+    "potential-xp": ""
   },
   "create-listing": {
     "confim-relist-nft": "Êtes-vous sûr de vouloir remettre en vente {nftName}",

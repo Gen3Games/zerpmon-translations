@@ -823,7 +823,8 @@
     "raw": "{rawValue}",
     "coin-flip": "COIN FLIP!",
     "mission-xp-multiplier": "XP Multiplier - {value}x",
-    "battle-zones-not-allowed": "Battle Zones are not allowed"
+    "battle-zones-not-allowed": "Battle Zones are not allowed",
+    "potential-xp": "Potential XP - {value}"
   },
   "test": {
     "test": "this is a test"
