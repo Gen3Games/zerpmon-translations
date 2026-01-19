@@ -526,7 +526,8 @@
     "used-tower-rush-ticket": "타워 러쉬 티켓을 성공적으로 사용했습니다.",
     "error-tower-rush-ticket": "타워 러시 티켓을 사용하는 동안 오류가 발생했습니다.",
     "extract-serum": "{zerpmonName}에서 {count}개의 혈청을 성공적으로 추출했습니다.",
-    "confirm-serum-extract": "{serumQty} 세럼의 {zerpmonName}을(를) 레벨 0으로 재설정하시겠습니까?"
+    "confirm-serum-extract": "{serumQty} 세럼의 {zerpmonName}을(를) 레벨 0으로 재설정하시겠습니까?",
+    "used-lure-new": "다음 {cnt} 경기 동안 {lureType} Zerpmons를 만나게 됩니다"
   },
   "safari": {
     "title": "사파리",

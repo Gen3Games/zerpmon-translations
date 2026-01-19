@@ -526,7 +526,8 @@
     "used-tower-rush-ticket": "タワーラッシュチケットを正常に使用しました。",
     "error-tower-rush-ticket": "タワーラッシュチケットの使用中にエラーが発生しました。",
     "extract-serum": "{zerpmonname}から{count}血清を正常に抽出しました",
-    "confirm-serum-extract": "{zerpmonName} を {serumQty} 血清のレベル 0 にリセットしてもよろしいですか?"
+    "confirm-serum-extract": "{zerpmonName} を {serumQty} 血清のレベル 0 にリセットしてもよろしいですか?",
+    "used-lure-new": "次の {cnt} マッチでは {lureType} ゼルモンに遭遇します"
   },
   "safari": {
     "title": "サファリ",

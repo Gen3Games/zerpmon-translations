@@ -526,7 +526,8 @@
     "used-tower-rush-ticket": "You have successfully used a Tower Rush Ticket.",
     "error-tower-rush-ticket": "An error occurred while using a Tower Rush Ticket.",
     "extract-serum": "You have successfully extracted {count} Serum from {zerpmonName}",
-    "confirm-serum-extract": "Are you sure you want to reset your {zerpmonName} to level 0 for {serumQty} serum"
+    "confirm-serum-extract": "Are you sure you want to reset your {zerpmonName} to level 0 for {serumQty} serum",
+    "used-lure-new": "You will encounter {lureType} Zerpmons for the next {cnt} matches"
   },
   "safari": {
     "title": "Safari",

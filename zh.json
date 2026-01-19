@@ -526,7 +526,8 @@
     "used-tower-rush-ticket": "您已经成功使用了一张塔式票。",
     "error-tower-rush-ticket": "使用Tower Rush票时发生了错误。",
     "extract-serum": "",
-    "confirm-serum-extract": ""
+    "confirm-serum-extract": "",
+    "used-lure-new": ""
   },
   "safari": {
     "title": "Safari探险",

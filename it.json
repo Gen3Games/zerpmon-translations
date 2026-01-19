@@ -728,7 +728,8 @@
     "used-tower-rush-ticket": "Hai usato con successo un biglietto della torre.",
     "error-tower-rush-ticket": "Si è verificato un errore durante l'utilizzo di un biglietto per la corsa alla torre.",
     "extract-serum": "Hai estratto correttamente il siero {count} da {zerpmonname}",
-    "confirm-serum-extract": "Sei sicuro di voler reimpostare il tuo {zerpmonName} al livello 0 per il siero {serumQty}"
+    "confirm-serum-extract": "Sei sicuro di voler reimpostare il tuo {zerpmonName} al livello 0 per il siero {serumQty}",
+    "used-lure-new": "Incontrerai {lureType} Zerpmon per le prossime {cnt} partite"
   },
   "leaderboard-table": {
     "close": "Vicino",
