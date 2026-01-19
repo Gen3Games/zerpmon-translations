@@ -527,7 +527,8 @@
     "error-tower-rush-ticket": "Se produjo un error mientras usaba un boleto de torre.",
     "extract-serum": "Has extraído con éxito {count} suero de {zerpmonName}",
     "confirm-serum-extract": "¿Está seguro de que desea restablecer su {zerpmonName} al nivel 0 para el suero {serumQty}?",
-    "used-lure-new": "Te encontrarás con {lureType} Zerpmons en las próximas partidas de {cnt}"
+    "used-lure-new": "Te encontrarás con {lureType} Zerpmons en las próximas partidas de {cnt}",
+    "used-battle-pass": ""
   },
   "safari": {
     "title": "Safari",

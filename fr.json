@@ -615,7 +615,8 @@
     "error-tower-rush-ticket": "Une erreur s'est produite lors de l'utilisation d'un billet de pointe de la tour.",
     "extract-serum": "Vous avez réussi à extraire {count} sérum de {zerpmonname}",
     "confirm-serum-extract": "Êtes-vous sûr de vouloir réinitialiser votre {zerpmonName} au niveau 0 pour le sérum {serumQty} ?",
-    "used-lure-new": "Vous rencontrerez des Zerpmons {lureType} pour les prochains matchs de {cnt}"
+    "used-lure-new": "Vous rencontrerez des Zerpmons {lureType} pour les prochains matchs de {cnt}",
+    "used-battle-pass": ""
   },
   "leaderboard-table": {
     "close": "Fermer",

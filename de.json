@@ -527,7 +527,8 @@
     "error-tower-rush-ticket": "Bei der Verwendung eines Turm -Rushtickets trat ein Fehler auf.",
     "extract-serum": "Sie haben erfolgreich {count} Serum aus {zerpmonName} extrahiert",
     "confirm-serum-extract": "Sind Sie sicher, dass Sie Ihr {zerpmonName} für {serumQty} Serum auf Stufe 0 zurücksetzen möchten?",
-    "used-lure-new": "In den nächsten {cnt}-Matches werden Sie auf Zerpmons vom Typ {lureType} stoßen"
+    "used-lure-new": "In den nächsten {cnt}-Matches werden Sie auf Zerpmons vom Typ {lureType} stoßen",
+    "used-battle-pass": ""
   },
   "safari": {
     "title": "Safari",

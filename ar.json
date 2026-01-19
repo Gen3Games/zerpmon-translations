@@ -752,7 +752,8 @@
     "error-tower-rush-ticket": "حدث خطأ أثناء استخدام تذكرة برج الذروة.",
     "extract-serum": "لقد نجحت في استخراج {count} مصل من {zerpmonName}",
     "confirm-serum-extract": "هل أنت متأكد أنك تريد إعادة تعيين {zerpmonName} إلى المستوى 0 لمصل {serumQty}.",
-    "used-lure-new": "سوف تواجه {lureType} Zerpmons في مباريات {cnt} التالية"
+    "used-lure-new": "سوف تواجه {lureType} Zerpmons في مباريات {cnt} التالية",
+    "used-battle-pass": ""
   },
   "leaderboard-table": {
     "close": "يغلق",

@@ -729,7 +729,8 @@
     "error-tower-rush-ticket": "टॉवर रश टिकट का उपयोग करते समय एक त्रुटि हुई।",
     "extract-serum": "आपने {zerpmonName} से {count} सीरम सफलतापूर्वक निकाल लिया है",
     "confirm-serum-extract": "क्या आप वाकई अपने {zerpmonName} को {serumQty} सीरम के लिए लेवल 0 पर रीसेट करना चाहते हैं",
-    "used-lure-new": "आपको अगले {cnt} मैचों के लिए {lureType} Zerpmons का सामना करना पड़ेगा"
+    "used-lure-new": "आपको अगले {cnt} मैचों के लिए {lureType} Zerpmons का सामना करना पड़ेगा",
+    "used-battle-pass": ""
   },
   "leaderboard-table": {
     "close": "बंद करना",
