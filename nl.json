@@ -561,7 +561,8 @@
     "no-battle-zones-found": "",
     "do-not-own-battle-zone": "",
     "battle-zone-type-invalid": "",
-    "battle-zone-card": ""
+    "battle-zone-card": "",
+    "favourite-card": "Favoriete kaart"
   },
   "edit-profile": {
     "basic-info": "Basis informatie",

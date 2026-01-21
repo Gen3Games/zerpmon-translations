@@ -296,7 +296,8 @@
     "no-battle-zones-found": "No Battle Zone found",
     "do-not-own-battle-zone": "Battle Zone missing",
     "battle-zone-type-invalid": "Battle Zone type mismatch with Trainer",
-    "battle-zone-card": "Battle Zone Card"
+    "battle-zone-card": "Battle Zone Card",
+    "favourite-card": "Favourite Card"
   },
   "store": {
     "title": "Store",

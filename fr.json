@@ -476,7 +476,8 @@
     "no-battle-zones-found": "",
     "do-not-own-battle-zone": "",
     "battle-zone-type-invalid": "",
-    "battle-zone-card": ""
+    "battle-zone-card": "",
+    "favourite-card": "Carte préférée"
   },
   "edit-profile": {
     "basic-info": "Informations de base",

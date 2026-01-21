@@ -296,7 +296,8 @@
     "no-battle-zones-found": "",
     "do-not-own-battle-zone": "",
     "battle-zone-type-invalid": "",
-    "battle-zone-card": ""
+    "battle-zone-card": "",
+    "favourite-card": "お気に入りのカード"
   },
   "store": {
     "title": "ショップ",
