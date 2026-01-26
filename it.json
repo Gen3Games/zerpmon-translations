@@ -731,7 +731,8 @@
     "extract-serum": "Hai estratto correttamente il siero {count} da {zerpmonname}",
     "confirm-serum-extract": "Sei sicuro di voler reimpostare il tuo {zerpmonName} al livello 0 per il siero {serumQty}",
     "used-lure-new": "Incontrerai {lureType} Zerpmon per le prossime {cnt} partite",
-    "used-battle-pass": ""
+    "used-battle-pass": "",
+    "confirm-use-serum": "Sei sicuro di voler utilizzare {inventoryItem} su {nft}? \nQuesto ti costerà {qtà} siero."
   },
   "leaderboard-table": {
     "close": "Vicino",

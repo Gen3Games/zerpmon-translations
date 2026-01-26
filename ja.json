@@ -529,7 +529,8 @@
     "extract-serum": "{zerpmonname}から{count}血清を正常に抽出しました",
     "confirm-serum-extract": "{zerpmonName} を {serumQty} 血清のレベル 0 にリセットしてもよろしいですか?",
     "used-lure-new": "次の {cnt} マッチでは {lureType} ゼルモンに遭遇します",
-    "used-battle-pass": ""
+    "used-battle-pass": "",
+    "confirm-use-serum": "{nft} で {inventoryItem} を使用してもよろしいですか?\nこれには {qty} 個の血清がかかります。"
   },
   "safari": {
     "title": "サファリ",

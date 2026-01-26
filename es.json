@@ -529,7 +529,8 @@
     "extract-serum": "Has extraído con éxito {count} suero de {zerpmonName}",
     "confirm-serum-extract": "¿Está seguro de que desea restablecer su {zerpmonName} al nivel 0 para el suero {serumQty}?",
     "used-lure-new": "Te encontrarás con {lureType} Zerpmons en las próximas partidas de {cnt}",
-    "used-battle-pass": ""
+    "used-battle-pass": "",
+    "confirm-use-serum": "¿Está seguro de que desea utilizar {inventoryItem} en {nft}? \nEsto le costará {cantidad} de suero."
   },
   "safari": {
     "title": "Safari",

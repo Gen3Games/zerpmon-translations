@@ -754,7 +754,8 @@
     "extract-serum": "لقد نجحت في استخراج {count} مصل من {zerpmonName}",
     "confirm-serum-extract": "هل أنت متأكد أنك تريد إعادة تعيين {zerpmonName} إلى المستوى 0 لمصل {serumQty}.",
     "used-lure-new": "سوف تواجه {lureType} Zerpmons في مباريات {cnt} التالية",
-    "used-battle-pass": ""
+    "used-battle-pass": "",
+    "confirm-use-serum": "هل أنت متأكد أنك تريد استخدام {inventoryItem} على {nft}؟ \nسيكلفك هذا {الكمية} من المصل."
   },
   "leaderboard-table": {
     "close": "يغلق",

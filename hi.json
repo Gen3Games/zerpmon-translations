@@ -731,7 +731,8 @@
     "extract-serum": "आपने {zerpmonName} से {count} सीरम सफलतापूर्वक निकाल लिया है",
     "confirm-serum-extract": "क्या आप वाकई अपने {zerpmonName} को {serumQty} सीरम के लिए लेवल 0 पर रीसेट करना चाहते हैं",
     "used-lure-new": "आपको अगले {cnt} मैचों के लिए {lureType} Zerpmons का सामना करना पड़ेगा",
-    "used-battle-pass": ""
+    "used-battle-pass": "",
+    "confirm-use-serum": "क्या आप वाकई {nft} पर {inventoryItem} का उपयोग करना चाहते हैं? \nइससे आपको {मात्रा में} सीरम का खर्च आएगा।"
   },
   "leaderboard-table": {
     "close": "बंद करना",

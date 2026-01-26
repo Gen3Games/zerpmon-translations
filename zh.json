@@ -529,7 +529,8 @@
     "extract-serum": "",
     "confirm-serum-extract": "",
     "used-lure-new": "",
-    "used-battle-pass": ""
+    "used-battle-pass": "",
+    "confirm-use-serum": "您确定要在 {nft} 上使用 {inventoryItem} 吗？\n这将花费您 {qty} 血清。"
   },
   "safari": {
     "title": "Safari探险",

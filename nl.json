@@ -731,7 +731,8 @@
     "extract-serum": "",
     "confirm-serum-extract": "",
     "used-lure-new": "",
-    "used-battle-pass": ""
+    "used-battle-pass": "",
+    "confirm-use-serum": "Weet u zeker dat u {inventoryItem} op {nft} wilt gebruiken? \nDit kost u {aantal} serum."
   },
   "leaderboard-table": {
     "close": "Dichtbij",
