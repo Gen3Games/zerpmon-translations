@@ -341,7 +341,12 @@
     "claim-zmc-token-msg": "您想声称自己的Zerpmon进化吗？\n您的ZERP水晶在路上，最多可能需要30秒。",
     "confirm-trainer-type-change": "",
     "payment-battlezone-shards": "此操作将消耗您的{shards}",
-    "battle-zone-shards-low": "战区碎片即将耗尽"
+    "battle-zone-shards-low": "战区碎片即将耗尽",
+    "trn-nft-transfer": "",
+    "travellers-store": "",
+    "security-card-missing": "",
+    "trn-api-not-available": "",
+    "fp-data-missing": ""
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

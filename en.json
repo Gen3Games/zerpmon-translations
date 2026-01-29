@@ -341,7 +341,12 @@
     "claim-zmc-token-msg": "Would you like to claim your Zerpmon Evolved? Your Zerp Crystal is on it's way and may take up to 30 seconds.",
     "confirm-trainer-type-change": "Are you sure you want to use {newType} for {trainer} ?",
     "payment-battlezone-shards": "This action will consume your {shards}",
-    "battle-zone-shards-low": "Running low on Battle Zone Shards"
+    "battle-zone-shards-low": "Running low on Battle Zone Shards",
+    "trn-nft-transfer": "Transfer your NFTs to Traveller's store wallet ({names})",
+    "travellers-store": "Traveller's Store",
+    "security-card-missing": "Security cards missing",
+    "trn-api-not-available": "TRN Api unavailable",
+    "fp-data-missing": "FuturePass data not found, please try connecting your FuturePass wallet."
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",

@@ -341,7 +341,12 @@
     "claim-zmc-token-msg": "Möchten Sie behaupten, Ihr Zerpmon hat sich weiterentwickelt? \nIhr Zerp -Kristall ist auf dem Weg und kann bis zu 30 Sekunden dauern.",
     "confirm-trainer-type-change": "",
     "payment-battlezone-shards": "Diese Aktion verbraucht Ihre {Shards}",
-    "battle-zone-shards-low": "Die Battle Zone Shards gehen zur Neige"
+    "battle-zone-shards-low": "Die Battle Zone Shards gehen zur Neige",
+    "trn-nft-transfer": "",
+    "travellers-store": "",
+    "security-card-missing": "",
+    "trn-api-not-available": "",
+    "fp-data-missing": ""
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",

@@ -341,7 +341,12 @@
     "claim-zmc-token-msg": "あなたのZerpmonが進化したと主張しますか？\nあなたのZERPクリスタルはその道を進んでおり、最大30秒かかる場合があります。",
     "confirm-trainer-type-change": "",
     "payment-battlezone-shards": "このアクションにより、{shards} が消費されます",
-    "battle-zone-shards-low": "バトルゾーンのシャードが不足しています"
+    "battle-zone-shards-low": "バトルゾーンのシャードが不足しています",
+    "trn-nft-transfer": "",
+    "travellers-store": "",
+    "security-card-missing": "",
+    "trn-api-not-available": "",
+    "fp-data-missing": ""
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",

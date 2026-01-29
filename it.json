@@ -1185,7 +1185,12 @@
     "claim-zmc-token-msg": "Vorresti rivendicare il tuo Zerpmon evoluto? \nIl tuo cristallo Zerp è in arrivo e potrebbe richiedere fino a 30 secondi.",
     "confirm-trainer-type-change": "",
     "payment-battlezone-shards": "Questa azione consumerà i tuoi {shards}",
-    "battle-zone-shards-low": "Sono a corto di frammenti della Zona di battaglia"
+    "battle-zone-shards-low": "Sono a corto di frammenti della Zona di battaglia",
+    "trn-nft-transfer": "",
+    "travellers-store": "",
+    "security-card-missing": "",
+    "trn-api-not-available": "",
+    "fp-data-missing": ""
   },
   "test": {
     "test": "questa è una prova"

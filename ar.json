@@ -1256,7 +1256,12 @@
     "claim-zmc-token-msg": "هل ترغب في المطالبة بتطور Zerpmon الخاص بك؟ \nبلورة Zerp الخاصة بك في طريقها وقد تستغرق ما يصل إلى 30 ثانية.",
     "confirm-trainer-type-change": "",
     "payment-battlezone-shards": "سوف يستهلك هذا الإجراء {shards} الخاصة بك",
-    "battle-zone-shards-low": "على وشك النفاد في Battle Zone Shards"
+    "battle-zone-shards-low": "على وشك النفاد في Battle Zone Shards",
+    "trn-nft-transfer": "",
+    "travellers-store": "",
+    "security-card-missing": "",
+    "trn-api-not-available": "",
+    "fp-data-missing": ""
   },
   "terms-of-service": {
     "account-registration": "تسجيل الحساب",
