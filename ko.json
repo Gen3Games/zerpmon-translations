@@ -833,7 +833,14 @@
     "coin-flip": "",
     "mission-xp-multiplier": "",
     "battle-zones-not-allowed": "",
-    "potential-xp": ""
+    "potential-xp": "",
+    "crit-aura-effect": "",
+    "pierce-aura-effect": "",
+    "star-inc-aura-effect": "",
+    "star-dec-aura-effect": "",
+    "white-dmg-inc-aura-effect": "",
+    "gold-dmg-inc-aura-effect": "",
+    "two-attempt-aura-effect": ""
   },
   "test": {
     "test": "테스트입니다."

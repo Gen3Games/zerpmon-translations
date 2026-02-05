@@ -833,7 +833,14 @@
     "coin-flip": "COIN FLIP!",
     "mission-xp-multiplier": "XP Multiplier - {value}x",
     "battle-zones-not-allowed": "Battle Zones are not allowed",
-    "potential-xp": "Potential XP - {value}"
+    "potential-xp": "Potential XP - {value}",
+    "crit-aura-effect": "{zerpmonName}'s Crit chance is increased by {change}%",
+    "pierce-aura-effect": "{zerpmonName}'s Pierce chance is increased by {change}%",
+    "star-inc-aura-effect": "{zerpmonName}'s Purple Abilities are increased by {change} star",
+    "star-dec-aura-effect": "{zerpmonName}'s Purple Abilities are reduced by {change} star",
+    "white-dmg-inc-aura-effect": "{opponent}'s White Attacks are increased by {change} damage",
+    "gold-dmg-inc-aura-effect": "{opponent}'s Gold Attacks are increased by {change} damage",
+    "two-attempt-aura-effect": "{zerpmonName}'s chance to roll another move is increased by {change}%"
   },
   "test": {
     "test": "this is a test"
