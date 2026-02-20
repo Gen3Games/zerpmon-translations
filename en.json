@@ -840,7 +840,8 @@
     "star-dec-aura-effect": "{zerpmonName}'s Purple Abilities are reduced by {change} star",
     "white-dmg-inc-aura-effect": "{opponent}'s White Attacks are increased by {change} damage",
     "gold-dmg-inc-aura-effect": "{opponent}'s Gold Attacks are increased by {change} damage",
-    "two-attempt-aura-effect": "{zerpmonName}'s chance to roll another move is increased by {change}%"
+    "two-attempt-aura-effect": "{zerpmonName}'s chance to roll another move is increased by {change}%",
+    "potential-xrp": "Potential XRP - {value}"
   },
   "test": {
     "test": "this is a test"
