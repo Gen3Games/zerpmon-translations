@@ -1198,7 +1198,8 @@
     "travellers-store": "",
     "security-card-missing": "",
     "trn-api-not-available": "",
-    "fp-data-missing": ""
+    "fp-data-missing": "",
+    "conversion-store": "रूपांतरण स्टोर"
   },
   "test": {
     "test": "यह टेस्ट है"

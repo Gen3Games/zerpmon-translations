@@ -346,7 +346,8 @@
     "travellers-store": "",
     "security-card-missing": "",
     "trn-api-not-available": "",
-    "fp-data-missing": ""
+    "fp-data-missing": "",
+    "conversion-store": "Conversions Store"
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",

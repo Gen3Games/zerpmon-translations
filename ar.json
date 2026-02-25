@@ -1269,7 +1269,8 @@
     "travellers-store": "",
     "security-card-missing": "",
     "trn-api-not-available": "",
-    "fp-data-missing": ""
+    "fp-data-missing": "",
+    "conversion-store": "متجر التحويلات"
   },
   "terms-of-service": {
     "account-registration": "تسجيل الحساب",

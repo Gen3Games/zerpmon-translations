@@ -1198,7 +1198,8 @@
     "travellers-store": "",
     "security-card-missing": "",
     "trn-api-not-available": "",
-    "fp-data-missing": ""
+    "fp-data-missing": "",
+    "conversion-store": "Negozio di conversioni"
   },
   "test": {
     "test": "questa è una prova"

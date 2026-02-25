@@ -346,7 +346,8 @@
     "travellers-store": "",
     "security-card-missing": "",
     "trn-api-not-available": "",
-    "fp-data-missing": ""
+    "fp-data-missing": "",
+    "conversion-store": "转换商店"
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

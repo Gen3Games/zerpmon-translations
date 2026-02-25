@@ -1069,7 +1069,8 @@
     "travellers-store": "",
     "security-card-missing": "",
     "trn-api-not-available": "",
-    "fp-data-missing": ""
+    "fp-data-missing": "",
+    "conversion-store": "Magasin de conversions"
   },
   "test": {
     "test": "c'est un test"
