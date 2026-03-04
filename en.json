@@ -347,7 +347,7 @@
     "security-card-missing": "Security cards missing",
     "trn-api-not-available": "TRN Api unavailable",
     "fp-data-missing": "FuturePass data not found, please try connecting your FuturePass wallet.",
-    "conversion-store": "Overseer's Conversions Store"
+    "conversion-store": "Conversions Store"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",
