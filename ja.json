@@ -347,7 +347,8 @@
     "security-card-missing": "",
     "trn-api-not-available": "",
     "fp-data-missing": "",
-    "conversion-store": "コンバージョンストア"
+    "conversion-store": "コンバージョンストア",
+    "pay-listing-transaction": "NFTオファーに署名する"
   },
   "home": {
     "catch-your-zerpmon-now": "今すぐザープモンを捕まえよう！",

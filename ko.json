@@ -347,7 +347,8 @@
     "security-card-missing": "",
     "trn-api-not-available": "",
     "fp-data-missing": "",
-    "conversion-store": "전환 저장소"
+    "conversion-store": "전환 저장소",
+    "pay-listing-transaction": "NFT 제안에 서명"
   },
   "home": {
     "catch-your-zerpmon-now": "지금 당신의 Zerpmon을 잡아보세요!",

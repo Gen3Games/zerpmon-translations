@@ -347,7 +347,8 @@
     "security-card-missing": "",
     "trn-api-not-available": "",
     "fp-data-missing": "",
-    "conversion-store": "转换商店"
+    "conversion-store": "转换商店",
+    "pay-listing-transaction": "签署 NFT 优惠"
   },
   "home": {
     "catch-your-zerpmon-now": "立即捕捉您的Zerpmon！",

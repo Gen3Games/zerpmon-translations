@@ -1270,7 +1270,8 @@
     "security-card-missing": "",
     "trn-api-not-available": "",
     "fp-data-missing": "",
-    "conversion-store": "متجر التحويلات"
+    "conversion-store": "متجر التحويلات",
+    "pay-listing-transaction": "قم بالتوقيع على عرض NFT"
   },
   "terms-of-service": {
     "account-registration": "تسجيل الحساب",

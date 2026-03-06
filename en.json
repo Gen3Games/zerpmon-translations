@@ -347,7 +347,8 @@
     "security-card-missing": "Security cards missing",
     "trn-api-not-available": "TRN Api unavailable",
     "fp-data-missing": "FuturePass data not found, please try connecting your FuturePass wallet.",
-    "conversion-store": "Conversions Store"
+    "conversion-store": "Conversions Store",
+    "pay-listing-transaction": "Sign NFT offer"
   },
   "home": {
     "catch-your-zerpmon-now": "Catch Your Zerpmon Now!",

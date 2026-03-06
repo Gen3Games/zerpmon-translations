@@ -347,7 +347,8 @@
     "security-card-missing": "",
     "trn-api-not-available": "",
     "fp-data-missing": "",
-    "conversion-store": "Conversions Store"
+    "conversion-store": "Conversions Store",
+    "pay-listing-transaction": "NFT-Angebot unterzeichnen"
   },
   "home": {
     "catch-your-zerpmon-now": "Fange Dein Zerpmon jetzt!",

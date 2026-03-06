@@ -1199,7 +1199,8 @@
     "security-card-missing": "",
     "trn-api-not-available": "",
     "fp-data-missing": "",
-    "conversion-store": "Negozio di conversioni"
+    "conversion-store": "Negozio di conversioni",
+    "pay-listing-transaction": "Firma l'offerta NFT"
   },
   "test": {
     "test": "questa è una prova"

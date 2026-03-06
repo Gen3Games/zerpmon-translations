@@ -1070,7 +1070,8 @@
     "security-card-missing": "",
     "trn-api-not-available": "",
     "fp-data-missing": "",
-    "conversion-store": "Magasin de conversions"
+    "conversion-store": "Magasin de conversions",
+    "pay-listing-transaction": "Signer l'offre NFT"
   },
   "test": {
     "test": "c'est un test"

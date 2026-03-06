@@ -1199,7 +1199,8 @@
     "security-card-missing": "",
     "trn-api-not-available": "",
     "fp-data-missing": "",
-    "conversion-store": "रूपांतरण स्टोर"
+    "conversion-store": "रूपांतरण स्टोर",
+    "pay-listing-transaction": "एनएफटी प्रस्ताव पर हस्ताक्षर करें"
   },
   "test": {
     "test": "यह टेस्ट है"
