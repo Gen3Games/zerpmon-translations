@@ -1770,7 +1770,6 @@
     "how-many-refills": "Wie viele Nachfüllungen?",
     "select-refills-count": "Wählen Sie Nachfüllzählung",
     "xrp-mode": "XRP -Modus",
-    "xrp-mode-battle-count": "Battle Count?",
     "select-xrp-mission-count": "Wählen Sie XRP Mission Count",
     "select-deck": "Wählen Sie Deck",
     "use-gym-refill": "Verwenden Sie täglich Fitnessfundierung",
@@ -1797,6 +1796,9 @@
     "settings-updated": "Einstellungen aktualisiert",
     "battle-royale-description": "Dadurch wird der Spieler in alle laufenden einbezogen",
     "max-total-of-10-battles": "Maximal insgesamt 10 Schlachten pro Tag erlaubt",
-    "number-of-battles": "Anzahl der Schlachten"
+    "number-of-battles": "Anzahl der Schlachten",
+    "battle-count": "Anzahl der Schlachten?",
+    "xp-mode-normal": "XP-Modus (Normal)",
+    "xp-mode-hardcore": "XP-Modus (Normal)"
   }
 }

@@ -1770,7 +1770,6 @@
     "how-many-refills": "Hoeveel vullingen?",
     "select-refills-count": "Selecteer bijvullen tellen",
     "xrp-mode": "XRP -modus",
-    "xrp-mode-battle-count": "XRP -modus Battle Count?",
     "select-xrp-mission-count": "Selecteer XRP -missietelling",
     "select-deck": "Selecteer dek",
     "use-gym-refill": "Gebruik dagelijks de gymnebevulling",
@@ -1797,6 +1796,9 @@
     "settings-updated": "Instellingen bijgewerkt",
     "battle-royale-description": "Dit zal de speler binnenkomen in al het lopende",
     "max-total-of-10-battles": "Max totaal van 10 gevechten toegestaan ​​per dag",
-    "number-of-battles": "Aantal gevechten"
+    "number-of-battles": "Aantal gevechten",
+    "battle-count": "Gevechtstelling?",
+    "xp-mode-normal": "XP-modus (normaal)",
+    "xp-mode-hardcore": "XP-modus (normaal)"
   }
 }

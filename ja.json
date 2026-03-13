@@ -1770,7 +1770,6 @@
     "how-many-refills": "補充はいくつですか？",
     "select-refills-count": "補充カウントを選択します",
     "xrp-mode": "XRPモード",
-    "xrp-mode-battle-count": "XRPモードのバトルカウント？",
     "select-xrp-mission-count": "XRPミッションカウントを選択します",
     "select-deck": "デッキを選択します",
     "use-gym-refill": "ジムの補充を毎日使用してください",
@@ -1797,6 +1796,9 @@
     "settings-updated": "更新された設定",
     "battle-royale-description": "これにより、プレーヤーが進行中のすべてに入ります",
     "max-total-of-10-battles": "1日あたりの合計10バトルの最大",
-    "number-of-battles": "戦いの数"
+    "number-of-battles": "戦いの数",
+    "battle-count": "戦闘回数？",
+    "xp-mode-normal": "XPモード（ノーマル）",
+    "xp-mode-hardcore": "XPモード（ノーマル）"
   }
 }

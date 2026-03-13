@@ -1770,7 +1770,6 @@
     "how-many-refills": "कितने रिफिल?",
     "select-refills-count": "रिफिल काउंट का चयन करें",
     "xrp-mode": "XRP मोड",
-    "xrp-mode-battle-count": "XRP मोड बैटल काउंट?",
     "select-xrp-mission-count": "XRP मिशन काउंट का चयन करें",
     "select-deck": "डेक का चयन करें",
     "use-gym-refill": "दैनिक जिम रिफिल का उपयोग करें",
@@ -1797,6 +1796,9 @@
     "settings-updated": "अद्यतन की गई सेटिंग",
     "battle-royale-description": "यह खिलाड़ी को सभी चल रहे हैं",
     "max-total-of-10-battles": "अधिकतम कुल 10 लड़ाइयों की अनुमति प्रति दिन की अनुमति है",
-    "number-of-battles": "लड़ाइयों की संख्या"
+    "number-of-battles": "लड़ाइयों की संख्या",
+    "battle-count": "लड़ाई की गिनती?",
+    "xp-mode-normal": "एक्सपी मोड (सामान्य)",
+    "xp-mode-hardcore": "एक्सपी मोड (सामान्य)"
   }
 }

@@ -1770,7 +1770,6 @@
     "how-many-refills": "كم عدد العبوات؟",
     "select-refills-count": "حدد عبوات العد",
     "xrp-mode": "وضع XRP",
-    "xrp-mode-battle-count": "عدد معركة وضع XRP؟",
     "select-xrp-mission-count": "حدد عدد مهمة XRP",
     "select-deck": "حدد سطح السفينة",
     "use-gym-refill": "استخدم صالة الألعاب الرياضية يوميًا",
@@ -1797,6 +1796,9 @@
     "settings-updated": "الإعدادات تحديث",
     "battle-royale-description": "سيؤدي هذا إلى إدخال اللاعب في كل ما يستمر",
     "max-total-of-10-battles": "إجمالي 10 معارك مسموح بها يوميًا",
-    "number-of-battles": "عدد المعارك"
+    "number-of-battles": "عدد المعارك",
+    "battle-count": "عدد المعارك؟",
+    "xp-mode-normal": "وضع XP (عادي)",
+    "xp-mode-hardcore": "وضع XP (عادي)"
   }
 }

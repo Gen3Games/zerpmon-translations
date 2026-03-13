@@ -1770,7 +1770,6 @@
     "how-many-refills": "How many Refills?",
     "select-refills-count": "Select refills count",
     "xrp-mode": "XRP Mode",
-    "xrp-mode-battle-count": "XRP Mode battle count?",
     "select-xrp-mission-count": "Select XRP mission count",
     "select-deck": "Select deck",
     "use-gym-refill": "Use Gym Refill Daily",
@@ -1797,6 +1796,9 @@
     "settings-updated": "Settings Updated",
     "battle-royale-description": "This will enter the player into all the ongoing",
     "max-total-of-10-battles": "Max total of 10 battles allowed per day",
-    "number-of-battles": "Number of battles"
+    "number-of-battles": "Number of battles",
+    "battle-count": "Battle count ?",
+    "xp-mode-normal": "XP Mode (Normal)",
+    "xp-mode-hardcore": "XP Mode (Normal)"
   }
 }

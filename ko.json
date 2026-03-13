@@ -1770,7 +1770,6 @@
     "how-many-refills": "몇 개의 리필?",
     "select-refills-count": "리필 수를 선택하십시오",
     "xrp-mode": "XRP 모드",
-    "xrp-mode-battle-count": "XRP 모드 배틀 카운트?",
     "select-xrp-mission-count": "XRP 미션 카운트를 선택하십시오",
     "select-deck": "데크를 선택하십시오",
     "use-gym-refill": "매일 체육관 리필을 사용하십시오",
@@ -1797,6 +1796,9 @@
     "settings-updated": "설정이 업데이트되었습니다",
     "battle-royale-description": "이것은 플레이어가 진행중인 모든 것에 들어갑니다",
     "max-total-of-10-battles": "하루에 총 10 번의 전투가 허용됩니다",
-    "number-of-battles": "전투 수"
+    "number-of-battles": "전투 수",
+    "battle-count": "전투 횟수?",
+    "xp-mode-normal": "XP 모드(일반)",
+    "xp-mode-hardcore": "XP 모드(일반)"
   }
 }
