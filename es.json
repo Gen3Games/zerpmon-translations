@@ -398,7 +398,8 @@
     "search": "Buscar",
     "dropdown-tower-rush": "Fiebre de la torre",
     "tower-rush-non-holders": "Fiebre de la torre (No-Holders)",
-    "gym": "Gimnasia"
+    "gym": "Gimnasia",
+    "dropdown-ranked-battle-h": ""
   },
   "leaderboard-table": {
     "player": "Jugador",

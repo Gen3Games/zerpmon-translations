@@ -675,7 +675,8 @@
     "gym": "Salle de sport",
     "search": "Recherche",
     "title": "Classement",
-    "tower-rush-non-holders": "Tower Rush (non-détenteurs)"
+    "tower-rush-non-holders": "Tower Rush (non-détenteurs)",
+    "dropdown-ranked-battle-h": ""
   },
   "link-discord-crossmark": {
     "invalid-signature-error": "Vous avez envoyé une signature invalide, assurez-vous de le faire avec votre portefeuille Crossmark",

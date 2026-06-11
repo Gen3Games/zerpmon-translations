@@ -789,7 +789,8 @@
     "gym": "जिम",
     "search": "खोज",
     "title": "लीडरबोर्ड",
-    "tower-rush-non-holders": "टावर रश (गैर-धारक)"
+    "tower-rush-non-holders": "टावर रश (गैर-धारक)",
+    "dropdown-ranked-battle-h": ""
   },
   "link-discord-crossmark": {
     "invalid-signature-error": "आपने एक अमान्य हस्ताक्षर भेजा है, कृपया सुनिश्चित करें कि आप इसे अपने क्रॉसमार्क वॉलेट से करते हैं",

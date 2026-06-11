@@ -789,7 +789,8 @@
     "gym": "Sportschool",
     "search": "Zoekopdracht",
     "title": "Scorebord",
-    "tower-rush-non-holders": "Tower Rush (niet-houders)"
+    "tower-rush-non-holders": "Tower Rush (niet-houders)",
+    "dropdown-ranked-battle-h": ""
   },
   "link-discord-crossmark": {
     "invalid-signature-error": "U heeft een ongeldige handtekening verzonden. Zorg ervoor dat u dit doet met uw Crossmark-portemonnee",

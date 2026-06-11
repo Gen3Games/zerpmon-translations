@@ -398,7 +398,8 @@
     "search": "Search",
     "dropdown-tower-rush": "Tower Rush",
     "tower-rush-non-holders": "Tower Rush (Non-Holders)",
-    "gym": "Gym"
+    "gym": "Gym",
+    "dropdown-ranked-battle-h": "Ranked Battle (Hardcore)"
   },
   "leaderboard-table": {
     "player": "Player",
