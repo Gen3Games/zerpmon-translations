@@ -1533,7 +1533,9 @@
     "payment-tx-failed": "भुगतान लेनदेन विफल",
     "sign-with-xaman": "ज़मान के साथ हस्ताक्षर करें",
     "error-signer-not-found": "हस्ताक्षरकर्ता नहीं मिला",
-    "source": "स्रोत"
+    "source": "स्रोत",
+    "audd-balance": "",
+    "audd-trust-line": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "FuturePass लेनदेन तैयार करने में विफल",

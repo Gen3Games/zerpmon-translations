@@ -1533,7 +1533,9 @@
     "payment-tx-failed": "La transacción de pago falló",
     "sign-with-xaman": "firmar con xaman",
     "error-signer-not-found": "Firmante no encontrado",
-    "source": "Fuente"
+    "source": "Fuente",
+    "audd-balance": "",
+    "audd-trust-line": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "No se pudo preparar la transacción FuturePass",

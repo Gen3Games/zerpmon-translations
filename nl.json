@@ -1533,7 +1533,9 @@
     "payment-tx-failed": "Betalingstransactie mislukt",
     "sign-with-xaman": "Teken met Xaman",
     "error-signer-not-found": "Ondertekenaar niet gevonden",
-    "source": "Bron"
+    "source": "Bron",
+    "audd-balance": "",
+    "audd-trust-line": ""
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Kan FuturePass-transactie niet voorbereiden",

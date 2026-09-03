@@ -1533,7 +1533,9 @@
     "payment-tx-failed": "Payment Transaction Failed",
     "sign-with-xaman": "Sign With Xaman",
     "error-signer-not-found": "Signer not found",
-    "source": "Source"
+    "source": "Source",
+    "audd-balance": "AUDD Balance",
+    "audd-trust-line": "AUDD TrustLine"
   },
   "pre-signing": {
     "failed-prepare-futurepass-extrinsic": "Failed to prepare FuturePass transaction",

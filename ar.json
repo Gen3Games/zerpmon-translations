@@ -1509,7 +1509,9 @@
     "payment-tx-failed": "فشلت معاملة الدفع",
     "sign-with-xaman": "وقع مع Xaman",
     "error-signer-not-found": "الموقع غير موجود",
-    "source": "مصدر"
+    "source": "مصدر",
+    "audd-balance": "",
+    "audd-trust-line": ""
   },
   "world-boss": {
     "battle": "معركة",
