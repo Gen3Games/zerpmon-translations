@@ -405,7 +405,9 @@
     "zerpmon-ready-to-battle": "",
     "zerpmon-resting": "",
     "zerpmon-slot": "",
-    "zrp": ""
+    "zrp": "",
+    "demigod-ko-msg": "",
+    "demigod-wb-dmg-msg": ""
   },
   "buy-zerpmon": {
     "already-bought": "",

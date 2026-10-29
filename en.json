@@ -844,7 +844,9 @@
     "white-dmg-inc-aura-effect": "{opponent}'s White Attacks are increased by {change} damage",
     "gold-dmg-inc-aura-effect": "{opponent}'s Gold Attacks are increased by {change} damage",
     "two-attempt-aura-effect": "{zerpmonName}'s chance to roll another move is increased by {change}%",
-    "potential-xrp": "Potential XRP - {value}"
+    "potential-xrp": "Potential XRP - {value}",
+    "demigod-ko-msg": "{demigodName} unleashes a laserbeam of death, instantly vaporising {zerpmonName}!",
+    "demigod-wb-dmg-msg": "{demigodName} unleashes a laserbeam of death, 250 damage to world boss!"
   },
   "test": {
     "test": "this is a test"
